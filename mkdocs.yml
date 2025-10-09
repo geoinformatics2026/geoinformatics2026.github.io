@@ -1,0 +1,38 @@
+site_name: GeoInformatics 2026
+docs_dir: markdown
+site_dir: docs
+base_url: https://geoinformatics-2026.netlify.app/
+
+theme:
+  name: null
+  custom_dir: 'bulma/'
+  # 404 page
+  static_templates:
+    - 404.html
+
+extra_css:
+  - css/nord_colors.css
+  - css/colours.css
+  - css/bulma-carousel.css
+#  - css/bulma-carousel-config.css
+extra_javascript:
+  - js/bulma-carousel.js
+#  - js/bulma-carousel-script.js
+
+#plugins:
+#  - landing-preset:
+#      name: catppuccin
+
+
+nav:
+- Home: index.md
+- About: About.md
+- Participation: Participation.md
+- Programme: Programme.md
+- The Place: Venue.md
+
+watch:
+  - bulma
+
+#exclude_docs: |
+#  index.md
