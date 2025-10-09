@@ -24,7 +24,6 @@ The main color scheme follows the [Nord theme](https://www.nordtheme.com/) for b
 
 ## Host
 
-Currently host on Github pages as a project (here): https://github.com/wcchin/geoinformatic2026
+Currently host on Github pages (here): [https://github.com/wcchin/geoinformatic2026](https://geoinformatics2026.github.io/)
 
-And deploy on Netlify (autodeploy from Github): https://geoinformatics-2026.netlify.app/
 
