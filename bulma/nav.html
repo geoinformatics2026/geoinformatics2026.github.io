@@ -1,0 +1,38 @@
+
+      <div class="container">
+        <div class="navbar-brand">
+          <a class="navbar-item" href="{{ base_url }}">
+            <img src="{{ "img/cpgis-logo.png"|url }}" alt="CPGIS logo" style="width:150px; height:auto; max-height:100px;">
+          </a>
+          <a role="button" class="navbar-burger" data-target="navbarMenuHeroA" aria-label="menu" aria-expanded="false">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+          </a>
+        </div>
+        <div id="navbarMenuHeroA" class="navbar-menu">
+          <div class="navbar-end">
+
+            {% for nav_item in nav %}
+            {% if not nav_item.children %}
+            <a class="navbar-item is-size-4" href="{{ nav_item.url|url }}">{{ nav_item.title }}</a>
+            {% else %}
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link is-size-4">
+                {{ nav_item.title }}
+                </a>
+                <div class="navbar-dropdown">
+                {% for nav in nav_item.children %}
+                <a class="navbar-item is-size-5">
+                    {{ nav.title }}
+                </a>
+                {% endfor %}
+                </div>
+            </div>
+            {% endif %}
+
+            {% endfor %}
+          </div>
+        </div>
+      </div>

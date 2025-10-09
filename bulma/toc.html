@@ -1,0 +1,20 @@
+ 
+{% if page.toc | length > 1 %}
+<div class="box">
+<aside class="menu">
+  <ul class="menu-list">
+  {% for toc_item in page.toc %}
+    {% if not toc_item.children %}
+      <li><a href="{{ toc_item.url }}" class="toc-item is-size-3">{{ toc_item.title }}</a></li>
+    {% else %}
+      <a class="toc-item is-size-3">{{ toc_item.title }}</a>
+      <ul>
+      {% for toc_item2 in toc_item.children %}
+          <li><a href="{{ toc_item2.url }}" class="toc-item is-size-4">&nbsp;&nbsp;&nbsp;&nbsp;{{ toc_item2.title }}</a></li>
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+  </ul>
+</aside>
+</div>
+{% endif %}

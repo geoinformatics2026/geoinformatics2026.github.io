@@ -1,0 +1,130 @@
+
+:root {
+
+    --bulma-primary: var(--nord8-frost-ice);
+    --bulma-primary-rgb: 136, 192, 208;
+    --bulma-primary-h: 193deg;
+    --bulma-primary-s: 42%;
+    --bulma-primary-l: 67%;
+    --bulma-primary-invert: var(--nord0-night);
+
+    --bulma-info: var(--nord9-frost-artic);
+    --bulma-info-rgb: 129, 161, 193;
+    --bulma-info-h: 210deg;
+    --bulma-info-s: 34%;
+    --bulma-info-l: 63%;
+    --bulma-info-invert: var(--nord0-night);
+
+    --bulma-success: var(--nord14-aurora-green);
+    --bulma-success-rgb: 163, 190, 140;
+    --bulma-success-h: 92deg;
+    --bulma-success-s: 28%;
+    --bulma-success-l: 65%;
+    --bulma-success-invert: var(--nord0-night);
+
+    --bulma-warning: var(--nord13-aurora-yellow);
+    --bulma-warning-rgb: 235, 203, 139;
+    --bulma-warning-h: 40deg;
+    --bulma-warning-s: 71%;
+    --bulma-warning-l: 73%;
+    --bulma-warning-invert: var(--nord0-night);
+
+    --bulma-danger: var(--nord11-aurora-red);
+    --bulma-danger-rgb: 191, 97, 106;
+    --bulma-danger-h: 354deg;
+    --bulma-danger-s: 42%;
+    --bulma-danger-l: 56%;
+    --bulma-danger-invert: var(--nord0-night);
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --bulma-link-text: var(--nord10-frost-ocean);
+
+    --bulma-body-background: var(--nord6-snow);
+    --bulma-scheme-main: var(--nord6-snow);
+    --bulma-scheme-main-bis: var(--nord6-snow);
+    --bulma-navbar-background-color: var(--nord6-snow);
+    --bulma-border: var(--nord5-snow);
+    --bulma-background: var(--nord6-snow);
+    --bulma-box-background-color: #ffffff;
+
+    --bulma-text-rgb: var(--nord2-night);
+    --bulma-text-strong: var(--nord2-night);
+
+    --bulma-text-h: 220deg;
+    --bulma-text-s: 17%;
+    --bulma-text-l: 32%;
+    --bulma-text-invert: var(--nord6-snow);
+  }
+  .box {
+     background-color: #ffffff;
+  }
+  .menu-list .menu-item, .menu-list a, .menu-list button {
+     background-color: #ffffff;
+  }
+  .has-background-dark {
+     background-color: var(--nord3-night) !important;
+  }
+  .has-text-white {
+     color: var(--nord6-snow) !important;
+  }
+  .has-background-dark:hover {
+     background-color: var(--nord1-night) !important;
+  }
+  a:hover {
+    text-decoration: underline;
+    color: var(--nord0-night);
+  }
+  /*
+  a.navbar-item:hover {
+     --bulma-navbar-item-background-a: .4;
+  }
+  .navbar-link, a.navbar-item {
+     background-color: hsl(from var(--nord1-night) h s l / 0%);
+     --bulma-navbar-item-background-a: 1.;
+  }*/
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bulma-link-text: var(--nord8-frost-ice);
+
+    --bulma-background: #242933;
+    --bulma-box-background-color: var(--nord0-night);
+    --bulma-body-background: var(--nord0-night);
+    --bulma-scheme-main: #242933;
+    --bulma-scheme-main-bis: #242933;
+    --bulma-navbar-background-color: var(--nord0-night);
+    --bulma-border: var(--nord1-night);
+
+    --bulma-text-rgb: var(--nord6-snow);
+    --bulma-text-strong: var(--nord6-snow);
+
+    --bulma-text-h: 218deg;
+    --bulma-text-s: 27%;
+    --bulma-text-l: 94%;
+    --bulma-text-invert: var(--nord1-night);
+  }
+  .box {
+     background-color: var(--nord0-night);
+  }
+  .menu-list .menu-item, .menu-list a, .menu-list button {
+     background-color: var(--nord0-night);
+  }
+  .has-background-dark {
+     background-color: var(--nord0-night) !important;
+  }
+  .has-text-white {
+     color: var(--nord4-snow) !important;
+  }
+  .has-background-dark:hover {
+     background-color: var(--nord3-night) !important;
+  }
+  a:hover {
+    text-decoration: underline;
+    color: var(--nord6-snow);
+  }
+}
+
+
