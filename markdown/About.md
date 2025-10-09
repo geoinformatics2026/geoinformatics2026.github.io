@@ -45,7 +45,15 @@ Join **Geoinformatics 2026** to be a part of shaping a more sustainable and resi
 
 The International Conference on Geoinformatics is an official conference of the International Association of Chinese Professionals in Geographic Information Sciences (CPGIS) and has been held annually since 1992. It has attracted not only the CPGIS members but also researchers, professionals, and students from broad communities around the world.
 
-The International Association of Chinese Professionals in Geographic Information Sciences (CPGIS) aims at promoting: 1) the professional development of its members by fostering cooperation among its members and by maintaining a central point of reference and deliberation, 2) the exchange of ideas, knowledge, and scientific development in GIS and related sciences and technologies between Chinese GIS professionals abroad and those in China, 3) an efficient channel between its members and other GIS professionals, through which mutual understanding and cooperation can be enhanced, and 4) education of geographic information sciences at all levels around the world.
+The International Association of Chinese Professionals in Geographic Information Sciences (CPGIS) aims at promoting: 
+
+(1) the professional development of its members by fostering cooperation among its members and by maintaining a central point of reference and deliberation, 
+
+(2) the exchange of ideas, knowledge, and scientific development in GIS and related sciences and technologies between Chinese GIS professionals abroad and those in China, 
+
+(3) an efficient channel between its members and other GIS professionals, through which mutual understanding and cooperation can be enhanced, and 
+
+(4) education of geographic information sciences at all levels around the world.
 
 For more information about CPGIS, please visit https://www.cpgis.org/.
 
@@ -74,7 +82,7 @@ To be announced.
 
 ## Sponsors
 
-
+Please contact us.
 
 
 

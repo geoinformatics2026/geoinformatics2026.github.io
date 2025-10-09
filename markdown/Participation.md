@@ -28,7 +28,7 @@ Due: [TBC] early April 2026 *(AoE)*
 
 <hr class="mt-6 mb-6"/>
 
-# Call of Papers and Sessions
+# Call of Papers and Sessions (pending confirmation)
 ## Call for Sessions
 
 The call for session detail. 
@@ -38,7 +38,7 @@ The call for session detail.
 
 ## Call for Papers
 
-Authors can choose to submit either an extended abstract or a full paper (but not both) through EasyChair ([url](link)). Authors of accepted extended abstract or full paper will be invited to give oral or poster presentations at the conference. Acceptance priority will be given to submissions with concrete research results. Potential publication outlets include the following:
+Authors can choose to submit either an extended abstract or a full paper (but not both) through EasyChair ([url (open: Jan 2026)](link)). Authors of accepted extended abstract or full paper will be invited to give oral or poster presentations at the conference. Acceptance priority will be given to submissions with concrete research results. Potential publication outlets include the following:
 
 - Conference proceedings by IEEE (pending for approval)
 - Annal of GIS https://www.tandfonline.com/journals/tagi20 
@@ -55,7 +55,7 @@ Authors of full papers can choose to publish their papers in the Conference Proc
 
 A full paper for the Conference Proceedings must follow the format requirements of IEEE. Please use [the template of full paper](https://www.cpgis.org/Files/202202130425303765.dotx) for Conference Proceedings to prepare the submission. The length of such a full paper is 6-8 pages. It is highly recommended that the paper be proofread by an experienced English editor. Papers that do not meet the format and language requirements will not be further reviewed for content. 
 
-**Submissions link for full paper:** [Link](Link)
+**Submissions link for full paper:** [Link (open: Jan 2026)](Link)
 
 For accepted full papers, authors can choose whether they wanted to publish their full papers in the Conference Proceedings (IEEE Conference Proceedings) or NOT with the conference proceedings, but instead
 submit them to special issues of international journals associated with the conference. If an
@@ -81,7 +81,7 @@ that journal. Associated journals include:
 
 The length of an extended abstract is 800 – 1000 words in English. It is basically a shortened full paper and contains all major information about the research, particularly the objective, methodology, results, and conclusion. Please use [the template of extended abstract](https://www.cpgis.org/Files/202202121558434831.dotx) to prepare your submission. 
 
-**Submissions link for extended abstract:** [Link](Link)
+**Submissions link for extended abstract:** [Link (open: Jan 2026)](Link)
 
 
 
@@ -103,13 +103,13 @@ All fees listed below are in Singapore Dollars (SGD), GST exclusive.
 
 |              |                  | Early brid (SGD) | Regular (SGD) |
 | ------------ | ---------------- | ---------------- | ------------- |
-| Professional | CPGIS member     | 600              | 700           |
-| Professional | Non-member       | 700              | 800           |
-| Professional | 1-day pass       | 205              | 250           |
-| Student      | CPGIS member     | 250              | 350           |
-| Student      | Non-member       | 300              | 400           |
-| Student      | 1-day pass       | 150              | 200           |
-|              | Accompany person | 175              | 225           |
+| Professional | CPGIS member     | 650              | 750           |
+| Professional | Non-member       | 750              | 850           |
+| Professional | 1-day pass       | 250              | 300           |
+| Student      | CPGIS member     | 300              | 400           |
+| Student      | Non-member       | 350              | 450           |
+| Student      | 1-day pass       | 200              | 250           |
+|              | Accompany person | 200              | 250           |
 
 Note 1: All fees are subject to tax. All registrations include reception, coffee break, and conference package. CPGIS and non-CPGIS member registrations include conference dinner. The registrants under other categories will need to purchase tickets (SGD xxx [TBC]) for the conference dinner.
 
@@ -119,7 +119,7 @@ Note 3: **Registration Refund Policy**: Request for a refund must be received in
 
 
 
-[**Click here to register.**](#)
+[**Click here to register (Open: Early March 2026 ).**](#)
 
 
 
