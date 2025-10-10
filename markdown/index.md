@@ -15,8 +15,8 @@ template: index-hero.html
 
   <div class="level mt-6">
   <a class="button is-size-4 has-text-white has-background-dark" href="About/"><strong>Conference Theme</strong></a>
-  <a class="button is-size-4 has-text-white has-background-dark" href="Participation">Participation</a>
-  <a class="button is-size-4 has-text-white has-background-dark" href="Venue">About the place</a>
+  <a class="button is-size-4 has-text-white has-background-dark" href="Participation">Join us</a>
+  <a class="button is-size-4 has-text-white has-background-dark" href="Venue">The place</a>
   </div>
   </div>
 </div>
