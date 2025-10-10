@@ -14,7 +14,8 @@ UTown, National University of Singapore
 
 2 College Ave West, Singapore 138607
 
-Conference participants can travel to the venue via these options.
+<img src="/img/drawing_utown-2.png" />
+
 
 1. From Kent Ridge MRT Station, take NUS internal shuttle bus D2 (Provide a map or screenshot)
 2. From Clementi MRT Station, take bus service 96, 183, 189 ,196. (Provide a map)
@@ -24,6 +25,10 @@ Conference participants can travel to the venue via these options.
 
 
 ### Accomodation
+
+
+
+### Travel Visa
 
 
 

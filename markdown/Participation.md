@@ -21,7 +21,7 @@ Due: [TBC] early April 2026 *(AoE)*
 
 - Open: Early March 2026 
 - Early bird Registration: 17 April, 2026 (Friday)
-- Presenter Registration: 8 May, 2026* (Friday)
+- Presenter Registration: 8 May, 2026* (Friday)  
   *At least one presenter for each paper/abstract must register by this date.
 
 
@@ -58,11 +58,7 @@ For accepted full papers, authors can choose whether they wanted to publish thei
 submit them to special issues of international journals associated with the conference. If an
 author chooses to submit her/his paper to a journal, the paper must follow the format
 requirements of that particular journal and will go through the regular peer-review process of
-that journal. Associated journals include: 
-
-- Annal of GIS https://www.tandfonline.com/journals/tagi20 
-- Computational Urban Science https://link.springer.com/journal/43762  
-- Information Geography https://www.sciencedirect.com/journal/information-geography 
+that journal.
 
 *Important Notes*:
 
@@ -85,7 +81,7 @@ The length of an extended abstract is 800 – 1000 words in English. It is basic
 
 # Best student paper award
 
-[description on details]
+[Coming Soon]
 
 <hr class="mt-6 mb-6"/>
 

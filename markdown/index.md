@@ -14,7 +14,7 @@ template: index-hero.html
   <h3 class="title is-size-4 is-size-3-widescreen">19th - 22nd July, 2026 | UTown@NUS, Singapore</h3>
 
   <div class="level mt-6">
-  <a class="button is-size-4 has-text-white has-background-dark" href="About/"><strong>Theme</strong></a>
+  <a class="button is-size-4 has-text-white has-background-dark" href="About/#geo-innovations-for-a-sustainable-and-resilient-society"><strong>Theme</strong></a>
   <a class="button is-size-4 has-text-white has-background-dark" href="Participation">Join us</a>
   <a class="button is-size-4 has-text-white has-background-dark" href="Venue">The place</a>
   </div>
