@@ -2,7 +2,7 @@
 
 # Keynote Speakers
 
-To be confirmed
+[Coming Soon]
 
 
 
@@ -11,7 +11,7 @@ To be confirmed
 
 # Session Schedule
 
-(To be confirmed)
+[Tentative Plan]
 
 The following session time slots are 90-100 minutes long with 20-minute breaks. This schedule is subject to change.
 

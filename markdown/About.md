@@ -67,8 +67,6 @@ For more information about CPGIS, please visit [www.cpgis.org](https://www.cpgis
 
 ## GIS Unit, NUS
 
-(Copied and Modified from nusgis.org)
-
 The Geographic Information System (GIS) Unit's mission is to be a key node of geographical knowledge production and dissemination, through both teaching and research, within Asia and globally. The Geographic Information System (GIS) Unit of the department seeks to spearhead the use of GIS across the various research disciplines and reach beyond the research realm in order to shape the GIS ecosystem in the campus. This bold mission is achieved through multiple initiatives across research, teaching, administration, operations and enterprise in turn grow the community of Geo-professionals for the university and for the industry.
 
 
@@ -79,50 +77,77 @@ The Geographic Information System (GIS) Unit's mission is to be a key node of ge
 
 <div class="grid is-col-min-12 is-gap-2">
   <div class="cell"><div class="card"><div class="card-content">
-	<p class="title">Yan Yingwei</p>
-	<p class="subtitle">National University of Singapore (NUS)</p>
-  </div></div></div>
-  <div class="cell"><div class="card"><div class="card-content">
 	<p class="title">Alex R Cook</p>
-	<p class="subtitle">National University of Singapore (NUS)</p>
+	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
   </div></div></div>
   <div class="cell"><div class="card"><div class="card-content">
-	<p class="title">Kimberly Fornace</p>
-	<p class="subtitle">National University of Singapore (NUS)</p>
+	<p class="title">Benny Chin Wei Chien</p>
+	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
   </div></div></div>
   <div class="cell"><div class="card"><div class="card-content">
-	<p class="title">Li Haobin</p>
-	<p class="subtitle">National University of Singapore (NUS)</p>
+	<p class="title">Cong Gao</p>
+	<p class="subtitle">Nanyang Technological University (NTU), Singapore</p>
   </div></div></div>
   <div class="cell"><div class="card"><div class="card-content">
-	<p class="title">Shanshan Wei</p>
-	<p class="subtitle">National University of Singapore (NUS)</p>
+	<p class="title">Feng Chen-Chieh</p>
+	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
   </div></div></div>
   <div class="cell"><div class="card"><div class="card-content">
 	<p class="title">Filip Biljecki</p>
-	<p class="subtitle">National University of Singapore (NUS)</p>
+	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
   </div></div></div>
   <div class="cell"><div class="card"><div class="card-content">
-	<p class="title">Gao CONG</p>
-	<p class="subtitle">Nanyang Technological University (NTU)</p>
+	<p class="title">Kimberly Fornace</p>
+	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
   </div></div></div>
   <div class="cell"><div class="card"><div class="card-content">
-	<p class="title">Rui Zhu</p>
-	<p class="subtitle">Agency for Science, Technology and Research (A*STAR)</p>
+	<p class="title">Li Hao</p>
+	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
   </div></div></div>
   <div class="cell"><div class="card"><div class="card-content">
-	<p class="title">Qin Zheng</p>
-	<p class="subtitle">Agency for Science, Technology and Research (A*STAR)</p>
+	<p class="title">Li Haobin</p>
+	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
   </div></div></div>
   <div class="cell"><div class="card"><div class="card-content">
-	<p class="title">Yu Jianjun</p>
-	<p class="subtitle">Meteorological Service Singapore (MSS)</p>
+	<p class="title">Luo Wei</p>
+	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
   </div></div></div>
   <div class="cell"><div class="card"><div class="card-content">
 	<p class="title">Peng Pei</p>
-	<p class="subtitle">One GIS Pte Ltd</p>
+	<p class="subtitle">One GIS Pte Ltd, Singapore</p>
   </div></div></div>
-  
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">Qin Zheng</p>
+	<p class="subtitle">Agency for Science, Technology and Research (A*STAR), Singapore</p>
+  </div></div></div>
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">Rui Zhu</p>
+	<p class="subtitle">Agency for Science, Technology and Research (A*STAR), Singapore</p>
+  </div></div></div>
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">Tang Hao</p>
+	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
+  </div></div></div>
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">Taylor, David</p>
+	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
+  </div></div></div>
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">Wang Yi-Chen</p>
+	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
+  </div></div></div>
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">Wei Shanshan</p>
+	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
+  </div></div></div>
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">Yan Yingwei</p>
+	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
+  </div></div></div>
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">Yu Jianjun</p>
+	<p class="subtitle">Meteorological Service Singapore (MSS), Singapore</p>
+  </div></div></div>
 </div>
 
 
