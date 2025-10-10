@@ -27,7 +27,7 @@ We invite you to organize and get involved in organizing sessions, workshops, an
 
 
 
-Join **Geoinformatics 2026** to be a part of shaping a more sustainable and resilient future through innovative geoinformatics solutions. For more information about the conference, submissions, and registration, please see [Download the Call for Papers (pending confirmation)](#pdf)
+Join **Geoinformatics 2026** to be a part of shaping a more sustainable and resilient future through innovative geoinformatics solutions. For more information about the conference, submissions, and registration, please see [Download the Call for Papers (pending confirmation)](link_placeholder)
 
 
 
@@ -55,7 +55,7 @@ The International Association of Chinese Professionals in Geographic Information
 
 (4) education of geographic information sciences at all levels around the world.
 
-For more information about CPGIS, please visit https://www.cpgis.org/.
+For more information about CPGIS, please visit [www.cpgis.org](https://www.cpgis.org/).
 
 
 
@@ -67,81 +67,62 @@ For more information about CPGIS, please visit https://www.cpgis.org/.
 
 ## GIS Unit, NUS
 
+(Copied and Modified from nusgis.org)
 
+The Geographic Information System (GIS) Unit's mission is to be a key node of geographical knowledge production and dissemination, through both teaching and research, within Asia and globally. The Geographic Information System (GIS) Unit of the department seeks to spearhead the use of GIS across the various research disciplines and reach beyond the research realm in order to shape the GIS ecosystem in the campus. This bold mission is achieved through multiple initiatives across research, teaching, administration, operations and enterprise in turn grow the community of Geo-professionals for the university and for the industry.
 
 
 
 ## Local Committees
 
-To be announced.
+(To be populated.)
 
-<div class="list">
-  <div class="list-item">
-    <div class="list-item-content">
-      <div class="list-item-title">Yan Yingwei</div>
-      <div class="list-item-description">National University of Singapore</div>
-    </div>
-  </div>
-  <div class="list-item">
-    <div class="list-item-content">
-      <div class="list-item-title">Alex R Cook</div>
-      <div class="list-item-description">National University of Singapore</div>
-    </div>
-  </div>
-  <div class="list-item">
-    <div class="list-item-content">
-      <div class="list-item-title">Kimberly Fornace</div>
-      <div class="list-item-description">National University of Singapore</div>
-    </div>
-  </div>
-  <div class="list-item">
-    <div class="list-item-content">
-      <div class="list-item-title">Li Haobin</div>
-      <div class="list-item-description">National University of Singapore</div>
-    </div>
-  </div>
-  <div class="list-item">
-    <div class="list-item-content">
-      <div class="list-item-title">Shanshan Wei</div>
-      <div class="list-item-description">National University of Singapore</div>
-    </div>
-  </div>
-  <div class="list-item">
-    <div class="list-item-content">
-      <div class="list-item-title">Filip Biljecki</div>
-      <div class="list-item-description">National University of Singapore</div>
-    </div>
-  </div>
-  <div class="list-item">
-    <div class="list-item-content">
-      <div class="list-item-title">Gao CONG</div>
-      <div class="list-item-description">Nanyang Technological University</div>
-    </div>
-  </div>
-  <div class="list-item">
-    <div class="list-item-content">
-      <div class="list-item-title">Rui Zhu</div>
-      <div class="list-item-description">A*STAR</div>
-    </div>
-  </div>
-  <div class="list-item">
-    <div class="list-item-content">
-      <div class="list-item-title">Qin Zheng</div>
-      <div class="list-item-description">A*STAR</div>
-    </div>
-  </div>
-  <div class="list-item">
-    <div class="list-item-content">
-      <div class="list-item-title">Yu Jianjun</div>
-      <div class="list-item-description">Meteorological Service Singapore</div>
-    </div>
-  </div>
-  <div class="list-item">
-    <div class="list-item-content">
-      <div class="list-item-title">Peng Pei</div>
-      <div class="list-item-description">One GIS Pte Ltd</div>
-    </div>
-  </div>
+<div class="grid is-col-min-12">
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">Yan Yingwei</p>
+	<p class="subtitle">National University of Singapore (NUS)</p>
+  </div></div></div>
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">Alex R Cook</p>
+	<p class="subtitle">National University of Singapore (NUS)</p>
+  </div></div></div>
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">Kimberly Fornace</p>
+	<p class="subtitle">National University of Singapore (NUS)</p>
+  </div></div></div>
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">Li Haobin</p>
+	<p class="subtitle">National University of Singapore (NUS)</p>
+  </div></div></div>
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">Shanshan Wei</p>
+	<p class="subtitle">National University of Singapore (NUS)</p>
+  </div></div></div>
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">Filip Biljecki</p>
+	<p class="subtitle">National University of Singapore (NUS)</p>
+  </div></div></div>
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">Gao CONG</p>
+	<p class="subtitle">Nanyang Technological University (NTU)</p>
+  </div></div></div>
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">Rui Zhu</p>
+	<p class="subtitle">Agency for Science, Technology and Research (A*STAR)</p>
+  </div></div></div>
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">Qin Zheng</p>
+	<p class="subtitle">Agency for Science, Technology and Research (A*STAR)</p>
+  </div></div></div>
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">Yu Jianjun</p>
+	<p class="subtitle">Meteorological Service Singapore (MSS)</p>
+  </div></div></div>
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">Peng Pei</p>
+	<p class="subtitle">One GIS Pte Ltd</p>
+  </div></div></div>
+  
 </div>
 
 
