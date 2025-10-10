@@ -65,17 +65,84 @@ For more information about CPGIS, please visit https://www.cpgis.org/.
 
 # Organisation
 
-## GIS Unit, NUS (Organizer)
+## GIS Unit, NUS
 
 
 
 
 
-## Committees
+## Local Committees
 
 To be announced.
 
-
+<div class="list">
+  <div class="list-item">
+    <div class="list-item-content">
+      <div class="list-item-title">Yan Yingwei</div>
+      <div class="list-item-description">National University of Singapore</div>
+    </div>
+  </div>
+  <div class="list-item">
+    <div class="list-item-content">
+      <div class="list-item-title">Alex R Cook</div>
+      <div class="list-item-description">National University of Singapore</div>
+    </div>
+  </div>
+  <div class="list-item">
+    <div class="list-item-content">
+      <div class="list-item-title">Kimberly Fornace</div>
+      <div class="list-item-description">National University of Singapore</div>
+    </div>
+  </div>
+  <div class="list-item">
+    <div class="list-item-content">
+      <div class="list-item-title">Li Haobin</div>
+      <div class="list-item-description">National University of Singapore</div>
+    </div>
+  </div>
+  <div class="list-item">
+    <div class="list-item-content">
+      <div class="list-item-title">Shanshan Wei</div>
+      <div class="list-item-description">National University of Singapore</div>
+    </div>
+  </div>
+  <div class="list-item">
+    <div class="list-item-content">
+      <div class="list-item-title">Filip Biljecki</div>
+      <div class="list-item-description">National University of Singapore</div>
+    </div>
+  </div>
+  <div class="list-item">
+    <div class="list-item-content">
+      <div class="list-item-title">Gao CONG</div>
+      <div class="list-item-description">Nanyang Technological University</div>
+    </div>
+  </div>
+  <div class="list-item">
+    <div class="list-item-content">
+      <div class="list-item-title">Rui Zhu</div>
+      <div class="list-item-description">A*STAR</div>
+    </div>
+  </div>
+  <div class="list-item">
+    <div class="list-item-content">
+      <div class="list-item-title">Qin Zheng</div>
+      <div class="list-item-description">A*STAR</div>
+    </div>
+  </div>
+  <div class="list-item">
+    <div class="list-item-content">
+      <div class="list-item-title">Yu Jianjun</div>
+      <div class="list-item-description">Meteorological Service Singapore</div>
+    </div>
+  </div>
+  <div class="list-item">
+    <div class="list-item-content">
+      <div class="list-item-title">Peng Pei</div>
+      <div class="list-item-description">One GIS Pte Ltd</div>
+    </div>
+  </div>
+</div>
 
 
 
