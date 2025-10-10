@@ -8,7 +8,7 @@ The conference will take place at UTown, National University of Singapore.
 
 **Address** (add a map)
 
-<u>Stephen Riady Centre</u>
+<u>Stephen Riady Centre</u> [(map <span class="typcn typcn-location"></span>)](https://maps.app.goo.gl/ogqN3thEiQ7JnCKR9)
 
 UTown, National University of Singapore
 
