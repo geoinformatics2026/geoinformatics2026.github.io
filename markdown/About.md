@@ -27,7 +27,7 @@ We invite you to organize and get involved in organizing sessions, workshops, an
 
 
 
-Join **Geoinformatics 2026** to be a part of shaping a more sustainable and resilient future through innovative geoinformatics solutions. For more information about the conference, submissions, and registration, please see [Download the Call for Papers (pending confirmation)](link_placeholder)
+Join **Geoinformatics 2026** to be a part of shaping a more sustainable and resilient future through innovative geoinformatics solutions. <!--For more information about the conference, submissions, and registration, please see [Download the Call for Papers (pending confirmation)](link_placeholder)-->
 
 
 
@@ -77,19 +77,7 @@ The Geographic Information System (GIS) Unit's mission is to be a key node of ge
 
 <div class="grid is-col-min-12 is-gap-2">
   <div class="cell"><div class="card"><div class="card-content">
-	<p class="title">Alex R Cook</p>
-	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
-  </div></div></div>
-  <div class="cell"><div class="card"><div class="card-content">
-	<p class="title">Benny Chin Wei Chien</p>
-	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
-  </div></div></div>
-  <div class="cell"><div class="card"><div class="card-content">
-	<p class="title">Cong Gao</p>
-	<p class="subtitle">Nanyang Technological University (NTU), Singapore</p>
-  </div></div></div>
-  <div class="cell"><div class="card"><div class="card-content">
-	<p class="title">Feng Chen-Chieh</p>
+	<p class="title">Alex R. Cook</p>
 	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
   </div></div></div>
   <div class="cell"><div class="card"><div class="card-content">
@@ -97,56 +85,68 @@ The Geographic Information System (GIS) Unit's mission is to be a key node of ge
 	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
   </div></div></div>
   <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">Wei Chien Benny Chin </p>
+	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
+  </div></div></div>
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">Gao Cong</p>
+	<p class="subtitle">Nanyang Technological University (NTU), Singapore</p>
+  </div></div></div>
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">Chen-Chieh Feng</p>
+	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
+  </div></div></div>
+  <div class="cell"><div class="card"><div class="card-content">
 	<p class="title">Kimberly Fornace</p>
 	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
   </div></div></div>
   <div class="cell"><div class="card"><div class="card-content">
-	<p class="title">Li Hao</p>
+	<p class="title">Hao Li</p>
 	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
   </div></div></div>
   <div class="cell"><div class="card"><div class="card-content">
-	<p class="title">Li Haobin</p>
+	<p class="title">Haobin Li</p>
 	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
   </div></div></div>
   <div class="cell"><div class="card"><div class="card-content">
-	<p class="title">Luo Wei</p>
+	<p class="title">Wei Luo</p>
 	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
   </div></div></div>
   <div class="cell"><div class="card"><div class="card-content">
-	<p class="title">Peng Pei</p>
+	<p class="title">Pei Peng</p>
 	<p class="subtitle">One GIS Pte Ltd, Singapore</p>
   </div></div></div>
   <div class="cell"><div class="card"><div class="card-content">
-	<p class="title">Qin Zheng</p>
+	<p class="title">Zheng Qin</p>
 	<p class="subtitle">Agency for Science, Technology and Research (A*STAR), Singapore</p>
+  </div></div></div>
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">Hao Tang</p>
+	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
+  </div></div></div>
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">David Taylor</p>
+	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
+  </div></div></div>
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">Yi-Chen Wang</p>
+	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
+  </div></div></div>
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">Shanshan Wei</p>
+	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
+  </div></div></div>
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">Yingwei Yan</p>
+	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
+  </div></div></div>
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="title">Jianjun Yu</p>
+	<p class="subtitle">Meteorological Service Singapore (MSS), Singapore</p>
   </div></div></div>
   <div class="cell"><div class="card"><div class="card-content">
 	<p class="title">Rui Zhu</p>
 	<p class="subtitle">Agency for Science, Technology and Research (A*STAR), Singapore</p>
-  </div></div></div>
-  <div class="cell"><div class="card"><div class="card-content">
-	<p class="title">Tang Hao</p>
-	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
-  </div></div></div>
-  <div class="cell"><div class="card"><div class="card-content">
-	<p class="title">Taylor, David</p>
-	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
-  </div></div></div>
-  <div class="cell"><div class="card"><div class="card-content">
-	<p class="title">Wang Yi-Chen</p>
-	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
-  </div></div></div>
-  <div class="cell"><div class="card"><div class="card-content">
-	<p class="title">Wei Shanshan</p>
-	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
-  </div></div></div>
-  <div class="cell"><div class="card"><div class="card-content">
-	<p class="title">Yan Yingwei</p>
-	<p class="subtitle">National University of Singapore (NUS), Singapore</p>
-  </div></div></div>
-  <div class="cell"><div class="card"><div class="card-content">
-	<p class="title">Yu Jianjun</p>
-	<p class="subtitle">Meteorological Service Singapore (MSS), Singapore</p>
   </div></div></div>
 </div>
 
