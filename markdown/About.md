@@ -77,7 +77,7 @@ The Geographic Information System (GIS) Unit's mission is to be a key node of ge
 
 (To be populated.)
 
-<div class="grid is-col-min-12">
+<div class="grid is-col-min-12 is-gap-2">
   <div class="cell"><div class="card"><div class="card-content">
 	<p class="title">Yan Yingwei</p>
 	<p class="subtitle">National University of Singapore (NUS)</p>
