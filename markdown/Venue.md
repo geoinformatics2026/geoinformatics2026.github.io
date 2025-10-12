@@ -1,8 +1,5 @@
  
-
-## Location and activity
-
-### UTown, NUS, Singapore
+## UTown, NUS, Singapore
 
 The conference will take place at UTown, National University of Singapore.
 
@@ -24,16 +21,16 @@ UTown, National University of Singapore
 
 
 
-### Accomodation
+## Accomodation
 
 
 
-### Travel Visa
+## Travel Visa
 
 
 
 
-### Singapore, landscape, demography
+## Singapore, landscape, demography
 
-### Attraction, visiting POI, events (NDP?)
+## Attraction, visiting POI, events
 
