@@ -551,8 +551,8 @@ For more information about GIS Unit, please visit [www.nusgis.org](https://www.n
   </div></div></div>
 </div></div>
 
-	
-	
+​	
+​	
 
 ## Publication Committee
 
@@ -579,7 +579,7 @@ For more information about GIS Unit, please visit [www.nusgis.org](https://www.n
 
 ## Sponsors
 
-Please contact us.
+Please contact us. See [Sponsor page](/Sponsor/) for details
 
 
 
