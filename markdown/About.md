@@ -400,7 +400,7 @@ For more information about GIS Unit, please visit [www.nusgis.org](https://www.n
 ### Members
 (listed in alphabetical order)
 
-<div class="grid is-col-min-7">
+<div class="grid is-col-min-7">  
   <div class="cell"><div class="card"><div class="card-content">
 	<p class="is-primary is-size-5 mb-1 has-text-weight-bold">Luc Anselin</p>
 	<p class="is-secondary is-size-6">University of Chicago, USA</p>
@@ -478,14 +478,16 @@ For more information about GIS Unit, please visit [www.nusgis.org](https://www.n
 	<p class="is-secondary is-size-6">Nanjing University </p>
   </div></div></div>
   <div class="cell"><div class="card"><div class="card-content">
-	<p class="is-primary is-size-5 mb-1 has-text-weight-bold">Qingquan Li
-Jiancheng Li</p>
-	<p class="is-secondary is-size-6">Shenzhen University, China
-Central South University</p>
+	<p class="is-primary is-size-5 mb-1 has-text-weight-bold">Jiancheng Li</p>
+	<p class="is-secondary is-size-6"> Central South University</p>
   </div></div></div>
   <div class="cell"><div class="card"><div class="card-content">
 	<p class="is-primary is-size-5 mb-1 has-text-weight-bold">Xia Li</p>
 	<p class="is-secondary is-size-6">East China Normal University </p>
+  </div></div></div>
+  <div class="cell"><div class="card"><div class="card-content">
+	<p class="is-primary is-size-5 mb-1 has-text-weight-bold">Qingquan Li</p>
+	<p class="is-secondary is-size-6">Shenzhen University, China</p>
   </div></div></div>
   <div class="cell"><div class="card"><div class="card-content">
 	<p class="is-primary is-size-5 mb-1 has-text-weight-bold">Lin Liu</p>
