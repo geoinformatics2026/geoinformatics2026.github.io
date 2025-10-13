@@ -168,7 +168,7 @@ bulmaCarousel.attach('#carousel-venue', {
 
 ## Travel Visa
 
-Please check on Singapore ICA website: [url](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements)
+Please check on Singapore Immigration & Checkpoints Authority (ICA) website: [url](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements)
 
 
 
