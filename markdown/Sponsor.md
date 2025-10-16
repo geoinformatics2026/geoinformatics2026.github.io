@@ -60,9 +60,7 @@ SGD 3,000 ~ SGD 5,999
 
 ## Individual Sponsorship
 
-Any amount is welcome and your gift is tax-deductible. Those who sponsor S$ 3,000 or more will
-
-receive free registration at the same rates as the corporate.
+Any amount is welcome and your gift is tax-deductible. Those who sponsor S$ 3,000 or more will receive free registration at the same rates as the corporate sponsorship.
 
 
 

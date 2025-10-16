@@ -94,7 +94,7 @@ All fees listed below are in Singapore Dollars (SGD), GST exclusive.
 | ------------ | ---------------- | ---------------- | ------------- |
 | Professional | CPGIS member     | 650              | 750           |
 | Professional | Non-member       | 750              | 850           |
-| Professional | 1-day pass       | 250              | 300           |
+| Professional | 1-day pass       | 350              | 400           |
 | Student      | CPGIS member     | 300              | 400           |
 | Student      | Non-member       | 350              | 450           |
 | Student      | 1-day pass       | 200              | 250           |
