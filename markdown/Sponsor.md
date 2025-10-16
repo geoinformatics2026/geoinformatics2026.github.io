@@ -1,8 +1,13 @@
+---
+title: Sponsorship
+template: base_nosiderbar.html
+---
+
 # Sponsorship Packages 
 
 ## The 33rd International Conference on Geoinformatics, July 19-22, 2026, Singapore
 
-(Website: [geoinformatics2026.github.io](https://geoinformatics2026.github.io/) ([PDF version](pdf/Sponsorship_Packages_2026.pdf))
+(Website: [geoinformatics2026.github.io](https://geoinformatics2026.github.io/) <!--([PDF version](pdf/Sponsorship_Packages_2026.pdf)-->)
 
 The GIS Unit, Department of Geography, National University of Singapore, welcomes you to the 33rd International Conference on Geoinformatics, which will be held between 19-22 July 2026, at University Town (UTown), NUS. The conference is held annually at different cities across the world. As the organizers of the conference, we welcome participants to Singapore in 2026 for this informative and wonderful event!
 
