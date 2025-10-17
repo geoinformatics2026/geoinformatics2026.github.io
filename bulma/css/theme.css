@@ -1,5 +1,38 @@
-@import "https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css";
-@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Cal+Sans&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+/*@import "https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css";
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Cal+Sans&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');*/
+
+@import "bulma.min.css";
+@font-face {
+  font-family: "Montserrat";
+  src: local('fonts/Montserrrat/Montserrat-VariableFont_wght.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Montserrat";
+  src: local('fonts/Montserrrat/Montserrat-Italic-VariableFont_wght.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Cal Sans";
+  src: local('fonts/Cal_Sans/CalSans-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Cabin";
+  src: local('fonts/Cabin/Cabin-VariableFont_wght.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Cabin";
+  src: local('fonts/Cabin/Cabin-Italic-VariableFont_wght.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
 
 .montserrat-bold {
   font-family: "Montserrat", sans-serif;
