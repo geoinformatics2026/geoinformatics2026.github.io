@@ -4,24 +4,24 @@
 
 Start: 3 Jan 2026
 
-Due: [TBC] early April 2026 *(AoE)*
+Due: early April 2026
 
 
 
 ## Call for papers (extended abstract & full paper)
 
 - Abstract/Paper submission open: 3 Jan 2026
-- Abstract submission: 2 March, 2026 (Monday)
+- Abstract submission (deadline): 2 March, 2026 (Monday)
 - Abstract acceptance: 6 April, 2026 (Monday)
-- Optional full paper: 6 June, 2026 (Monday)
+- Optional full paper (deadline): 6 June, 2026 (Monday)
 
 
 
 ## Registration
 
 - Open: Early March 2026 
-- Early bird Registration: 17 April, 2026 (Friday)
-- Presenter Registration: 8 May, 2026* (Friday)  
+- Early bird Registration (deadline): 17 April, 2026 (Friday)
+- Presenter Registration (deadline): 8 May, 2026* (Friday)  
   *At least one presenter for each paper/abstract must register by this date.
 
 
