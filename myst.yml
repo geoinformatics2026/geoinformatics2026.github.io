@@ -537,5 +537,8 @@ site:
     logo: logo.png
     logo_dark: logo-dark.png
     logo_text: "Geoinformatics 2026"
+    css: 
+      - custom.css
   parts:
     footer: footer.md
+    
