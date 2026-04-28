@@ -1,1 +1,4 @@
 _backup/*
+
+# MyST build outputs
+_build

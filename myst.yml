@@ -1,0 +1,541 @@
+version: 1
+project:
+  title: Geoinformatics 2026 — Conference Proceedings
+  authors:
+    - CPGIS & Geoinformatics 2026 Organising Committee
+
+  toc:
+  - file: intro.md
+  - title: Programme at a Glance
+    children:
+    - file: programme/overview.md
+    - file: ./keynotes/index.md
+    - file: ./sessions/slot_a.md
+    - file: ./sessions/slot_b.md
+    - file: ./sessions/slot_c.md
+    - file: ./sessions/slot_d.md
+    - file: ./sessions/slot_e.md
+    - file: ./sessions/slot_f.md
+    - file: ./sessions/slot_g.md
+  - title: Keynote Presentations
+    file: ./keynotes/index.md
+    children:
+    - file: keynotes/keynote_01.md
+    - file: keynotes/keynote_02.md
+    - file: keynotes/keynote_03.md
+    - file: keynotes/keynote_04.md
+    - file: keynotes/keynote_05.md
+    - file: keynotes/keynote_06.md
+    - file: keynotes/keynote_07.md
+  - title: "Session Slot A: Day 1 \u2014 20 July 2026 (Monday) 13:00 \u2013 14:30"
+    file: ./sessions/slot_a.md
+    children:
+    - title: 'A1: Emerging LLM-based Methods for Geospatial Analysis: Part 1'
+      file: ./sessions/Session_A1/Session_A1.md
+      children:
+      - file: ./sessions/Session_A1/paper_0902.md
+      - file: ./sessions/Session_A1/paper_2177.md
+      - file: ./sessions/Session_A1/paper_3396.md
+      - file: ./sessions/Session_A1/paper_5173.md
+      - file: ./sessions/Session_A1/paper_5814.md
+    - title: 'A2: Advanced Geospatial Data and Methods for Transforming Healthy Cities
+        Delivery: Part 1'
+      file: ./sessions/Session_A2/Session_A2.md
+      children:
+      - file: ./sessions/Session_A2/paper_0996.md
+      - file: ./sessions/Session_A2/paper_1468.md
+      - file: ./sessions/Session_A2/paper_2602.md
+      - file: ./sessions/Session_A2/paper_4009.md
+      - file: ./sessions/Session_A2/paper_4989.md
+    - title: 'A3: Land Additional Non Efficiency'
+      file: ./sessions/Session_A3/Session_A3.md
+      children:
+      - file: ./sessions/Session_A3/paper_7876.md
+      - file: ./sessions/Session_A3/paper_1985.md
+      - file: ./sessions/Session_A3/paper_7673.md
+      - file: ./sessions/Session_A3/paper_9585.md
+      - file: ./sessions/Session_A3/paper_9734.md
+    - title: 'A4: Land Urf Ecological Fragmentation'
+      file: ./sessions/Session_A4/Session_A4.md
+      children:
+      - file: ./sessions/Session_A4/paper_0670.md
+      - file: ./sessions/Session_A4/paper_0221.md
+      - file: ./sessions/Session_A4/paper_7218.md
+      - file: ./sessions/Session_A4/paper_3050.md
+      - file: ./sessions/Session_A4/paper_5517.md
+    - title: 'A5: Traffic Facade Voxel Crowd'
+      file: ./sessions/Session_A5/Session_A5.md
+      children:
+      - file: ./sessions/Session_A5/paper_5944.md
+      - file: ./sessions/Session_A5/paper_7012.md
+      - file: ./sessions/Session_A5/paper_7664.md
+      - file: ./sessions/Session_A5/paper_9569.md
+      - file: ./sessions/Session_A5/paper_9722.md
+    - title: 'A6: Disaster Chain Negotiation Observation'
+      file: ./sessions/Session_A6/Session_A6.md
+      children:
+      - file: ./sessions/Session_A6/paper_2769.md
+      - file: ./sessions/Session_A6/paper_4080.md
+      - file: ./sessions/Session_A6/paper_6080.md
+      - file: ./sessions/Session_A6/paper_0392.md
+      - file: ./sessions/Session_A6/paper_7870.md
+    - title: 'A7: Vitality Pp Series Rural'
+      file: ./sessions/Session_A7/Session_A7.md
+      children:
+      - file: ./sessions/Session_A7/paper_7359.md
+      - file: ./sessions/Session_A7/paper_2070.md
+      - file: ./sessions/Session_A7/paper_4421.md
+      - file: ./sessions/Session_A7/paper_7046.md
+      - file: ./sessions/Session_A7/paper_4577.md
+    - title: 'A8: Place Cognitive Reviews Centrality'
+      file: ./sessions/Session_A8/Session_A8.md
+      children:
+      - file: ./sessions/Session_A8/paper_8370.md
+      - file: ./sessions/Session_A8/paper_2014.md
+      - file: ./sessions/Session_A8/paper_4622.md
+      - file: ./sessions/Session_A8/paper_9168.md
+      - file: ./sessions/Session_A8/paper_5092.md
+    - title: 'A9: Population Mapping Resolution Spatial'
+      file: ./sessions/Session_A9/Session_A9.md
+      children:
+      - file: ./sessions/Session_A9/paper_2471.md
+      - file: ./sessions/Session_A9/paper_7483.md
+      - file: ./sessions/Session_A9/paper_2341.md
+      - file: ./sessions/Session_A9/paper_5102.md
+      - file: ./sessions/Session_A9/paper_0714.md
+  - title: "Session Slot B: Day 1 \u2014 20 July 2026 (Monday) 14:45 \u2013 16:15"
+    file: ./sessions/slot_b.md
+    children:
+    - title: 'B1: Emerging LLM-based Methods for Geospatial Analysis: Part 2'
+      file: ./sessions/Session_B1/Session_B1.md
+      children:
+      - file: ./sessions/Session_B1/paper_6561.md
+      - file: ./sessions/Session_B1/paper_9883.md
+      - file: ./sessions/Session_B1/paper_9107.md
+      - file: ./sessions/Session_B1/paper_8917.md
+      - file: ./sessions/Session_B1/paper_6733.md
+    - title: 'B2: Advanced Geospatial Data and Methods for Transforming Healthy Cities
+        Delivery: Part 2'
+      file: ./sessions/Session_B2/Session_B2.md
+      children:
+      - file: ./sessions/Session_B2/paper_6275.md
+      - file: ./sessions/Session_B2/paper_2528.md
+      - file: ./sessions/Session_B2/paper_4170.md
+      - file: ./sessions/Session_B2/paper_9713.md
+      - file: ./sessions/Session_B2/paper_7137.md
+    - title: 'B3: Resolution Imagery Super Image'
+      file: ./sessions/Session_B3/Session_B3.md
+      children:
+      - file: ./sessions/Session_B3/paper_8680.md
+      - file: ./sessions/Session_B3/paper_8695.md
+      - file: ./sessions/Session_B3/paper_4253.md
+      - file: ./sessions/Session_B3/paper_0266.md
+      - file: ./sessions/Session_B3/paper_2198.md
+    - title: 'B4: Price Validation Prediction Rural'
+      file: ./sessions/Session_B4/Session_B4.md
+      children:
+      - file: ./sessions/Session_B4/paper_7458.md
+      - file: ./sessions/Session_B4/paper_4070.md
+      - file: ./sessions/Session_B4/paper_7050.md
+      - file: ./sessions/Session_B4/paper_0377.md
+      - file: ./sessions/Session_B4/paper_5152.md
+    - title: 'B5: Metro Risk Zones Subsidence'
+      file: ./sessions/Session_B5/Session_B5.md
+      children:
+      - file: ./sessions/Session_B5/paper_9492.md
+      - file: ./sessions/Session_B5/paper_9396.md
+      - file: ./sessions/Session_B5/paper_3982.md
+      - file: ./sessions/Session_B5/paper_5986.md
+      - file: ./sessions/Session_B5/paper_7824.md
+    - title: 'B6: Uav Chlorophyll Self Yield'
+      file: ./sessions/Session_B6/Session_B6.md
+      children:
+      - file: ./sessions/Session_B6/paper_9142.md
+      - file: ./sessions/Session_B6/paper_7810.md
+      - file: ./sessions/Session_B6/paper_5537.md
+      - file: ./sessions/Session_B6/paper_6222.md
+      - file: ./sessions/Session_B6/paper_0644.md
+    - title: 'B7: Spatial Weighting Spatially Variable'
+      file: ./sessions/Session_B7/Session_B7.md
+      children:
+      - file: ./sessions/Session_B7/paper_3522.md
+      - file: ./sessions/Session_B7/paper_3482.md
+      - file: ./sessions/Session_B7/paper_4084.md
+      - file: ./sessions/Session_B7/paper_6123.md
+      - file: ./sessions/Session_B7/paper_1953.md
+    - title: 'B8: Geological Hai Livelihood Vulnerability'
+      file: ./sessions/Session_B8/Session_B8.md
+      children:
+      - file: ./sessions/Session_B8/paper_5686.md
+      - file: ./sessions/Session_B8/paper_0412.md
+      - file: ./sessions/Session_B8/paper_2509.md
+      - file: ./sessions/Session_B8/paper_0473.md
+      - file: ./sessions/Session_B8/paper_9996.md
+    - title: 'B9: Heritage Landslide Segmentation Cultural'
+      file: ./sessions/Session_B9/Session_B9.md
+      children:
+      - file: ./sessions/Session_B9/paper_4816.md
+      - file: ./sessions/Session_B9/paper_5604.md
+      - file: ./sessions/Session_B9/paper_6188.md
+      - file: ./sessions/Session_B9/paper_3605.md
+      - file: ./sessions/Session_B9/paper_0546.md
+  - title: "Session Slot C: Day 1 \u2014 20 July 2026 (Monday) 16:30 \u2013 17:45"
+    file: ./sessions/slot_c.md
+    children:
+    - title: 'C1: Geographical Principles in Spatial Analysis and Modeling'
+      file: ./sessions/Session_C1/Session_C1.md
+      children:
+      - file: ./sessions/Session_C1/paper_5077.md
+      - file: ./sessions/Session_C1/paper_1455.md
+      - file: ./sessions/Session_C1/paper_0100.md
+      - file: ./sessions/Session_C1/paper_7914.md
+    - title: 'C2: Citizen-Generated Geospatial Data: Concepts, Theories, and Challenges'
+      file: ./sessions/Session_C2/Session_C2.md
+      children:
+      - file: ./sessions/Session_C2/paper_1773.md
+      - file: ./sessions/Session_C2/paper_2594.md
+      - file: ./sessions/Session_C2/paper_4676.md
+      - file: ./sessions/Session_C2/paper_6406.md
+    - title: 'C3: View Street Happiness Pedestrian'
+      file: ./sessions/Session_C3/Session_C3.md
+      children:
+      - file: ./sessions/Session_C3/paper_2058.md
+      - file: ./sessions/Session_C3/paper_3273.md
+      - file: ./sessions/Session_C3/paper_1526.md
+      - file: ./sessions/Session_C3/paper_5130.md
+      - file: ./sessions/Session_C3/paper_6854.md
+    - title: 'C4: Charging Energy Demand Vehicle'
+      file: ./sessions/Session_C4/Session_C4.md
+      children:
+      - file: ./sessions/Session_C4/paper_2583.md
+      - file: ./sessions/Session_C4/paper_2687.md
+      - file: ./sessions/Session_C4/paper_5314.md
+      - file: ./sessions/Session_C4/paper_9322.md
+      - file: ./sessions/Session_C4/paper_0350.md
+    - title: 'C5: Bike Scooter Sharing User'
+      file: ./sessions/Session_C5/Session_C5.md
+      children:
+      - file: ./sessions/Session_C5/paper_3370.md
+      - file: ./sessions/Session_C5/paper_4327.md
+      - file: ./sessions/Session_C5/paper_9816.md
+      - file: ./sessions/Session_C5/paper_3434.md
+      - file: ./sessions/Session_C5/paper_3911.md
+    - title: 'C6: Locust Drought Moisture Propagation'
+      file: ./sessions/Session_C6/Session_C6.md
+      children:
+      - file: ./sessions/Session_C6/paper_0055.md
+      - file: ./sessions/Session_C6/paper_4089.md
+      - file: ./sessions/Session_C6/paper_2481.md
+      - file: ./sessions/Session_C6/paper_7963.md
+      - file: ./sessions/Session_C6/paper_9169.md
+    - title: 'C7: Street Seismic Socioeconomic Sensing'
+      file: ./sessions/Session_C7/Session_C7.md
+      children:
+      - file: ./sessions/Session_C7/paper_6329.md
+      - file: ./sessions/Session_C7/paper_9796.md
+      - file: ./sessions/Session_C7/paper_9978.md
+      - file: ./sessions/Session_C7/paper_8235.md
+      - file: ./sessions/Session_C7/paper_6167.md
+    - title: 'C8: Airbnb Tourist Travel Tourism'
+      file: ./sessions/Session_C8/Session_C8.md
+      children:
+      - file: ./sessions/Session_C8/paper_5054.md
+      - file: ./sessions/Session_C8/paper_0474.md
+      - file: ./sessions/Session_C8/paper_5744.md
+      - file: ./sessions/Session_C8/paper_7149.md
+      - file: ./sessions/Session_C8/paper_1891.md
+    - title: 'C9: Spectral Extraction Features Branch'
+      file: ./sessions/Session_C9/Session_C9.md
+      children:
+      - file: ./sessions/Session_C9/paper_3989.md
+      - file: ./sessions/Session_C9/paper_0511.md
+      - file: ./sessions/Session_C9/paper_2969.md
+      - file: ./sessions/Session_C9/paper_4861.md
+      - file: ./sessions/Session_C9/paper_7562.md
+  - title: "Session Slot D: Day 2 \u2014 21 July 2026 (Tuesday) 13:00 \u2013 14:30"
+    file: ./sessions/slot_d.md
+    children:
+    - title: 'D1: GeoAI-Facilitated Energy Geographies'
+      file: ./sessions/Session_D1/Session_D1.md
+      children:
+      - file: ./sessions/Session_D1/paper_1823.md
+      - file: ./sessions/Session_D1/paper_3743.md
+      - file: ./sessions/Session_D1/paper_7520.md
+      - file: ./sessions/Session_D1/paper_9116.md
+      - file: ./sessions/Session_D1/paper_9788.md
+    - title: 'D2: Cyberinfrastructure and GeoAI for Intelligent Spatial Decision Support'
+      file: ./sessions/Session_D2/Session_D2.md
+      children:
+      - file: ./sessions/Session_D2/paper_0808.md
+      - file: ./sessions/Session_D2/paper_4882.md
+      - file: ./sessions/Session_D2/paper_7353.md
+      - file: ./sessions/Session_D2/paper_2730.md
+      - file: ./sessions/Session_D2/paper_7715.md
+    - title: 'D3: Carpooling Emissions Emission Carbon'
+      file: ./sessions/Session_D3/Session_D3.md
+      children:
+      - file: ./sessions/Session_D3/paper_2233.md
+      - file: ./sessions/Session_D3/paper_5199.md
+      - file: ./sessions/Session_D3/paper_1696.md
+      - file: ./sessions/Session_D3/paper_6343.md
+      - file: ./sessions/Session_D3/paper_0330.md
+    - title: 'D4: Location Optimization Coverage Problem'
+      file: ./sessions/Session_D4/Session_D4.md
+      children:
+      - file: ./sessions/Session_D4/paper_1737.md
+      - file: ./sessions/Session_D4/paper_0149.md
+      - file: ./sessions/Session_D4/paper_3619.md
+      - file: ./sessions/Session_D4/paper_7308.md
+      - file: ./sessions/Session_D4/paper_6424.md
+    - title: 'D5: Map Natural Thematic Style'
+      file: ./sessions/Session_D5/Session_D5.md
+      children:
+      - file: ./sessions/Session_D5/paper_7954.md
+      - file: ./sessions/Session_D5/paper_5689.md
+      - file: ./sessions/Session_D5/paper_7756.md
+      - file: ./sessions/Session_D5/paper_8669.md
+      - file: ./sessions/Session_D5/paper_0361.md
+    - title: 'D6: Cropland Agricultural Sentinel Stress'
+      file: ./sessions/Session_D6/Session_D6.md
+      children:
+      - file: ./sessions/Session_D6/paper_7566.md
+      - file: ./sessions/Session_D6/paper_2690.md
+      - file: ./sessions/Session_D6/paper_1378.md
+      - file: ./sessions/Session_D6/paper_8356.md
+      - file: ./sessions/Session_D6/paper_7616.md
+    - title: 'D7: Remote Sensing for Detection Remote Sensing Object'
+      file: ./sessions/Session_D7/Session_D7.md
+      children:
+      - file: ./sessions/Session_D7/paper_2515.md
+      - file: ./sessions/Session_D7/paper_4738.md
+      - file: ./sessions/Session_D7/paper_7578.md
+      - file: ./sessions/Session_D7/paper_5112.md
+      - file: ./sessions/Session_D7/paper_4298.md
+    - title: 'D8: Health Environmental Policy Mental'
+      file: ./sessions/Session_D8/Session_D8.md
+      children:
+      - file: ./sessions/Session_D8/paper_0102.md
+      - file: ./sessions/Session_D8/paper_6086.md
+      - file: ./sessions/Session_D8/paper_7580.md
+      - file: ./sessions/Session_D8/paper_2774.md
+      - file: ./sessions/Session_D8/paper_3550.md
+    - title: 'D9: Urban Planning and Digital Twin Twins Urban'
+      file: ./sessions/Session_D9/Session_D9.md
+      children:
+      - file: ./sessions/Session_D9/paper_8558.md
+      - file: ./sessions/Session_D9/paper_3376.md
+      - file: ./sessions/Session_D9/paper_5785.md
+      - file: ./sessions/Session_D9/paper_0453.md
+      - file: ./sessions/Session_D9/paper_7576.md
+  - title: "Session Slot E: Day 2 \u2014 21 July 2026 (Tuesday) 14:45 \u2013 16:15"
+    file: ./sessions/slot_e.md
+    children:
+    - title: 'E1: GeoAI and Data Science for Disaster Resilience'
+      file: ./sessions/Session_E1/Session_E1.md
+      children:
+      - file: ./sessions/Session_E1/paper_0374.md
+      - file: ./sessions/Session_E1/paper_1577.md
+      - file: ./sessions/Session_E1/paper_2360.md
+      - file: ./sessions/Session_E1/paper_0855.md
+      - file: ./sessions/Session_E1/paper_3669.md
+    - title: 'E2: Lake Water Wetlands Flow'
+      file: ./sessions/Session_E2/Session_E2.md
+      children:
+      - file: ./sessions/Session_E2/paper_3596.md
+      - file: ./sessions/Session_E2/paper_4472.md
+      - file: ./sessions/Session_E2/paper_8651.md
+      - file: ./sessions/Session_E2/paper_1123.md
+      - file: ./sessions/Session_E2/paper_6014.md
+    - title: 'E3: Code Knowledge Generation Language'
+      file: ./sessions/Session_E3/Session_E3.md
+      children:
+      - file: ./sessions/Session_E3/paper_0642.md
+      - file: ./sessions/Session_E3/paper_2555.md
+      - file: ./sessions/Session_E3/paper_9755.md
+      - file: ./sessions/Session_E3/paper_7666.md
+      - file: ./sessions/Session_E3/paper_5968.md
+    - title: 'E4: Population Rural District Disease'
+      file: ./sessions/Session_E4/Session_E4.md
+      children:
+      - file: ./sessions/Session_E4/paper_5211.md
+      - file: ./sessions/Session_E4/paper_3736.md
+      - file: ./sessions/Session_E4/paper_3304.md
+      - file: ./sessions/Session_E4/paper_9446.md
+      - file: ./sessions/Session_E4/paper_6631.md
+    - title: 'E5: Urban Planning and Mobility Transferability Urban Vibrancy'
+      file: ./sessions/Session_E5/Session_E5.md
+      children:
+      - file: ./sessions/Session_E5/paper_1307.md
+      - file: ./sessions/Session_E5/paper_2995.md
+      - file: ./sessions/Session_E5/paper_3508.md
+      - file: ./sessions/Session_E5/paper_7722.md
+      - file: ./sessions/Session_E5/paper_5546.md
+    - title: 'E6: Flood Risk Warning Cloud'
+      file: ./sessions/Session_E6/Session_E6.md
+      children:
+      - file: ./sessions/Session_E6/paper_8472.md
+      - file: ./sessions/Session_E6/paper_2272.md
+      - file: ./sessions/Session_E6/paper_4046.md
+      - file: ./sessions/Session_E6/paper_3846.md
+      - file: ./sessions/Session_E6/paper_2296.md
+    - title: 'E7: Urban Planning and Esv Urban Sprawl Microclimate'
+      file: ./sessions/Session_E7/Session_E7.md
+      children:
+      - file: ./sessions/Session_E7/paper_3251.md
+      - file: ./sessions/Session_E7/paper_8378.md
+      - file: ./sessions/Session_E7/paper_4840.md
+      - file: ./sessions/Session_E7/paper_1822.md
+      - file: ./sessions/Session_E7/paper_9756.md
+    - title: 'E8: Carbon Energy Trade Zones'
+      file: ./sessions/Session_E8/Session_E8.md
+      children:
+      - file: ./sessions/Session_E8/paper_5021.md
+      - file: ./sessions/Session_E8/paper_7977.md
+      - file: ./sessions/Session_E8/paper_0192.md
+      - file: ./sessions/Session_E8/paper_4925.md
+      - file: ./sessions/Session_E8/paper_5402.md
+    - title: 'E9: Epidemic Diffusion Reconstruction Observation'
+      file: ./sessions/Session_E9/Session_E9.md
+      children:
+      - file: ./sessions/Session_E9/paper_4153.md
+      - file: ./sessions/Session_E9/paper_7200.md
+      - file: ./sessions/Session_E9/paper_0206.md
+      - file: ./sessions/Session_E9/paper_8403.md
+      - file: ./sessions/Session_E9/paper_5943.md
+  - title: "Session Slot F: Day 2 \u2014 21 July 2026 (Tuesday) 16:30 \u2013 17:45"
+    file: ./sessions/slot_f.md
+    children:
+    - title: 'F1: Ems Accessibility Retailers Food'
+      file: ./sessions/Session_F1/Session_F1.md
+      children:
+      - file: ./sessions/Session_F1/paper_1161.md
+      - file: ./sessions/Session_F1/paper_8501.md
+      - file: ./sessions/Session_F1/paper_2484.md
+      - file: ./sessions/Session_F1/paper_2276.md
+      - file: ./sessions/Session_F1/paper_3755.md
+    - title: 'F2: Urban Planning and Urban Geospatial Reports Foundation'
+      file: ./sessions/Session_F2/Session_F2.md
+      children:
+      - file: ./sessions/Session_F2/paper_9277.md
+      - file: ./sessions/Session_F2/paper_2473.md
+      - file: ./sessions/Session_F2/paper_9259.md
+      - file: ./sessions/Session_F2/paper_7829.md
+      - file: ./sessions/Session_F2/paper_8999.md
+    - title: 'F3: Thermal Heat Tod Surface'
+      file: ./sessions/Session_F3/Session_F3.md
+      children:
+      - file: ./sessions/Session_F3/paper_2990.md
+      - file: ./sessions/Session_F3/paper_5975.md
+      - file: ./sessions/Session_F3/paper_6004.md
+      - file: ./sessions/Session_F3/paper_7384.md
+      - file: ./sessions/Session_F3/paper_2356.md
+    - title: 'F4: Urban Planning and Resilience Urban Mrt Ecological'
+      file: ./sessions/Session_F4/Session_F4.md
+      children:
+      - file: ./sessions/Session_F4/paper_1615.md
+      - file: ./sessions/Session_F4/paper_1702.md
+      - file: ./sessions/Session_F4/paper_2654.md
+      - file: ./sessions/Session_F4/paper_7792.md
+      - file: ./sessions/Session_F4/paper_9227.md
+    - title: 'F5: Migration Population Digital Interprovincial'
+      file: ./sessions/Session_F5/Session_F5.md
+      children:
+      - file: ./sessions/Session_F5/paper_2236.md
+      - file: ./sessions/Session_F5/paper_2367.md
+      - file: ./sessions/Session_F5/paper_6055.md
+      - file: ./sessions/Session_F5/paper_8930.md
+      - file: ./sessions/Session_F5/paper_5159.md
+    - title: 'F6: Wildfire Graph Renewal Task'
+      file: ./sessions/Session_F6/Session_F6.md
+      children:
+      - file: ./sessions/Session_F6/paper_0003.md
+      - file: ./sessions/Session_F6/paper_0617.md
+      - file: ./sessions/Session_F6/paper_7800.md
+      - file: ./sessions/Session_F6/paper_0728.md
+      - file: ./sessions/Session_F6/paper_9775.md
+    - title: 'F7: Park Parks Service Spatial'
+      file: ./sessions/Session_F7/Session_F7.md
+      children:
+      - file: ./sessions/Session_F7/paper_3684.md
+      - file: ./sessions/Session_F7/paper_8836.md
+      - file: ./sessions/Session_F7/paper_0241.md
+      - file: ./sessions/Session_F7/paper_3225.md
+      - file: ./sessions/Session_F7/paper_8633.md
+    - title: 'F8: Leaf Augmentation Lidar Height'
+      file: ./sessions/Session_F8/Session_F8.md
+      children:
+      - file: ./sessions/Session_F8/paper_0336.md
+      - file: ./sessions/Session_F8/paper_2389.md
+      - file: ./sessions/Session_F8/paper_4330.md
+      - file: ./sessions/Session_F8/paper_3456.md
+      - file: ./sessions/Session_F8/paper_3030.md
+    - title: 'F9: Waste Exposure Shading Uv'
+      file: ./sessions/Session_F9/Session_F9.md
+      children:
+      - file: ./sessions/Session_F9/paper_0634.md
+      - file: ./sessions/Session_F9/paper_2824.md
+      - file: ./sessions/Session_F9/paper_6771.md
+      - file: ./sessions/Session_F9/paper_4589.md
+      - file: ./sessions/Session_F9/paper_5522.md
+  - title: "Session Slot G: Day 3 \u2014 22 July 2026 (Wednesday) 10:45 \u2013 12:00"
+    file: ./sessions/slot_g.md
+    children:
+    - title: 'G1: Diffusion Retail Generative Trajectory'
+      file: ./sessions/Session_G1/Session_G1.md
+      children:
+      - file: ./sessions/Session_G1/paper_0189.md
+      - file: ./sessions/Session_G1/paper_1495.md
+      - file: ./sessions/Session_G1/paper_0286.md
+      - file: ./sessions/Session_G1/paper_7453.md
+      - file: ./sessions/Session_G1/paper_0856.md
+    - title: 'G2: Exposure Green Birth Heat'
+      file: ./sessions/Session_G2/Session_G2.md
+      children:
+      - file: ./sessions/Session_G2/paper_0016.md
+      - file: ./sessions/Session_G2/paper_6815.md
+      - file: ./sessions/Session_G2/paper_5720.md
+      - file: ./sessions/Session_G2/paper_1119.md
+      - file: ./sessions/Session_G2/paper_6321.md
+    - title: 'G3: Deformation Extreme Risk Insar'
+      file: ./sessions/Session_G3/Session_G3.md
+      children:
+      - file: ./sessions/Session_G3/paper_0051.md
+      - file: ./sessions/Session_G3/paper_3342.md
+      - file: ./sessions/Session_G3/paper_3595.md
+      - file: ./sessions/Session_G3/paper_7085.md
+      - file: ./sessions/Session_G3/paper_5658.md
+    - title: 'G4: Precipitation Rainfall Spatiotemporal Daytime'
+      file: ./sessions/Session_G4/Session_G4.md
+      children:
+      - file: ./sessions/Session_G4/paper_5884.md
+      - file: ./sessions/Session_G4/paper_7935.md
+      - file: ./sessions/Session_G4/paper_9266.md
+      - file: ./sessions/Session_G4/paper_9629.md
+      - file: ./sessions/Session_G4/paper_9908.md
+    - title: 'G5: Spatio Temporal Forecasting Meteorological'
+      file: ./sessions/Session_G5/Session_G5.md
+      children:
+      - file: ./sessions/Session_G5/paper_0147.md
+      - file: ./sessions/Session_G5/paper_1935.md
+      - file: ./sessions/Session_G5/paper_5657.md
+      - file: ./sessions/Session_G5/paper_9222.md
+      - file: ./sessions/Session_G5/paper_1870.md
+    - title: 'G6: Perception Perceived Street Path'
+      file: ./sessions/Session_G6/Session_G6.md
+      children:
+      - file: ./sessions/Session_G6/paper_7778.md
+      - file: ./sessions/Session_G6/paper_4091.md
+      - file: ./sessions/Session_G6/paper_7127.md
+      - file: ./sessions/Session_G6/paper_8531.md
+      - file: ./sessions/Session_G6/paper_0988.md
+
+
+site:
+  template: book-theme
+  options:
+    favicon: favicon.ico
+    logo: logo.png
+    logo_dark: logo-dark.png
+    logo_text: "Geoinformatics 2026"
+  parts:
+    footer: footer.md

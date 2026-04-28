@@ -1,0 +1,451 @@
+format: jb-book
+root: intro
+
+parts:
+  - caption: "Programme at a Glance"
+    chapters:
+    - file: programme/overview
+    - file: programme/parallel_session_1
+    - file: programme/parallel_session_2
+    - file: programme/parallel_session_3
+    - file: programme/parallel_session_4
+    - file: programme/parallel_session_5
+    - file: programme/parallel_session_6
+    - file: programme/parallel_session_7
+  - caption: "Keynote Presentations"
+    chapters:
+    - file: keynotes/keynote_01
+    - file: keynotes/keynote_02
+    - file: keynotes/keynote_03
+    - file: keynotes/keynote_04
+    - file: keynotes/keynote_05
+    - file: keynotes/keynote_06
+    - file: keynotes/keynote_07
+  - caption: "Parallel Session 1 · 13:00–14:30"
+    chapters:
+    - file: sessions/session_a/index
+      sections:
+        - file: sessions/session_a/paper_902
+        - file: sessions/session_a/paper_2177
+        - file: sessions/session_a/paper_3396
+        - file: sessions/session_a/paper_5173
+        - file: sessions/session_a/paper_5814
+        - file: sessions/session_a/paper_6561
+        - file: sessions/session_a/paper_9883
+        - file: sessions/session_a/paper_9107
+        - file: sessions/session_a/paper_8917
+        - file: sessions/session_a/paper_6733
+    - file: sessions/session_new_01/index
+      sections:
+        - file: sessions/session_new_01/paper_3596
+        - file: sessions/session_new_01/paper_4472
+        - file: sessions/session_new_01/paper_8651
+        - file: sessions/session_new_01/paper_1123
+        - file: sessions/session_new_01/paper_6014
+    - file: sessions/session_new_08/index
+      sections:
+        - file: sessions/session_new_08/paper_2058
+        - file: sessions/session_new_08/paper_3273
+        - file: sessions/session_new_08/paper_1526
+        - file: sessions/session_new_08/paper_5130
+        - file: sessions/session_new_08/paper_6854
+    - file: sessions/session_new_15/index
+      sections:
+        - file: sessions/session_new_15/paper_2583
+        - file: sessions/session_new_15/paper_2687
+        - file: sessions/session_new_15/paper_5314
+        - file: sessions/session_new_15/paper_9322
+        - file: sessions/session_new_15/paper_350
+    - file: sessions/session_new_22/index
+      sections:
+        - file: sessions/session_new_22/paper_3370
+        - file: sessions/session_new_22/paper_4327
+        - file: sessions/session_new_22/paper_9816
+        - file: sessions/session_new_22/paper_3434
+        - file: sessions/session_new_22/paper_3911
+    - file: sessions/session_new_29/index
+      sections:
+        - file: sessions/session_new_29/paper_55
+        - file: sessions/session_new_29/paper_4089
+        - file: sessions/session_new_29/paper_2481
+        - file: sessions/session_new_29/paper_7963
+        - file: sessions/session_new_29/paper_9169
+    - file: sessions/session_new_36/index
+      sections:
+        - file: sessions/session_new_36/paper_6329
+        - file: sessions/session_new_36/paper_9796
+        - file: sessions/session_new_36/paper_9978
+        - file: sessions/session_new_36/paper_8235
+        - file: sessions/session_new_36/paper_6167
+    - file: sessions/session_new_43/index
+      sections:
+        - file: sessions/session_new_43/paper_102
+        - file: sessions/session_new_43/paper_6086
+        - file: sessions/session_new_43/paper_7580
+        - file: sessions/session_new_43/paper_2774
+        - file: sessions/session_new_43/paper_3550
+    - file: sessions/session_new_50/index
+      sections:
+        - file: sessions/session_new_50/paper_4153
+        - file: sessions/session_new_50/paper_7200
+        - file: sessions/session_new_50/paper_206
+        - file: sessions/session_new_50/paper_8403
+        - file: sessions/session_new_50/paper_5943
+  - caption: "Parallel Session 2 · 14:45–16:15"
+    chapters:
+    - file: sessions/session_b/index
+      sections:
+        - file: sessions/session_b/paper_5077
+        - file: sessions/session_b/paper_1455
+        - file: sessions/session_b/paper_100
+        - file: sessions/session_b/paper_7914
+    - file: sessions/session_new_02/index
+      sections:
+        - file: sessions/session_new_02/paper_1161
+        - file: sessions/session_new_02/paper_8501
+        - file: sessions/session_new_02/paper_2484
+        - file: sessions/session_new_02/paper_2276
+        - file: sessions/session_new_02/paper_3755
+    - file: sessions/session_new_09/index
+      sections:
+        - file: sessions/session_new_09/paper_2233
+        - file: sessions/session_new_09/paper_5199
+        - file: sessions/session_new_09/paper_1696
+        - file: sessions/session_new_09/paper_6343
+        - file: sessions/session_new_09/paper_330
+    - file: sessions/session_new_16/index
+      sections:
+        - file: sessions/session_new_16/paper_1737
+        - file: sessions/session_new_16/paper_149
+        - file: sessions/session_new_16/paper_3619
+        - file: sessions/session_new_16/paper_7308
+        - file: sessions/session_new_16/paper_6424
+    - file: sessions/session_new_23/index
+      sections:
+        - file: sessions/session_new_23/paper_7954
+        - file: sessions/session_new_23/paper_5689
+        - file: sessions/session_new_23/paper_7756
+        - file: sessions/session_new_23/paper_8669
+        - file: sessions/session_new_23/paper_361
+    - file: sessions/session_new_30/index
+      sections:
+        - file: sessions/session_new_30/paper_7566
+        - file: sessions/session_new_30/paper_2690
+        - file: sessions/session_new_30/paper_1378
+        - file: sessions/session_new_30/paper_8356
+        - file: sessions/session_new_30/paper_7616
+    - file: sessions/session_new_37/index
+      sections:
+        - file: sessions/session_new_37/paper_2515
+        - file: sessions/session_new_37/paper_4738
+        - file: sessions/session_new_37/paper_7578
+        - file: sessions/session_new_37/paper_5112
+        - file: sessions/session_new_37/paper_4298
+    - file: sessions/session_new_44/index
+      sections:
+        - file: sessions/session_new_44/paper_5021
+        - file: sessions/session_new_44/paper_7977
+        - file: sessions/session_new_44/paper_192
+        - file: sessions/session_new_44/paper_4925
+        - file: sessions/session_new_44/paper_5402
+    - file: sessions/session_new_51/index
+      sections:
+        - file: sessions/session_new_51/paper_634
+        - file: sessions/session_new_51/paper_2824
+        - file: sessions/session_new_51/paper_6771
+        - file: sessions/session_new_51/paper_4589
+        - file: sessions/session_new_51/paper_5522
+  - caption: "Parallel Session 3 · 16:30–17:45"
+    chapters:
+    - file: sessions/session_c/index
+      sections:
+        - file: sessions/session_c/paper_1823
+        - file: sessions/session_c/paper_3743
+        - file: sessions/session_c/paper_7520
+        - file: sessions/session_c/paper_9116
+        - file: sessions/session_c/paper_9788
+    - file: sessions/session_new_03/index
+      sections:
+        - file: sessions/session_new_03/paper_189
+        - file: sessions/session_new_03/paper_1495
+        - file: sessions/session_new_03/paper_286
+        - file: sessions/session_new_03/paper_7453
+        - file: sessions/session_new_03/paper_856
+    - file: sessions/session_new_10/index
+      sections:
+        - file: sessions/session_new_10/paper_642
+        - file: sessions/session_new_10/paper_2555
+        - file: sessions/session_new_10/paper_9755
+        - file: sessions/session_new_10/paper_7666
+        - file: sessions/session_new_10/paper_5968
+    - file: sessions/session_new_17/index
+      sections:
+        - file: sessions/session_new_17/paper_5211
+        - file: sessions/session_new_17/paper_3736
+        - file: sessions/session_new_17/paper_3304
+        - file: sessions/session_new_17/paper_9446
+        - file: sessions/session_new_17/paper_6631
+    - file: sessions/session_new_24/index
+      sections:
+        - file: sessions/session_new_24/paper_1307
+        - file: sessions/session_new_24/paper_2995
+        - file: sessions/session_new_24/paper_3508
+        - file: sessions/session_new_24/paper_7722
+        - file: sessions/session_new_24/paper_5546
+    - file: sessions/session_new_31/index
+      sections:
+        - file: sessions/session_new_31/paper_8472
+        - file: sessions/session_new_31/paper_2272
+        - file: sessions/session_new_31/paper_4046
+        - file: sessions/session_new_31/paper_3846
+        - file: sessions/session_new_31/paper_2296
+    - file: sessions/session_new_38/index
+      sections:
+        - file: sessions/session_new_38/paper_3251
+        - file: sessions/session_new_38/paper_8378
+        - file: sessions/session_new_38/paper_4840
+        - file: sessions/session_new_38/paper_1822
+        - file: sessions/session_new_38/paper_9756
+    - file: sessions/session_new_45/index
+      sections:
+        - file: sessions/session_new_45/paper_336
+        - file: sessions/session_new_45/paper_2389
+        - file: sessions/session_new_45/paper_4330
+        - file: sessions/session_new_45/paper_3456
+        - file: sessions/session_new_45/paper_3030
+  - caption: "Parallel Session 4 · 13:00–14:30"
+    chapters:
+    - file: sessions/session_d/index
+      sections:
+        - file: sessions/session_d/paper_374
+        - file: sessions/session_d/paper_1577
+        - file: sessions/session_d/paper_2360
+        - file: sessions/session_d/paper_855
+        - file: sessions/session_d/paper_3669
+    - file: sessions/session_new_04/index
+      sections:
+        - file: sessions/session_new_04/paper_9277
+        - file: sessions/session_new_04/paper_2473
+        - file: sessions/session_new_04/paper_9259
+        - file: sessions/session_new_04/paper_7829
+        - file: sessions/session_new_04/paper_8999
+    - file: sessions/session_new_11/index
+      sections:
+        - file: sessions/session_new_11/paper_2990
+        - file: sessions/session_new_11/paper_5975
+        - file: sessions/session_new_11/paper_6004
+        - file: sessions/session_new_11/paper_7384
+        - file: sessions/session_new_11/paper_2356
+    - file: sessions/session_new_18/index
+      sections:
+        - file: sessions/session_new_18/paper_1615
+        - file: sessions/session_new_18/paper_1702
+        - file: sessions/session_new_18/paper_2654
+        - file: sessions/session_new_18/paper_7792
+        - file: sessions/session_new_18/paper_9227
+    - file: sessions/session_new_25/index
+      sections:
+        - file: sessions/session_new_25/paper_2236
+        - file: sessions/session_new_25/paper_2367
+        - file: sessions/session_new_25/paper_6055
+        - file: sessions/session_new_25/paper_8930
+        - file: sessions/session_new_25/paper_5159
+    - file: sessions/session_new_32/index
+      sections:
+        - file: sessions/session_new_32/paper_3
+        - file: sessions/session_new_32/paper_617
+        - file: sessions/session_new_32/paper_7800
+        - file: sessions/session_new_32/paper_728
+        - file: sessions/session_new_32/paper_9775
+    - file: sessions/session_new_39/index
+      sections:
+        - file: sessions/session_new_39/paper_3684
+        - file: sessions/session_new_39/paper_8836
+        - file: sessions/session_new_39/paper_241
+        - file: sessions/session_new_39/paper_3225
+        - file: sessions/session_new_39/paper_8633
+    - file: sessions/session_new_46/index
+      sections:
+        - file: sessions/session_new_46/paper_2471
+        - file: sessions/session_new_46/paper_7483
+        - file: sessions/session_new_46/paper_2341
+        - file: sessions/session_new_46/paper_5102
+        - file: sessions/session_new_46/paper_714
+  - caption: "Parallel Session 5 · 14:45–16:15"
+    chapters:
+    - file: sessions/session_e/index
+      sections:
+        - file: sessions/session_e/paper_996
+        - file: sessions/session_e/paper_1468
+        - file: sessions/session_e/paper_2602
+        - file: sessions/session_e/paper_4009
+        - file: sessions/session_e/paper_4989
+        - file: sessions/session_e/paper_6275
+        - file: sessions/session_e/paper_2528
+        - file: sessions/session_e/paper_4170
+        - file: sessions/session_e/paper_9713
+        - file: sessions/session_e/paper_7137
+    - file: sessions/session_new_05/index
+      sections:
+        - file: sessions/session_new_05/paper_16
+        - file: sessions/session_new_05/paper_6815
+        - file: sessions/session_new_05/paper_5720
+        - file: sessions/session_new_05/paper_1119
+        - file: sessions/session_new_05/paper_6321
+    - file: sessions/session_new_12/index
+      sections:
+        - file: sessions/session_new_12/paper_51
+        - file: sessions/session_new_12/paper_3342
+        - file: sessions/session_new_12/paper_3595
+        - file: sessions/session_new_12/paper_7085
+        - file: sessions/session_new_12/paper_5658
+    - file: sessions/session_new_19/index
+      sections:
+        - file: sessions/session_new_19/paper_5884
+        - file: sessions/session_new_19/paper_7935
+        - file: sessions/session_new_19/paper_9266
+        - file: sessions/session_new_19/paper_9629
+        - file: sessions/session_new_19/paper_9908
+    - file: sessions/session_new_26/index
+      sections:
+        - file: sessions/session_new_26/paper_147
+        - file: sessions/session_new_26/paper_1935
+        - file: sessions/session_new_26/paper_5657
+        - file: sessions/session_new_26/paper_9222
+        - file: sessions/session_new_26/paper_1870
+    - file: sessions/session_new_33/index
+      sections:
+        - file: sessions/session_new_33/paper_7778
+        - file: sessions/session_new_33/paper_4091
+        - file: sessions/session_new_33/paper_7127
+        - file: sessions/session_new_33/paper_8531
+        - file: sessions/session_new_33/paper_988
+    - file: sessions/session_new_40/index
+      sections:
+        - file: sessions/session_new_40/paper_8370
+        - file: sessions/session_new_40/paper_2014
+        - file: sessions/session_new_40/paper_4622
+        - file: sessions/session_new_40/paper_9168
+        - file: sessions/session_new_40/paper_5092
+    - file: sessions/session_new_47/index
+      sections:
+        - file: sessions/session_new_47/paper_4816
+        - file: sessions/session_new_47/paper_5604
+        - file: sessions/session_new_47/paper_6188
+        - file: sessions/session_new_47/paper_3605
+        - file: sessions/session_new_47/paper_546
+  - caption: "Parallel Session 6 · 16:30–17:45"
+    chapters:
+    - file: sessions/session_f/index
+      sections:
+        - file: sessions/session_f/paper_1773
+        - file: sessions/session_f/paper_2594
+        - file: sessions/session_f/paper_4676
+        - file: sessions/session_f/paper_6406
+    - file: sessions/session_new_06/index
+      sections:
+        - file: sessions/session_new_06/paper_7876
+        - file: sessions/session_new_06/paper_1985
+        - file: sessions/session_new_06/paper_7673
+        - file: sessions/session_new_06/paper_9585
+        - file: sessions/session_new_06/paper_9734
+    - file: sessions/session_new_13/index
+      sections:
+        - file: sessions/session_new_13/paper_670
+        - file: sessions/session_new_13/paper_221
+        - file: sessions/session_new_13/paper_7218
+        - file: sessions/session_new_13/paper_3050
+        - file: sessions/session_new_13/paper_5517
+    - file: sessions/session_new_20/index
+      sections:
+        - file: sessions/session_new_20/paper_5944
+        - file: sessions/session_new_20/paper_7012
+        - file: sessions/session_new_20/paper_7664
+        - file: sessions/session_new_20/paper_9569
+        - file: sessions/session_new_20/paper_9722
+    - file: sessions/session_new_27/index
+      sections:
+        - file: sessions/session_new_27/paper_2769
+        - file: sessions/session_new_27/paper_4080
+        - file: sessions/session_new_27/paper_6080
+        - file: sessions/session_new_27/paper_392
+        - file: sessions/session_new_27/paper_7870
+    - file: sessions/session_new_34/index
+      sections:
+        - file: sessions/session_new_34/paper_7359
+        - file: sessions/session_new_34/paper_2070
+        - file: sessions/session_new_34/paper_4421
+        - file: sessions/session_new_34/paper_7046
+        - file: sessions/session_new_34/paper_4577
+    - file: sessions/session_new_41/index
+      sections:
+        - file: sessions/session_new_41/paper_5686
+        - file: sessions/session_new_41/paper_412
+        - file: sessions/session_new_41/paper_2509
+        - file: sessions/session_new_41/paper_473
+        - file: sessions/session_new_41/paper_9996
+    - file: sessions/session_new_48/index
+      sections:
+        - file: sessions/session_new_48/paper_3989
+        - file: sessions/session_new_48/paper_511
+        - file: sessions/session_new_48/paper_2969
+        - file: sessions/session_new_48/paper_4861
+        - file: sessions/session_new_48/paper_7562
+  - caption: "Parallel Session 7 · 10:45–11:30"
+    chapters:
+    - file: sessions/session_g/index
+      sections:
+        - file: sessions/session_g/paper_808
+        - file: sessions/session_g/paper_4882
+        - file: sessions/session_g/paper_7353
+        - file: sessions/session_g/paper_2730
+        - file: sessions/session_g/paper_7715
+    - file: sessions/session_new_07/index
+      sections:
+        - file: sessions/session_new_07/paper_8680
+        - file: sessions/session_new_07/paper_8695
+        - file: sessions/session_new_07/paper_4253
+        - file: sessions/session_new_07/paper_266
+        - file: sessions/session_new_07/paper_2198
+    - file: sessions/session_new_14/index
+      sections:
+        - file: sessions/session_new_14/paper_7458
+        - file: sessions/session_new_14/paper_4070
+        - file: sessions/session_new_14/paper_7050
+        - file: sessions/session_new_14/paper_377
+        - file: sessions/session_new_14/paper_5152
+    - file: sessions/session_new_21/index
+      sections:
+        - file: sessions/session_new_21/paper_9492
+        - file: sessions/session_new_21/paper_9396
+        - file: sessions/session_new_21/paper_3982
+        - file: sessions/session_new_21/paper_5986
+        - file: sessions/session_new_21/paper_7824
+    - file: sessions/session_new_28/index
+      sections:
+        - file: sessions/session_new_28/paper_9142
+        - file: sessions/session_new_28/paper_7810
+        - file: sessions/session_new_28/paper_5537
+        - file: sessions/session_new_28/paper_6222
+        - file: sessions/session_new_28/paper_644
+    - file: sessions/session_new_35/index
+      sections:
+        - file: sessions/session_new_35/paper_3522
+        - file: sessions/session_new_35/paper_3482
+        - file: sessions/session_new_35/paper_4084
+        - file: sessions/session_new_35/paper_6123
+        - file: sessions/session_new_35/paper_1953
+    - file: sessions/session_new_42/index
+      sections:
+        - file: sessions/session_new_42/paper_5054
+        - file: sessions/session_new_42/paper_474
+        - file: sessions/session_new_42/paper_5744
+        - file: sessions/session_new_42/paper_7149
+        - file: sessions/session_new_42/paper_1891
+    - file: sessions/session_new_49/index
+      sections:
+        - file: sessions/session_new_49/paper_8558
+        - file: sessions/session_new_49/paper_3376
+        - file: sessions/session_new_49/paper_5785
+        - file: sessions/session_new_49/paper_453
+        - file: sessions/session_new_49/paper_7576
