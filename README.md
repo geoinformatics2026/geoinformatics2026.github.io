@@ -32,3 +32,7 @@ jupyter-book build geoinformatics_2026/
 - **Session titles** for sessions labelled `New_XX` are auto-generated keyword clusters.  
   These should be replaced with proper titles once confirmed by session chairs.
 - Character encoding in abstracts has been partially cleaned; a final editorial pass is recommended.
+
+## History
+- 2026/04/28 Initial commit
+
