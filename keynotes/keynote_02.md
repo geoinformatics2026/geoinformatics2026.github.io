@@ -1,22 +1,23 @@
-# Keynote 2: Digital Twin Geoscience: Foundations and Frontiers
+# Digital Twin Geoscience: Foundations and Frontiers by Prof. Guo Huadong
 
-```{admonition} Session Details
+```{admonition} Details
 :class: note
-**Speaker:** Prof. Liang Wei  
-**Affiliation:** Wuhan University, China  
-**Day:** Monday 20 July  
-**Time:** 10:45 – 11:30
+**Speaker:** Professor Guo Huadong  
+**Affiliation:** Chinese Academy of Sciences, China  
+**Day:** [to be confirmed]  
+**Time:** [to be confirmed]  
+**Venue:** Auditorium 2 @ Stephen Riady Centre, UTown
 ```
 
 ## Speaker Introduction
 
-Liang Wei is Dean of the School of Resource and Environmental Science at Wuhan University and a member of the Chinese Academy of Sciences. He pioneered the concept of integrated 3D spatial data infrastructures in China and has led major national programmes for urban digital twin development. Prof. Wei received his doctorate from ETH Zurich and has held visiting positions at Stanford University and Delft University of Technology. His interdisciplinary work bridges geodesy, cartography, and urban informatics, with a particular emphasis on real-time geospatial data streams and city-scale simulation.
+Professor Guo Huadong is Director General of the International Research Center of Big Data for Sustainable Development Goals (CBAS), and a professor of Chinese Academy of Sciences (CAS) Aerospace Information Research Institute. He is an Academician of CAS, a Foreign Member of the Russian Academy of Sciences, a Foreign Member of the Finnish Society of Sciences and Letters, a Fellow of the World Academy of Sciences (TWAS), and a Fellow of the International Science Council (ISC). He presently serves as Honorary President of the International Society for Digital Earth (ISDE), Director of the International Center on Space Technologies for Natural and Cultural Heritage under the Auspices of UNESCO, Member of the ISC Global Commission on Science Missions for Sustainability, Chair of Digital Belt and Road Program (DBAR), and Editor-in-Chief of two scientific journals International Journal of Digital Earth and Big Earth Data. He served as Member of UN 10-Member Group to support the Technology Facilitation Mechanism for SDGs appointed by the UN Secretary General, President of ISDE and ICSU Committee on Data for Science and Technology (CODATA). Prof. Guo specializes in remote sensing, radar for Earth observation, and Digital Earth science. He has published more than 520 papers and 26 books, and is the awardee of 23 international and domestic prizes.
 
 ## Abstract
 
 *[Abstract to be provided by the speaker. A placeholder abstract appears below for layout purposes.]*
 
-This keynote address will examine digital twin geoscience: foundations and frontiers, drawing on the speaker's extensive research programme spanning multiple continents and methodological traditions. The presentation will open with a review of foundational challenges in the field, introduce novel frameworks developed by the speaker's group, and present case studies that illustrate practical applications. Attendees will gain insight into open questions and emerging directions that are likely to shape the discipline over the coming decade.
+
 
 ## Keywords
 

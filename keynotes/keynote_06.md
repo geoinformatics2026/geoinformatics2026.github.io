@@ -1,22 +1,26 @@
-# Keynote 6: Indoor Positioning and Human Behaviour Analytics in Smart Buildings
+# Indoor Positioning and Human Behaviour Analytics in Smart Buildings by Dr. Tao Chuang 
 
-```{admonition} Session Details
+```{admonition} Details
 :class: note
-**Speaker:** Prof. David Chen  
-**Affiliation:** National University of Singapore, Singapore  
-**Day:** Wednesday 22 July  
-**Time:** 09:00 – 09:45
+**Speaker:** Dr. Tao Chuang  
+**Affiliation:** Wayz.ai  
+**Day:** [to be confirmed]  
+**Time:** [to be confirmed]  
+**Venue:** Auditorium 2 @ Stephen Riady Centre, UTown
 ```
 
 ## Speaker Introduction
 
-David Chen is Professor of Urban Systems at the National University of Singapore's Department of Real Estate and the Lee Kuan Yew Centre for Innovative Cities. His research focuses on the built environment's influence on human behaviour, leveraging indoor positioning systems, IoT sensor networks, and GIS to understand occupancy patterns, wayfinding, and post-occupancy evaluation. Prof. Chen holds a PhD from MIT's Department of Urban Studies and Planning and has collaborated with Singapore's Urban Redevelopment Authority, Housing Development Board, and multiple private real estate developers. He is the recipient of the NUS Young Researcher Award and the Singapore Land Authority's Outstanding Research Medal.
+Dr. Tao Chuang is a serial entrepreneur and global leader in geospatial technology and Spatio-Temporal AI.  As Founder and CEO of Wayz.ai, he pioneered the ST-AI platform, revolutionizing urban and enterprise decision-making through groundbreaking DeepCity/DeepLocal solutions that fuse spatially geocoded multi-mode information, knowledge graphs, and Spatial LLM.
+
+As a serial innovator, Dr. Tao previously founded GeoTango – the internet 3D-mapping company acquired by Microsoft – where he architected Microsoft Virtual Earth, laying the foundation for modern digital urban mapping. He also served as CEO of PPTV, the leading online video platform company with 400mm user base, where he transformed China’s online video landscape.
+Academically distinguished, he held the prestigious Canada Research Chair Professorship at York University, authored over 200 influential publications, and secured multiple patents. He received the Honorary Doctor of Laws from York University, recognizing his dual impact as a scientific pioneer and societal transformer. Dr. Tao’s legacy continues to redefine technological boundaries across industries and academia.
+
 
 ## Abstract
 
 *[Abstract to be provided by the speaker. A placeholder abstract appears below for layout purposes.]*
 
-This keynote address will examine indoor positioning and human behaviour analytics in smart buildings, drawing on the speaker's extensive research programme spanning multiple continents and methodological traditions. The presentation will open with a review of foundational challenges in the field, introduce novel frameworks developed by the speaker's group, and present case studies that illustrate practical applications. Attendees will gain insight into open questions and emerging directions that are likely to shape the discipline over the coming decade.
 
 ## Keywords
 

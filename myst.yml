@@ -17,7 +17,7 @@ project:
     - file: ./sessions/slot_e.md
     - file: ./sessions/slot_f.md
     - file: ./sessions/slot_g.md
-  - title: Keynote Presentations
+  - title: Keynote Speeches
     file: ./keynotes/index.md
     children:
     - file: keynotes/keynote_01.md

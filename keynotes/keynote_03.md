@@ -1,16 +1,19 @@
-# Keynote 3: GIS for Climate Resilience across the Global South
+# GIS for Climate Resilience across the Global South by Prof. Stewart Fotheringham
 
-```{admonition} Session Details
+```{admonition} Details
 :class: note
-**Speaker:** Dr. Amara Diallo  
-**Affiliation:** African Space Agency / University of Cape Town, South Africa  
-**Day:** Tuesday 21 July  
-**Time:** 09:00 – 09:45
+**Speaker:** Professor A. Stewart Fotheringham  
+**Affiliation:** Department of Geography at Florida State University, USA  
+**Day:** [to be confirmed]  
+**Time:** [to be confirmed]  
+**Venue:** Auditorium 2 @ Stephen Riady Centre, UTown
 ```
 
 ## Speaker Introduction
 
-Amara Diallo is a principal scientist at the African Space Agency and an adjunct associate professor at the University of Cape Town's Department of Environmental and Geographical Science. Dr. Diallo's research addresses the equity dimensions of geospatial data access in low- and middle-income countries, with a focus on earth observation-driven climate adaptation strategies for sub-Saharan Africa. She holds a PhD from the University of Nairobi and postdoctoral qualifications from Oxford's Environmental Change Institute. Dr. Diallo is a lead author of the IPCC's chapter on data infrastructure for climate resilience and an advocate for open geospatial data governance.
+Professor A. Stewart Fotheringham is Krafft Professor of Spatial Data Science in the Department of Geography at Florida State University where he is also Director of the Spatial Data Science Center (SDSC) in the College of Social Sciences and Public Policy. He is a member of the US National Academy of Sciences and of Academia Europaea and a Fellow of the UK’s Academy of Social Sciences. He is also a Fellow of the American Association of Geographers and the University Consortium for Geographic Information Science.
+
+He has been awarded over $15m in research funding, published 12 books and over 250 research papers. He has nearly 50,000 citations and an H-index of 81. In both 2023 and 2025 he was recognized as one of the top 1% most influential scientists in the World by Clarivate (Web of Science. He is a recipient of the Award for Outstanding Achievement by the Modeling Geographical Systems Commission of the International Geographical Union, the Lifetime Achievement Award by the Chinese Professional Association of GIS and the Distinguished Research Honors Award by the American Association of Geographers. His research interests are in the analysis of spatial data sets using statistical, mathematical and computational methods. He is well-known in the fields of spatial interaction modeling and local statistical analysis and he has substantive interests in health data, crime patterns, retailing and migration.
 
 ## Abstract
 

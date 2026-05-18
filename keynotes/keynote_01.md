@@ -1,22 +1,23 @@
-# Keynote 1: Geospatial Intelligence in the Age of Foundation Models
+# Geospatial Intelligence in the Age of Foundation Models by Prof. Li Deren 
 
-```{admonition} Session Details
+```{admonition} Details
 :class: note
-**Speaker:** Prof. Jane A. Smith  
-**Affiliation:** University of California, Santa Barbara, USA  
-**Day:** Monday 20 July  
-**Time:** 09:45 – 10:30
+**Speaker:** Professor Li Deren  
+**Affiliation:** Wuhan University, China  
+**Day:** [to be confirmed]  
+**Time:** [to be confirmed]  
+**Venue:** Auditorium 2 @ Stephen Riady Centre, UTown
 ```
 
 ## Speaker Introduction
 
-Jane A. Smith is a Distinguished Professor of Geography at the University of California, Santa Barbara, where she holds the endowed Chair in Spatial Data Science. She received her PhD from MIT and has since led transformative research at the intersection of machine learning, geographic information science, and environmental monitoring. Prof. Smith has published over 200 peer-reviewed articles and is a Fellow of the American Association of Geographers. She serves on the scientific advisory boards of NASA's Earth Science Division and the European Space Agency. Her recent work focuses on applying large vision-language models to global-scale environmental mapping and climate adaptation planning.
+Professor Deren Li is a scientist in photogrammetry and remote sensing from Wuhan University, China. He enjoys dual memberships of both Chinese Academy of Sciences and Chinese Academy of Engineering. He received doctor degree from University of Stuttgart in 1985 and honorary doctorate from ETH Zürich in 2008. In 2012, International Society for Photogrammetry and Remote Sensing awarded him Honorary Member, the number of which ISPRS limits to a maximum of ten at any time as the highest honor. In June 2024, he was awarded the national top sci-tech award for the year 2023. He is the honorary director of academic committee of LIESMARS, director of Collaborative Innovation Center of Geospatial Technology.
 
 ## Abstract
 
 *[Abstract to be provided by the speaker. A placeholder abstract appears below for layout purposes.]*
 
-This keynote address will examine geospatial intelligence in the age of foundation models, drawing on the speaker's extensive research programme spanning multiple continents and methodological traditions. The presentation will open with a review of foundational challenges in the field, introduce novel frameworks developed by the speaker's group, and present case studies that illustrate practical applications. Attendees will gain insight into open questions and emerging directions that are likely to shape the discipline over the coming decade.
+
 
 ## Keywords
 
