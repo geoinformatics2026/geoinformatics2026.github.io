@@ -8,6 +8,10 @@ authors:
 - "Mi Chen"
 - "Xiaojuan Li"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R3342.pdf
 ---
 
 # Response and Risk Analysis of Shallow Groundwater and Surface Deformation to Extreme Rainfall in the Beijing Plain
@@ -41,5 +45,5 @@ Semantic Tags: land subsidence; extreme rainfall; shallow groundwater; time-seri
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 ```

@@ -6,6 +6,10 @@ authors:
 - "Hongyan Ren"
 - "An Zhang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R4861.pdf
 ---
 
 # A lightweight Prior-Guided Dual-branch Network for building extraction from optical imagery
@@ -39,5 +43,5 @@ Semantic Tags: building extraction; optical imagery; prior knowledge; deep learn
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

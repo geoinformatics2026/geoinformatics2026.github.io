@@ -1,8 +1,16 @@
+---
+title: "Flood Emergency Response and Evacuation Modeling "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_CED-6/Session_CED-6.pdf
+---
+
 # Session CED-6: Flood Emergency Response and Evacuation Modeling 
 
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 **Theme:** Climate, Environmental Hazards, and Disaster Risk  
 
 ---

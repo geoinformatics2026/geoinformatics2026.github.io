@@ -7,6 +7,10 @@ authors:
 - "Yang Yue"
 - "Yu Wang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R5159.pdf
 ---
 
 # From Clicks to Bricks: Modeling Otaku Culture–driven Spatial Interactions with Digitally Augmented Huff Model
@@ -44,5 +48,5 @@ Semantic Tags: spatial interaction model; Huff model; digital exposure; otaku cu
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

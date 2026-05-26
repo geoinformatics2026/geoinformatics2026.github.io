@@ -5,6 +5,10 @@ authors:
 - "Yueheng Ma"
 - "Yao Yao"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R5657.pdf
 ---
 
 # MGIM: A Masked Modeling Framework for Land Parcel-Level Geo-Inference
@@ -38,5 +42,5 @@ Semantic Tags: GeoAI; multi-source data fusion; spatio-temporal contextual reaso
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

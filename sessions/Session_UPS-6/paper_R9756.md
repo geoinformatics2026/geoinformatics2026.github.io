@@ -3,6 +3,10 @@ title: "Underlying rules of evolutionary urban systems in Africa"
 authors:
 - "Gang Xu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R9756.pdf
 ---
 
 # Underlying rules of evolutionary urban systems in Africa
@@ -36,5 +40,5 @@ Semantic Tags: urban system evolution; Zipf's law; Gibrat's law; scaling law; ci
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

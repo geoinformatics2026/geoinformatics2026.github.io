@@ -5,6 +5,10 @@ authors:
 - "Pengfei Chen"
 - "Xiao Cheng"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R5130.pdf
 ---
 
 # Seeing the Street from Space: Cross-View Human Perception Learning via AlphaEarth
@@ -38,5 +42,5 @@ Semantic Tags: street perception; cross-view deep learning; remote sensing; popu
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

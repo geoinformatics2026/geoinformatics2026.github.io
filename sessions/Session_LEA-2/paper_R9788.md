@@ -5,6 +5,10 @@ authors:
 - "Hong Zhu"
 - "Zhoupeng Ren"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R9788.pdf
 ---
 
 # Offsetting reservoir emissions with floating solar photovoltaics
@@ -40,5 +44,5 @@ Semantic Tags: reservoir greenhouse gas emissions; floating solar photovoltaics;
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

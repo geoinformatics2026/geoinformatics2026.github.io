@@ -1,8 +1,16 @@
+---
+title: "Transport Emissions and Low-Carbon Urban Mobility Systems "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_TMU-2/Session_TMU-2.pdf
+---
+
 # Session TMU-2: Transport Emissions and Low-Carbon Urban Mobility Systems 
 
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 **Theme:** Transportation, Mobility, and Urban Infrastructure  
 
 ---

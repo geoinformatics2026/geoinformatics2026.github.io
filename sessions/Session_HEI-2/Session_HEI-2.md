@@ -1,8 +1,16 @@
+---
+title: "Urban Green Space and Human Well-Being"
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_HEI-2/Session_HEI-2.pdf
+---
+
 # Session HEI-2: Urban Green Space and Human Well-Being
 
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 **Theme:** Health, Equity, and Human-Environment Interactions  
 
 ---

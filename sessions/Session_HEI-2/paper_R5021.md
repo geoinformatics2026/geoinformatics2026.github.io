@@ -5,6 +5,10 @@ authors:
 - "Haona Peng"
 - "Jingyu Tian"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R5021.pdf
 ---
 
 # Multi-scale trade-offs/synergies of ecosystem service supply-demand risk in Wuhan Metropolitan Area based on service flow
@@ -38,5 +42,5 @@ Semantic Tags: ecosystem services; supply-demand balance; service flow; trade-of
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

@@ -8,6 +8,10 @@ authors:
 - "Zhuolin Wu"
 - "Zijin Li"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P3050.pdf
 ---
 
 # Research on the Spatial Pattern of Industrial Land and Its Influencing Factors - A Case Study of the East African Community and Zambia
@@ -43,5 +47,5 @@ Semantic Tags: industrial land use; spatial pattern analysis; GIS spatial analys
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

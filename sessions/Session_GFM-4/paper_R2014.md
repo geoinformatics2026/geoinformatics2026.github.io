@@ -5,6 +5,10 @@ authors:
 - "Haixiao Liu"
 - "Junbo Xia"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R2014.pdf
 ---
 
 # Place reviews as an emerging geospatial instrument for sensing the built environment
@@ -38,5 +42,5 @@ Semantic Tags: place reviews; user-generated content; volunteered geographic inf
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

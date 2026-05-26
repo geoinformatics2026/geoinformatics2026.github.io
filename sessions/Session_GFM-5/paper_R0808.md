@@ -3,6 +3,10 @@ title: "Toward quantum geospatial science: What if geospatial attributes and coo
 authors:
 - "Xiao Huang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R0808.pdf
 ---
 
 # Toward quantum geospatial science: What if geospatial attributes and coordinates are quantum entangled?
@@ -36,5 +40,5 @@ Semantic Tags: quantum geospatial science; coordinate-attribute entanglement; Hi
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

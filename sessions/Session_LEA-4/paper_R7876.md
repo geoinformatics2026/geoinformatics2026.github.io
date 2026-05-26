@@ -3,6 +3,10 @@ title: "Divergent ecosystem responses to climate boundary fluctuations in drylan
 authors:
 - "Jie Jiang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R7876.pdf
 ---
 
 # Divergent ecosystem responses to climate boundary fluctuations in dryland–humid transition zones
@@ -36,5 +40,5 @@ Semantic Tags: dryland-humid transition zone; ecosystem stability; climate bound
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

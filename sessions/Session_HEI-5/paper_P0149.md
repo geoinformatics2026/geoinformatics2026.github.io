@@ -8,6 +8,10 @@ authors:
 - "Dachuan Xu"
 - "Xiaojian Liang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P0149.pdf
 ---
 
 # Geospatial Optimization of Local Specialty Catering Facilities Under Hybrid Tourist–Resident Demand: A Case Study of Guilin
@@ -45,5 +49,5 @@ Semantic Tags: urban service accessibility; facility location optimization; maxi
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

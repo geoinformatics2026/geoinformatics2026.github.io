@@ -6,6 +6,10 @@ authors:
 - "Ran Tao"
 - "Jean-Claude Thill"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R6123.pdf
 ---
 
 # Geographically Weighted Canonical Correlation Analysis: Local Spatial Associations Between Two Sets of Variables
@@ -43,5 +47,5 @@ Semantic Tags: canonical correlation analysis; spatial association; multivariate
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

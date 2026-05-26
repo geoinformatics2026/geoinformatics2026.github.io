@@ -3,6 +3,10 @@ title: "Using mHealth to understand momentary mechanism of physical activity beh
 authors:
 - "Neng Wan"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R2528.pdf
 ---
 
 # Using mHealth to understand momentary mechanism of physical activity behaviors of US Pacific Islanders
@@ -36,5 +40,5 @@ Semantic Tags: physical activity; mobile health; neighborhood effects; Pacific I
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

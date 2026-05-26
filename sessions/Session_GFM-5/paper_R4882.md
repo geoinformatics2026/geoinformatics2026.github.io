@@ -4,6 +4,10 @@ authors:
 - "Ruichen Ma"
 - "Chengxiang Zhuge"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R4882.pdf
 ---
 
 # Linking human activities to the U.S. public electric vehicle charging accessibility: a temporal perspective
@@ -37,5 +41,5 @@ Semantic Tags: electric vehicle charging; spatial accessibility; temporal analys
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

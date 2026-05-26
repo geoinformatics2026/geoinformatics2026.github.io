@@ -4,6 +4,10 @@ authors:
 - "Dong Xie"
 - "Jingnan Huang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R6631.pdf
 ---
 
 # Multi-Scale Spatio-Temporal Graph Convolutional Networks for Dynamic Sub-district-Level Urban Fire Risk Prediction
@@ -37,5 +41,5 @@ Semantic Tags: fire risk prediction; spatio-temporal graph convolutional network
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

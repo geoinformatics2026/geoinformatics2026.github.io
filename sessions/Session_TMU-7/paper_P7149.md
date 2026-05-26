@@ -4,6 +4,10 @@ authors:
 - "Jiayuan Bai"
 - "Jun Cai"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P7149.pdf
 ---
 
 # Assessing Spatial Justice in Public Coasts: A GIS-Based Analysis of Tourist-Resident Contestation Using LBSN Data
@@ -39,5 +43,5 @@ Semantic Tags: spatial justice; coastal tourism; location-based social network; 
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

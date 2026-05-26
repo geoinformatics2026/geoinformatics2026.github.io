@@ -9,6 +9,10 @@ authors:
 - "Albrechtová Jana"
 - "Kupková Lucie"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P0644.pdf
 ---
 
 # Fine-Scale Estimation of Chlorophyll and Carotenoid Content in Norway Spruce Using UAV Hyperspectral Remote Sensing Data and a PROSAIL–Random Forest Hybrid Approach
@@ -44,5 +48,5 @@ Semantic Tags: vegetation biochemistry; chlorophyll estimation; carotenoid conte
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 ```

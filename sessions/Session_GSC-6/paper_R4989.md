@@ -3,6 +3,10 @@ title: "Mobility, Segregation, and Inequalities: How experienced income segregat
 authors:
 - "Yuxuan Zhou"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R4989.pdf
 ---
 
 # Mobility, Segregation, and Inequalities: How experienced income segregation relates to travel behaviour and health inequalities
@@ -36,5 +40,5 @@ Semantic Tags: income segregation; travel behavior; health inequality; human mob
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

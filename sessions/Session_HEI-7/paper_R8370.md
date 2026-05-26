@@ -5,6 +5,10 @@ authors:
 - "Xinyue Liu"
 - "Chunhou Ji"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R8370.pdf
 ---
 
 # Cognitive Map Generation Based on Built Environment Networks
@@ -40,5 +44,5 @@ Semantic Tags: cognitive map; built environment; human mobility; computational n
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

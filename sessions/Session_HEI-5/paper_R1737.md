@@ -3,6 +3,10 @@ title: "15-minute city for all? A critical analysis based on the optimization le
 authors:
 - "Jianying Wang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R1737.pdf
 ---
 
 # 15-minute city for all? A critical analysis based on the optimization lens.
@@ -36,5 +40,5 @@ Semantic Tags: 15-minute city; spatial equity; service accessibility; optimizati
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

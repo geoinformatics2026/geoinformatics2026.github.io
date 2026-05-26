@@ -3,6 +3,10 @@ title: "Remote-Sensing Indicators of Dryland Stress in Punjab, Pakistan: Trends 
 authors:
 - "Junjun Wu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R7673.pdf
 ---
 
 # Remote-Sensing Indicators of Dryland Stress in Punjab, Pakistan: Trends in Vegetation Greenness, Productivity, Moisture Constraint and Degradation Severity
@@ -36,5 +40,5 @@ Semantic Tags: ecosystem degradation; dryland stress; vegetation greenness; net 
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

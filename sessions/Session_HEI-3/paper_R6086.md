@@ -4,6 +4,10 @@ authors:
 - "Zhaoyin Liu"
 - "Linyan Li"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R6086.pdf
 ---
 
 # Geospatial Heterogeneity in Policy Outcomes: Assessing the Health Impacts of Energy and Environmental Interventions in China
@@ -37,5 +41,5 @@ Semantic Tags: public health; environmental policy; health impact assessment; sp
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

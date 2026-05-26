@@ -4,6 +4,10 @@ authors:
 - "Kun Zhou"
 - "Filip Biljecki"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R6329.pdf
 ---
 
 # Assessing the relationship between built environment change and socioeconomic attributes evolution using time series street view imagery
@@ -37,5 +41,5 @@ Semantic Tags: street view imagery time series; change detection; vision-languag
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

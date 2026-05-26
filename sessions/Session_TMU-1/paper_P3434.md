@@ -8,6 +8,10 @@ authors:
 - "Wei-Ting Chen"
 - "Yang-Chou Juan"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P3434.pdf
 ---
 
 # Bike-Sharing User Return Station Prediction Research Based on CNN-cGAN Hybrid Architecture
@@ -49,5 +53,5 @@ Semantic Tags: bike-sharing; return station prediction; deep learning; condition
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

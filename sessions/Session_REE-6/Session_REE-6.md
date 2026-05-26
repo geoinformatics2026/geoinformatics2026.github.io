@@ -1,8 +1,16 @@
+---
+title: "Vegetation and Forest Monitoring with UAV and LiDAR "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_REE-6/Session_REE-6.pdf
+---
+
 # Session REE-6: Vegetation and Forest Monitoring with UAV and LiDAR 
 
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring  
 
 ---

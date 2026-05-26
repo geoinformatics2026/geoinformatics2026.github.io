@@ -1,8 +1,16 @@
+---
+title: "Crop Mapping and Precision Agriculture "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_LEA-7/Session_LEA-7.pdf
+---
+
 # Session LEA-7: Crop Mapping and Precision Agriculture 
 
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development  
 
 ---

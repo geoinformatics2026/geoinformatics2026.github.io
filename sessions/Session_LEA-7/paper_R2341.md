@@ -6,6 +6,10 @@ authors:
 - "Qiang Li"
 - "Kai Tang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R2341.pdf
 ---
 
 # A Soybean Mapping Framework via Multi-Index-Derived Pseudo-Label Enhancement and Contrastive Embedding Neural Network
@@ -39,5 +43,5 @@ Semantic Tags: crop mapping; soybean; pseudo-label enhancement; contrastive lear
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

@@ -7,6 +7,10 @@ authors:
 - "Michele Andreottola"
 - "Cong Peng"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R9978.pdf
 ---
 
 # Combining Street View Imagery and Vision-Language Models to Map Informal Settlements
@@ -42,5 +46,5 @@ Semantic Tags: informal settlement mapping; street view imagery; vision-language
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

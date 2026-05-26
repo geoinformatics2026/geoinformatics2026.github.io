@@ -3,6 +3,10 @@ title: "Limitations of Current Methodological Approaches in Composite Spatial In
 authors:
 - "Ryan Turner"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_S0007.pdf
 ---
 
 # Limitations of Current Methodological Approaches in Composite Spatial Indices of Heat Vulnerability and Implications for Decision Making
@@ -36,5 +40,5 @@ Semantic Tags: heat vulnerability; composite spatial index; weighting techniques
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

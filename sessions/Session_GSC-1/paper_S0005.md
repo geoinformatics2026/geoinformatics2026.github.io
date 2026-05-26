@@ -3,6 +3,10 @@ title: "Learning from Failure: Self-Evolving Spatial Skills for Textual Spatial 
 authors:
 - "Linyue Wang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_S0005.pdf
 ---
 
 # Learning from Failure: Self-Evolving Spatial Skills for Textual Spatial Reasoning in Large Language Models
@@ -36,5 +40,5 @@ Semantic Tags: spatial reasoning; large language model; geographic question answ
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

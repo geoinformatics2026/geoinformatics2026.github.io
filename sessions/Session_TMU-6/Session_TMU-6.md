@@ -1,8 +1,16 @@
+---
+title: "Active Mobility Systems, Micro-Mobility, and Travel Behavior "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_TMU-6/Session_TMU-6.pdf
+---
+
 # Session TMU-6: Active Mobility Systems, Micro-Mobility, and Travel Behavior 
 
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 **Theme:** Transportation, Mobility, and Urban Infrastructure  
 
 ---

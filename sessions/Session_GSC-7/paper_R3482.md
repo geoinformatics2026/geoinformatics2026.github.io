@@ -3,6 +3,10 @@ title: "On the support issue of spatially intensive variables"
 authors:
 - "Xiang Ye"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R3482.pdf
 ---
 
 # On the support issue of spatially intensive variables
@@ -36,5 +40,5 @@ Semantic Tags: spatially intensive variable; support structure; geographic varia
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

@@ -5,6 +5,10 @@ authors:
 - "Heng Chen"
 - "Guanghui Zhu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P1378.pdf
 ---
 
 # A Synergistic Approach for High-Precision Lake Turbidity Retrieval Using ICESat-2 and Sentinel-2 Data
@@ -38,5 +42,5 @@ Semantic Tags: lake turbidity; water quality remote sensing; ICESat-2; Sentinel-
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 ```

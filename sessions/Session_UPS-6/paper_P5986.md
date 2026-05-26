@@ -8,6 +8,10 @@ authors:
 - "Tiansen Guan"
 - "Yining Qiu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P5986.pdf
 ---
 
 # Identifying and Analyzing the Evolution of Urban Functional Areas in Guangzhou by Integrating Nighttime Light and POI Data
@@ -41,5 +45,5 @@ Semantic Tags: urban functional zone; nighttime light remote sensing; point of i
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

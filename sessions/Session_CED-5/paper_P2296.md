@@ -5,6 +5,10 @@ authors:
 - "Meng Qingxiang"
 - "Gong Yuanfu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P2296.pdf
 ---
 
 # Based on a Cloud‑Guided Dual‑Stream MambaVision Framework for Flood Detection: A Case Study of the Miyun Reservoir Area
@@ -40,5 +44,5 @@ Semantic Tags: flood detection; SAR remote sensing; optical-SAR fusion; multimod
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

@@ -10,6 +10,10 @@ authors:
 - "Xin Zhao"
 - "Ting Wei"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P7200.pdf
 ---
 
 # Evaluating Official Health Communication Strategies with an Empirically Parameterized Information–Epidemic Coupled Model
@@ -49,5 +53,5 @@ Semantic Tags: epidemic modeling; information diffusion; agent-based modeling; h
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

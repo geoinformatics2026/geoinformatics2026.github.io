@@ -4,6 +4,10 @@ authors:
 - "Xue Yang"
 - "Qingfeng Guan"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R4421.pdf
 ---
 
 # Heterogeneous Parallel Spatial-Temporal Savitzky-Golay (HP-STSG) Method: Reconstructing NDVI and EVI2 Time Series with High Performance
@@ -39,5 +43,5 @@ Semantic Tags: vegetation index time series reconstruction; NDVI; EVI2; heteroge
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 ```

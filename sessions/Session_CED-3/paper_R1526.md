@@ -5,6 +5,10 @@ authors:
 - "Xuanyu Zhou"
 - "Lu Liang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R1526.pdf
 ---
 
 # Perceiving the Street from Where People Stand: Pedestrian-Centered Multi-View-Factor Mapping via Street View Imagery and Monocular 3D Reconstruction
@@ -40,5 +44,5 @@ Semantic Tags: urban microclimate; sky view factor; green view index; street vie
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

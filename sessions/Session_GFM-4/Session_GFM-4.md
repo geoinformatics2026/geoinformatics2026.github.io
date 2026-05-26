@@ -1,8 +1,16 @@
+---
+title: "Citizen-Generated Geospatial Data: Concepts, Theories, and Challenges"
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_GFM-4/Session_GFM-4.pdf
+---
+
 # Session GFM-4: Citizen-Generated Geospatial Data: Concepts, Theories, and Challenges
 
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning  
 
 ---

@@ -7,6 +7,10 @@ authors:
 - "Zhen Liu"
 - "Huabing Huang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R6321.pdf
 ---
 
 # Urban rooftop mitigation potential assessment and socio-economic exposure response to future heat extremes
@@ -44,5 +48,5 @@ Semantic Tags: urban heat mitigation; WRF model; CMIP6; heatwave; rooftop strate
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

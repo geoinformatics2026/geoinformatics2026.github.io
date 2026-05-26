@@ -3,6 +3,10 @@ title: "Simulating land-use change and carbon storage in the Zhengzhou metropoli
 authors:
 - "Jichao Ma"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_S0017.pdf
 ---
 
 # Simulating land-use change and carbon storage in the Zhengzhou metropolitan area using an intPLUS-InVEST-Stacking-SHAP framework
@@ -36,5 +40,5 @@ Semantic Tags: land use simulation; carbon storage; InVEST model; intPLUS model;
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

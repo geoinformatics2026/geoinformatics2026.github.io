@@ -9,6 +9,10 @@ authors:
 - "Lucy Gunn"
 - "Jago Dodson"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R4170.pdf
 ---
 
 # Neighbourhood Cycling Infrastructure, Commuting Behaviour, and Population Health in Australia: Evidence from the 2021 Census
@@ -44,5 +48,5 @@ Semantic Tags: cycling infrastructure; commuting behavior; population health; ma
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

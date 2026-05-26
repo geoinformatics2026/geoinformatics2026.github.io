@@ -5,6 +5,10 @@ authors:
 - "Hector Menendez Benito"
 - "Wei Fang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P2774.pdf
 ---
 
 # Dynamic Environments Impacts on Mental Health in England
@@ -40,5 +44,5 @@ Semantic Tags: mental health; climate disasters; flood risk; heatwave; multiscal
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

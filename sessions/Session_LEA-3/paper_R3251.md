@@ -5,6 +5,10 @@ authors:
 - "Tanha Bin Mortuza Niloy"
 - "Md. Humayun Kabir"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R3251.pdf
 ---
 
 # Urbanization-Induced LULC Transformation and Ecosystem Service Value Dynamics in Dhaka City (1991-2050): An Integrated GIS-Machine Learning-GeoAI Framework
@@ -42,5 +46,5 @@ Semantic Tags: land use land cover; ecosystem service value; urbanization; Googl
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

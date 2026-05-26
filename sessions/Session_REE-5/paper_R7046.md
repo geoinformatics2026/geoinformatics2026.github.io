@@ -3,6 +3,10 @@ title: "Improving remote estimation of phytoplankton primary production with the
 authors:
 - "Wei Yang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R7046.pdf
 ---
 
 # Improving remote estimation of phytoplankton primary production with the aid of Geostationary satellite observations
@@ -36,5 +40,5 @@ Semantic Tags: phytoplankton primary production; ocean color remote sensing; geo
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 ```

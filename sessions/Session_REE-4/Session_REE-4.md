@@ -1,8 +1,16 @@
+---
+title: "Water Quality and Inland Water Monitoring"
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_REE-4/Session_REE-4.pdf
+---
+
 # Session REE-4: Water Quality and Inland Water Monitoring
 
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring  
 
 ---

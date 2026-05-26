@@ -5,6 +5,10 @@ authors:
 - "Jue Wang"
 - "Ming Chang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R2509.pdf
 ---
 
 # Research on the Coordination Mechanism of the Human-Land System under Disaster Risk: A Case Study of Jilong Town in Southeastern Tibet
@@ -38,5 +42,5 @@ Semantic Tags: geological disaster risk; human-land system; agent-based modeling
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

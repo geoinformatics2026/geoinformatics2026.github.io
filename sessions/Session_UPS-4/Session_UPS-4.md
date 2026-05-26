@@ -1,8 +1,16 @@
+---
+title: "Urban Planning, Renewal, and Socioeconomic Transformation "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_UPS-4/Session_UPS-4.pdf
+---
+
 # Session UPS-4: Urban Planning, Renewal, and Socioeconomic Transformation 
 
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics  
 
 ---

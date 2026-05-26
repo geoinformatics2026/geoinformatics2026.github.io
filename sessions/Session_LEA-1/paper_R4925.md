@@ -4,6 +4,10 @@ authors:
 - "Huihui Feng"
 - "Shu Wang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R4925.pdf
 ---
 
 # Delineation of dual-carbon spatial management units in Hunan Province by coupling carbon budget zoning and major functional zones
@@ -37,5 +41,5 @@ Semantic Tags: carbon budget; major function-oriented zones; spatiotemporal diff
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

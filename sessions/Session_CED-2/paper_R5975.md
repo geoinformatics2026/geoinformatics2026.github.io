@@ -6,6 +6,10 @@ authors:
 - "Stephen Law"
 - "Minwei Zhao"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R5975.pdf
 ---
 
 # FlowAnchorNetwork (FAN): A Theory-Guided Graph Neural Network for Urban Parcel-Level Land Surface Temperature Prediction
@@ -41,5 +45,5 @@ Semantic Tags: land surface temperature; graph neural network; knowledge-guided 
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

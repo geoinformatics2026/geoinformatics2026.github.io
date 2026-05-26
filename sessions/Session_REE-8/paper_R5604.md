@@ -5,6 +5,10 @@ authors:
 - "Qingwu Hu"
 - "Daoyuan Zheng"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R5604.pdf
 ---
 
 # Landslide susceptibility for linear cultural heritage corridors: Multi-scale ensemble learning and temporal analysis of the Ancient Shu Roads
@@ -38,5 +42,5 @@ Semantic Tags: landslide susceptibility; linear cultural heritage; ensemble lear
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

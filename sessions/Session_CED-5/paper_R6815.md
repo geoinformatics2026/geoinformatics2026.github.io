@@ -5,6 +5,10 @@ authors:
 - "Yan Zhang"
 - "Tian Lan"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R6815.pdf
 ---
 
 # From equality to equity: Dual socioeconomic inequalities in mobility-based exposure and exposure avoidance opportunities to urban flooding and their interaction effects
@@ -40,5 +44,5 @@ Semantic Tags: flood exposure; exposure avoidance; environmental equity; dual in
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

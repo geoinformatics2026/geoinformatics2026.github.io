@@ -1,8 +1,16 @@
+---
+title: "Flood Risk, Detection, and Urban Resilience "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_CED-5/Session_CED-5.pdf
+---
+
 # Session CED-5: Flood Risk, Detection, and Urban Resilience 
 
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 **Theme:** Climate, Environmental Hazards, and Disaster Risk  
 
 ---

@@ -4,6 +4,10 @@ authors:
 - "Xiankun Shi"
 - "Hui Lin"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R4472.pdf
 ---
 
 # Process Decomposition and Environmental Driving Mechanisms of Water Use Efficiency in the Poyang Lake Basin
@@ -37,5 +41,5 @@ Semantic Tags: water use efficiency; watershed ecosystem; process decomposition;
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 ```

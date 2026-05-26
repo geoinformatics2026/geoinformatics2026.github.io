@@ -7,6 +7,10 @@ authors:
 - "Liang Zhou"
 - "Yizhang Huang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P7870.pdf
 ---
 
 # Cross-Domain Knowledge Reuse from Remote Sensing Foundation Models for Flood-Damaged Building Extraction in Data-Constrained and Class-Imbalanced Scenarios
@@ -44,5 +48,5 @@ Semantic Tags: flood damage assessment; building extraction; deep learning; cros
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

@@ -7,6 +7,10 @@ authors:
 - "Qiming Zhou"
 - "Shuhong Peng"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R2481.pdf
 ---
 
 # A Combined Method of Driving Factor Analysis and Machine Learning for Early Warning of Moroccan Locust Outbreaks Using Remotely Sensed Data
@@ -44,5 +48,5 @@ Semantic Tags: locust outbreak monitoring; remote sensing; machine learning; dis
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

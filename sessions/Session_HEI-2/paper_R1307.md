@@ -5,6 +5,10 @@ authors:
 - "Mei-Po Kwan"
 - "Yang Liu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R1307.pdf
 ---
 
 # Greenspace Morphology and Momentary Mental Well-Being: A Mobility-Based Analysis of Urban Exposure
@@ -38,5 +42,5 @@ Semantic Tags: urban greenspace; ecological momentary assessment; mobility-based
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

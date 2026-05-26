@@ -5,6 +5,10 @@ authors:
 - "Jiangong Xu"
 - "Jun Pan"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P4298.pdf
 ---
 
 # Bridging the Modality Gap in Optical-SAR Change Detection via Frequency-Aware and Cross-Modal Difference Attention
@@ -38,5 +42,5 @@ Semantic Tags: change detection; optical-SAR fusion; heterogeneous remote sensin
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

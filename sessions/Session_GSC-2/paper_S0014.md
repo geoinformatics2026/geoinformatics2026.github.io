@@ -3,6 +3,10 @@ title: "RoadAgent: A Dual-Agent Framework for Topology-Aware Repair of Crowdsour
 authors:
 - "Ce Hou"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_S0014.pdf
 ---
 
 # RoadAgent: A Dual-Agent Framework for Topology-Aware Repair of Crowdsourced Road Networks
@@ -36,5 +40,5 @@ Semantic Tags: volunteered geographic information; multi-agent reinforcement lea
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

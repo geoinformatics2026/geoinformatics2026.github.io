@@ -1,8 +1,16 @@
+---
+title: "Electric Vehicle Charging Systems and Smart Urban Energy Infrastructure "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_TMU-5/Session_TMU-5.pdf
+---
+
 # Session TMU-5: Electric Vehicle Charging Systems and Smart Urban Energy Infrastructure 
 
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 **Theme:** Transportation, Mobility, and Urban Infrastructure  
 
 ---

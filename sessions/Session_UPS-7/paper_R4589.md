@@ -4,6 +4,10 @@ authors:
 - "Wenlan Zhang"
 - "Chen Zhong"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R4589.pdf
 ---
 
 # Opportunities and Biases of Digital Trace Data for Urban Development in the Global South
@@ -37,5 +41,5 @@ Semantic Tags: digital trace data; urban inequality; street view imagery; comput
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

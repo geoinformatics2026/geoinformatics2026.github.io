@@ -6,6 +6,10 @@ authors:
 - "Biao He"
 - "Xi Kuai"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R5785.pdf
 ---
 
 # Multi-scale urban emergency simulation based on digital twins
@@ -39,5 +43,5 @@ Semantic Tags: urban emergency management; digital twin; spatial data fusion; mu
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

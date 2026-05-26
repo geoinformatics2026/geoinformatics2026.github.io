@@ -5,6 +5,10 @@ authors:
 - "Qimin Cheng"
 - "Zihan Lu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R1615.pdf
 ---
 
 # Climate Modulates Fragmentation-Driven Resilience Loss in Urban–Rural Ecotones
@@ -42,5 +46,5 @@ Semantic Tags: urban-rural ecotone; landscape fragmentation; vegetation resilien
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

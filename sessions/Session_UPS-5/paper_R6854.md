@@ -8,6 +8,10 @@ authors:
 - "Xiaokang Fu"
 - "Yan Zhang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R6854.pdf
 ---
 
 # Exploring the nonlinear impact of visual environment on residents’ happiness: A computational framework integrating semantic and geometric features
@@ -49,5 +53,5 @@ Semantic Tags: visual environment; happiness; isovist; nonlinear relationship; g
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

@@ -4,6 +4,10 @@ authors:
 - "Dayun Sun"
 - "Shenjun Yao"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R8836.pdf
 ---
 
 # A Multi-dimensional Evaluation Framework for Urban Park Service Performance and Spatial Equity: A Case Study of Shanghai
@@ -37,5 +41,5 @@ Semantic Tags: urban park service; spatial equity; spatial accessibility; enviro
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

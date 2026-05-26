@@ -4,6 +4,10 @@ authors:
 - "Lan Mu"
 - "Chen Zhen"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R7458.pdf
 ---
 
 # Retail Beverage Price Inequality: Spatiotemporal Modeling of U.S. Soft Drink Prices (2008–2020)
@@ -37,5 +41,5 @@ Semantic Tags: retail price inequality; spatiotemporal analysis; scanner data; s
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

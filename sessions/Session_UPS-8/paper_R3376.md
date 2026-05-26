@@ -7,6 +7,10 @@ authors:
 - "Miguel Neto"
 - "Bruno Jardim"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R3376.pdf
 ---
 
 # An Indicator-driven Architecture for Decarbonisation-Oriented Urban Digital Twins
@@ -42,5 +46,5 @@ Semantic Tags: urban digital twin; decarbonization; climate action; semantic int
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

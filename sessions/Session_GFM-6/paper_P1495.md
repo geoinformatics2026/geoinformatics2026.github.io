@@ -3,6 +3,10 @@ title: "Spatio-temporal ontology for intergrated watershed system assessment and
 authors:
 - "Shanzhen Yi"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P1495.pdf
 ---
 
 # Spatio-temporal ontology for intergrated watershed system assessment and modeling
@@ -36,5 +40,5 @@ Semantic Tags: spatio-temporal ontology; watershed management; integrated assess
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

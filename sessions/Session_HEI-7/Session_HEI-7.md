@@ -1,8 +1,16 @@
+---
+title: "Spatial Cognition and Navigation "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_HEI-7/Session_HEI-7.pdf
+---
+
 # Session HEI-7: Spatial Cognition and Navigation 
 
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 **Theme:** Health, Equity, and Human-Environment Interactions  
 
 ---

@@ -4,6 +4,10 @@ authors:
 - "Linlin You"
 - "Rui Zhu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R3743.pdf
 ---
 
 # Global scalability of rooftop photovoltaic charging for electric vehicles
@@ -39,5 +43,5 @@ Semantic Tags: rooftop photovoltaic; electric vehicle charging; solar energy; de
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

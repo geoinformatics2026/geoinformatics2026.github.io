@@ -4,6 +4,10 @@ authors:
 - "Jinyang Wang"
 - "Qimin Cheng"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R9227.pdf
 ---
 
 # Quantifying the Impact of Urban Expansion on Urban Ecological Resilience: A Multi-Scale Gradient Analysis
@@ -39,5 +43,5 @@ Semantic Tags: urban expansion; ecological resilience; urbanization; ecological 
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

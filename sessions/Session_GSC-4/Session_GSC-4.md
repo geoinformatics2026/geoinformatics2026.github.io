@@ -1,8 +1,16 @@
+---
+title: "Geographical Principles in Spatial Analysis and Modeling"
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_GSC-4/Session_GSC-4.pdf
+---
+
 # Session GSC-4: Geographical Principles in Spatial Analysis and Modeling
 
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods  
 
 ---

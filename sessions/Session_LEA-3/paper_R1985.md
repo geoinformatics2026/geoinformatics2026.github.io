@@ -5,6 +5,10 @@ authors:
 - "Shumeng Du"
 - "Shanshan Chen"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R1985.pdf
 ---
 
 # The collaborative optimization of existing and additional construction land in urban areas considering land use efficiency
@@ -38,5 +42,5 @@ Semantic Tags: urban expansion; land use efficiency; urban renewal; collaborativ
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

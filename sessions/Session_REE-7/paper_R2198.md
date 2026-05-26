@@ -7,6 +7,10 @@ authors:
 - "Yuankun Wang"
 - "Zhenfeng Shao"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R2198.pdf
 ---
 
 # Reconstructing 10-m Surface Reflectance Dataset from 1990 to 2025 via Semantic-Guided Super-Resolution and Unsupervised Domain Adaption
@@ -42,5 +46,5 @@ Semantic Tags: satellite image time series; historical reconstruction; Landsat; 
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 ```

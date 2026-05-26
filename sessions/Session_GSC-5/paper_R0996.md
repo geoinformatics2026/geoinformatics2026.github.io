@@ -4,6 +4,10 @@ authors:
 - "Weitao Hou"
 - "Yongze Song"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R0996.pdf
 ---
 
 # On the spatial distance between training and validation data in model evaluation
@@ -37,5 +41,5 @@ Semantic Tags: spatial validation; model evaluation; spatial heterogeneity; spat
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

@@ -6,6 +6,10 @@ authors:
 - "Hongzhi Huang"
 - "Chunlong Huang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P8695.pdf
 ---
 
 # Blind Geo-Localization of Optical Images Based on Multi-Stage Intelligent Matching
@@ -39,5 +43,5 @@ Semantic Tags: image geo-localization; multi-stage matching; DINOv2; feature ext
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 ```

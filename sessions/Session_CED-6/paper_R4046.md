@@ -4,6 +4,10 @@ authors:
 - "Xin Xiao"
 - "Hui Lin"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R4046.pdf
 ---
 
 # Multi-Agent Collaboration-Driven Dynamic Assessment of Flood Risk
@@ -37,5 +41,5 @@ Semantic Tags: flood risk assessment; multi-agent collaboration; dynamic geospat
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

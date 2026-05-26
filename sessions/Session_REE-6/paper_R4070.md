@@ -5,6 +5,10 @@ authors:
 - "Yumin Chen"
 - "Shanshan Wei"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R4070.pdf
 ---
 
 # Upscaling NEON Individual-Tree Biomass to Grid-Level AGB Mapping: A Multi-Scale Assessment with Multisource Remote Sensing and ESF-SVC
@@ -40,5 +44,5 @@ Semantic Tags: forest biomass; aboveground biomass; NEON; multi-source remote se
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 ```

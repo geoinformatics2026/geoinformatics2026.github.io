@@ -1,8 +1,16 @@
+---
+title: "Marine and Aquatic Geospatial Monitoring "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_REE-5/Session_REE-5.pdf
+---
+
 # Session REE-5: Marine and Aquatic Geospatial Monitoring 
 
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring  
 
 ---

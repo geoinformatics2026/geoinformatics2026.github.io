@@ -1,8 +1,16 @@
+---
+title: "Cyberinfrastructure and GeoAI for Intelligent Spatial Decision Support"
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_GFM-5/Session_GFM-5.pdf
+---
+
 # Session GFM-5: Cyberinfrastructure and GeoAI for Intelligent Spatial Decision Support
 
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning  
 
 ---

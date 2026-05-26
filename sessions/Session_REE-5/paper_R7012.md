@@ -3,6 +3,10 @@ title: "Decoupling Traffic-Induced and Geometry-Induced Collision Risks in Marit
 authors:
 - "Jiaxiang Cai"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R7012.pdf
 ---
 
 # Decoupling Traffic-Induced and Geometry-Induced Collision Risks in Maritime Chokepoints: A Joint Spatial Point Process Approach
@@ -36,5 +40,5 @@ Semantic Tags: maritime traffic; collision risk; spatial point process; log-Gaus
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 ```

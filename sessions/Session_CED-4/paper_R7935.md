@@ -9,6 +9,10 @@ authors:
 - "Na Li"
 - "Qi Lv"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R7935.pdf
 ---
 
 # PMDNet: Polarimetric Multivariable Decoupling Network for Enhancing Nowcasting
@@ -42,5 +46,5 @@ Semantic Tags: precipitation nowcasting; dual-polarization radar; spatiotemporal
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

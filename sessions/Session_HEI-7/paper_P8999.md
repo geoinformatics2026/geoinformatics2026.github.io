@@ -4,6 +4,10 @@ authors:
 - "Yuval Margolin"
 - "Sagi Dalyot"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P8999.pdf
 ---
 
 # Identity Over Intensity: Device-Agnostic Urban WiFi Positioning via Stable Anchor Clustering
@@ -37,5 +41,5 @@ Semantic Tags: indoor positioning; WiFi fingerprinting; device-agnostic localiza
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

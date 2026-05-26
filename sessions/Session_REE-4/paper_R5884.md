@@ -4,6 +4,10 @@ authors:
 - "Jingyi Meng"
 - "Haoming Xia"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R5884.pdf
 ---
 
 # Spatiotemporal Divergence and Seasonal Inversion of Daytime and Nighttime Precipitation across China: A Five-Decade Observational Study (1972–2024) from the Geospatial Perspective
@@ -37,5 +41,5 @@ Semantic Tags: diurnal precipitation; spatiotemporal analysis; climate change; T
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 ```

@@ -8,6 +8,10 @@ authors:
 - "Dachuan Xu"
 - "Chang Liu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P7308.pdf
 ---
 
 # Cooperative-Competitive Hulatang Location Optimization Based on Deep Reinforcement Learning: A Case Study of Zhengzhou
@@ -47,5 +51,5 @@ Semantic Tags: facility location optimization; maximal covering location problem
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

@@ -5,6 +5,10 @@ authors:
 - "Jingxiang Luo"
 - "Zhenhong Li"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R7085.pdf
 ---
 
 # An Optimized Faster R-CNN-Based Approach for Automated Detection of Slow-Moving Landslides Using InSAR Surface Deformation Rates
@@ -38,5 +42,5 @@ Semantic Tags: landslide detection; InSAR; slow-moving landslides; Faster R-CNN;
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 ```

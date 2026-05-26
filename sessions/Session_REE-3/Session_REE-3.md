@@ -1,8 +1,16 @@
+---
+title: "Hyperspectral Remote Sensing and Spectral Analysis "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_REE-3/Session_REE-3.pdf
+---
+
 # Session REE-3: Hyperspectral Remote Sensing and Spectral Analysis 
 
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring  
 
 ---

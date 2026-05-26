@@ -4,6 +4,10 @@ authors:
 - "Heng Cai"
 - "Hao Tian"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R8235.pdf
 ---
 
 # Leveraging Seismic Signals for Sensing Urban Human Activity and Transportation
@@ -37,5 +41,5 @@ Semantic Tags: urban sensing; seismic signal; human activity monitoring; distrib
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

@@ -4,6 +4,10 @@ authors:
 - "Farasath Hasan"
 - "Xintao Liu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R4840.pdf
 ---
 
 # Advancing Urban Sprawl Quantification Through an Attention-Weighted Deep Neural Framework and Multidimensional Spatial Indicator Integration
@@ -37,5 +41,5 @@ Semantic Tags: urban sprawl; deep neural network; attention mechanism; spatial i
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

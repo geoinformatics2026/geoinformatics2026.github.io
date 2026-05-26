@@ -4,6 +4,10 @@ authors:
 - "Xun Shi"
 - "Lan Wang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R8669.pdf
 ---
 
 # Integrating GIS and Generative AI for Urban Planning: A Multi-Agent, RAG-Driven Approach for Health-Centric Neighborhood Design
@@ -39,5 +43,5 @@ Semantic Tags: GIS; generative AI; urban planning; health-centric neighborhood d
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

@@ -1,8 +1,16 @@
+---
+title: "Hydrometeorological Forecasting and Precipitation Modeling "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_CED-4/Session_CED-4.pdf
+---
+
 # Session CED-4: Hydrometeorological Forecasting and Precipitation Modeling 
 
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 **Theme:** Climate, Environmental Hazards, and Disaster Risk  
 
 ---

@@ -1,8 +1,16 @@
+---
+title: "Urban Digital Twins and 3D City Modeling "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_UPS-8/Session_UPS-8.pdf
+---
+
 # Session UPS-8: Urban Digital Twins and 3D City Modeling 
 
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics  
 
 ---

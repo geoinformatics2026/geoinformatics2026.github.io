@@ -6,6 +6,10 @@ authors:
 - "Weiyao Guo"
 - "Lili Jiang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R5689.pdf
 ---
 
 # Interactive Thematic Map Style Intelligent Recommendation
@@ -39,5 +43,5 @@ Semantic Tags: thematic map style; intelligent recommendation; GeoAI; cartograph
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

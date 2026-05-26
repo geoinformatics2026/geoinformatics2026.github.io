@@ -5,6 +5,10 @@ authors:
 - "Yaning Wang"
 - "Jing Pan"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R9266.pdf
 ---
 
 # From Circulation Shifts to AI Forecasts: Understanding and Predicting Rainfall in Southern China
@@ -38,5 +42,5 @@ Semantic Tags: precipitation forecasting; extreme rainfall; large-scale circulat
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

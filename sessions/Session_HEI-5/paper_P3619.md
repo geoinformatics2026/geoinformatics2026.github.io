@@ -6,6 +6,10 @@ authors:
 - "Haojian Liang"
 - "Jingyi Zhou"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P3619.pdf
 ---
 
 # Geospatial Location Optimization of Convenience Stores in Beijing Using the Maximal Covering Location Problem
@@ -39,5 +43,5 @@ Semantic Tags: convenience store location optimization; maximal covering locatio
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

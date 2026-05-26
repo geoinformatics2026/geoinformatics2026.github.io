@@ -1,8 +1,16 @@
+---
+title: "Remote Sensing Object Detection and Image Enhancement "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_REE-1/Session_REE-1.pdf
+---
+
 # Session REE-1: Remote Sensing Object Detection and Image Enhancement 
 
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring  
 
 ---

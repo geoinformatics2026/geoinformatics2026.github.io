@@ -1,8 +1,16 @@
+---
+title: "Rural Development, Land Sustainability, and Food Systems "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_LEA-6/Session_LEA-6.pdf
+---
+
 # Session LEA-6: Rural Development, Land Sustainability, and Food Systems 
 
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development  
 
 ---

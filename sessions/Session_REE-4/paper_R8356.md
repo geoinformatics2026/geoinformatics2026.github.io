@@ -6,6 +6,10 @@ authors:
 - "Dan Gao"
 - "Chaoyang Fang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R8356.pdf
 ---
 
 # Machine Learning Retrieval of Chromophoric Dissolved Organic Matter (CDOM) in Poyang Lake Using Sentinel-2 Reflectance Simulated from In-situ Hyperspectral Measurements
@@ -41,5 +45,5 @@ Semantic Tags: water quality; CDOM retrieval; Sentinel-2; machine learning; XGBo
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 ```

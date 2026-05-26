@@ -1,8 +1,16 @@
+---
+title: "Street View Analytics and Urban Perception Modeling "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_UPS-3/Session_UPS-3.pdf
+---
+
 # Session UPS-3: Street View Analytics and Urban Perception Modeling 
 
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics  
 
 ---

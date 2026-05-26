@@ -4,6 +4,10 @@ authors:
 - "Yang Li"
 - "Yaochen Qin"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R5402.pdf
 ---
 
 # Extreme Hydrothermal Fluctuations Regulate the Carbon Storage Over Two Decades in Ecological Engineering Zones of China
@@ -37,5 +41,5 @@ Semantic Tags: terrestrial carbon storage; extreme climate; nonlinearity; spatia
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

@@ -5,6 +5,10 @@ authors:
 - "André Barriguinha"
 - "Miguel Castro Neto"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R7576.pdf
 ---
 
 # Towards Complexity-Aware Scenario Modelling in Urban Digital Twins: A Socio-Technical Framework
@@ -38,5 +42,5 @@ Semantic Tags: urban digital twin; socio-technical approach; urban complexity; s
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

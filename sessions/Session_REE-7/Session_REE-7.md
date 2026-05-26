@@ -1,8 +1,16 @@
+---
+title: "Land Cover Mapping and Satellite Time-Series Analysis "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_REE-7/Session_REE-7.pdf
+---
+
 # Session REE-7: Land Cover Mapping and Satellite Time-Series Analysis 
 
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring  
 
 ---

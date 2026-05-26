@@ -5,6 +5,10 @@ authors:
 - "Yixue Wu"
 - "Feixue Li"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R3669.pdf
 ---
 
 # Urban Flood Risk Scenario Simulation Based on EaRs Interrelation Network: a case study of Changzhou, China
@@ -38,5 +42,5 @@ Semantic Tags: urban flood risk; scenario simulation; disaster chain evolution; 
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

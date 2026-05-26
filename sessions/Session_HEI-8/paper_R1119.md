@@ -6,6 +6,10 @@ authors:
 - "Lili Yu"
 - "Wei Yu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R1119.pdf
 ---
 
 # Prenatal Exposure to PM₂.₅ and Ozone and Risk of Preterm Birth in Georgia (2015–2018): A Discrete-Time Survival Analysis Using FAQSD Data
@@ -41,5 +45,5 @@ Semantic Tags: air pollution; prenatal exposure; PM2.5; ozone; preterm birth; su
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

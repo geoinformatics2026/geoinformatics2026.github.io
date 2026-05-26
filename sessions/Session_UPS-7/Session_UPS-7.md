@@ -1,8 +1,16 @@
+---
+title: "Urban Socioeconomic Inequality, Resilience, and Spatial Justice "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_UPS-7/Session_UPS-7.pdf
+---
+
 # Session UPS-7: Urban Socioeconomic Inequality, Resilience, and Spatial Justice 
 
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics  
 
 ---

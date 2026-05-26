@@ -1,8 +1,16 @@
+---
+title: "Intelligent Transportation Systems and Autonomous Driving "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_TMU-8/Session_TMU-8.pdf
+---
+
 # Session TMU-8: Intelligent Transportation Systems and Autonomous Driving 
 
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 **Theme:** Transportation, Mobility, and Urban Infrastructure  
 
 ---

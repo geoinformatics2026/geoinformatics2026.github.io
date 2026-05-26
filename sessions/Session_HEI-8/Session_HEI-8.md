@@ -1,8 +1,16 @@
+---
+title: "Environmental Health and Pollution Exposure "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_HEI-8/Session_HEI-8.pdf
+---
+
 # Session HEI-8: Environmental Health and Pollution Exposure 
 
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 **Theme:** Health, Equity, and Human-Environment Interactions  
 
 ---

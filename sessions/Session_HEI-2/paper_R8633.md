@@ -4,6 +4,10 @@ authors:
 - "Li Zeng"
 - "Han Yang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R8633.pdf
 ---
 
 # How Do Landscape Patterns and Morphological Spatial Patterns Effect the Habitat Quality of Urban Park Green Spaces? — An Interactive Effects Analysis
@@ -37,5 +41,5 @@ Semantic Tags: urban park; habitat quality; landscape pattern; morphological spa
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

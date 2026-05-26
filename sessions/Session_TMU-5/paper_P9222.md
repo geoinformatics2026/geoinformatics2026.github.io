@@ -3,6 +3,10 @@ title: "The Theoretical Logic and Implementation Pathway of Empowering the Low-a
 authors:
 - "Chenyang Wang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P9222.pdf
 ---
 
 # The Theoretical Logic and Implementation Pathway of Empowering the Low-altitude Economy with Spatiotemporal Information
@@ -36,5 +40,5 @@ Semantic Tags: low-altitude economy; spatiotemporal information; urban air mobil
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

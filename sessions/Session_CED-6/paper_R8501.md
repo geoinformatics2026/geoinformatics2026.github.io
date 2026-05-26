@@ -6,6 +6,10 @@ authors:
 - "Ruishan Chen"
 - "Shenjun Yao"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R8501.pdf
 ---
 
 # Equity-informed resilience of emergency medical services to urban flooding: Identifying access gaps for vulnerable older populations
@@ -43,5 +47,5 @@ Semantic Tags: emergency medical services; urban flooding; population ageing; sp
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

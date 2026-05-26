@@ -4,6 +4,10 @@ authors:
 - "Shuyang Hou"
 - "Huayi Wu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R3396.pdf
 ---
 
 # Geo-Informatics Driven by Large Language Models: Key Technologies and Benchmarks for GIS Spatial Analysis Code Generation
@@ -37,5 +41,5 @@ Semantic Tags: large language model; GIS spatial analysis; geospatial code gener
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

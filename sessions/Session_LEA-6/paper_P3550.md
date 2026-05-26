@@ -4,6 +4,10 @@ authors:
 - "Ahmed Sana Abdulrkeeb Mohammed"
 - "Qiuyi Zhang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P3550.pdf
 ---
 
 # Environmental and Social Management of Rural Road Maintenance Projects in Yemen ---A Case Study of Al karishah-Al-Turbah Road in Taiz Governorate
@@ -37,5 +41,5 @@ Semantic Tags: rural road maintenance; environmental and social management; infr
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

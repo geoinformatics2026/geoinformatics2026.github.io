@@ -4,6 +4,10 @@ authors:
 - "Weiqiang Ye"
 - "Hui Lin"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R7954.pdf
 ---
 
 # Poetic Space and Rural Identity: A Study of Poems on Ancient Towns and Villages in Jiangxi Based on Natural Language Processing
@@ -37,5 +41,5 @@ Semantic Tags: historical poetry analysis; ancient towns and villages; natural l
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

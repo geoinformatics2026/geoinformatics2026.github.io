@@ -8,6 +8,10 @@ authors:
 - "Qinjun Qiu"
 - "Yifan Zhao"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R9996.pdf
 ---
 
 # A method for constructing a three-dimensional geological model based on the alignment of geological maps and text
@@ -47,5 +51,5 @@ Semantic Tags: 3D geological modeling; geological map-text alignment; large lang
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

@@ -3,6 +3,10 @@ title: "Percolation-Based Mapping of Urban-Rural Gradients and Their Spatiotempo
 authors:
 - "Yuxia Wang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R0377.pdf
 ---
 
 # Percolation-Based Mapping of Urban-Rural Gradients and Their Spatiotemporal Dynamics in China（2000-2020）
@@ -36,5 +40,5 @@ Semantic Tags: urban-rural gradient; percolation theory; human activity intensit
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

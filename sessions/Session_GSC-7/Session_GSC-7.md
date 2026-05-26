@@ -1,8 +1,16 @@
+---
+title: "Spatial Statistics, Geostatistics, and GIScience Theory"
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_GSC-7/Session_GSC-7.pdf
+---
+
 # Session GSC-7: Spatial Statistics, Geostatistics, and GIScience Theory
 
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods  
 
 ---

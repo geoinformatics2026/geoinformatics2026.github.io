@@ -4,6 +4,10 @@ authors:
 - "Yongmei Lu"
 - "Victor Quarshie"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R3304.pdf
 ---
 
 # Examining Urban-Rural Disparities of Alzheimer's Disease and Related Dementias and Potential Risk Factors in Texas
@@ -37,5 +41,5 @@ Semantic Tags: Alzheimer's disease; dementia; health disparity; urban-rural disp
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

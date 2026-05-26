@@ -5,6 +5,10 @@ authors:
 - "Yongze Song"
 - "Pengcheng Zhang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R1468.pdf
 ---
 
 # Generalized spatial error for validation
@@ -42,5 +46,5 @@ Semantic Tags: spatial model validation; generalized spatial error; RMSE; spatia
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

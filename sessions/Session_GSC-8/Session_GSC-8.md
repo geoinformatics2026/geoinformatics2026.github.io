@@ -1,8 +1,16 @@
+---
+title: "Spatiotemporal Modeling and Graph Neural Networks"
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_GSC-8/Session_GSC-8.pdf
+---
+
 # Session GSC-8: Spatiotemporal Modeling and Graph Neural Networks
 
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods  
 
 ---

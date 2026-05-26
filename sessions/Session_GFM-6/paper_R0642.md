@@ -3,6 +3,10 @@ title: "A Large Language Model-Based Method for Constructing Historical and Cult
 authors:
 - "Lili Jiang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R0642.pdf
 ---
 
 # A Large Language Model-Based Method for Constructing Historical and Cultural Knowledge Graphs and Its Application in Atlas Content Organization
@@ -36,5 +40,5 @@ Semantic Tags: historical cultural knowledge; large language model; knowledge gr
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

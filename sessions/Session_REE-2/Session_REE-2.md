@@ -1,8 +1,16 @@
+---
+title: "InSAR and Geological Hazard Monitoring "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_REE-2/Session_REE-2.pdf
+---
+
 # Session REE-2: InSAR and Geological Hazard Monitoring 
 
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring  
 
 ---

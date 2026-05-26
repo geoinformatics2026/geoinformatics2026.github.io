@@ -4,6 +4,10 @@ authors:
 - "Hongtao Wang"
 - "Zexiang Ren"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P3030.pdf
 ---
 
 # Estimation of forest LAI at the plot scale by using LESS simulation for sample augmentation
@@ -37,5 +41,5 @@ Semantic Tags: leaf area index; forest monitoring; UAV LiDAR; UAV multispectral 
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 ```

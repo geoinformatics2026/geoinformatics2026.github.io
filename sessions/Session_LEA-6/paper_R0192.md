@@ -3,6 +3,10 @@ title: "Reconfiguring China’s interprovincial rice distribution to support low
 authors:
 - "Jintao Yang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R0192.pdf
 ---
 
 # Reconfiguring China’s interprovincial rice distribution to support low-carbon goals under climate change
@@ -36,5 +40,5 @@ Semantic Tags: food supply chain; rice distribution network; low-carbon optimiza
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

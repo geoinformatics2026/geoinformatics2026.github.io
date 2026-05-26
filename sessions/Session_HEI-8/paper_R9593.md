@@ -5,6 +5,10 @@ authors:
 - "Mei Lei"
 - "Shaobin Wang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R9593.pdf
 ---
 
 # A Coupled EPAM-MGWR Framework for Revealing Spatial Non-Stationarity in Industrial Pollution–Cancer Associations
@@ -38,5 +42,5 @@ Semantic Tags: spatial non-stationarity; industrial pollution; cancer; multiscal
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

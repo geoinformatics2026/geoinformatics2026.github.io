@@ -6,6 +6,10 @@ authors:
 - "Minwei Zhao"
 - "Cai Wu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R5152.pdf
 ---
 
 # Automated and Context-Adaptive Assessment of Community Livability via Generative AI and Multimodal Geospatial Data
@@ -39,5 +43,5 @@ Semantic Tags: community livability assessment; generative AI; multimodal geospa
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

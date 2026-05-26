@@ -4,6 +4,10 @@ authors:
 - "Ping Wang"
 - "Jun Zhu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R4738.pdf
 ---
 
 # Efficient detection method for road cracks driven by data and knowledge in complex dynamic environments
@@ -39,5 +43,5 @@ Semantic Tags: road crack detection; semantic segmentation; complex dynamic envi
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

@@ -3,6 +3,10 @@ title: "Quantifying Healthcare Accessibility Disruptions Using Mobile Phone Loca
 authors:
 - "Binbin Lin"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R7137.pdf
 ---
 
 # Quantifying Healthcare Accessibility Disruptions Using Mobile Phone Location Data During Disasters: A Case Study of Hurricane Beryl
@@ -36,5 +40,5 @@ Semantic Tags: healthcare accessibility; disaster disruption; human mobility; mo
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

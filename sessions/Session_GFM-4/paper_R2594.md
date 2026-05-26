@@ -3,6 +3,10 @@ title: "An individual sample-based approach: a new thinking in geographic analys
 authors:
 - "A-Xing Zhu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R2594.pdf
 ---
 
 # An individual sample-based approach: a new thinking in geographic analysis
@@ -36,5 +40,5 @@ Semantic Tags: geographic analysis; Third Law of Geography; spatial prediction; 
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

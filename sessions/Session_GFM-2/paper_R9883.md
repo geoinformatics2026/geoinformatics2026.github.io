@@ -4,6 +4,10 @@ authors:
 - "Wenli Liu"
 - "Longgang Xiang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R9883.pdf
 ---
 
 # Global vegetation carbon loss driven by drought
@@ -37,5 +41,5 @@ Semantic Tags: drought; vegetation carbon sink; net ecosystem exchange; global c
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

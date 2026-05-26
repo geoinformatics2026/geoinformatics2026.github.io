@@ -3,6 +3,10 @@ title: "Global Settlement Classification from True-Color Satellite Imagery"
 authors:
 - "Vincent Zhang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P9277.pdf
 ---
 
 # Global Settlement Classification from True-Color Satellite Imagery
@@ -36,5 +40,5 @@ Semantic Tags: global settlement classification; urban-rural mapping; satellite 
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

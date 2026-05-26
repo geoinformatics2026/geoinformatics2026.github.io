@@ -1,8 +1,16 @@
+---
+title: "Spatial Inequality, Equity, and Food Access "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_HEI-6/Session_HEI-6.pdf
+---
+
 # Session HEI-6: Spatial Inequality, Equity, and Food Access 
 
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 **Theme:** Health, Equity, and Human-Environment Interactions  
 
 ---

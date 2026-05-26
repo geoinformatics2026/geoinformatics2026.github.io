@@ -4,6 +4,10 @@ authors:
 - "Lan Qing Zhao"
 - "Derek Robinson"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R0336.pdf
 ---
 
 # Evaluating Traditional and Novel Height-Diameter Models for Urban Tree DBH Estimation
@@ -37,5 +41,5 @@ Semantic Tags: urban tree; diameter at breast height estimation; LiDAR; height-d
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 ```

@@ -4,6 +4,10 @@ authors:
 - "Ziyu Tong"
 - "Changxi Li"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P7800.pdf
 ---
 
 # A Graph Database-Driven City Information Modeling (CIM) Framework for Urban Renewal Scenarios
@@ -37,5 +41,5 @@ Semantic Tags: city information modeling; graph database; Neo4j; urban renewal; 
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

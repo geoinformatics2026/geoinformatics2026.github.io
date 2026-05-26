@@ -3,6 +3,10 @@ title: "Analysis of the Driving Mechanism of Interprovincial Population Migratio
 authors:
 - "Yuqi Chen"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_S0004.pdf
 ---
 
 # Analysis of the Driving Mechanism of Interprovincial Population Migration in China Based on the Spatiotemporal Durbin Panel Model
@@ -36,5 +40,5 @@ Semantic Tags: interprovincial population migration; spatiotemporal Durbin panel
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

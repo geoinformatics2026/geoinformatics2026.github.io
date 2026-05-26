@@ -5,6 +5,10 @@ authors:
 - "Xiaowei Gao"
 - "Tao Cheng"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R2687.pdf
 ---
 
 # Travel-Demand-Driven Mapping of EV Charging Demand and Supply Adequacy: A London Case Study
@@ -40,5 +44,5 @@ Semantic Tags: electric vehicle charging; GPS trajectory; home detection; chargi
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

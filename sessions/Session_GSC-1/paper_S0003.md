@@ -3,6 +3,10 @@ title: "DirTraj: Behavior-Grounded OD-Conditioned Continuous-Time Route Predicti
 authors:
 - "Xin Jin"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_S0003.pdf
 ---
 
 # DirTraj: Behavior-Grounded OD-Conditioned Continuous-Time Route Prediction on Road Networks
@@ -36,5 +40,5 @@ Semantic Tags: trajectory prediction; road network; neural ordinary differential
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

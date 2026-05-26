@@ -5,6 +5,10 @@ authors:
 - "Shihong Du"
 - "Xiuyuan Zhang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R2473.pdf
 ---
 
 # Pretraining, Adaptation, and Refinement: Mapping Nationwide Urban Villages in China Using Multimodal Geospatial Data
@@ -38,5 +42,5 @@ Semantic Tags: urban village mapping; foundation model; multimodal learning; rem
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

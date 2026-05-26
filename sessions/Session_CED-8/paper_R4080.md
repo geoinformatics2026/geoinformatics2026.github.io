@@ -5,6 +5,10 @@ authors:
 - "Yunbo Zhang"
 - "Chuli Hu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R4080.pdf
 ---
 
 # Spatial Relationship-Aware Observation Event Logic Graph for Flood Disaster Chain: Construction and Observation Planning Application
@@ -38,5 +42,5 @@ Semantic Tags: disaster chain; event logic graph; observation planning; spatiote
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

@@ -4,6 +4,10 @@ authors:
 - "Jun Xu"
 - "Jiaqi Yang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R9142.pdf
 ---
 
 # A self-supervised foundation model for cognitively-plausible topographic eminence extraction
@@ -39,5 +43,5 @@ Semantic Tags: topographic eminence extraction; foundation model; self-supervise
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

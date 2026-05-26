@@ -4,6 +4,10 @@ authors:
 - "Xiaorui She"
 - "Qingxiang Meng"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P7359.pdf
 ---
 
 # STC-Fire: A Topographic-Adaptive Method for Forest Fire Monitoring Using Himawari-8 Data
@@ -37,5 +41,5 @@ Semantic Tags: forest fire detection; geostationary satellite; spatiotemporal co
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

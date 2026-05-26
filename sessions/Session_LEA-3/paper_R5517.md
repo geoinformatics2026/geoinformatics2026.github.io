@@ -4,6 +4,10 @@ authors:
 - "Yasi Tian"
 - "Yice Zhang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R5517.pdf
 ---
 
 # Spatial evolution of urban-rural fringe and its influences on ecological land fragmentation: a case study of Suzhou City, China
@@ -37,5 +41,5 @@ Semantic Tags: urban-rural fringe; land use change; ecological land fragmentatio
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

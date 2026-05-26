@@ -5,6 +5,10 @@ authors:
 - "Ling Qing"
 - "Yong He"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R6222.pdf
 ---
 
 # Self-Supervised Spatio-Temporal Transformer Foundation Model for UAV-Based Yield Prediction in Crop Breeding
@@ -40,5 +44,5 @@ Semantic Tags: crop yield prediction; UAV remote sensing; spatio-temporal transf
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

@@ -5,6 +5,10 @@ authors:
 - "Song Gao"
 - "Qianheng Zhang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R3508.pdf
 ---
 
 # Quantifying geographic domain shift to decouple the geographic transferability of human mobility flow generations
@@ -38,5 +42,5 @@ Semantic Tags: geographic transferability; human mobility flow generation; trans
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

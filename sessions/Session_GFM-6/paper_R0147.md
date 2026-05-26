@@ -7,6 +7,10 @@ authors:
 - "Liufeng Tao"
 - "Qinjun Qiu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R0147.pdf
 ---
 
 # Spatio-Temporal Relevance Classification from Geographic Texts Using Deep Learning
@@ -40,5 +44,5 @@ Semantic Tags: spatio-temporal text classification; geographic knowledge extract
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

@@ -3,6 +3,10 @@ title: "A WRF-ML hybrid modeling framework for characterizing near-surface meteo
 authors:
 - "Wen Liu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R1822.pdf
 ---
 
 # A WRF-ML hybrid modeling framework for characterizing near-surface meteorological fields and LCZ-based microclimate spatiotemporal patterns.
@@ -36,5 +40,5 @@ Semantic Tags: local climate zone; urban microclimate; WRF model; urban canopy m
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

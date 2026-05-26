@@ -1,8 +1,16 @@
+---
+title: "Urban Building Extraction and Remote Sensing "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_LEA-5/Session_LEA-5.pdf
+---
+
 # Session LEA-5: Urban Building Extraction and Remote Sensing 
 
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development  
 
 ---

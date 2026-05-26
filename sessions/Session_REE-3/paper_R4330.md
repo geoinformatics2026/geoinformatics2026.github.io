@@ -5,6 +5,10 @@ authors:
 - "Wenhui Yan"
 - "Yelu Zeng"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R4330.pdf
 ---
 
 # A Practical Method for Estimating Leaf-Scale SIF Escape Fraction Based on Remote Sensing Observables
@@ -38,5 +42,5 @@ Semantic Tags: sun-induced chlorophyll fluorescence; fluorescence escape fractio
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 ```

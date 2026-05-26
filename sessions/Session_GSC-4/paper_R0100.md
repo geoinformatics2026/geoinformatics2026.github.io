@@ -6,6 +6,10 @@ authors:
 - "Peng-Hsiang Jen"
 - "Chun-Hsiang Chan"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R0100.pdf
 ---
 
 # Paying for 3D: When Richer Spatial Representation Yields Little Gain
@@ -41,5 +45,5 @@ Semantic Tags: spatial representation; 3D city models; metric distortion; GIScie
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

@@ -5,6 +5,10 @@ authors:
 - "Qili Gao"
 - "Yang Xu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R0474.pdf
 ---
 
 # A time-geographic approach to studying tourist-resident interactions in a travel destination
@@ -42,5 +46,5 @@ Semantic Tags: tourist-resident interaction; time geography; spatiotemporal beha
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

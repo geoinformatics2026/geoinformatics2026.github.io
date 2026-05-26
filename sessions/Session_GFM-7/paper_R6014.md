@@ -5,6 +5,10 @@ authors:
 - "Cheng Shifen"
 - "Feng Lu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R6014.pdf
 ---
 
 # Reconciling Deep Learning with Spatiotemporal Heterogeneity: A Geographic Perspective
@@ -42,5 +46,5 @@ Semantic Tags: spatiotemporal heterogeneity; deep learning; GeoAI; local heterog
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

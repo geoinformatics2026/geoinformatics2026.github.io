@@ -4,6 +4,10 @@ authors:
 - "Yukun Jiang"
 - "Qingsong He"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R0728.pdf
 ---
 
 # How can the urban landscape affect block-scale urban renewal potential? Insights from large language models and explainable machine learning
@@ -37,5 +41,5 @@ Semantic Tags: urban renewal potential; urban landscape; large language model; e
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

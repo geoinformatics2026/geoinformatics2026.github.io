@@ -3,6 +3,10 @@ title: "Spatiotemporal Coupling of Land Use Carbon Emissions and Ecosystem Servi
 authors:
 - "Bumairiyemu Maimaiti"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R8378.pdf
 ---
 
 # Spatiotemporal Coupling of Land Use Carbon Emissions and Ecosystem Service Value in Typical Oasis Cities in Arid Regions: A Case Study of Urumqi, Xinjiang
@@ -36,5 +40,5 @@ Semantic Tags: carbon emissions; ecosystem service value; spatio-temporal coupli
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

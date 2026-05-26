@@ -1,8 +1,16 @@
+---
+title: "Tourism, Place-Based Behavior, and Spatial Interaction Analysis "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_TMU-7/Session_TMU-7.pdf
+---
+
 # Session TMU-7: Tourism, Place-Based Behavior, and Spatial Interaction Analysis 
 
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 **Theme:** Transportation, Mobility, and Urban Infrastructure  
 
 ---

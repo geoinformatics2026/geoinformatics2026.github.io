@@ -3,6 +3,10 @@ title: "Multi-Scale Deep Learning Extraction of Farmland Shelterbelts Integratin
 authors:
 - "Hongyan Cai"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R2690.pdf
 ---
 
 # Multi-Scale Deep Learning Extraction of Farmland Shelterbelts Integrating Phenological Differences and Texture Features Using Sentinel-2 Imagery
@@ -36,5 +40,5 @@ Semantic Tags: farmland shelterbelt; Sentinel-2; phenology; texture features; mu
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

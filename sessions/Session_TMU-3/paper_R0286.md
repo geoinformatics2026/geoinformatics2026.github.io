@@ -6,6 +6,10 @@ authors:
 - "Yu Zhang"
 - "Zehao Yuan"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R0286.pdf
 ---
 
 # TransMode-LLM: Knowledge-Infused LLM Adaptation toward Individual Transportation Modes Recognition in GPS Trajectories
@@ -43,5 +47,5 @@ Semantic Tags: transportation mode recognition; GPS trajectory; large language m
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

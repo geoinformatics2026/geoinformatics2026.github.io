@@ -8,6 +8,10 @@ authors:
 - "Jianpeng Zhang"
 - "Qianwei Liu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R0241.pdf
 ---
 
 # An integrated LiDAR–optical framework for explaining urban thermal variability across multiple sites
@@ -45,5 +49,5 @@ Semantic Tags: urban heat island; 3D vegetation structure; LiDAR; multi-source r
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

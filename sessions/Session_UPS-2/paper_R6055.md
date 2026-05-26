@@ -5,6 +5,10 @@ authors:
 - "Yinxia Pu"
 - "Wenjin Wu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R6055.pdf
 ---
 
 # Analysis of the Driving Mechanism of Interprovincial Population Migration in China  Based on the Spatiotemporal Durbin Panel Model
@@ -40,5 +44,5 @@ Semantic Tags: interprovincial population migration; spatiotemporal Durbin panel
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

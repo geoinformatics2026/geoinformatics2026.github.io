@@ -1,8 +1,16 @@
+---
+title: "Emerging Applications in Geospatial Technology"
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_GSC-3/Session_GSC-3.pdf
+---
+
 # Session GSC-3: Emerging Applications in Geospatial Technology
 
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods  
 
 ---

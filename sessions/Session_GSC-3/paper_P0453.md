@@ -7,6 +7,10 @@ authors:
 - "Xu Guoshuai"
 - "Li Zhinan"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P0453.pdf
 ---
 
 # Research on the Reform of Surveying and Mapping Professional Talent Cultivation Model Based on 'Master Craftsmen - Curriculum - Evaluation'
@@ -44,5 +48,5 @@ Semantic Tags: surveying and mapping education; geoinformatics curriculum; talen
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

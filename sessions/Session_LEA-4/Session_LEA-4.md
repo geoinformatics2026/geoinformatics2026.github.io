@@ -1,8 +1,16 @@
+---
+title: "Ecosystem Monitoring and Land Surface Dynamics "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_LEA-4/Session_LEA-4.pdf
+---
+
 # Session LEA-4: Ecosystem Monitoring and Land Surface Dynamics 
 
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development  
 
 ---

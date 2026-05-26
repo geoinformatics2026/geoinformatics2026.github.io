@@ -6,6 +6,10 @@ authors:
 - "Minwei Zhao"
 - "Cai Wu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R2058.pdf
 ---
 
 # CityGaze: A Deep Learning Framework for Local Landmark Extraction and Cognitive Mapping from Street View Panoramas
@@ -39,5 +43,5 @@ Semantic Tags: cognitive mapping; local landmark extraction; street view imagery
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

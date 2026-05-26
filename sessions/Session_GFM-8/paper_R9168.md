@@ -4,6 +4,10 @@ authors:
 - "Xiawei Chen"
 - "Yi Long"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R9168.pdf
 ---
 
 # Understanding the focused place of travel-related social media texts: A multi-hierarchical cognitive framework for resolving complex place descriptions
@@ -37,5 +41,5 @@ Semantic Tags: focused place identification; social media text; large language m
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

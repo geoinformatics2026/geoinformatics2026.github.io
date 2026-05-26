@@ -4,6 +4,10 @@ authors:
 - "Zhicheng Zheng"
 - "Yaochen Qin"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R0330.pdf
 ---
 
 # Uncovering carpooling behavior: motivations, carbon effects, and mechanisms from a dynamic geographical perspective using GeoXAI
@@ -37,5 +41,5 @@ Semantic Tags: carpooling behavior; carbon emissions; ride-hailing; spatiotempor
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

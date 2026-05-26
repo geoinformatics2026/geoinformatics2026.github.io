@@ -3,6 +3,10 @@ title: "Spatial Inequality in the Landscape of Fencing: A Geographical Analysis 
 authors:
 - "Kevin Lu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P2471.pdf
 ---
 
 # Spatial Inequality in the Landscape of Fencing: A Geographical Analysis of USA Fencing Clubs
@@ -36,5 +40,5 @@ Semantic Tags: spatial inequality; sport geography; point pattern analysis; dens
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

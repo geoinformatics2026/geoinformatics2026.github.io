@@ -5,6 +5,10 @@ authors:
 - "Changshan Wu"
 - "Zi Yin"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R3684.pdf
 ---
 
 # Resilience Dynamics of the Service Industry under Prolonged COVID-19 Disruptions in Shanghai, China: A POI-based Analysis
@@ -40,5 +44,5 @@ Semantic Tags: business resilience; service industry; COVID-19 recovery; point o
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

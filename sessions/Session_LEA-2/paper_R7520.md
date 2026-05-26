@@ -5,6 +5,10 @@ authors:
 - "Ling Yao"
 - "Tang Liu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R7520.pdf
 ---
 
 # Optimizing Global Solar and Wind Integration through Trans-continental Grid Interconnection: A Spatiotemporal Modeling Approach
@@ -38,5 +42,5 @@ Semantic Tags: renewable energy; solar-wind integration; trans-continental grid;
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

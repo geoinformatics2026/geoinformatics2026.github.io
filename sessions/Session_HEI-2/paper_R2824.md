@@ -3,6 +3,10 @@ title: "Integrating ecological momentary assessment (EMA) and GPS to measure mob
 authors:
 - "Jiangyu Song"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R2824.pdf
 ---
 
 # Integrating ecological momentary assessment (EMA) and GPS to measure mobility-based greenery and short-term happiness
@@ -36,5 +40,5 @@ Semantic Tags: greenspace; ecological momentary assessment; GPS; mobility-based 
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

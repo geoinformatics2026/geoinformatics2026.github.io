@@ -5,6 +5,10 @@ authors:
 - "Yaxiong Shao"
 - "M. Courtney Hughes"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R1891.pdf
 ---
 
 # From Modeled to Realized Access: Comparing Travel Times to Mental Health Care Using Mobility Data in the United States
@@ -38,5 +42,5 @@ Semantic Tags: healthcare accessibility; mental health care; travel time; mobile
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

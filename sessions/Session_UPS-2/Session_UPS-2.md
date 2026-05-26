@@ -1,8 +1,16 @@
+---
+title: "Population Mapping, Migration Dynamics, and Spatial Demography "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_UPS-2/Session_UPS-2.pdf
+---
+
 # Session UPS-2: Population Mapping, Migration Dynamics, and Spatial Demography 
 
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics  
 
 ---

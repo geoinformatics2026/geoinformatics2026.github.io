@@ -4,6 +4,10 @@ authors:
 - "Tingting Xu"
 - "Nuo Xu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R7778.pdf
 ---
 
 # Path Loss Prediction Model of 5G Signal Based on Fusing Data and XGBoost—SHAP Method
@@ -37,5 +41,5 @@ Semantic Tags: 5G signal path loss prediction; multimodal data fusion; XGBoost; 
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

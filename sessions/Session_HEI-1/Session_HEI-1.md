@@ -1,8 +1,16 @@
+---
+title: "Healthcare Accessibility and Spatial Equity "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_HEI-1/Session_HEI-1.pdf
+---
+
 # Session HEI-1: Healthcare Accessibility and Spatial Equity 
 
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 **Theme:** Health, Equity, and Human-Environment Interactions  
 
 ---

@@ -3,6 +3,10 @@ title: "The Impact of Ground-level Ozone Pollution on Subjective Well-being at d
 authors:
 - "Yingying Mei"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R9713.pdf
 ---
 
 # The Impact of Ground-level Ozone Pollution on Subjective Well-being at different levels-An Empirical Study in China.
@@ -36,5 +40,5 @@ Semantic Tags: ground-level ozone; subjective well-being; environmental health; 
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

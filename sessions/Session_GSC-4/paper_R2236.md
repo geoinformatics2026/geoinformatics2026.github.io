@@ -4,6 +4,10 @@ authors:
 - "Yohan Chang"
 - "Jae Soen Son"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R2236.pdf
 ---
 
 # AI-PriSM: Voxel-Ready Cellular Grids for Explainable, Policy-Oriented Population Migration Forecasting
@@ -37,5 +41,5 @@ Semantic Tags: GeoAI; population migration forecasting; cellular geography; expl
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

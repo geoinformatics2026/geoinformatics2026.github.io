@@ -1,8 +1,16 @@
+---
+title: "Urban Spatial Structure and Morphological Analysis"
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_UPS-6/Session_UPS-6.pdf
+---
+
 # Session UPS-6: Urban Spatial Structure and Morphological Analysis
 
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics  
 
 ---

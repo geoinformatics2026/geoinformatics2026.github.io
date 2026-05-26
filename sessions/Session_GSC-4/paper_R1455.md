@@ -3,6 +3,10 @@ title: "Toward a Responsibility-Centred Epistemology of GeoAI: Twin Expressions 
 authors:
 - "Chuan Chen"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R1455.pdf
 ---
 
 # Toward a Responsibility-Centred Epistemology of GeoAI: Twin Expressions of AI Ethics and Geographic Information Science
@@ -36,5 +40,5 @@ Semantic Tags: GeoAI ethics; explainable AI; visual analytics; knowledge graph; 
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

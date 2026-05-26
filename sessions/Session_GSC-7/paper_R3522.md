@@ -5,6 +5,10 @@ authors:
 - "A-Xing Zhu"
 - "Cheng-Zhi Qin"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R3522.pdf
 ---
 
 # Spatial distribution pattern analysis using variograms over geographic and feature space
@@ -40,5 +44,5 @@ Semantic Tags: spatial distribution pattern; variogram; geographic space; featur
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

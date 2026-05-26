@@ -5,6 +5,10 @@ authors:
 - "Shifen Cheng"
 - "Feng Lu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R8403.pdf
 ---
 
 # A Structure-Guided Diffusion Framework for Spatiotemporal Inference under Incomplete Observations
@@ -38,5 +42,5 @@ Semantic Tags: spatiotemporal inference; diffusion model; missing data; tensor d
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

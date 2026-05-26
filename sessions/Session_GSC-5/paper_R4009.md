@@ -10,6 +10,10 @@ authors:
 - "Xueyuan Zhang"
 - "Kai Ren"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R4009.pdf
 ---
 
 # Local pathways of association
@@ -57,5 +61,5 @@ Semantic Tags: local pathway association; spatial association; path analysis; st
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

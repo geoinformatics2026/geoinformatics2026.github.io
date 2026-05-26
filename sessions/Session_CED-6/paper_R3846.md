@@ -3,6 +3,10 @@ title: "The Synergistic Effects of Warning Message Design and Dynamic Flood Risk
 authors:
 - "Shiyan Zhai"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R3846.pdf
 ---
 
 # The Synergistic Effects of Warning Message Design and Dynamic Flood Risk on Evacuation Decisions: A Multi-Scenario Virtual Reality Experiment
@@ -36,5 +40,5 @@ Semantic Tags: flood evacuation; virtual reality experiment; warning message des
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

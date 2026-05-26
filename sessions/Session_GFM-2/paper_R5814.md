@@ -5,6 +5,10 @@ authors:
 - "Huayi Wu"
 - "Kunlun Qi"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R5814.pdf
 ---
 
 # Fine-scale population spatialization with accumulable features from street view imagery and points of interest
@@ -40,5 +44,5 @@ Semantic Tags: population spatialization; street view imagery; point of interest
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

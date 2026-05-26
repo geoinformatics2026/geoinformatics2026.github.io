@@ -4,6 +4,10 @@ authors:
 - "Meixu Chen"
 - "Yunzhe Liu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R7792.pdf
 ---
 
 # Assessment of Urban Vibrancy Resilience Using Mobility Big Data and Spatially Varying Modeling
@@ -39,5 +43,5 @@ Semantic Tags: urban vibrancy resilience; mobility big data; geospatial analytic
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

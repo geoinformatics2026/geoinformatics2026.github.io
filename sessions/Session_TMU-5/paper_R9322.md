@@ -4,6 +4,10 @@ authors:
 - "Xiaobai Angela Yao"
 - "Farnoosh Roozkhosh"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R9322.pdf
 ---
 
 # A Unified Geospatial Framework for Electric-Vehicle Charging Behavior
@@ -39,5 +43,5 @@ Semantic Tags: electric vehicle charging behavior; GeoAI; spatiotemporal modelin
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

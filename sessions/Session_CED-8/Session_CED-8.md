@@ -1,8 +1,16 @@
+---
+title: "Disaster Chain Modeling and Multi-Hazard Analysis "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_CED-8/Session_CED-8.pdf
+---
+
 # Session CED-8: Disaster Chain Modeling and Multi-Hazard Analysis 
 
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 **Theme:** Climate, Environmental Hazards, and Disaster Risk  
 
 ---

@@ -3,6 +3,10 @@ title: "Persistent Inequality in Coal-Related Emission Responsibilities During t
 authors:
 - "Jiajie Shang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R2233.pdf
 ---
 
 # Persistent Inequality in Coal-Related Emission Responsibilities During the Energy Transition
@@ -36,5 +40,5 @@ Semantic Tags: energy transition; coal emissions; multi-regional input-output; c
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

@@ -6,6 +6,10 @@ authors:
 - "Qianqian Li"
 - "Xuanting Chen"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R7722.pdf
 ---
 
 # X-minute cyclable neighborhood：Beyond the one-size-fits-all approach to unpacking the social inequalities
@@ -39,5 +43,5 @@ Semantic Tags: X-minute neighborhood; neighborhood delineation; cycling accessib
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

@@ -7,6 +7,10 @@ authors:
 - "Lizhe Wang"
 - "Nosir Shukurov"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P7562.pdf
 ---
 
 # A Novel Endmember Bundle Extraction Method Based on Modified Adaptive Differential Evolution Algorithm to Address Spectral Variability
@@ -44,5 +48,5 @@ Semantic Tags: hyperspectral remote sensing; spectral variability; endmember ext
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 ```

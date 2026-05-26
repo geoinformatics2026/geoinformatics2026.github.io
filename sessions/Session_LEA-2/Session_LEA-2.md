@@ -1,8 +1,16 @@
+---
+title: "GeoAI-Facilitated Energy Geographies"
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_LEA-2/Session_LEA-2.pdf
+---
+
 # Session LEA-2: GeoAI-Facilitated Energy Geographies
 
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development  
 
 ---

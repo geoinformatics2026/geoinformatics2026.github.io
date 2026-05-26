@@ -3,6 +3,10 @@ title: "Efficient High-Resolution Remote Sensing Land-Cover Segmentation: Achiev
 authors:
 - "Minmin Yu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R4816.pdf
 ---
 
 # Efficient High-Resolution Remote Sensing Land-Cover Segmentation: Achieving Optimal Speed-Accuracy Balance With A Lightweight Hybrid Network Approach
@@ -36,5 +40,5 @@ Semantic Tags: land cover classification; semantic segmentation; lightweight hyb
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 ```

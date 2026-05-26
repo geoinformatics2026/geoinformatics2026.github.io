@@ -4,6 +4,10 @@ authors:
 - "Hongrun Ju"
 - "Shengrui Zhang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R7616.pdf
 ---
 
 # Inter-provincial Flow of Virtual Agricultural Elements and Their Telecoupling Impacts on the Agricultural Environmental Stress in China
@@ -39,5 +43,5 @@ Semantic Tags: virtual agricultural elements; telecoupling; agricultural environ
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

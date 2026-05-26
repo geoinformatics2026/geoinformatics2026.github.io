@@ -5,6 +5,10 @@ authors:
 - "Sylvia He"
 - "Mei-Po Kwan"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R4084.pdf
 ---
 
 # Mixed Geographically Weighted XGBoost (M-GWXGB) Model: A New Spatially Explicit Machine Learning Model
@@ -40,5 +44,5 @@ Semantic Tags: spatially explicit machine learning; geographically weighted XGBo
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

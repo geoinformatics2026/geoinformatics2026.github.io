@@ -3,6 +3,10 @@ title: "Adaptive Battery Scheduling for Renewable-Powered Electric Vehicle Charg
 authors:
 - "Nicoy Morrison"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P0350.pdf
 ---
 
 # Adaptive Battery Scheduling for Renewable-Powered Electric Vehicle Charging
@@ -36,5 +40,5 @@ Semantic Tags: electric vehicle charging; renewable energy integration; deep rei
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

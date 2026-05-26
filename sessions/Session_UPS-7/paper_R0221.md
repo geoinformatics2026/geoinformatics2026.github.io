@@ -4,6 +4,10 @@ authors:
 - "Quang Cuong Doan"
 - "Thi Cam Ngoc Bui"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R0221.pdf
 ---
 
 # Do better street configurations mean higher land prices?  Nonlinear and spatially heterogeneous effects revealed by GeoShapley
@@ -39,5 +43,5 @@ Semantic Tags: street network; land price; nonlinear relationship; spatial heter
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

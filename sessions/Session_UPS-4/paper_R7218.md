@@ -4,6 +4,10 @@ authors:
 - "Yun Han"
 - "Xiaohu Zhang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R7218.pdf
 ---
 
 # From voice to authority: divergence-based participatory optimization for land use layouts generation
@@ -37,5 +41,5 @@ Semantic Tags: participatory urban design; generative urban design; land use lay
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

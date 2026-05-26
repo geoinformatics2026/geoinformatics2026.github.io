@@ -8,6 +8,10 @@ authors:
 - "Yafei Wang"
 - "Renzhong Guo"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P7666.pdf
 ---
 
 # A Knowledge-Guided Urban Regeneration Decision Framework: Integrating Spatial Knowledge Graphs and Large Language Models
@@ -43,5 +47,5 @@ Semantic Tags: urban regeneration; knowledge graph; large language model; graph 
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

@@ -5,6 +5,10 @@ authors:
 - "Shuyu Lei"
 - "Weifeng Li"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R2356.pdf
 ---
 
 # Incorporating Urban Thermal Comfort into TOD Planning: Non-linear Heterogeneous Built Environment Effects
@@ -38,5 +42,5 @@ Semantic Tags: transit-oriented development; urban climate; thermal comfort; bui
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

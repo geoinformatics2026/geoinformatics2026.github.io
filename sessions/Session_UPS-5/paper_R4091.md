@@ -3,6 +3,10 @@ title: "Beyond the Shortest Path: Perception-Aware GIS Routing Using Multimodal 
 authors:
 - "Menglei Guo"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R4091.pdf
 ---
 
 # Beyond the Shortest Path: Perception-Aware GIS Routing Using Multimodal GeoAI
@@ -36,5 +40,5 @@ Semantic Tags: cycling route choice; GeoAI; street view imagery; visual question
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

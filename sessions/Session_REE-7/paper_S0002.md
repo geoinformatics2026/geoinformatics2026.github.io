@@ -3,6 +3,10 @@ title: "HistorySR: Reconstructing 10-m Landsat Imagery from 1990 to 2025 via Sem
 authors:
 - "Xiaoyu Zheng"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_S0002.pdf
 ---
 
 # HistorySR: Reconstructing 10-m Landsat Imagery from 1990 to 2025 via Semantic-Guided Super-Resolution and Unsupervised Domain Adaptation
@@ -36,5 +40,5 @@ Semantic Tags: satellite image time series; Landsat super-resolution; unsupervis
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 ```

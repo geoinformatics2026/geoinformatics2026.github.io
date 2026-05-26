@@ -3,6 +3,10 @@ title: "COVID Impacts on Community Access to Formal Long-term Care and Associate
 authors:
 - "Yiming Zhang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_S0009.pdf
 ---
 
 # COVID Impacts on Community Access to Formal Long-term Care and Associated Disparities
@@ -36,5 +40,5 @@ Semantic Tags: COVID-19; long-term care facilities; spatial accessibility; urban
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

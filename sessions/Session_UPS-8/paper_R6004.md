@@ -3,6 +3,10 @@ title: "3D geovisualisation of a complex urban environment using UAV remote sens
 authors:
 - "Jingxia Wang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R6004.pdf
 ---
 
 # 3D geovisualisation of a complex urban environment using UAV remote sensing in Sheffield, UK
@@ -36,5 +40,5 @@ Semantic Tags: 3D geovisualization; UAV remote sensing; thermal infrared; urban 
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

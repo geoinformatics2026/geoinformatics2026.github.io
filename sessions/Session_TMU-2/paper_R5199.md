@@ -6,6 +6,10 @@ authors:
 - "Yibo Zhao"
 - "Feng Lu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R5199.pdf
 ---
 
 # Freight Network Embedding and Urban Transport CO₂ Exposure: Multi-stage Evidence from China
@@ -39,5 +43,5 @@ Semantic Tags: transport carbon emissions; freight network; urban CO2 exposure; 
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

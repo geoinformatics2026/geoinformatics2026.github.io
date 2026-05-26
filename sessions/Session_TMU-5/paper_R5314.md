@@ -5,6 +5,10 @@ authors:
 - "Yifan Lin"
 - "Yaxing Li"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R5314.pdf
 ---
 
 # Spatial Assessment of Distributed Photovoltaic Layout Suitability on Urban Roads in Singapore: An 'Air-Ground Coordination' Energy Sharing Perspective
@@ -40,5 +44,5 @@ Semantic Tags: photovoltaic site selection; electric vehicle charging; drone rep
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

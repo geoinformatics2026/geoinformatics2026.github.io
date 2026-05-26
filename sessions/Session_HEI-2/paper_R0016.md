@@ -4,6 +4,10 @@ authors:
 - "Yan Zhang"
 - "Meipo Kwan"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R0016.pdf
 ---
 
 # Social media big data reveals how mobility reshapes human environmental exposure inequality
@@ -37,5 +41,5 @@ Semantic Tags: human mobility; green space exposure; environmental inequality; s
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

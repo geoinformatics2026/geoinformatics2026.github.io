@@ -6,6 +6,10 @@ authors:
 - "Ju Wang"
 - "Xuan Peng"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R0206.pdf
 ---
 
 # Refined Reconstruction of Geophysical Fields: Integrating Elevation-Informed Diffusion Processes with Enhanced Feature Spaces
@@ -39,5 +43,5 @@ Semantic Tags: geophysical field reconstruction; diffusion model; conditional va
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 ```

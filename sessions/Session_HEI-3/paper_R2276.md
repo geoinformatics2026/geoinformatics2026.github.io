@@ -5,6 +5,10 @@ authors:
 - "Yongsheng Wang"
 - "Bin Zhu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R2276.pdf
 ---
 
 # Compound temperature-humidity extremes drive up acute mental health outcomes: A 12-year case-crossover metropolitan study
@@ -40,5 +44,5 @@ Semantic Tags: mental health; compound heat-humidity extremes; emergency medical
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

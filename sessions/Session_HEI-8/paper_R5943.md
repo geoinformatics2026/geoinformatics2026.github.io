@@ -4,6 +4,10 @@ authors:
 - "Xinmeng Zhou"
 - "Qingfeng Guan"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R5943.pdf
 ---
 
 # A wind-physics informed neural network with spatial-temporal-variable fusion for predicting multiple air pollutants
@@ -37,5 +41,5 @@ Semantic Tags: air quality prediction; wind field modeling; physics-informed neu
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

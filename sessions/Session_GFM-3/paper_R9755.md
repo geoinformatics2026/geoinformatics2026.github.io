@@ -10,6 +10,10 @@ authors:
 - "Xuefeng Guan"
 - "Huayi Wu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R9755.pdf
 ---
 
 # Knowledge Graph-Enhanced Multimodal Large Language Models for Automated Geospatial Code Generation in Google Earth Engine
@@ -43,5 +47,5 @@ Semantic Tags: Google Earth Engine; multimodal large language model; geospatial 
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

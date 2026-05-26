@@ -6,6 +6,10 @@ authors:
 - "Jinzhou Cao"
 - "Zhaoyue Cai"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R0617.pdf
 ---
 
 # Urban Spatial Universal Representation Integrating Multi-modal Data and Semi-supervised Graph Neural Networks
@@ -43,5 +47,5 @@ Semantic Tags: urban spatial representation; multi-modal data fusion; semi-super
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

@@ -6,6 +6,10 @@ authors:
 - "Fan Zhang"
 - "Yunyan Du"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R1823.pdf
 ---
 
 # Spatially-explicit artificial intelligence framework for post-disaster telecommunication infrastructure network restoration
@@ -43,5 +47,5 @@ Semantic Tags: disaster resilience; telecommunication infrastructure; network re
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

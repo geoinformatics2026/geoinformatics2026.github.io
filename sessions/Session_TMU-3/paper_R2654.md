@@ -4,6 +4,10 @@ authors:
 - "Bing Sheng Wu"
 - "Pin-Yan Liu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R2654.pdf
 ---
 
 # Examination of urban resilience during the COVID-19 pandemic with the analysis of MRT data in Taipei metropolitan area
@@ -37,5 +41,5 @@ Semantic Tags: urban resilience; COVID-19 pandemic; mass rapid transit; dynamic 
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

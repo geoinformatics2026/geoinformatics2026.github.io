@@ -6,6 +6,10 @@ authors:
 - "Wei Tu"
 - "Tianhong Zhao"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R2990.pdf
 ---
 
 # Planning for cooler cities: A multimodal AI framework for hyperlocal spatio-temporal urban heat stress prediction and mitigation
@@ -43,5 +47,5 @@ Semantic Tags: urban heat stress; multimodal deep learning; UTCI; SOLWEIG; lands
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

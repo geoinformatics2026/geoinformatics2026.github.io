@@ -4,6 +4,10 @@ authors:
 - "Jianyuan Liang"
 - "Huayi Wu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R6561.pdf
 ---
 
 # Geospatial modeling workflow knolwledge empowered geospatial code generation
@@ -37,5 +41,5 @@ Semantic Tags: geospatial code generation; workflow knowledge; graph RAG; large 
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

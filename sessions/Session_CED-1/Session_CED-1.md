@@ -1,8 +1,16 @@
+---
+title: "GeoAI and Data Science for Disaster Resilience"
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_CED-1/Session_CED-1.pdf
+---
+
 # Session CED-1: GeoAI and Data Science for Disaster Resilience
 
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 **Theme:** Climate, Environmental Hazards, and Disaster Risk  
 
 ---

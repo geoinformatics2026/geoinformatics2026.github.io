@@ -3,6 +3,10 @@ title: "How does the livelihood vulnerability of rural households facing multipl
 authors:
 - "Yue Sun"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R0473.pdf
 ---
 
 # How does the livelihood vulnerability of rural households facing multiple risks affect their livelihood resilience?
@@ -36,5 +40,5 @@ Semantic Tags: livelihood vulnerability; livelihood resilience; multi-risk asses
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

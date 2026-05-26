@@ -6,6 +6,10 @@ authors:
 - "An Zhang"
 - "Yilan Liao"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R5211.pdf
 ---
 
 # Exploration of the temporal and spatial characteristics of the spread of dengue fever
@@ -39,5 +43,5 @@ Semantic Tags: dengue fever; disease transmission; population dynamics; spatial 
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

@@ -4,6 +4,10 @@ authors:
 - "Xiaowen Luo"
 - "Xiaole Fan"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R3596.pdf
 ---
 
 # Spatiotemporal Evolution and Topographic Anchoring of Antarctic Deep-water Polynyas
@@ -39,5 +43,5 @@ Semantic Tags: Antarctic polynya; deep ocean ventilation; topographic anchoring;
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 ```

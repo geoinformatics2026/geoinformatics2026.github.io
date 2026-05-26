@@ -1,8 +1,16 @@
+---
+title: "Facility Location and Service Accessibility "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_HEI-5/Session_HEI-5.pdf
+---
+
 # Session HEI-5: Facility Location and Service Accessibility 
 
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 **Theme:** Health, Equity, and Human-Environment Interactions  
 
 ---

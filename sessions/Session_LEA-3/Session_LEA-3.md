@@ -1,8 +1,16 @@
+---
+title: "Urban Land Change and Expansion Dynamics"
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_LEA-3/Session_LEA-3.pdf
+---
+
 # Session LEA-3: Urban Land Change and Expansion Dynamics
 
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development  
 
 ---

@@ -7,6 +7,10 @@ authors:
 - "Yang-Chou Juan"
 - "Yi-Chung Chen"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P5968.pdf
 ---
 
 # Bridging Civil Advocacy and Urban Planning: A Spatial-Semantic Framework for Automating Intersection Improvement Reports
@@ -40,5 +44,5 @@ Semantic Tags: urban planning support; intersection redesign; spatial-semantic a
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

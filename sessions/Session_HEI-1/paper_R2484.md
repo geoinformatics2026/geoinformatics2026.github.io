@@ -5,6 +5,10 @@ authors:
 - "Fu Ren"
 - "A-Xing Zhu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R2484.pdf
 ---
 
 # A Cost-Weighted Method for Measuring the Accessibility of Emergency Medical Services
@@ -40,5 +44,5 @@ Semantic Tags: emergency medical services accessibility; two-step floating catch
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

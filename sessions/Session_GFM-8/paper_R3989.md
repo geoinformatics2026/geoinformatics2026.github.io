@@ -4,6 +4,10 @@ authors:
 - "Yuchuan Zhou"
 - "Xiang Zhang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R3989.pdf
 ---
 
 # A View-Dependent Level-of-Detail Rendering Method for Continuous Geographic Features
@@ -37,5 +41,5 @@ Semantic Tags: geospatial visualization; level-of-detail rendering; cartography;
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

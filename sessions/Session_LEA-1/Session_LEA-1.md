@@ -1,8 +1,16 @@
+---
+title: "Carbon Emissions, Energy Transition, and Ecosystem Accounting "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_LEA-1/Session_LEA-1.pdf
+---
+
 # Session LEA-1: Carbon Emissions, Energy Transition, and Ecosystem Accounting 
 
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development  
 
 ---

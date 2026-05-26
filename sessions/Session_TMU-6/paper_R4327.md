@@ -5,6 +5,10 @@ authors:
 - "Yan Wei"
 - "Xuechen Luan"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R4327.pdf
 ---
 
 # Exploring inter-user differences in bike-sharing origin-destination flows across rainfall intensities
@@ -40,5 +44,5 @@ Semantic Tags: bike-sharing; origin-destination flow; rainfall; network structur
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

@@ -1,8 +1,16 @@
+---
+title: "Urban Infrastructure Monitoring, Safety, and Resilience"
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_TMU-4/Session_TMU-4.pdf
+---
+
 # Session TMU-4: Urban Infrastructure Monitoring, Safety, and Resilience
 
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 **Theme:** Transportation, Mobility, and Urban Infrastructure  
 
 ---

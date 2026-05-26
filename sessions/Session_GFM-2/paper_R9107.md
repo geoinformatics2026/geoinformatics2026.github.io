@@ -3,6 +3,10 @@ title: "Exploring the potential of large language models (LLMs) in analyzing pas
 authors:
 - "Shuli Luo"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R9107.pdf
 ---
 
 # Exploring the potential of large language models (LLMs) in analyzing passengers' perceptions of transit service quality
@@ -36,5 +40,5 @@ Semantic Tags: transit service quality; large language model; natural language p
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

@@ -4,6 +4,10 @@ authors:
 - "Yonghui Yao"
 - "Yuchen Liu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R5686.pdf
 ---
 
 # Dynamics of human activity intensity and its implication on climate extremes in China from 2000 to 2019
@@ -39,5 +43,5 @@ Semantic Tags: human activity intensity; climate extreme; spatiotemporal analysi
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

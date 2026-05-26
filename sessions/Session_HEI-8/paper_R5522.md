@@ -3,6 +3,10 @@ title: "Assessing Personal Exposure to Waste Burning Using Passive Sampling and 
 authors:
 - "Yan Lin"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R5522.pdf
 ---
 
 # Assessing Personal Exposure to Waste Burning Using Passive Sampling and Geospatial Mixed Methods
@@ -36,5 +40,5 @@ Semantic Tags: environmental health; waste burning; passive sampling; individual
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

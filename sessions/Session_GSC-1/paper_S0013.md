@@ -3,6 +3,10 @@ title: "A factorized spatio-temporal approach for short-term travel origin-desti
 authors:
 - "Sicong Lai"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_S0013.pdf
 ---
 
 # A factorized spatio-temporal approach for short-term travel origin-destination forecasting
@@ -36,5 +40,5 @@ Semantic Tags: origin-destination forecasting; urban mobility; spatial interacti
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

@@ -5,6 +5,10 @@ authors:
 - "Hu Chuli"
 - "Wang Ke"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R0546.pdf
 ---
 
 # 'Robot-with-a-Drone' Collaborative System: A Seamless Air-Ground Approach for Fine-Grained Inspection of Cultural Heritage
@@ -38,5 +42,5 @@ Semantic Tags: cultural heritage inspection; air-ground robotics; UAV; quadruped
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

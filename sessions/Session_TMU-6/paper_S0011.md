@@ -3,6 +3,10 @@ title: "Inferring Travel Flows with Activity Purposes from the Lens of Integrate
 authors:
 - "Xingyu Zhuo"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_S0011.pdf
 ---
 
 # Inferring Travel Flows with Activity Purposes from the Lens of Integrated Land-use and Transport Modeling
@@ -34,5 +38,5 @@ Semantic Tags: travel flow; activity purpose inference; land use; transport mode
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

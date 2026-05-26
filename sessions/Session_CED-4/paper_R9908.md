@@ -5,6 +5,10 @@ authors:
 - "Lin Fu"
 - "Lei Wang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R9908.pdf
 ---
 
 # GConvAttnLSTM: A Graph-Based Attention LSTM for Multi-Source Satellite Precipitation Fusion over the Yangtze River Basin
@@ -38,5 +42,5 @@ Semantic Tags: satellite precipitation fusion; spatiotemporal deep learning; top
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

@@ -4,6 +4,10 @@ authors:
 - "Qiming Huang"
 - "Bin Zhu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R1161.pdf
 ---
 
 # Geographic accessibility gains confer outsized cardiovascular benefits in underserved nations
@@ -37,5 +41,5 @@ Semantic Tags: healthcare accessibility; cardiovascular disease; global health; 
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

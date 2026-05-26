@@ -5,6 +5,10 @@ authors:
 - "Faming Jing"
 - "Haizhen Chen"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R2177.pdf
 ---
 
 # A Multi-Agent Framework for Geographic Computational Question Answering with Large Language Models
@@ -38,5 +42,5 @@ Semantic Tags: geographic question answering; multi-agent framework; large langu
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

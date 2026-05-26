@@ -1,8 +1,16 @@
+---
+title: "Cartography, Geovisualization, and Geospatial Services "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_GFM-8/Session_GFM-8.pdf
+---
+
 # Session GFM-8: Cartography, Geovisualization, and Geospatial Services 
 
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning  
 
 ---

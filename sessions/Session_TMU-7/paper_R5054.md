@@ -4,6 +4,10 @@ authors:
 - "Zi Ye"
 - "Meixu Chen"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R5054.pdf
 ---
 
 # Airbnb and Tourism Gentrification: Mapping Short-Term Rental Impacts on Residential Neighbourhoods in England
@@ -39,5 +43,5 @@ Semantic Tags: Airbnb; short-term rental; tourism gentrification; neighborhood c
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

@@ -6,6 +6,10 @@ authors:
 - "Yongze Song"
 - "Haiyang Liu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R6275.pdf
 ---
 
 # Shapley-based local indicator for spatial validation
@@ -43,5 +47,5 @@ Semantic Tags: model validation; spatial prediction; shapley values; local deter
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

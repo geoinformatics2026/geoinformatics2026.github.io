@@ -5,6 +5,10 @@ authors:
 - "Shaoming Pan"
 - "Qingxiang Meng"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P3605.pdf
 ---
 
 # MMCA-SAM: Multimodal Cross-Attention SAM for Landslide Segmentation with Topographic Guidance
@@ -40,5 +44,5 @@ Semantic Tags: landslide segmentation; multimodal fusion; Segment Anything Model
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 ```

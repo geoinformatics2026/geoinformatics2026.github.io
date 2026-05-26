@@ -1,8 +1,16 @@
+---
+title: "Urban Environmental Sensing, Livability, and Quality of Life "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_UPS-5/Session_UPS-5.pdf
+---
+
 # Session UPS-5: Urban Environmental Sensing, Livability, and Quality of Life 
 
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics  
 
 ---

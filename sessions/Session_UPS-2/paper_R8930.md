@@ -3,6 +3,10 @@ title: "Emotional Geographies of Youth Migration: Spatiotemporal Sentiment Dynam
 authors:
 - "Jifei Wang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R8930.pdf
 ---
 
 # Emotional Geographies of Youth Migration: Spatiotemporal Sentiment Dynamics from Digital Traces in China
@@ -36,5 +40,5 @@ Semantic Tags: youth migration; emotional geography; geotagged social media; lar
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

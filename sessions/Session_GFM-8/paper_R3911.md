@@ -5,6 +5,10 @@ authors:
 - "Yanwen Wang"
 - "Qi Lv"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R3911.pdf
 ---
 
 # Research on the Cloud Computing-Based Technical Architecture for Meteorological and Oceanographic Services
@@ -38,5 +42,5 @@ Semantic Tags: meteorological and oceanographic services; cloud computing; big d
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

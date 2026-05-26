@@ -3,6 +3,10 @@ title: "Foundational issues of GeoAI in the era of LLMs"
 authors:
 - "Song Gao"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R4676.pdf
 ---
 
 # Foundational issues of GeoAI in the era of LLMs
@@ -36,5 +40,5 @@ Semantic Tags: GeoAI; geospatial artificial intelligence; large language model; 
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

@@ -5,6 +5,10 @@ authors:
 - "Po-Yen Lin"
 - "Yi-Chung Chen"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R7914.pdf
 ---
 
 # Interpretable Generative Diffusion Model for Metro Passenger Flow Prediction and Spatio-Temporal Attribution Analysis: A Case Study of the Taipei Metro, Taiwan
@@ -40,5 +44,5 @@ Semantic Tags: metro passenger flow prediction; explainable AI; uncertainty quan
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

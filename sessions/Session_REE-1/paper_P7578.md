@@ -8,6 +8,10 @@ authors:
 - "Na Wang"
 - "Haipeng Chen"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P7578.pdf
 ---
 
 # LMDNet: A Lightweight Multi-scale Network for Remote Sensing Object Detection
@@ -41,5 +45,5 @@ Semantic Tags: remote sensing object detection; lightweight network; multi-scale
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 ```

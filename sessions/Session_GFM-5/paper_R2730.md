@@ -5,6 +5,10 @@ authors:
 - "Chuli Hu"
 - "Ke Wang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R2730.pdf
 ---
 
 # An Event Logic Graph for Dynamic Risk Chain Evolution in Historic Urban Areas
@@ -38,5 +42,5 @@ Semantic Tags: historic urban area; event logic graph; dynamic risk evolution; k
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

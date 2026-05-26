@@ -3,6 +3,10 @@ title: "An Enhanced Spatiotemporal Fusion Model toward Reliable Global-Scale Sea
 authors:
 - "Dizhou Guo"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R5112.pdf
 ---
 
 # An Enhanced Spatiotemporal Fusion Model toward Reliable Global-Scale Seamless Remote Sensing Data Reconstruction
@@ -36,5 +40,5 @@ Semantic Tags: spatiotemporal fusion; seamless data cube; remote sensing data re
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 ```

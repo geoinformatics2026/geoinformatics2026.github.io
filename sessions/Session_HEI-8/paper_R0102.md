@@ -4,6 +4,10 @@ authors:
 - "Xi Gong"
 - "Yanhong Huang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R0102.pdf
 ---
 
 # Examining the Impact of Industrial Air Pollution on Newborn Hearing Health
@@ -37,5 +41,5 @@ Semantic Tags: air quality; PM2.5 metals; newborn hearing health; GIS; spatial a
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

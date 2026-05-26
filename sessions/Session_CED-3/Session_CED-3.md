@@ -1,8 +1,16 @@
+---
+title: "Urban Heat and Thermal Environment - Part 2 "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_CED-3/Session_CED-3.pdf
+---
+
 # Session CED-3: Urban Heat and Thermal Environment - Part 2 
 
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 **Theme:** Climate, Environmental Hazards, and Disaster Risk  
 
 ---

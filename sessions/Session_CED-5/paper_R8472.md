@@ -6,6 +6,10 @@ authors:
 - "Jianfeng Mai"
 - "Dan Gao"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R8472.pdf
 ---
 
 # Modeling and Predicting the Effects of Pluvial Flooding on the Metro Network in the Guangdong-Hong Kong-Macao Greater Bay Area
@@ -39,5 +43,5 @@ Semantic Tags: urban pluvial flooding; metro network resilience; hydraulic model
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

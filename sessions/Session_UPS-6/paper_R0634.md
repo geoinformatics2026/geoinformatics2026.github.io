@@ -5,6 +5,10 @@ authors:
 - "Yinjie Li"
 - "Chun Li"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R0634.pdf
 ---
 
 # Three-Dimensional Shading Patterns and UV Exposure Risk in Plateau Cities Using Multi-Source Data
@@ -38,5 +42,5 @@ Semantic Tags: 3D urban shading; UV exposure; plateau city; AI-based forest mapp
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

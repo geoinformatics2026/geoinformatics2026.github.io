@@ -4,6 +4,10 @@ authors:
 - "Xue Yang"
 - "Xiaolan Chen"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R1123.pdf
 ---
 
 # FGCBAM-RAFT: Optical Flow Estimation with Flow-Guided Attention for Natural Rivers
@@ -37,5 +41,5 @@ Semantic Tags: river flow velocity; optical flow estimation; attention mechanism
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

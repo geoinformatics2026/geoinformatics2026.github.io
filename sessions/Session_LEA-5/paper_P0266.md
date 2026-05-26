@@ -7,6 +7,10 @@ authors:
 - "Yi Wang"
 - "Haitao Jing"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P0266.pdf
 ---
 
 # Research on Intelligent Building Extraction Models Based on High-Resolution Remote Sensing Imagery
@@ -40,5 +44,5 @@ Semantic Tags: building extraction; high-resolution remote sensing; semantic seg
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

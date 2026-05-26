@@ -4,6 +4,10 @@ authors:
 - "Aohua Tian"
 - "Mark Lindquist"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R7127.pdf
 ---
 
 # Beyond Visual Structure: Contextual Limits of Cross-City Urban Perception Modeling from Street-Level Semantics
@@ -37,5 +41,5 @@ Semantic Tags: urban perception modeling; street view imagery; semantic segmenta
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

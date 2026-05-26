@@ -5,6 +5,10 @@ authors:
 - "Shengyuan Jing"
 - "Zhiwu Zhou"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P3225.pdf
 ---
 
 # Research on the Spatial Patterns of Global Major Cities
@@ -38,5 +42,5 @@ Semantic Tags: global city morphology; spatial pattern; polycentric urban struct
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

@@ -5,6 +5,10 @@ authors:
 - "Chuli Hu"
 - "Ke Wang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R5537.pdf
 ---
 
 # A Spatiotemporal Data Field-Driven UAV Path Planning Framework for Urban High-Density Crowd Hotspot Monitoring
@@ -38,5 +42,5 @@ Semantic Tags: UAV path planning; crowd hotspot monitoring; urban governance; so
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

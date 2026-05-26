@@ -3,6 +3,10 @@ title: "Transferring group knowledge from LLMs: The case of urban perception"
 authors:
 - "Ce Hou"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R6733.pdf
 ---
 
 # Transferring group knowledge from LLMs: The case of urban perception
@@ -36,5 +40,5 @@ Semantic Tags: urban perception; large language model; street view imagery; safe
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

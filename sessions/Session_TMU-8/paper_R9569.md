@@ -4,6 +4,10 @@ authors:
 - "Chenyu Wang"
 - "Chun Chen"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R9569.pdf
 ---
 
 # A Novel Identification Model of Urban Traffic Crash-Prone Location from Geographical Perspective: BPNN-CA Model
@@ -37,5 +41,5 @@ Semantic Tags: traffic safety; crash-prone location; backpropagation neural netw
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

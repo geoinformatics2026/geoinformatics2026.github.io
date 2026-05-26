@@ -1,8 +1,16 @@
+---
+title: "Cultural Heritage Monitoring and Historical GIS "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_REE-8/Session_REE-8.pdf
+---
+
 # Session REE-8: Cultural Heritage Monitoring and Historical GIS 
 
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring  
 
 ---

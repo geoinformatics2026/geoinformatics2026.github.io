@@ -1,8 +1,16 @@
+---
+title: "Geospatial Innovations for Sustainable Transportation and Urban Mobility"
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_TMU-1/Session_TMU-1.pdf
+---
+
 # Session TMU-1: Geospatial Innovations for Sustainable Transportation and Urban Mobility
 
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 **Theme:** Transportation, Mobility, and Urban Infrastructure  
 
 ---

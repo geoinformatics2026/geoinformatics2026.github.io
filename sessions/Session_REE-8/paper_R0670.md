@@ -5,6 +5,10 @@ authors:
 - "Jingbiao Yang"
 - "Luo Guo"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R0670.pdf
 ---
 
 # Geographical Differentiation of Land Use Evolution in Traditional Ethnic Villages from the Perspective of Traditional Ecological Views
@@ -38,5 +42,5 @@ Semantic Tags: land use evolution; traditional ethnic villages; human-environmen
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

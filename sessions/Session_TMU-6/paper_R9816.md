@@ -5,6 +5,10 @@ authors:
 - "Xiaohu Zhang"
 - "Zhejing Cao"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R9816.pdf
 ---
 
 # Modeling e-scooter route choices: infrastructural preferences and intervention scenario analysis
@@ -40,5 +44,5 @@ Semantic Tags: e-scooter route choice; micro-mobility; built environment; cyclin
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

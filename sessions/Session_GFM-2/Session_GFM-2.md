@@ -1,8 +1,16 @@
+---
+title: "Emerging LLM-based Methods for Geospatial Analysis - Part 2"
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_GFM-2/Session_GFM-2.pdf
+---
+
 # Session GFM-2: Emerging LLM-based Methods for Geospatial Analysis - Part 2
 
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning  
 
 ---

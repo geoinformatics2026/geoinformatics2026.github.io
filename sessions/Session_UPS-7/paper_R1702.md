@@ -5,6 +5,10 @@ authors:
 - "Qingyang Yu"
 - "Linyan Li"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R1702.pdf
 ---
 
 # Geospatial Insights into Urban Resilience: A Systematic Review of Urban Resilience Against Extreme Weather Events
@@ -38,5 +42,5 @@ Semantic Tags: urban resilience; extreme weather; climate adaptation; resilience
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

@@ -1,8 +1,16 @@
+---
+title: "Wildfire Detection, Simulation, and Disaster Monitoring"
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_CED-7/Session_CED-7.pdf
+---
+
 # Session CED-7: Wildfire Detection, Simulation, and Disaster Monitoring
 
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 **Theme:** Climate, Environmental Hazards, and Disaster Risk  
 
 ---

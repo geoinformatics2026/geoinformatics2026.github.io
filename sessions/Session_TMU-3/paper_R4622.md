@@ -4,6 +4,10 @@ authors:
 - "Xiaorui Yan"
 - "Tao Pei"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R4622.pdf
 ---
 
 # Torque work of origin-destination flows: Quantifying urban place centrality from a physical perspective
@@ -37,5 +41,5 @@ Semantic Tags: place centrality; origin-destination flow; torque work; urban str
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

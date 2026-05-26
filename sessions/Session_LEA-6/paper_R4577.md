@@ -5,6 +5,10 @@ authors:
 - "Dan Gao"
 - "Chaoyang Fang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R4577.pdf
 ---
 
 # Decline or prosperity ? Decoding the spatio-temporal evolution and types of China's rural areal system vitality
@@ -38,5 +42,5 @@ Semantic Tags: rural vitality; spatio-temporal evolution; rural areal system; ge
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

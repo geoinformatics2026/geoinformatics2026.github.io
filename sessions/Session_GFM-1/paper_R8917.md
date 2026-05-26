@@ -7,6 +7,10 @@ authors:
 - "Xiaomin Lu"
 - "Binbin Lin"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R8917.pdf
 ---
 
 # CartoDirector: A geospatial storyteller that converts text into dynamic cartographic transformations using LLMs
@@ -42,5 +46,5 @@ Semantic Tags: cartographic transformation; geovisualization; visual storytellin
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

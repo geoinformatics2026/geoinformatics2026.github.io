@@ -3,6 +3,10 @@ title: "Hierarchical Decision Mechanisms and Behavioral Heterogeneity in Urban C
 authors:
 - "Xinyue Ma"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R0988.pdf
 ---
 
 # Hierarchical Decision Mechanisms and Behavioral Heterogeneity in Urban Cycling Route Choice
@@ -36,5 +40,5 @@ Semantic Tags: cycling behavior; route choice; inverse reinforcement learning; b
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

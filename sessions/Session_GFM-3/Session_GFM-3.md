@@ -1,8 +1,16 @@
+---
+title: "Large Language Models and Agentic GIS"
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_GFM-3/Session_GFM-3.pdf
+---
+
 # Session GFM-3: Large Language Models and Agentic GIS
 
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning  
 
 ---

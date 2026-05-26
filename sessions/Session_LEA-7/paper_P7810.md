@@ -5,6 +5,10 @@ authors:
 - "Yijia Chen"
 - "Chengyuan Hao"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P7810.pdf
 ---
 
 # Field Validation of Chlorophyll Fluorescence Imaging for Early Detection of Wheat Powdery Mildew: Identifying QYmax as a Key Physiological Indicator
@@ -38,5 +42,5 @@ Semantic Tags: crop disease detection; chlorophyll fluorescence imaging; wheat p
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

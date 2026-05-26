@@ -5,6 +5,10 @@ authors:
 - "Kittiphop Simachokchai"
 - "Nuntikorn Kitratporn"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P0055.pdf
 ---
 
 # Deep Learning–Based Spatial Downscaling of Land Surface Temperature: A Comparative Study of U-Net, ResNet, and Hybrid Models
@@ -38,5 +42,5 @@ Semantic Tags: land surface temperature; spatial downscaling; urban heat island;
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

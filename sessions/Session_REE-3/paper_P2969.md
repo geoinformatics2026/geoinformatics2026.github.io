@@ -8,6 +8,10 @@ authors:
 - "Tong Zhu"
 - "Sheng Wang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P2969.pdf
 ---
 
 # A Spectral Knowledge Graph Construction Framework for Remote Sensing Semantic Modeling
@@ -47,5 +51,5 @@ Semantic Tags: spectral knowledge graph; ontology modeling; geospatial semantics
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 ```

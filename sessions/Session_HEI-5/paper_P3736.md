@@ -8,6 +8,10 @@ authors:
 - "Hao Wang"
 - "Chang Liu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P3736.pdf
 ---
 
 # Optimization of AED Based on Deep Reinforement Learning—Case Study of Haidian District, Beijing
@@ -43,5 +47,5 @@ Semantic Tags: automated external defibrillator placement; spatial optimization;
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

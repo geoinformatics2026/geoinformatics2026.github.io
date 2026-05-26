@@ -4,6 +4,10 @@ authors:
 - "Wang Xingjuan"
 - "Xiang Longgang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R0902.pdf
 ---
 
 # A Container-Based Actor–Critic Reinforcement Learning Approach for Optimized Scheduling in Geospatial Computing Clouds
@@ -37,5 +41,5 @@ Semantic Tags: geospatial cloud computing; actor-critic reinforcement learning; 
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

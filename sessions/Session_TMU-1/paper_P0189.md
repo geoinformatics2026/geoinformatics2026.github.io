@@ -6,6 +6,10 @@ authors:
 - "Jiongxu Chen"
 - "Jincheng Jiang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P0189.pdf
 ---
 
 # A Diffusion Transformer Framework with Geographical Information Enhancement for Trajectory Generation
@@ -39,5 +43,5 @@ Semantic Tags: human mobility; trajectory generation; spatiotemporal modeling; d
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

@@ -6,6 +6,10 @@ authors:
 - "Wei-Chen Lai"
 - "Yi-Chung Chen"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R7715.pdf
 ---
 
 # Bridging Urban Mobility Data and Human Semantics: A Geo-AI Framework for Explainable Tourism Recommendations Using Taipei Metro Flow Patterns and Llama 3
@@ -45,5 +49,5 @@ Semantic Tags: Geo-AI; explainable AI; urban mobility; metro flow prediction; la
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

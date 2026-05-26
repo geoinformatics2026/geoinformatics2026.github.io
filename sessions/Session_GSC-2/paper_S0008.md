@@ -3,6 +3,10 @@ title: "Scale matters: spatial resolutions reshape mangrove landscape structure 
 authors:
 - "Hanwen Zhang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_S0008.pdf
 ---
 
 # Scale matters: spatial resolutions reshape mangrove landscape structure and its drivers in China
@@ -34,5 +38,5 @@ Semantic Tags: mangrove mapping; spatial resolution; landscape structure; scale 
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 ```

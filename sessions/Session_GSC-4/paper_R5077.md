@@ -3,6 +3,10 @@ title: "A hybrid method for spatial prediction integrating the First and Third L
 authors:
 - "Guiming Zhang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R5077.pdf
 ---
 
 # A hybrid method for spatial prediction integrating the First and Third Laws of Geography
@@ -36,5 +40,5 @@ Semantic Tags: spatial prediction; First Law of Geography; Third Law of Geograph
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

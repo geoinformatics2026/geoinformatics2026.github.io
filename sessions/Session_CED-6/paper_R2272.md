@@ -4,6 +4,10 @@ authors:
 - "Wenying Du"
 - "Changyan Xie"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R2272.pdf
 ---
 
 # FloodLang and FloodLoc-Four: A Bilingual Dataset and Fine-Grained Multilevel Framework for Flood-Related Geospatial Information Understanding
@@ -37,5 +41,5 @@ Semantic Tags: flood disaster; social media; geospatial information extraction; 
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

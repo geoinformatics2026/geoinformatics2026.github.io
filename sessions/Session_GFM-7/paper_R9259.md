@@ -9,6 +9,10 @@ authors:
 - "Zichao Zeng"
 - "Tao Cheng"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R9259.pdf
 ---
 
 # Beyond AlphaEarth: Toward Human-Centered Geospatial Foundation Models via POI-Guided Contrastive Learning
@@ -44,5 +48,5 @@ Semantic Tags: geospatial foundation model; urban representation learning; contr
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

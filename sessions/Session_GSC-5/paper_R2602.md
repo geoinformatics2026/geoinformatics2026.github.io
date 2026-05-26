@@ -7,6 +7,10 @@ authors:
 - "Rui Qu"
 - "Qiang Yu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R2602.pdf
 ---
 
 # Second-dimension outliers for spatial prediction
@@ -46,5 +50,5 @@ Semantic Tags: spatial prediction; spatial outliers; second-dimension spatial as
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

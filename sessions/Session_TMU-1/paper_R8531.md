@@ -4,6 +4,10 @@ authors:
 - "Kezhou Ren"
 - "Xiao Li"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R8531.pdf
 ---
 
 # Are All Safe Streetscapes Alike? Convergence and Divergence in Perceived Street Safety Using Vision Foundation Models
@@ -37,5 +41,5 @@ Semantic Tags: street safety; streetscape perception; vision foundation model; w
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

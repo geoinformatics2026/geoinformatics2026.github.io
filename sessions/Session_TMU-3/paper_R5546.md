@@ -3,6 +3,10 @@ title: "Stage-dependent scaling of travel distance shaped by 3D urban form"
 authors:
 - "Yangzi Che"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R5546.pdf
 ---
 
 # Stage-dependent scaling of travel distance shaped by 3D urban form
@@ -36,5 +40,5 @@ Semantic Tags: urban mobility; 3D urban morphology; building height; urban scali
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-D  
+**Venue:** TP-Lv2-SR-E (Room-5/6)  
 ```

@@ -6,6 +6,10 @@ authors:
 - "Hao Li"
 - "Wufan Zhao"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R1577.pdf
 ---
 
 # Cross-Regional Building Damage Mapping with Prototype-Based Spatial Representation Learning
@@ -43,5 +47,5 @@ Semantic Tags: building damage mapping; vision foundation model; spatial represe
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

@@ -1,8 +1,16 @@
+---
+title: "GeoAI, Foundation Models, and Spatial Learning "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_GFM-7/Session_GFM-7.pdf
+---
+
 # Session GFM-7: GeoAI, Foundation Models, and Spatial Learning 
 
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning  
 
 ---

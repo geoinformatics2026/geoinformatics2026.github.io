@@ -1,8 +1,16 @@
+---
+title: "Geospatial Modeling for Sustainable Development"
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_UPS-1/Session_UPS-1.pdf
+---
+
 # Session UPS-1: Geospatial Modeling for Sustainable Development
 
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics  
 
 ---

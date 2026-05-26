@@ -1,8 +1,16 @@
+---
+title: "Climate Extremes, Heat Exposure, and Public Health "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_HEI-3/Session_HEI-3.pdf
+---
+
 # Session HEI-3: Climate Extremes, Heat Exposure, and Public Health 
 
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 **Theme:** Health, Equity, and Human-Environment Interactions  
 
 ---

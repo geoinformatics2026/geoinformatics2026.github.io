@@ -4,6 +4,10 @@ authors:
 - "Yuhan Cui"
 - "Mei-Po Kwan"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R6771.pdf
 ---
 
 # Sampling the City: Revisiting the Neighborhood Effect Averaging Problem (NEAP)  Through the Interplay Between Mobility and Socio-spatial Contexts
@@ -37,5 +41,5 @@ Semantic Tags: neighborhood effect averaging problem; environmental exposure; mo
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

@@ -10,6 +10,10 @@ authors:
 - "Xuefeng Guan"
 - "Huayi Wu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R2555.pdf
 ---
 
 # Geospatial Code Diagnosis and Repair Model for Assisting GEE Code Generation Agents
@@ -45,5 +49,5 @@ Semantic Tags: Google Earth Engine; automated code repair; large language model;
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

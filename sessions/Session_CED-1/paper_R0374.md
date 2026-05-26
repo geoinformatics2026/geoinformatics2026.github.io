@@ -5,6 +5,10 @@ authors:
 - "Nina Lam"
 - "Yingjie Hu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R0374.pdf
 ---
 
 # Understanding human mobility patterns disrupted by the 2025 California wildfires using mobile phone location data
@@ -40,5 +44,5 @@ Semantic Tags: human mobility; wildfire; disaster resilience; mobile phone locat
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

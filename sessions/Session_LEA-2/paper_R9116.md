@@ -5,6 +5,10 @@ authors:
 - "Yumin Chen"
 - "Rui Zhu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R9116.pdf
 ---
 
 # SSDFNet: State Space-Driven Multi-Level Feature Interaction and Frequency-Domain Enhancement for Optical-SAR Building Extraction
@@ -40,5 +44,5 @@ Semantic Tags: building extraction; SAR remote sensing; optical imagery; multimo
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

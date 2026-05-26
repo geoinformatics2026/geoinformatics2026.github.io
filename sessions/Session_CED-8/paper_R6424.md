@@ -4,6 +4,10 @@ authors:
 - "Changchang Dong"
 - "Shiyan Zhai"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R6424.pdf
 ---
 
 # A Multi-Stage Vertiport Location Problem for eVTOL Rescue under Flood Disasters: A Case Study of Zhengzhou
@@ -37,5 +41,5 @@ Semantic Tags: eVTOL; vertiport location; flood disaster; spatial optimization; 
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

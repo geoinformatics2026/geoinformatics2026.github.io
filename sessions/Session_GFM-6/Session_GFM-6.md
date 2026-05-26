@@ -1,8 +1,16 @@
+---
+title: "Knowledge Graphs and Spatial Semantics "
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_GFM-6/Session_GFM-6.pdf
+---
+
 # Session GFM-6: Knowledge Graphs and Spatial Semantics 
 
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning  
 
 ---

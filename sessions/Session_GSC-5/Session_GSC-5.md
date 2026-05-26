@@ -1,8 +1,16 @@
+---
+title: "Advanced Geospatial Data and Methods for Transforming Healthy Cities Delivery - Part 1"
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_GSC-5/Session_GSC-5.pdf
+---
+
 # Session GSC-5: Advanced Geospatial Data and Methods for Transforming Healthy Cities Delivery - Part 1
 
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods  
 
 ---

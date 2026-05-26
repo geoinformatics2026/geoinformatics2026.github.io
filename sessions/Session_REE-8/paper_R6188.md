@@ -5,6 +5,10 @@ authors:
 - "Qingwu Hu"
 - "Xujie Zhang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R6188.pdf
 ---
 
 # A 3D Model–Driven Framework for Semantic Recognition of Great Wall Elements
@@ -40,5 +44,5 @@ Semantic Tags: 3D geospatial modeling; semantic classification; cultural heritag
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

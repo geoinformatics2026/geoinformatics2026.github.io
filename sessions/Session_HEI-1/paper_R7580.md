@@ -6,6 +6,10 @@ authors:
 - "Xin Wu"
 - "Fengxiao Cao"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R7580.pdf
 ---
 
 # Spatial Accessibility and Health Equity of Older Adults Care Facilities: An Integrated Framework of MG2SFCA and Agent-Based Modeling in Fuzhou, China
@@ -39,5 +43,5 @@ Semantic Tags: healthcare equity; older adults; spatial accessibility; agent-bas
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

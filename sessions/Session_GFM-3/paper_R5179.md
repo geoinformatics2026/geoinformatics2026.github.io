@@ -3,6 +3,10 @@ title: "Autonomous GIS: Progress and Challenges"
 authors:
 - "Zhenlong Li"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R5179.pdf
 ---
 
 # Autonomous GIS: Progress and Challenges
@@ -36,5 +40,5 @@ Semantic Tags: autonomous GIS; agentic GIS; autonomous spatial analysis; large l
 **Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** LT-1  
+**Venue:** SRC-Lv1-LT-50  
 ```

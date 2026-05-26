@@ -5,6 +5,10 @@ authors:
 - "Mei-Po Kwan"
 - "Jianwei Huang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R5720.pdf
 ---
 
 # Quantifying indoor–outdoor disparities in individual-level heat exposure based on spatiotemporal activity-travel trajectories
@@ -38,5 +42,5 @@ Semantic Tags: individual heat exposure; spatiotemporal activity trajectory; ind
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

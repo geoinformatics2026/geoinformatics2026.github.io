@@ -5,6 +5,10 @@ authors:
 - "Junjie Zhang"
 - "Gaoyun Shen"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R2769.pdf
 ---
 
 # Enhanced visualization service for spatiotemporal process of disaster chain based on virtual geographic environment
@@ -38,5 +42,5 @@ Semantic Tags: disaster chain; virtual geographic environment; spatiotemporal vi
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

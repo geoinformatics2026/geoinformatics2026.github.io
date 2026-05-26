@@ -5,6 +5,10 @@ authors:
 - "Chayn Sun"
 - "Matt Duckham"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P1953.pdf
 ---
 
 # Comparing Weighting Techniques for a Composite Spatial Indicator of Urban Heat Vulnerability
@@ -38,5 +42,5 @@ Semantic Tags: urban heat vulnerability; composite spatial indicator; weighting 
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

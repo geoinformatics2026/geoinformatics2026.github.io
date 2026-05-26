@@ -5,6 +5,10 @@ authors:
 - "Xun Liang"
 - "Qingfeng Guan"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R7566.pdf
 ---
 
 # Asymmetric Effects Between Urban-Induced Cropland Loss and Cropland Displacement in Africa
@@ -38,5 +42,5 @@ Semantic Tags: urban cropland loss; cropland displacement; large-scale land-use 
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** LT-2  
+**Venue:** SRC-Lv2-LT-52  
 ```

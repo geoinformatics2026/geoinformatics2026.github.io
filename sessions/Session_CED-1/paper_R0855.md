@@ -5,6 +5,10 @@ authors:
 - "Jiajin Xi"
 - "Dongyang Hou"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R0855.pdf
 ---
 
 # LLM-based Disaster Event Network Monitoring Intelligent agent
@@ -38,5 +42,5 @@ Semantic Tags: disaster event monitoring; intelligent agent; large language mode
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-C  
+**Venue:** TP-Lv2-SR-D (Room-3/4)  
 ```

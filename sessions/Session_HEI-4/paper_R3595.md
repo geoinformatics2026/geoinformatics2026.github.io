@@ -6,6 +6,10 @@ authors:
 - "Shuxian Feng"
 - "Bin Zhu"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R3595.pdf
 ---
 
 # Extreme Weather Triggers Cascading Disruptions Across Ambulance Response Stages
@@ -39,5 +43,5 @@ Semantic Tags: extreme weather; emergency medical services; ambulance response t
 **Theme:** Health, Equity, and Human-Environment Interactions    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-E  
+**Venue:** SRC-Lv1-SR-C (Room-5)  
 ```

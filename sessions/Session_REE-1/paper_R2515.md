@@ -3,6 +3,10 @@ title: "ECHF-YOLO: a remote sensing object detection network integrating efficie
 authors:
 - "Shuhe Zhao"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_R2515.pdf
 ---
 
 # ECHF-YOLO: a remote sensing object detection network integrating efficient convolution and high-low frequency features
@@ -36,5 +40,5 @@ Semantic Tags: remote sensing object detection; YOLO; dynamic convolution; high-
 **Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-B  
+**Venue:** SRC-Lv1-SR-B (Room-3/4)  
 ```

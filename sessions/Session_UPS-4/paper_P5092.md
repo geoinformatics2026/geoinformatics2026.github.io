@@ -4,6 +4,10 @@ authors:
 - "Devika Yesodharan Devaprabha"
 - "Jia Wang"
 
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: pdf/paper_P5092.pdf
 ---
 
 # An AI-powered Location-based Recommendation System for Personalised Urban Mobility
@@ -37,5 +41,5 @@ Semantic Tags: location-based recommendation; urban mobility; natural language p
 **Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SR-A  
+**Venue:** SRC-Lv1-SR-A (Room-1/2)  
 ```

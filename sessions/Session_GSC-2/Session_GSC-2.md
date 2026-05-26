@@ -1,8 +1,16 @@
+---
+title: "Student competition - Part 2"
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: _build/pdf/Session_GSC-2/Session_GSC-2.pdf
+---
+
 # Session GSC-2: Student competition - Part 2
 
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SR-F  
+**Venue:** SRC-Lv2-SR-F (Room-8)  
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods  
 
 ---
