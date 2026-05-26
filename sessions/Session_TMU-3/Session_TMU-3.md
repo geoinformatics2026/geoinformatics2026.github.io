@@ -10,7 +10,7 @@ exports:
 
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** TP-Lv2-SR-E (Room-5/6)  
+**Venue:** TP-Lv2-SR-F (Room-5/6)  
 **Theme:** Transportation, Mobility, and Urban Infrastructure  
 
 ---

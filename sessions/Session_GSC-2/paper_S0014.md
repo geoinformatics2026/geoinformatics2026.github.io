@@ -40,5 +40,5 @@ Semantic Tags: volunteered geographic information; multi-agent reinforcement lea
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv2-SR-F (Room-8)  
+**Venue:** SRC-Lv2-SR-D (Room-8)  
 ```

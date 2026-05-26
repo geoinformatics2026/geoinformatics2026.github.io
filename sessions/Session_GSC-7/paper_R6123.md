@@ -47,5 +47,5 @@ Semantic Tags: canonical correlation analysis; spatial association; multivariate
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** TP-Lv2-SR-E (Room-5/6)  
+**Venue:** TP-Lv2-SR-F (Room-5/6)  
 ```

@@ -48,5 +48,5 @@ Semantic Tags: urban heat mitigation; WRF model; CMIP6; heatwave; rooftop strate
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** TP-Lv2-SR-D (Room-3/4)  
+**Venue:** TP-Lv2-SR-E (Room-3/4)  
 ```

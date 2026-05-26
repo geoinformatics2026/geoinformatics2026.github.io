@@ -48,5 +48,5 @@ Semantic Tags: locust outbreak monitoring; remote sensing; machine learning; dis
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** TP-Lv2-SR-D (Room-3/4)  
+**Venue:** TP-Lv2-SR-E (Room-3/4)  
 ```

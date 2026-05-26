@@ -41,5 +41,5 @@ Semantic Tags: place centrality; origin-destination flow; torque work; urban str
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** TP-Lv2-SR-E (Room-5/6)  
+**Venue:** TP-Lv2-SR-F (Room-5/6)  
 ```

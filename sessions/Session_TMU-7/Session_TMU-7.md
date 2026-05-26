@@ -10,7 +10,7 @@ exports:
 
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SRC-Lv2-SR-F (Room-8)  
+**Venue:** SRC-Lv2-SR-D (Room-8)  
 **Theme:** Transportation, Mobility, and Urban Infrastructure  
 
 ---

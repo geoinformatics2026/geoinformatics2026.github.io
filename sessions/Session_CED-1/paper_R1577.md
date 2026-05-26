@@ -47,5 +47,5 @@ Semantic Tags: building damage mapping; vision foundation model; spatial represe
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** TP-Lv2-SR-D (Room-3/4)  
+**Venue:** TP-Lv2-SR-E (Room-3/4)  
 ```

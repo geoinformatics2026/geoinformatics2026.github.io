@@ -43,5 +43,5 @@ Semantic Tags: road crack detection; semantic segmentation; complex dynamic envi
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv2-SR-F (Room-8)  
+**Venue:** SRC-Lv2-SR-D (Room-8)  
 ```

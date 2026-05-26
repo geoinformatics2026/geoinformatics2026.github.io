@@ -41,5 +41,5 @@ Semantic Tags: methane estimation; greenhouse gas; temporal causal deep learning
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** TP-Lv2-SR-E (Room-5/6)  
+**Venue:** TP-Lv2-SR-F (Room-5/6)  
 ```

@@ -48,5 +48,5 @@ Semantic Tags: surveying and mapping education; geoinformatics curriculum; talen
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv2-SR-F (Room-8)  
+**Venue:** SRC-Lv2-SR-D (Room-8)  
 ```

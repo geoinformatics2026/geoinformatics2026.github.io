@@ -40,5 +40,5 @@ Semantic Tags: livelihood vulnerability; livelihood resilience; multi-risk asses
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** TP-Lv2-SR-E (Room-5/6)  
+**Venue:** TP-Lv2-SR-F (Room-5/6)  
 ```

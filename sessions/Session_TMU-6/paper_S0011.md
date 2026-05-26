@@ -38,5 +38,5 @@ Semantic Tags: travel flow; activity purpose inference; land use; transport mode
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv2-SR-F (Room-8)  
+**Venue:** SRC-Lv2-SR-D (Room-8)  
 ```

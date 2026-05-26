@@ -41,5 +41,5 @@ Semantic Tags: eVTOL; vertiport location; flood disaster; spatial optimization; 
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** TP-Lv2-SR-D (Room-3/4)  
+**Venue:** TP-Lv2-SR-E (Room-3/4)  
 ```

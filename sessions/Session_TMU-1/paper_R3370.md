@@ -43,5 +43,5 @@ Semantic Tags: shared micromobility; e-scooter; e-bike; spatial determinants; gr
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** TP-Lv2-SR-E (Room-5/6)  
+**Venue:** TP-Lv2-SR-F (Room-5/6)  
 ```

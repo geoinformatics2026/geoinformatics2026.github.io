@@ -47,5 +47,5 @@ Semantic Tags: emergency medical services; urban flooding; population ageing; sp
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 16:30 – 17:45  
-**Venue:** TP-Lv2-SR-D (Room-3/4)  
+**Venue:** TP-Lv2-SR-E (Room-3/4)  
 ```

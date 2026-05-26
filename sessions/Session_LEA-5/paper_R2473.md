@@ -42,5 +42,5 @@ Semantic Tags: urban village mapping; foundation model; multimodal learning; rem
 **Theme:** Land, Ecology, Agriculture, and Sustainable Development    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** TP-Lv2-SR-E (Room-5/6)  
+**Venue:** TP-Lv2-SR-F (Room-5/6)  
 ```

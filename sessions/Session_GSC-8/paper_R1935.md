@@ -41,5 +41,5 @@ Semantic Tags: spatio-temporal forecasting; short-term load forecasting; hypergr
 **Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** TP-Lv2-SR-E (Room-5/6)  
+**Venue:** TP-Lv2-SR-F (Room-5/6)  
 ```

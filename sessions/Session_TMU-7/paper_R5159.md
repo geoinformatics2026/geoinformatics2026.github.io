@@ -48,5 +48,5 @@ Semantic Tags: spatial interaction model; Huff model; digital exposure; otaku cu
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 3 — 22 July 2026 (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SRC-Lv2-SR-F (Room-8)  
+**Venue:** SRC-Lv2-SR-D (Room-8)  
 ```

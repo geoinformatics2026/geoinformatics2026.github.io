@@ -44,5 +44,5 @@ Semantic Tags: electric vehicle charging; GPS trajectory; home detection; chargi
 **Theme:** Transportation, Mobility, and Urban Infrastructure    
 **Date:** Day 2 — 21 July 2026 (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv2-SR-F (Room-8)  
+**Venue:** SRC-Lv2-SR-D (Room-8)  
 ```

@@ -42,5 +42,5 @@ Semantic Tags: urban heat resilience; microclimate; geospatial data; machine lea
 **Theme:** Climate, Environmental Hazards, and Disaster Risk    
 **Date:** Day 1 — 20 July 2026 (Monday)  
 **Time:** 16:30 – 17:45  
-**Venue:** TP-Lv2-SR-D (Room-3/4)  
+**Venue:** TP-Lv2-SR-E (Room-3/4)  
 ```
