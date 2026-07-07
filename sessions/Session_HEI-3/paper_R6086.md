@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R6086.pdf
+    output: 
 ---
 
 # Geospatial Heterogeneity in Policy Outcomes: Assessing the Health Impacts of Energy and Environmental Interventions in China
@@ -30,16 +30,14 @@ Keywords: Public Health,  Environment,  Policy
 
 
 
-Semantic Tags: public health; environmental policy; health impact assessment; spatial heterogeneity; clean heating; land greening; China
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R6086  
-**Session:** [Climate Extremes, Heat Exposure, and Public Health ](./Session_HEI-3/)  
-**Theme:** Health, Equity, and Human-Environment Interactions    
-**Date:** Day 1 — 20 July 2026 (Monday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv1-SR-C (Room-5)  
+**Session:** [Environmental Exposure, Ecosystem Services, and Public Health](./Session_HEI-3/)  
+**Theme:** Health, Equity \& Human-Env. Interactions    
+**Date:** Day 1, 20 July (Monday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Seminar Room 5 (SR-C)  
 ```

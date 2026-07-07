@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_S0013.pdf
+    output: 
 ---
 
 # A factorized spatio-temporal approach for short-term travel origin-destination forecasting
@@ -29,16 +29,14 @@ Keywords: Origin-destination forecasting, urban mobility, spatial interaction, t
 
 
 
-Semantic Tags: origin-destination forecasting; urban mobility; spatial interaction; travel demand; neural factorization; spatiotemporal modeling; sparse OD matrix; short-term forecasting
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** S0013  
 **Session:** [Student competition - Part 1](./Session_GSC-1/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv2-SR-D (Room-8)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 6 (SR-D)  
 ```

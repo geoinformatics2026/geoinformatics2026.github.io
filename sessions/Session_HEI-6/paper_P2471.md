@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P2471.pdf
+    output: 
 ---
 
 # Spatial Inequality in the Landscape of Fencing: A Geographical Analysis of USA Fencing Clubs
@@ -29,16 +29,14 @@ Keywords: Fencing, Spatial Inequity, Clustering Analysis
 
 
 
-Semantic Tags: spatial inequality; sport geography; point pattern analysis; density-based clustering; spatial accessibility; socioeconomic disparity; United States
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P2471  
-**Session:** [Spatial Inequality, Equity, and Food Access ](./Session_HEI-6/)  
-**Theme:** Health, Equity, and Human-Environment Interactions    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv1-SR-C (Room-5)  
+**Session:** [Spatial Inequality, Equity, and Food Access](./Session_HEI-6/)  
+**Theme:** Health, Equity \& Human-Env. Interactions    
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Seminar Room 5 (SR-C)  
 ```

@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R6167.pdf
+    output: 
 ---
 
 # Mapping socioeconomic indicators using multi-source geospatial data
@@ -29,16 +29,14 @@ Keywords: social sensing,  big data,  geocomputation,  social remote sensing,  s
 
 
 
-Semantic Tags: socioeconomic indicator mapping; multi-source geospatial data; social sensing; nighttime light; social media geotagged data; spatiotemporal modeling; United Kingdom
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R6167  
 **Session:** [Geospatial Modeling for Sustainable Development](./Session_UPS-1/)  
-**Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** Urban Analytics, Planning \& Socioeconomics    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-SR-A (Room-1/2)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 1 & 2 (SR-A)  
 ```

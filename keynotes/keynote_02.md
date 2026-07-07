@@ -4,8 +4,8 @@
 :class: note
 **Speaker:** Professor Guo Huadong  
 **Affiliation:** Chinese Academy of Sciences, China  
-**Day:** [to be confirmed]  
-**Time:** [to be confirmed]  
+**Day:** Day 2, 21 July (Tuesday)  
+**Time:** 1045 - 1145  
 **Venue:** Auditorium 2 @ Stephen Riady Centre, UTown
 ```
 

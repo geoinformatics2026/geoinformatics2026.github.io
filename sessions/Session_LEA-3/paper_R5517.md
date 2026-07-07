@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R5517.pdf
+    output: 
 ---
 
 # Spatial evolution of urban-rural fringe and its influences on ecological land fragmentation: a case study of Suzhou City, China
@@ -30,16 +30,14 @@ Keywords: urban-rural fringe,  boundary identification,  evolution process,  eco
 
 
 
-Semantic Tags: urban-rural fringe; land use change; ecological land fragmentation; boundary identification; deep neural network; Suzhou; China
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R5517  
 **Session:** [Urban Land Change and Expansion Dynamics](./Session_LEA-3/)  
-**Theme:** Land, Ecology, Agriculture, and Sustainable Development    
-**Date:** Day 1 — 20 July 2026 (Monday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv2-LT-52  
+**Theme:** Land, Ecology, Agriculture \& Sustainable Dev.    
+**Date:** Day 1, 20 July (Monday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

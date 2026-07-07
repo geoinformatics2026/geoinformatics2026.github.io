@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R2014.pdf
+    output: 
 ---
 
 # Place reviews as an emerging geospatial instrument for sensing the built environment
@@ -31,16 +31,14 @@ Keywords: User-generated content,  Volunteered Geographic Information,  Crowdsou
 
 
 
-Semantic Tags: place reviews; user-generated content; volunteered geographic information; crowdsourced data; GeoAI; urban sensing; sentiment analysis; large language model; multimodal data; built environment; Google Maps; Dianping
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R2014  
 **Session:** [Citizen-Generated Geospatial Data: Concepts, Theories, and Challenges](./Session_GFM-4/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-LT-50  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

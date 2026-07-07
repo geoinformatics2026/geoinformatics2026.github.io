@@ -11,7 +11,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R0003.pdf
+    output: 
 ---
 
 # GEO-FedGNN: A Multi-Scenario Federated Graph Neural Network Framework for Privacy-Preserving Geospatial Modelling
@@ -36,16 +36,14 @@ Keywords: Federated Learning,  Graph Neural Networks,  Geospatial Modeling,  Pri
 
 
 
-Semantic Tags: federated learning; graph neural network; geospatial modeling; privacy-preserving analytics; vertical federated learning; multi-source spatial data; GDPR compliance
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R0003  
 **Session:** [Spatiotemporal Modeling and Graph Neural Networks](./Session_GSC-8/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** TP-Lv2-SR-F (Room-5/6)  
+**Venue:** Town Plaza-02-Seminar Room 5 & 6 (SR-F)  
 ```

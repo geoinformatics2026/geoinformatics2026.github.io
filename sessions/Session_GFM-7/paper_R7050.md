@@ -10,7 +10,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R7050.pdf
+    output: 
 ---
 
 # Environmental-Dissimilarity-Based Cross Validation Framework for Evaluating Geospatial Machine Learning Prediction
@@ -33,16 +33,14 @@ Keywords: Evaluation,  Environmental Dissimilarity,  Cross Validation,  Geospati
 
 
 
-Semantic Tags: geospatial machine learning; cross-validation; environmental dissimilarity; model evaluation; spatial prediction; training-validation dissimilarity; overfitting; prediction domain
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R7050  
-**Session:** [GeoAI, Foundation Models, and Spatial Learning ](./Session_GFM-7/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [GeoAI, Foundation Models, and Spatial Learning](./Session_GFM-7/)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SRC-Lv1-LT-50  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

@@ -9,7 +9,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R7715.pdf
+    output: 
 ---
 
 # Bridging Urban Mobility Data and Human Semantics: A Geo-AI Framework for Explainable Tourism Recommendations Using Taipei Metro Flow Patterns and Llama 3
@@ -38,16 +38,14 @@ Keywords: Geo-AI,  Explainable AI (XAI),  Urban Mobility,  Taipei Metro,  Llama 
 
 
 
-Semantic Tags: Geo-AI; explainable AI; urban mobility; metro flow prediction; large language model; crowd control; decision support system; Taipei
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R7715  
 **Session:** [Cyberinfrastructure and GeoAI for Intelligent Spatial Decision Support](./Session_GFM-5/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-LT-50  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

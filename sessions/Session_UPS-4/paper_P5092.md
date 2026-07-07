@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P5092.pdf
+    output: 
 ---
 
 # An AI-powered Location-based Recommendation System for Personalised Urban Mobility
@@ -30,16 +30,14 @@ Keywords: Location, Natural language processing, Machine Learning, Conversationa
 
 
 
-Semantic Tags: location-based recommendation; urban mobility; natural language processing; large language model; conversational AI; safety-aware routing; point of interest analysis; open data integration
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P5092  
-**Session:** [Urban Planning, Renewal, and Socioeconomic Transformation ](./Session_UPS-4/)  
-**Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Urban Planning, Renewal, and Socioeconomic Transformation](./Session_UPS-4/)  
+**Theme:** Urban Analytics, Planning \& Socioeconomics    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-SR-A (Room-1/2)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 1 & 2 (SR-A)  
 ```

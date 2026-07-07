@@ -13,7 +13,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R4009.pdf
+    output: 
 ---
 
 # Local pathways of association
@@ -50,16 +50,14 @@ Keywords: Spatial association,  Local indicators,  Path analysis,  Spatial varia
 
 
 
-Semantic Tags: local pathway association; spatial association; path analysis; structural equation modeling; local coefficient estimation; spatial variation; vegetation modeling
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R4009  
 **Session:** [Advanced Geospatial Data and Methods for Transforming Healthy Cities Delivery - Part 1](./Session_GSC-5/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv2-LT-52  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

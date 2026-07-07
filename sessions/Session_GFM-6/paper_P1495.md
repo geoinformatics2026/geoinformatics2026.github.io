@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P1495.pdf
+    output: 
 ---
 
 # Spatio-temporal ontology for intergrated watershed system assessment and modeling
@@ -29,16 +29,14 @@ Keywords: spatio-temporal ontology, river basin management, integrated assessmen
 
 
 
-Semantic Tags: spatio-temporal ontology; watershed management; integrated assessment modeling; geospatial semantics; knowledge representation; multidisciplinary data integration; hydrological modeling; river basin; system engineering
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P1495  
-**Session:** [Knowledge Graphs and Spatial Semantics ](./Session_GFM-6/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv1-LT-50  
+**Session:** [Knowledge Graphs and Spatial Semantics](./Session_GFM-6/)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

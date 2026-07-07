@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R9168.pdf
+    output: 
 ---
 
 # Understanding the focused place of travel-related social media texts: A multi-hierarchical cognitive framework for resolving complex place descriptions
@@ -30,16 +30,14 @@ Keywords: geospatial artificial intelligence (GeoAI),  geospatial cognition,  fo
 
 
 
-Semantic Tags: focused place identification; social media text; large language model; geospatial cognition; geoparsing; travel narrative; place description
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R9168  
-**Session:** [Cartography, Geovisualization, and Geospatial Services ](./Session_GFM-8/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Cartography, Geovisualization, and Geospatial Services](./Session_GFM-8/)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SRC-Lv1-LT-50  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

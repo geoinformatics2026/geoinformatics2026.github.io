@@ -12,7 +12,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R7935.pdf
+    output: 
 ---
 
 # PMDNet: Polarimetric Multivariable Decoupling Network for Enhancing Nowcasting
@@ -35,16 +35,14 @@ Keywords: precipitation nowcasting,  spatiotemporal sequence forecasting,  weath
 
 
 
-Semantic Tags: precipitation nowcasting; dual-polarization radar; spatiotemporal sequence forecasting; deep learning; radar echo extrapolation; microphysical properties; differential reflectivity; nowcasting accuracy
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R7935  
-**Session:** [Hydrometeorological Forecasting and Precipitation Modeling ](./Session_CED-4/)  
-**Theme:** Climate, Environmental Hazards, and Disaster Risk    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Hydrometeorological Forecasting and Precipitation Modeling](./Session_CED-4/)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** TP-Lv2-SR-E (Room-3/4)  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
 ```

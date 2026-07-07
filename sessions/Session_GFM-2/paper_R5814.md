@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R5814.pdf
+    output: 
 ---
 
 # Fine-scale population spatialization with accumulable features from street view imagery and points of interest
@@ -33,16 +33,14 @@ Keywords: Street View Imagery,  Population Spatialization,  Data Augmentation,  
 
 
 
-Semantic Tags: population spatialization; street view imagery; point of interest analysis; random forest; data augmentation; urban planning; spatial modeling
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R5814  
 **Session:** [Emerging LLM-based Methods for Geospatial Analysis - Part 2](./Session_GFM-2/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-LT-50  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

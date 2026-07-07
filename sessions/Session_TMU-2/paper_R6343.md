@@ -11,7 +11,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R6343.pdf
+    output: 
 ---
 
 # Decomposing Taxi Deadheading Carbon Emissions: Spatiotemporal Patterns, Environmental Drivers in Linear City
@@ -38,16 +38,14 @@ Keywords: Deadheading Carbon Emission,  Taxi,  Spatiotemporal Analysis,  Urban E
 
 
 
-Semantic Tags: taxi deadheading; carbon emissions; spatiotemporal analysis; urban environment; linear city; transport sustainability; emission decomposition
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R6343  
-**Session:** [Transport Emissions and Low-Carbon Urban Mobility Systems ](./Session_TMU-2/)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Session:** [Urban Mobility, Transport Emissions, and Low-Carbon Systems](./Session_TMU-2/)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** TP-Lv2-SR-F (Room-5/6)  
+**Venue:** Town Plaza-02-Seminar Room 5 & 6 (SR-F)  
 ```

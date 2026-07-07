@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R2654.pdf
+    output: 
 ---
 
 # Examination of urban resilience during the COVID-19 pandemic with the analysis of MRT data in Taipei metropolitan area
@@ -30,16 +30,14 @@ Keywords: GIS,  Urban resilience,  Dynamic time warping,  Mass Rapid Transit (MR
 
 
 
-Semantic Tags: urban resilience; COVID-19 pandemic; mass rapid transit; dynamic time warping; mobility analysis; GIS; Taipei Metropolitan Area
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R2654  
-**Session:** [Urban Mobility, Travel Demand, and Spatiotemporal Transit Analytics ](./Session_TMU-3/)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure    
-**Date:** Day 1 — 20 July 2026 (Monday)  
-**Time:** 16:30 – 17:45  
-**Venue:** TP-Lv2-SR-F (Room-5/6)  
+**Session:** [Urban Mobility, Travel Demand, and Spatiotemporal Transit Analytics](./Session_TMU-3/)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure    
+**Date:** Day 1, 20 July (Monday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Town Plaza-02-Seminar Room 5 & 6 (SR-F)  
 ```

@@ -1,22 +1,25 @@
 ---
-title: "Electric Vehicle Charging Systems and Smart Urban Energy Infrastructure "
+title: "Electric Vehicle Charging Systems and Smart Urban Energy Infrastructure"
 exports:
   - format: pdf
     template: arxiv_nips
     output: _build/pdf/Session_TMU-5/Session_TMU-5.pdf
 ---
 
-# Session TMU-5: Electric Vehicle Charging Systems and Smart Urban Energy Infrastructure 
+# Session TMU-5: Electric Vehicle Charging Systems and Smart Urban Energy Infrastructure
 
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv2-SR-D (Room-8)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure  
+**Venue:** Stephen Riady Centre-01-Seminar Room 6 (SR-D)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure  
 
 ---
 
 This session contains **5 presentations**:
 
+
+- [**P2181** — The Theoretical Logic and Implementation Path of Spatiotemporal Information Empowering the Low-Altitude Economy](./paper_P2181/)  
+  *Chenyang Wang*
 
 - [**R9322** — A Unified Geospatial Framework for Electric-Vehicle Charging Behavior](./paper_R9322/)  
   *Xiaobai Angela Yao, Farnoosh Roozkhosh*
@@ -29,6 +32,3 @@ This session contains **5 presentations**:
 
 - [**R5314** — Spatial Assessment of Distributed Photovoltaic Layout Suitability on Urban Roads in Singapore: An "Air-Ground Coordination" Energy Sharing Perspective](./paper_R5314/)  
   *Tieming Chen, Yifan Lin, Yaxing Li*
-
-- [**P9222** — The Theoretical Logic and Implementation Pathway of Empowering the Low-altitude Economy with Spatiotemporal Information](./paper_P9222/)  
-  *Chenyang Wang*

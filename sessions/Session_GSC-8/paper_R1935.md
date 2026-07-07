@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R1935.pdf
+    output: 
 ---
 
 # Modeling dynamic higher-order spatio-temporal relationships: hypergraph-enhanced load forecasting for power grids
@@ -30,16 +30,14 @@ Keywords: Spatio-temporal Forecasting,  Short-term Load Forecasting,  Hypergraph
 
 
 
-Semantic Tags: spatio-temporal forecasting; short-term load forecasting; hypergraph neural network; high-order spatial dependencies; adaptive structure learning; power grid; geospatial analytics; inter-regional interaction
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R1935  
 **Session:** [Spatiotemporal Modeling and Graph Neural Networks](./Session_GSC-8/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** TP-Lv2-SR-F (Room-5/6)  
+**Venue:** Town Plaza-02-Seminar Room 5 & 6 (SR-F)  
 ```

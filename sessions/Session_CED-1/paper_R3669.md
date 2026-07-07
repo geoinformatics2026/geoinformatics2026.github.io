@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R3669.pdf
+    output: 
 ---
 
 # Urban Flood Risk Scenario Simulation Based on EaRs Interrelation Network: a case study of Changzhou, China
@@ -31,16 +31,14 @@ Keywords: EARs,  Interrelation network,  Scenario simulation,  Disaster evolutio
 
 
 
-Semantic Tags: urban flood risk; scenario simulation; disaster chain evolution; interrelation network; elements at risk; Changzhou; China
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R3669  
-**Session:** [GeoAI and Data Science for Disaster Resilience](./Session_CED-1/)  
-**Theme:** Climate, Environmental Hazards, and Disaster Risk    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Session:** [GeoAI and Data Science for Disaster Resilience](./Session_CED-1/)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** TP-Lv2-SR-E (Room-3/4)  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
 ```

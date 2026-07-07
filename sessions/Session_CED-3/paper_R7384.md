@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R7384.pdf
+    output: 
 ---
 
 # Bridging geospatial and micro-climate variables using deep learning for better urban heat resilience assessment
@@ -31,16 +31,14 @@ Keywords: Urban heat resilience,  Micro climate,  Geospatial,  Machine learning,
 
 
 
-Semantic Tags: urban heat resilience; microclimate; geospatial data; machine learning; deep learning; land surface temperature; thermal comfort; built environment
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R7384  
-**Session:** [Urban Heat and Thermal Environment - Part 2 ](./Session_CED-3/)  
-**Theme:** Climate, Environmental Hazards, and Disaster Risk    
-**Date:** Day 1 — 20 July 2026 (Monday)  
-**Time:** 16:30 – 17:45  
-**Venue:** TP-Lv2-SR-E (Room-3/4)  
+**Session:** [Urban Heat and Thermal Environment - Part 2](./Session_CED-3/)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk    
+**Date:** Day 1, 20 July (Monday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
 ```

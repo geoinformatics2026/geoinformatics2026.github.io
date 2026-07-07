@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P4298.pdf
+    output: 
 ---
 
 # Bridging the Modality Gap in Optical-SAR Change Detection via Frequency-Aware and Cross-Modal Difference Attention
@@ -31,16 +31,14 @@ Keywords: Heterogeneous change detection, Optical-SAR images, Cross-modal attent
 
 
 
-Semantic Tags: change detection; optical-SAR fusion; heterogeneous remote sensing; cross-modal attention; frequency attention; feature alignment; disaster assessment; deep learning
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P4298  
-**Session:** [Flood Risk, Detection, and Urban Resilience ](./Session_CED-5/)  
-**Theme:** Climate, Environmental Hazards, and Disaster Risk    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Flood Risk, Detection, and Urban Resilience](./Session_CED-5/)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** TP-Lv2-SR-E (Room-3/4)  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
 ```

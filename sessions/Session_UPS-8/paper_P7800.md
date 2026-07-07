@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P7800.pdf
+    output: 
 ---
 
 # A Graph Database-Driven City Information Modeling (CIM) Framework for Urban Renewal Scenarios
@@ -30,16 +30,14 @@ Keywords: City Information Modeling (CIM), Graph Database, Neo4j, Urban Renewal
 
 
 
-Semantic Tags: city information modeling; graph database; Neo4j; urban renewal; spatial data management; 3D city model; old residential areas
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P7800  
-**Session:** [Urban Digital Twins and 3D City Modeling ](./Session_UPS-8/)  
-**Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Urban and Geospatial Digital Twins for Scenario Modeling](./Session_UPS-8/)  
+**Theme:** Urban Analytics, Planning \& Socioeconomics    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SRC-Lv1-SR-A (Room-1/2)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 1 & 2 (SR-A)  
 ```

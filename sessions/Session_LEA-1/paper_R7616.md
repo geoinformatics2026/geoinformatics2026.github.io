@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R7616.pdf
+    output: 
 ---
 
 # Inter-provincial Flow of Virtual Agricultural Elements and Their Telecoupling Impacts on the Agricultural Environmental Stress in China
@@ -32,16 +32,14 @@ Keywords: Virtual elements flow,  Telecoupling,  Agricultural environmental stre
 
 
 
-Semantic Tags: virtual agricultural elements; telecoupling; agricultural environmental stress; multi-regional input-output; carbon emissions; water scarcity; China
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R7616  
-**Session:** [Carbon Emissions, Energy Transition, and Ecosystem Accounting ](./Session_LEA-1/)  
-**Theme:** Land, Ecology, Agriculture, and Sustainable Development    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Session:** [Carbon Emissions, Energy Transition, and Ecosystem Accounting](./Session_LEA-1/)  
+**Theme:** Land, Ecology, Agriculture \& Sustainable Dev.    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv2-LT-52  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

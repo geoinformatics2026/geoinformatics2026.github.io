@@ -10,7 +10,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R2198.pdf
+    output: 
 ---
 
 # Reconstructing 10-m Surface Reflectance Dataset from 1990 to 2025 via Semantic-Guided Super-Resolution and Unsupervised Domain Adaption
@@ -35,16 +35,14 @@ Keywords: Satellite Image Time Series,  Historical reconstruction,  Landsat,  Su
 
 
 
-Semantic Tags: satellite image time series; historical reconstruction; Landsat; super-resolution; land cover guided; unsupervised domain adaptation; earth observation; multispectral imagery
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R2198  
-**Session:** [Land Cover Mapping and Satellite Time-Series Analysis ](./Session_REE-7/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Land Cover Mapping and Satellite Time-Series Analysis](./Session_REE-7/)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

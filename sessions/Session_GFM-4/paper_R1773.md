@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R1773.pdf
+    output: 
 ---
 
 # Citizen-Generated Geospatial Data in the Age of AI: Toward a New Research Agenda
@@ -29,16 +29,14 @@ Keywords: VGI,  GEOAI,  Citizen science,  Participatory mapping,  Data governanc
 
 
 
-Semantic Tags: volunteered geographic information; GeoAI; citizen science; participatory mapping; data governance; human-centered AI; geospatial data production
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R1773  
 **Session:** [Citizen-Generated Geospatial Data: Concepts, Theories, and Challenges](./Session_GFM-4/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-LT-50  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

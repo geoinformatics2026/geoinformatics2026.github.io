@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R0016.pdf
+    output: 
 ---
 
 # Social media big data reveals how mobility reshapes human environmental exposure inequality
@@ -30,16 +30,14 @@ Keywords: Green exposure,  Human mobility,  Inequality,  Social media,  NEAP
 
 
 
-Semantic Tags: human mobility; green space exposure; environmental inequality; social media big data; street view imagery; NEAP; environmental justice; socioeconomic status
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R0016  
 **Session:** [Urban Green Space and Human Well-Being](./Session_HEI-2/)  
-**Theme:** Health, Equity, and Human-Environment Interactions    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** Health, Equity \& Human-Env. Interactions    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-SR-C (Room-5)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 5 (SR-C)  
 ```

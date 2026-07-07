@@ -10,7 +10,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R6321.pdf
+    output: 
 ---
 
 # Urban rooftop mitigation potential assessment and socio-economic exposure response to future heat extremes
@@ -37,16 +37,14 @@ Keywords: WRF-UCM,  CMIP6,  Heatwave,  Mitigation,  Socio-economic exposure
 
 
 
-Semantic Tags: urban heat mitigation; WRF model; CMIP6; heatwave; rooftop strategies; socioeconomic exposure; climate scenarios; Guangzhou
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R6321  
-**Session:** [Urban Heat and Thermal Environment - Part 1 ](./Session_CED-2/)  
-**Theme:** Climate, Environmental Hazards, and Disaster Risk    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Session:** [Urban Heat and Thermal Environment - Part 1](./Session_CED-2/)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** TP-Lv2-SR-E (Room-3/4)  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
 ```

@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R0377.pdf
+    output: 
 ---
 
 # Percolation-Based Mapping of Urban-Rural Gradients and Their Spatiotemporal Dynamics in China（2000-2020）
@@ -29,16 +29,14 @@ Keywords: urban–rural gradient,  percolation theory,  human activity intensity
 
 
 
-Semantic Tags: urban-rural gradient; percolation theory; human activity intensity; geospatial modeling; nighttime light; gridded population; urbanization; China
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R0377  
 **Session:** [Geospatial Modeling for Sustainable Development](./Session_UPS-1/)  
-**Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** Urban Analytics, Planning \& Socioeconomics    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-SR-A (Room-1/2)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 1 & 2 (SR-A)  
 ```

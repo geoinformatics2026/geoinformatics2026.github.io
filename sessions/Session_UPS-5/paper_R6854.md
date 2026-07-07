@@ -11,7 +11,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R6854.pdf
+    output: 
 ---
 
 # Exploring the nonlinear impact of visual environment on residents’ happiness: A computational framework integrating semantic and geometric features
@@ -42,16 +42,14 @@ Keywords: Visual Environment (VE),  Happiness,  Isovist,  Nonlinear relationship
 
 
 
-Semantic Tags: visual environment; happiness; isovist; nonlinear relationship; geometric features; generalized additive mixed model; urban well-being; street view imagery
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R6854  
-**Session:** [Urban Environmental Sensing, Livability, and Quality of Life ](./Session_UPS-5/)  
-**Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Urban Environmental Sensing, Livability, and Quality of Life](./Session_UPS-5/)  
+**Theme:** Urban Analytics, Planning \& Socioeconomics    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-SR-A (Room-1/2)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 1 & 2 (SR-A)  
 ```

@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R5686.pdf
+    output: 
 ---
 
 # Dynamics of human activity intensity and its implication on climate extremes in China from 2000 to 2019
@@ -32,16 +32,14 @@ Keywords: human activity intensity,  climate extreme,  economy development,  Hu 
 
 
 
-Semantic Tags: human activity intensity; climate extreme; spatiotemporal analysis; nighttime light; land cover; China; Hu Huanyong Line
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R5686  
 **Session:** [Geospatial Modeling for Sustainable Development](./Session_UPS-1/)  
-**Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** Urban Analytics, Planning \& Socioeconomics    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-SR-A (Room-1/2)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 1 & 2 (SR-A)  
 ```

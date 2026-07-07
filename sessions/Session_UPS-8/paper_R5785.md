@@ -9,7 +9,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R5785.pdf
+    output: 
 ---
 
 # Multi-scale urban emergency simulation based on digital twins
@@ -32,16 +32,14 @@ Keywords: Digital twins,  Urban emergency management,  Spatial data fusion,  Mul
 
 
 
-Semantic Tags: urban emergency management; digital twin; spatial data fusion; multi-scale visualization; simulation framework; sustainable city; virtual-real integration
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R5785  
-**Session:** [Urban Digital Twins and 3D City Modeling ](./Session_UPS-8/)  
-**Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Urban and Geospatial Digital Twins for Scenario Modeling](./Session_UPS-8/)  
+**Theme:** Urban Analytics, Planning \& Socioeconomics    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SRC-Lv1-SR-A (Room-1/2)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 1 & 2 (SR-A)  
 ```

@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R2484.pdf
+    output: 
 ---
 
 # A Cost-Weighted Method for Measuring the Accessibility of Emergency Medical Services
@@ -33,16 +33,14 @@ Keywords: Accessibility,  2SFCA,  Emergency medical service,  cost-weighted meth
 
 
 
-Semantic Tags: emergency medical services accessibility; two-step floating catchment area; cost-weighted accessibility; spatial equity; healthcare planning; time-sensitive care; travel time cost; service delivery
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R2484  
-**Session:** [Healthcare Accessibility and Spatial Equity ](./Session_HEI-1/)  
-**Theme:** Health, Equity, and Human-Environment Interactions    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Session:** [Healthcare Accessibility, Environmental Exposure, and Spatial Equity](./Session_HEI-1/)  
+**Theme:** Health, Equity \& Human-Env. Interactions    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-SR-C (Room-5)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 5 (SR-C)  
 ```

@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R1468.pdf
+    output: 
 ---
 
 # Generalized spatial error for validation
@@ -35,16 +35,14 @@ Keywords: Model validation,  Spatial heterogeneity,  RMSE,  Murray-Darling Basin
 
 
 
-Semantic Tags: spatial model validation; generalized spatial error; RMSE; spatial heterogeneity; local statistics; machine learning; species richness prediction; Australia
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R1468  
 **Session:** [Advanced Geospatial Data and Methods for Transforming Healthy Cities Delivery - Part 1](./Session_GSC-5/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv2-LT-52  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

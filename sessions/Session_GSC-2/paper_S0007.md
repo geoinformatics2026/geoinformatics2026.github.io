@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_S0007.pdf
+    output: 
 ---
 
 # Limitations of Current Methodological Approaches in Composite Spatial Indices of Heat Vulnerability and Implications for Decision Making
@@ -29,16 +29,14 @@ Keywords: heat vulnerability, urban heat risk, urban informatics, composite spat
 
 
 
-Semantic Tags: heat vulnerability; composite spatial index; weighting techniques; urban heat risk; spatial equity; urban informatics; methodological bias
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** S0007  
 **Session:** [Student competition - Part 2](./Session_GSC-2/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv2-SR-D (Room-8)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 6 (SR-D)  
 ```

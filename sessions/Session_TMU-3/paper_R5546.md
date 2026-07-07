@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R5546.pdf
+    output: 
 ---
 
 # Stage-dependent scaling of travel distance shaped by 3D urban form
@@ -29,16 +29,14 @@ Keywords: mobility distance,  building height,  urban scaling,  urban morphology
 
 
 
-Semantic Tags: urban mobility; 3D urban morphology; building height; urban scaling; transport energy demand; global cities; floor area
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R5546  
-**Session:** [Urban Mobility, Travel Demand, and Spatiotemporal Transit Analytics ](./Session_TMU-3/)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure    
-**Date:** Day 1 — 20 July 2026 (Monday)  
-**Time:** 16:30 – 17:45  
-**Venue:** TP-Lv2-SR-F (Room-5/6)  
+**Session:** [Urban Mobility, Travel Demand, and Spatiotemporal Transit Analytics](./Session_TMU-3/)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure    
+**Date:** Day 1, 20 July (Monday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Town Plaza-02-Seminar Room 5 & 6 (SR-F)  
 ```

@@ -10,7 +10,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R0147.pdf
+    output: 
 ---
 
 # Spatio-Temporal Relevance Classification from Geographic Texts Using Deep Learning
@@ -33,16 +33,14 @@ Keywords: Spatio-temporal text classification,  Geographical knowledge,  Spatio-
 
 
 
-Semantic Tags: spatio-temporal text classification; geographic knowledge extraction; knowledge graph; natural language processing; deep learning; spatio-temporal relevance; geographic information retrieval
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R0147  
-**Session:** [Knowledge Graphs and Spatial Semantics ](./Session_GFM-6/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv1-LT-50  
+**Session:** [Knowledge Graphs and Spatial Semantics](./Session_GFM-6/)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

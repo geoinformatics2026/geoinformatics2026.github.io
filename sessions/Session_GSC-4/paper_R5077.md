@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R5077.pdf
+    output: 
 ---
 
 # A hybrid method for spatial prediction integrating the First and Third Laws of Geography
@@ -29,16 +29,14 @@ Keywords: Spatial prediction,  geographical principles,  spatial autocorrelation
 
 
 
-Semantic Tags: spatial prediction; First Law of Geography; Third Law of Geography; spatial autocorrelation; environmental similarity; kriging; digital soil mapping; geostatistics
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R5077  
 **Session:** [Geographical Principles in Spatial Analysis and Modeling](./Session_GSC-4/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv2-LT-52  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

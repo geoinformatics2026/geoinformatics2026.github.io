@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R4622.pdf
+    output: 
 ---
 
 # Torque work of origin-destination flows: Quantifying urban place centrality from a physical perspective
@@ -30,16 +30,14 @@ Keywords: Place centrality,  Origin-destination flows,  Torque work,  Multiscale
 
 
 
-Semantic Tags: place centrality; origin-destination flow; torque work; urban structure; multiscale analysis; intra-day dynamics; urban mobility
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R4622  
-**Session:** [Urban Mobility, Travel Demand, and Spatiotemporal Transit Analytics ](./Session_TMU-3/)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure    
-**Date:** Day 1 — 20 July 2026 (Monday)  
-**Time:** 16:30 – 17:45  
-**Venue:** TP-Lv2-SR-F (Room-5/6)  
+**Session:** [Urban Mobility, Travel Demand, and Spatiotemporal Transit Analytics](./Session_TMU-3/)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure    
+**Date:** Day 1, 20 July (Monday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Town Plaza-02-Seminar Room 5 & 6 (SR-F)  
 ```

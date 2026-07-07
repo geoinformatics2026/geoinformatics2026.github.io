@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R7218.pdf
+    output: 
 ---
 
 # From voice to authority: divergence-based participatory optimization for land use layouts generation
@@ -30,16 +30,14 @@ Keywords: Generative urban design,  Participatory optimization,  Land use layout
 
 
 
-Semantic Tags: participatory urban design; generative urban design; land use layout; divergence-based consensus; multi-objective optimization; stakeholder preferences; urban renewal
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R7218  
-**Session:** [Urban Planning, Renewal, and Socioeconomic Transformation ](./Session_UPS-4/)  
-**Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Urban Planning, Renewal, and Socioeconomic Transformation](./Session_UPS-4/)  
+**Theme:** Urban Analytics, Planning \& Socioeconomics    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-SR-A (Room-1/2)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 1 & 2 (SR-A)  
 ```

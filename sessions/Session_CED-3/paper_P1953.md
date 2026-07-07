@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P1953.pdf
+    output: 
 ---
 
 # Comparing Weighting Techniques for a Composite Spatial Indicator of Urban Heat Vulnerability
@@ -31,16 +31,14 @@ Keywords: urban heat vulnerability, urban heat risk, urban informatics, composit
 
 
 
-Semantic Tags: urban heat vulnerability; composite spatial indicator; weighting techniques; principal component analysis; entropy weighting; urban informatics; spatial equity; climate risk; heat risk assessment
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P1953  
-**Session:** [Urban Heat and Thermal Environment - Part 2 ](./Session_CED-3/)  
-**Theme:** Climate, Environmental Hazards, and Disaster Risk    
-**Date:** Day 1 — 20 July 2026 (Monday)  
-**Time:** 16:30 – 17:45  
-**Venue:** TP-Lv2-SR-E (Room-3/4)  
+**Session:** [Urban Heat and Thermal Environment - Part 2](./Session_CED-3/)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk    
+**Date:** Day 1, 20 July (Monday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
 ```

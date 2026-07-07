@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R5884.pdf
+    output: 
 ---
 
 # Spatiotemporal Divergence and Seasonal Inversion of Daytime and Nighttime Precipitation across China: A Five-Decade Observational Study (1972–2024) from the Geospatial Perspective
@@ -30,16 +30,14 @@ Keywords: Diurnal cycle,  Precipitation trends,  TFPW-MK test,  Spatiotemporal a
 
 
 
-Semantic Tags: diurnal precipitation; spatiotemporal analysis; climate change; TFPW-MK test; GIS-based spatial analysis; water resources; China
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R5884  
 **Session:** [Water Quality and Inland Water Monitoring](./Session_REE-4/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

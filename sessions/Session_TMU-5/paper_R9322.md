@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R9322.pdf
+    output: 
 ---
 
 # A Unified Geospatial Framework for Electric-Vehicle Charging Behavior
@@ -32,16 +32,14 @@ Keywords: Electric Vehicle,  Charging behavior,  GeoAI,  Spatiotemporal modeling
 
 
 
-Semantic Tags: electric vehicle charging behavior; GeoAI; spatiotemporal modeling; infrastructure planning; charging session analysis; spatial equity; urban transport
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R9322  
-**Session:** [Electric Vehicle Charging Systems and Smart Urban Energy Infrastructure ](./Session_TMU-5/)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Electric Vehicle Charging Systems and Smart Urban Energy Infrastructure](./Session_TMU-5/)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv2-SR-D (Room-8)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 6 (SR-D)  
 ```

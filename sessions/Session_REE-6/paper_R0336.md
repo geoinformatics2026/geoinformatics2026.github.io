@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R0336.pdf
+    output: 
 ---
 
 # Evaluating Traditional and Novel Height-Diameter Models for Urban Tree DBH Estimation
@@ -30,16 +30,14 @@ Keywords: RPA-LiDAR,  Height-Diameter models,  Urban forestry
 
 
 
-Semantic Tags: urban tree; diameter at breast height estimation; LiDAR; height-diameter model; urban forestry; tree carbon stock; allometric equation; remote sensing
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R0336  
-**Session:** [Vegetation and Forest Monitoring with UAV and LiDAR ](./Session_REE-6/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Session:** [Vegetation and Forest Monitoring with UAV and LiDAR](./Session_REE-6/)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

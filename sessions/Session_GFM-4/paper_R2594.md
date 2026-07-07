@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R2594.pdf
+    output: 
 ---
 
 # An individual sample-based approach: a new thinking in geographic analysis
@@ -29,16 +29,14 @@ Keywords: Third Law of Geography,  Spatial prediction,  Geographic similarity,  
 
 
 
-Semantic Tags: geographic analysis; Third Law of Geography; spatial prediction; geographic similarity; individual sample; spatial data; crowdsourced data
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R2594  
 **Session:** [Citizen-Generated Geospatial Data: Concepts, Theories, and Challenges](./Session_GFM-4/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-LT-50  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

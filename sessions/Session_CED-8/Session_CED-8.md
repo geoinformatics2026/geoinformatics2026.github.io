@@ -1,25 +1,25 @@
 ---
-title: "Disaster Chain Modeling and Multi-Hazard Analysis "
+title: "Flood Disaster Modeling, Observation Planning, and Emergency Rescue"
 exports:
   - format: pdf
     template: arxiv_nips
     output: _build/pdf/Session_CED-8/Session_CED-8.pdf
 ---
 
-# Session CED-8: Disaster Chain Modeling and Multi-Hazard Analysis 
+# Session CED-8: Flood Disaster Modeling, Observation Planning, and Emergency Rescue
 
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** TP-Lv2-SR-E (Room-3/4)  
-**Theme:** Climate, Environmental Hazards, and Disaster Risk  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk  
 
 ---
 
-This session contains **5 presentations**:
+This session contains **4 presentations**:
 
 
-- [**R2509** — Research on the Coordination Mechanism of the Human-Land System under Disaster Risk: A Case Study of Jilong Town in Southeastern Tibet](./paper_R2509/)  
-  *Xugong Jia, Jue Wang, Ming Chang*
+- [**R6080** — A Flood Disaster Chain Observation Planning Method Based on Space–Air–Ground Multi-Agent Negotiation](./paper_R6080/)  
+  *Zongran Zhang, Yunbo Zhang, Bingshu Huang, Ke Wang, Chuli Hu*
 
 - [**R6424** — A Multi-Stage Vertiport Location Problem for eVTOL Rescue under Flood Disasters: A Case Study of Zhengzhou](./paper_R6424/)  
   *Changchang Dong, Shiyan Zhai*
@@ -27,8 +27,5 @@ This session contains **5 presentations**:
 - [**R4080** — Spatial Relationship-Aware Observation Event Logic Graph for Flood Disaster Chain: Construction and Observation Planning Application](./paper_R4080/)  
   *Bingshu Huang, Yunbo Zhang, Chuli Hu*
 
-- [**R6080** — A Flood Disaster Chain Observation Planning Method Based on Space–Air–Ground Multi-Agent Negotiation](./paper_R6080/)  
-  *Zongran Zhang, Yunbo Zhang, Bingshu Huang, Ke Wang, Chuli Hu*
-
-- [**R2769** — Enhanced visualization service for spatiotemporal process of disaster chain based on virtual geographic environment](./paper_R2769/)  
-  *Lin Fu, Junjie Zhang, Gaoyun Shen*
+- [**R2509** — Research on the Coordination Mechanism of the Human-Land System under Disaster Risk: A Case Study of Jilong Town in Southeastern Tibet](./paper_R2509/)  
+  *Xugong Jia, Jue Wang, Ming Chang*

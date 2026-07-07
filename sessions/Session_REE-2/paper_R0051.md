@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R0051.pdf
+    output: 
 ---
 
 # Reliability-Oriented Urban Road Collapse Risk Assessment via InSAR–LiDAR Fusion, Dynamic Cloud-Model Grading, and LLM-Assisted Diagnosis
@@ -30,16 +30,14 @@ Keywords: InSAR–LiDAR fusion,  urban road collapse,  deformation monitoring,  
 
 
 
-Semantic Tags: urban road collapse; InSAR-LiDAR fusion; deformation monitoring; risk assessment; reliability-based grading; large language model; decision support; geotechnical hazard
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R0051  
-**Session:** [InSAR and Geological Hazard Monitoring ](./Session_REE-2/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Session:** [InSAR and Geological Hazard Monitoring](./Session_REE-2/)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

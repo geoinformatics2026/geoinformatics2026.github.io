@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R3911.pdf
+    output: 
 ---
 
 # Research on the Cloud Computing-Based Technical Architecture for Meteorological and Oceanographic Services
@@ -31,16 +31,14 @@ Keywords: Meteorological and Oceanographic service systems,  Cloud Computing-Bas
 
 
 
-Semantic Tags: meteorological and oceanographic services; cloud computing; big data; real-time processing; cloud-native architecture; spatiotemporal data service; hybrid deployment; service delivery
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R3911  
-**Session:** [Cartography, Geovisualization, and Geospatial Services ](./Session_GFM-8/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Cartography, Geovisualization, and Geospatial Services](./Session_GFM-8/)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SRC-Lv1-LT-50  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

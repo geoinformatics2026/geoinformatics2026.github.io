@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R0374.pdf
+    output: 
 ---
 
 # Understanding human mobility patterns disrupted by the 2025 California wildfires using mobile phone location data
@@ -33,16 +33,14 @@ Keywords: Human mobility,  wildfires,  social vulnerability,  disaster resilienc
 
 
 
-Semantic Tags: human mobility; wildfire; disaster resilience; mobile phone location data; social vulnerability; wildfire disruption; California; community resilience
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R0374  
-**Session:** [GeoAI and Data Science for Disaster Resilience](./Session_CED-1/)  
-**Theme:** Climate, Environmental Hazards, and Disaster Risk    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Session:** [GeoAI and Data Science for Disaster Resilience](./Session_CED-1/)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** TP-Lv2-SR-E (Room-3/4)  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
 ```

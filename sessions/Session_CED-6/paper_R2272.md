@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R2272.pdf
+    output: 
 ---
 
 # FloodLang and FloodLoc-Four: A Bilingual Dataset and Fine-Grained Multilevel Framework for Flood-Related Geospatial Information Understanding
@@ -30,16 +30,14 @@ Keywords: Geoinformation extraction,  Flood disaster,  Large language models,  B
 
 
 
-Semantic Tags: flood disaster; social media; geospatial information extraction; large language model; bilingual dataset; location extraction; disaster response; benchmarking
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R2272  
-**Session:** [Flood Emergency Response and Evacuation Modeling ](./Session_CED-6/)  
-**Theme:** Climate, Environmental Hazards, and Disaster Risk    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** TP-Lv2-SR-E (Room-3/4)  
+**Session:** [Flood Emergency Response and Evacuation Modeling](./Session_CED-6/)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk    
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
 ```

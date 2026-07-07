@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R7483.pdf
+    output: 
 ---
 
 # Understanding movement and behaviors of minnows in experimentally derived complex turbulent flows using novel geospatial datasets
@@ -32,16 +32,14 @@ Keywords: fish,  turbulence,  geospatial,  schooling,  experimental
 
 
 
-Semantic Tags: fish behavior; turbulence; geospatial tracking; schooling behavior; experimental hydraulics; particle image velocimetry; river flow
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R7483  
-**Session:** [Marine and Aquatic Geospatial Monitoring ](./Session_REE-5/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Marine and Aquatic Geospatial Monitoring](./Session_REE-5/)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

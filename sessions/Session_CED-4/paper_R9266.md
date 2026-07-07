@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R9266.pdf
+    output: 
 ---
 
 # From Circulation Shifts to AI Forecasts: Understanding and Predicting Rainfall in Southern China
@@ -31,16 +31,14 @@ Keywords: Interdecadal changes,  Extreme rainfall,  Large-scale circulation,  Nu
 
 
 
-Semantic Tags: precipitation forecasting; extreme rainfall; large-scale circulation; AI; numerical models; deep learning; Southern China; climate dynamics
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R9266  
-**Session:** [Hydrometeorological Forecasting and Precipitation Modeling ](./Session_CED-4/)  
-**Theme:** Climate, Environmental Hazards, and Disaster Risk    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Hydrometeorological Forecasting and Precipitation Modeling](./Session_CED-4/)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** TP-Lv2-SR-E (Room-3/4)  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
 ```

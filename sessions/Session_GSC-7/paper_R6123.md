@@ -9,7 +9,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R6123.pdf
+    output: 
 ---
 
 # Geographically Weighted Canonical Correlation Analysis: Local Spatial Associations Between Two Sets of Variables
@@ -36,16 +36,14 @@ Keywords: Canonical Correlation Analysis,  spatial association,  multivariate,  
 
 
 
-Semantic Tags: canonical correlation analysis; spatial association; multivariate analysis; geographically weighted regression; public health; spatial statistics; local spatial association; linear combinations
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R6123  
 **Session:** [Spatial Statistics, Geostatistics, and GIScience Theory](./Session_GSC-7/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** TP-Lv2-SR-F (Room-5/6)  
+**Venue:** Town Plaza-02-Seminar Room 5 & 6 (SR-F)  
 ```

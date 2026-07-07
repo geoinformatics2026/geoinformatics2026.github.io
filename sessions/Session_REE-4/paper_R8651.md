@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R8651.pdf
+    output: 
 ---
 
 # Contrasting Drivers of Water Clarity: A Multi-Decadal Satellite Analysis of Two Types of Lake Wetlands
@@ -29,16 +29,14 @@ Keywords: Landsat,  Lake wetland,  Water clarity,  Land use,  Landscape
 
 
 
-Semantic Tags: lake wetland; water clarity; Secchi disk depth; Landsat; land use; landscape pattern; spatiotemporal dynamics; water quality remote sensing
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R8651  
 **Session:** [Water Quality and Inland Water Monitoring](./Session_REE-4/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R0642.pdf
+    output: 
 ---
 
 # A Large Language Model-Based Method for Constructing Historical and Cultural Knowledge Graphs and Its Application in Atlas Content Organization
@@ -29,16 +29,14 @@ Keywords: Historical and cultural knowledge,  Llm,  Knowledge graph,  Atlas cont
 
 
 
-Semantic Tags: historical cultural knowledge; large language model; knowledge graph; atlas content; religious culture; semantic parsing; chain-of-thought reasoning
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R0642  
-**Session:** [Knowledge Graphs and Spatial Semantics ](./Session_GFM-6/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv1-LT-50  
+**Session:** [Knowledge Graphs and Spatial Semantics](./Session_GFM-6/)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

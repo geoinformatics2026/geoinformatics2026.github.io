@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R0102.pdf
+    output: 
 ---
 
 # Examining the Impact of Industrial Air Pollution on Newborn Hearing Health
@@ -30,16 +30,14 @@ Keywords: newborn hearing,  PM2.5-bound metals,  GIS,  spatial analysis,  Risk-S
 
 
 
-Semantic Tags: air quality; PM2.5 metals; newborn hearing health; GIS; spatial analysis; environmental health; risk screening; New Mexico
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R0102  
-**Session:** [Environmental Health and Pollution Exposure ](./Session_HEI-8/)  
-**Theme:** Health, Equity, and Human-Environment Interactions    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Environmental Health and Pollution Exposure](./Session_HEI-8/)  
+**Theme:** Health, Equity \& Human-Env. Interactions    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SRC-Lv1-SR-C (Room-5)  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P3225.pdf
+    output: 
 ---
 
 # Research on the Spatial Patterns of Global Major Cities
@@ -31,16 +31,14 @@ Keywords: Global major cities, Spatial pattern, Spatial Morphology, Polycentric,
 
 
 
-Semantic Tags: global city morphology; spatial pattern; polycentric urban structure; urban network; GHSL; OECD data; comparative urban analysis; spatial intensive utilization
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P3225  
-**Session:** [Urban Spatial Structure and Morphological Analysis](./Session_UPS-6/)  
-**Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv1-SR-A (Room-1/2)  
+**Session:** [Urban Spatial Structure, Positioning, and Spatial Development](./Session_UPS-6/)  
+**Theme:** Urban Analytics, Planning \& Socioeconomics    
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Seminar Room 1 & 2 (SR-A)  
 ```

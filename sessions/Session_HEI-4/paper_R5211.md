@@ -9,7 +9,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R5211.pdf
+    output: 
 ---
 
 # Exploration of the temporal and spatial characteristics of the spread of dengue fever
@@ -32,16 +32,14 @@ Keywords: Dengue fever,  Population dynamics,  Spatial node,  Precise prevention
 
 
 
-Semantic Tags: dengue fever; disease transmission; population dynamics; spatial node; spatiotemporal epidemiology; urban disease; China
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R5211  
-**Session:** [Spatial Epidemiology and Disease Modeling ](./Session_HEI-4/)  
-**Theme:** Health, Equity, and Human-Environment Interactions    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Spatial Epidemiology, Emergency Response, and Built Environment Cognition](./Session_HEI-4/)  
+**Theme:** Health, Equity \& Human-Env. Interactions    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-SR-C (Room-5)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 5 (SR-C)  
 ```

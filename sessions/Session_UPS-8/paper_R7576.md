@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R7576.pdf
+    output: 
 ---
 
 # Towards Complexity-Aware Scenario Modelling in Urban Digital Twins: A Socio-Technical Framework
@@ -31,16 +31,14 @@ Keywords: Urban Digital Twins,  Socio-technical approach,  Urban complexity
 
 
 
-Semantic Tags: urban digital twin; socio-technical approach; urban complexity; scenario modeling; simulation; urban planning; decision support
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R7576  
-**Session:** [Urban Digital Twins and 3D City Modeling ](./Session_UPS-8/)  
-**Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Urban and Geospatial Digital Twins for Scenario Modeling](./Session_UPS-8/)  
+**Theme:** Urban Analytics, Planning \& Socioeconomics    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SRC-Lv1-SR-A (Room-1/2)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 1 & 2 (SR-A)  
 ```

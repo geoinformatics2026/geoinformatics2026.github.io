@@ -8,27 +8,27 @@ exports:
 
 # Session GSC-4: Geographical Principles in Spatial Analysis and Modeling
 
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv2-LT-52  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods  
 
 ---
 
 This session contains **5 presentations**:
 
 
-- [**R2236** — AI-PriSM: Voxel-Ready Cellular Grids for Explainable, Policy-Oriented Population Migration Forecasting](./paper_R2236/)  
-  *Yohan Chang, Jae Soen Son*
+- [**R5077** — A hybrid method for spatial prediction integrating the First and Third Laws of Geography](./paper_R5077/)  
+  *Guiming Zhang*
 
 - [**R7914** — Interpretable Generative Diffusion Model for Metro Passenger Flow Prediction and Spatio-Temporal Attribution Analysis: A Case Study of the Taipei Metro, Taiwan](./paper_R7914/)  
   *Shih-Chi Wang, Po-Yen Lin, Yi-Chung Chen*
 
-- [**R5077** — A hybrid method for spatial prediction integrating the First and Third Laws of Geography](./paper_R5077/)  
-  *Guiming Zhang*
+- [**R0100** — Paying for 3D: When Richer Spatial Representation Yields Little Gain](./paper_R0100/)  
+  *Po-Yu Yeh, Tzu-Cheng Cheng, Peng-Hsiang Jen, Chun-Hsiang Chan*
 
 - [**R1455** — Toward a Responsibility-Centred Epistemology of GeoAI: Twin Expressions of AI Ethics and Geographic Information Science](./paper_R1455/)  
   *Chuan Chen*
 
-- [**R0100** — Paying for 3D: When Richer Spatial Representation Yields Little Gain](./paper_R0100/)  
-  *Po-Yu Yeh, Tzu-Cheng Cheng, Peng-Hsiang Jen, Chun-Hsiang Chan*
+- [**R2236** — AI-PriSM: Voxel-Ready Cellular Grids for Explainable, Policy-Oriented Population Migration Forecasting](./paper_R2236/)  
+  *Yohan Chang, Jae Soen Son*

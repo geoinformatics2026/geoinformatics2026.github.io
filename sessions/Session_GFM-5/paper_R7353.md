@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R7353.pdf
+    output: 
 ---
 
 # GeoAI for Small Geospatial Data
@@ -30,16 +30,14 @@ Keywords: GeoAI,  Geostatistics,  Small data,  Uncertainty,  Deep learning
 
 
 
-Semantic Tags: GeoAI; geostatistics; small data; uncertainty quantification; deep learning; sparse observation; environmental modeling; parameter estimation; geospatial analysis
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R7353  
 **Session:** [Cyberinfrastructure and GeoAI for Intelligent Spatial Decision Support](./Session_GFM-5/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-LT-50  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

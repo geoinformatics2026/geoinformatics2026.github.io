@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R8836.pdf
+    output: 
 ---
 
 # A Multi-dimensional Evaluation Framework for Urban Park Service Performance and Spatial Equity: A Case Study of Shanghai
@@ -30,16 +30,14 @@ Keywords: Urban park,  i2SFCA,  Environmental equity,  Spatial analysis,  Servic
 
 
 
-Semantic Tags: urban park service; spatial equity; spatial accessibility; environmental equity; park quality; i2SFCA; Shanghai; China
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R8836  
-**Session:** [Healthcare Accessibility and Spatial Equity ](./Session_HEI-1/)  
-**Theme:** Health, Equity, and Human-Environment Interactions    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Session:** [Healthcare Accessibility, Environmental Exposure, and Spatial Equity](./Session_HEI-1/)  
+**Theme:** Health, Equity \& Human-Env. Interactions    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-SR-C (Room-5)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 5 (SR-C)  
 ```

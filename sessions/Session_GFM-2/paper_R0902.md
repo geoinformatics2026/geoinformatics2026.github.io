@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R0902.pdf
+    output: 
 ---
 
 # A Container-Based Actor–Critic Reinforcement Learning Approach for Optimized Scheduling in Geospatial Computing Clouds
@@ -30,16 +30,14 @@ Keywords: Geospatial computing,  Containerized geospatial cloud,  Unified spatio
 
 
 
-Semantic Tags: geospatial cloud computing; actor-critic reinforcement learning; containerized scheduling; heterogeneous resource coordination; parallel computing; spatiotemporal workload optimization; makespan optimization; cloud resource management
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R0902  
 **Session:** [Emerging LLM-based Methods for Geospatial Analysis - Part 2](./Session_GFM-2/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-LT-50  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

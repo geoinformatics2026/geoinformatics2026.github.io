@@ -9,7 +9,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R5689.pdf
+    output: 
 ---
 
 # Interactive Thematic Map Style Intelligent Recommendation
@@ -32,16 +32,14 @@ Keywords: GeoAI,  Thematic Map Style,  Intelligent Recommendation,  PageRank
 
 
 
-Semantic Tags: thematic map style; intelligent recommendation; GeoAI; cartography; intelligent map-making; PageRank; map design; style normalization
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R5689  
-**Session:** [Cartography, Geovisualization, and Geospatial Services ](./Session_GFM-8/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Cartography, Geovisualization, and Geospatial Services](./Session_GFM-8/)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SRC-Lv1-LT-50  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

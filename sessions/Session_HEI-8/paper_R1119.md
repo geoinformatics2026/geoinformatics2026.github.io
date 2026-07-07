@@ -9,7 +9,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R1119.pdf
+    output: 
 ---
 
 # Prenatal Exposure to PM₂.₅ and Ozone and Risk of Preterm Birth in Georgia (2015–2018): A Discrete-Time Survival Analysis Using FAQSD Data
@@ -34,16 +34,14 @@ Keywords: PM2.5,  Ozone,  Fused Air Quality Surface Using Downscaling (FAQSD),  
 
 
 
-Semantic Tags: air pollution; prenatal exposure; PM2.5; ozone; preterm birth; survival analysis; epidemiology; environmental health; Georgia USA
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R1119  
-**Session:** [Environmental Health and Pollution Exposure ](./Session_HEI-8/)  
-**Theme:** Health, Equity, and Human-Environment Interactions    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Environmental Health and Pollution Exposure](./Session_HEI-8/)  
+**Theme:** Health, Equity \& Human-Env. Interactions    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SRC-Lv1-SR-C (Room-5)  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R4046.pdf
+    output: 
 ---
 
 # Multi-Agent Collaboration-Driven Dynamic Assessment of Flood Risk
@@ -30,16 +30,14 @@ Keywords: Flood Risk Assessment,  Multi-Agent Collaboration,  Dynamic Geospatial
 
 
 
-Semantic Tags: flood risk assessment; multi-agent collaboration; dynamic geospatial simulation; large language model; spatiotemporal dynamics; disaster management; agent modeling; flood propagation
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R4046  
-**Session:** [Flood Emergency Response and Evacuation Modeling ](./Session_CED-6/)  
-**Theme:** Climate, Environmental Hazards, and Disaster Risk    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** TP-Lv2-SR-E (Room-3/4)  
+**Session:** [Flood Emergency Response and Evacuation Modeling](./Session_CED-6/)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk    
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
 ```

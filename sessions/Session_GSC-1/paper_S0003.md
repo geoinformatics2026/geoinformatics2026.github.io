@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_S0003.pdf
+    output: 
 ---
 
 # DirTraj: Behavior-Grounded OD-Conditioned Continuous-Time Route Prediction on Road Networks
@@ -29,16 +29,14 @@ Keywords: trajectory prediction, network-based trajectory modeling, neural ordin
 
 
 
-Semantic Tags: trajectory prediction; road network; neural ordinary differential equations; origin-destination conditioned; continuous-time modeling; urban mobility; route forecasting
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** S0003  
 **Session:** [Student competition - Part 1](./Session_GSC-1/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv2-SR-D (Room-8)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 6 (SR-D)  
 ```

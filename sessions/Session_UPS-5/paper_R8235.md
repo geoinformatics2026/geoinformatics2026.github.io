@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R8235.pdf
+    output: 
 ---
 
 # Leveraging Seismic Signals for Sensing Urban Human Activity and Transportation
@@ -30,16 +30,14 @@ Keywords: human dynamics,  urban sensing,  deep learning
 
 
 
-Semantic Tags: urban sensing; seismic signal; human activity monitoring; distributed acoustic sensing; transportation dynamics; deep learning; ambient vibration
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R8235  
-**Session:** [Urban Environmental Sensing, Livability, and Quality of Life ](./Session_UPS-5/)  
-**Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Urban Environmental Sensing, Livability, and Quality of Life](./Session_UPS-5/)  
+**Theme:** Urban Analytics, Planning \& Socioeconomics    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-SR-A (Room-1/2)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 1 & 2 (SR-A)  
 ```

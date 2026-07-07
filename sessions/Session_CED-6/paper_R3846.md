@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R3846.pdf
+    output: 
 ---
 
 # The Synergistic Effects of Warning Message Design and Dynamic Flood Risk on Evacuation Decisions: A Multi-Scenario Virtual Reality Experiment
@@ -29,16 +29,14 @@ Keywords: Virtual Reality,  Urban pluvial flooding,  Evacuation decision,  Warni
 
 
 
-Semantic Tags: flood evacuation; virtual reality experiment; warning message design; flood risk; behavioral response; urban pluvial flooding; emergency management
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R3846  
-**Session:** [Flood Emergency Response and Evacuation Modeling ](./Session_CED-6/)  
-**Theme:** Climate, Environmental Hazards, and Disaster Risk    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** TP-Lv2-SR-E (Room-3/4)  
+**Session:** [Flood Emergency Response and Evacuation Modeling](./Session_CED-6/)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk    
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
 ```

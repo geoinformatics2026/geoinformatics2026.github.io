@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R4091.pdf
+    output: 
 ---
 
 # Beyond the Shortest Path: Perception-Aware GIS Routing Using Multimodal GeoAI
@@ -29,16 +29,14 @@ Keywords: Geospatial Artificial Intelligence (GeoAI),  Perception-aware routing,
 
 
 
-Semantic Tags: cycling route choice; GeoAI; street view imagery; visual question answering; perception-aware routing; sustainable mobility; cognitive friction; urban navigation
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R4091  
-**Session:** [Urban Environmental Sensing, Livability, and Quality of Life ](./Session_UPS-5/)  
-**Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Urban Environmental Sensing, Livability, and Quality of Life](./Session_UPS-5/)  
+**Theme:** Urban Analytics, Planning \& Socioeconomics    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-SR-A (Room-1/2)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 1 & 2 (SR-A)  
 ```

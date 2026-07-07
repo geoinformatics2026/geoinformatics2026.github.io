@@ -10,7 +10,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R1696.pdf
+    output: 
 ---
 
 # Deep learning driven spatiotemporal prediction of global carbon emissions from container shipping
@@ -35,16 +35,14 @@ Keywords: Spatiotemporal prediction,  Deep learning,  Container ships,  Carbon e
 
 
 
-Semantic Tags: container shipping; carbon emissions; deep learning; spatiotemporal prediction; AIS data; ConvLSTM; global maritime emissions; emission hotspot; ocean monitoring
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R1696  
-**Session:** [Transport Emissions and Low-Carbon Urban Mobility Systems ](./Session_TMU-2/)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Session:** [Urban Mobility, Transport Emissions, and Low-Carbon Systems](./Session_TMU-2/)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** TP-Lv2-SR-F (Room-5/6)  
+**Venue:** Town Plaza-02-Seminar Room 5 & 6 (SR-F)  
 ```

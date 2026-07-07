@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_S0009.pdf
+    output: 
 ---
 
 # COVID Impacts on Community Access to Formal Long-term Care and Associated Disparities
@@ -29,16 +29,14 @@ Keywords: Long-term care facilities, Residential and non-residential, Spatial ac
 
 
 
-Semantic Tags: COVID-19; long-term care facilities; spatial accessibility; urban-rural disparity; healthcare planning; interrupted time series; Wisconsin
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** S0009  
 **Session:** [Student competition - Part 2](./Session_GSC-2/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv2-SR-D (Room-8)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 6 (SR-D)  
 ```

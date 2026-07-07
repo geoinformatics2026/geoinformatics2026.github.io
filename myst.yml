@@ -8,552 +8,557 @@ project:
   - file: intro.md
   - title: Programme at a Glance
     children:
-    - file: programme/overview.md
+    - file: overview.md
     - file: ./keynotes/index.md
-    - file: ./sessions/slot_a.md
-    - file: ./sessions/slot_b.md
-    - file: ./sessions/slot_c.md
-    - file: ./sessions/slot_d.md
-    - file: ./sessions/slot_e.md
-    - file: ./sessions/slot_f.md
-    - file: ./sessions/slot_g.md
-  - title: Keynote Speeches
+    - file: ./sessions/slot_1.md
+    - file: ./sessions/slot_2.md
+    - file: ./sessions/slot_3.md
+    - file: ./sessions/slot_4.md
+    - file: ./sessions/slot_5.md
+    - file: ./sessions/slot_6.md
+    - file: ./sessions/slot_7.md
+    - file: ./sessions/slot_8.md
+  - title: Keynote Presentations
     file: ./keynotes/index.md
     children:
     - file: keynotes/keynote_01.md
-    - file: keynotes/keynote_02.md
-    - file: keynotes/keynote_03.md
     - file: keynotes/keynote_04.md
+    - file: keynotes/keynote_03.md
     - file: keynotes/keynote_05.md
+    - file: keynotes/keynote_02.md
     - file: keynotes/keynote_06.md
-    - file: keynotes/keynote_07.md
-  - title: "Day 1: Parallel 1 (13:00 \u2013 14:30)"
+  - title: "Day Day 1 \xB7 Mon 20 Jul: Parallel 1 (13:00 \u2013 14:30)"
     file: ./sessions/slot_1.md
     children:
-    - title: "CED-1: GeoAI\_and Data Science for Disaster Resilience"
+    - title: 'CED-1: GeoAI and Data Science for Disaster Resilience'
       file: ./sessions/Session_CED-1/Session_CED-1.md
       children:
-      - file: ./sessions/Session_CED-1/paper_R3669.md
+      - file: ./sessions/Session_CED-1/paper_R1577.md
       - file: ./sessions/Session_CED-1/paper_R0855.md
       - file: ./sessions/Session_CED-1/paper_R2360.md
-      - file: ./sessions/Session_CED-1/paper_R1577.md
       - file: ./sessions/Session_CED-1/paper_R0374.md
+      - file: ./sessions/Session_CED-1/paper_R3669.md
     - title: 'GFM-1: Emerging LLM-based Methods for Geospatial Analysis - Part 1'
       file: ./sessions/Session_GFM-1/Session_GFM-1.md
       children:
+      - file: ./sessions/Session_GFM-1/paper_R5179.md
+      - file: ./sessions/Session_GFM-1/paper_R8917.md
+      - file: ./sessions/Session_GFM-1/paper_R5173.md
       - file: ./sessions/Session_GFM-1/paper_R3396.md
       - file: ./sessions/Session_GFM-1/paper_R6561.md
-      - file: ./sessions/Session_GFM-1/paper_R5173.md
-      - file: ./sessions/Session_GFM-1/paper_R2177.md
-      - file: ./sessions/Session_GFM-1/paper_R8917.md
     - title: 'GSC-1: Student competition - Part 1'
       file: ./sessions/Session_GSC-1/Session_GSC-1.md
       children:
-      - file: ./sessions/Session_GSC-1/paper_S0004.md
-      - file: ./sessions/Session_GSC-1/paper_S0005.md
       - file: ./sessions/Session_GSC-1/paper_S0013.md
       - file: ./sessions/Session_GSC-1/paper_S0003.md
-      - file: ./sessions/Session_GSC-1/paper_S0015.md
-    - title: 'HEI-1: Healthcare Accessibility and Spatial Equity '
+      - file: ./sessions/Session_GSC-1/paper_S0014.md
+      - file: ./sessions/Session_GSC-1/paper_S0008.md
+      - file: ./sessions/Session_GSC-1/paper_S0017.md
+    - title: 'HEI-1: Healthcare Accessibility, Environmental Exposure, and Spatial Equity'
       file: ./sessions/Session_HEI-1/Session_HEI-1.md
       children:
-      - file: ./sessions/Session_HEI-1/paper_R8836.md
-      - file: ./sessions/Session_HEI-1/paper_R7580.md
       - file: ./sessions/Session_HEI-1/paper_R2484.md
+      - file: ./sessions/Session_HEI-1/paper_R8836.md
       - file: ./sessions/Session_HEI-1/paper_R1891.md
-      - file: ./sessions/Session_HEI-1/paper_R1161.md
-    - title: 'LEA-1: Carbon Emissions, Energy Transition, and Ecosystem Accounting '
+      - file: ./sessions/Session_HEI-1/paper_R5720.md
+      - file: ./sessions/Session_HEI-1/paper_R8563.md
+    - title: 'LEA-1: Carbon Emissions, Energy Transition, and Ecosystem Accounting'
       file: ./sessions/Session_LEA-1/Session_LEA-1.md
       children:
-      - file: ./sessions/Session_LEA-1/paper_R7616.md
       - file: ./sessions/Session_LEA-1/paper_R4925.md
-      - file: ./sessions/Session_LEA-1/paper_R8378.md
+      - file: ./sessions/Session_LEA-1/paper_R4522.md
+      - file: ./sessions/Session_LEA-1/paper_R7616.md
       - file: ./sessions/Session_LEA-1/paper_R2233.md
       - file: ./sessions/Session_LEA-1/paper_R7977.md
-    - title: 'REE-1: Remote Sensing Object Detection and Image Enhancement '
+    - title: 'REE-1: Remote Sensing Object Detection and Image Enhancement'
       file: ./sessions/Session_REE-1/Session_REE-1.md
       children:
-      - file: ./sessions/Session_REE-1/paper_P8680.md
-      - file: ./sessions/Session_REE-1/paper_R4253.md
-      - file: ./sessions/Session_REE-1/paper_P7578.md
       - file: ./sessions/Session_REE-1/paper_R2515.md
+      - file: ./sessions/Session_REE-1/paper_R4253.md
+      - file: ./sessions/Session_REE-1/paper_P8680.md
+      - file: ./sessions/Session_REE-1/paper_P7578.md
       - file: ./sessions/Session_REE-1/paper_P8695.md
     - title: 'TMU-1: Geospatial Innovations for Sustainable Transportation and Urban
         Mobility'
       file: ./sessions/Session_TMU-1/Session_TMU-1.md
       children:
-      - file: ./sessions/Session_TMU-1/paper_P0189.md
-      - file: ./sessions/Session_TMU-1/paper_P3434.md
-      - file: ./sessions/Session_TMU-1/paper_R8531.md
       - file: ./sessions/Session_TMU-1/paper_R3370.md
+      - file: ./sessions/Session_TMU-1/paper_P0189.md
+      - file: ./sessions/Session_TMU-1/paper_R8531.md
       - file: ./sessions/Session_TMU-1/paper_R2583.md
+      - file: ./sessions/Session_TMU-1/paper_R0330.md
     - title: 'UPS-1: Geospatial Modeling for Sustainable Development'
       file: ./sessions/Session_UPS-1/Session_UPS-1.md
       children:
+      - file: ./sessions/Session_UPS-1/paper_R1615.md
       - file: ./sessions/Session_UPS-1/paper_R5686.md
       - file: ./sessions/Session_UPS-1/paper_R0377.md
-      - file: ./sessions/Session_UPS-1/paper_R1615.md
-      - file: ./sessions/Session_UPS-1/paper_R6167.md
       - file: ./sessions/Session_UPS-1/paper_R2995.md
-  - title: "Day 1: Parallel 2 (14:45 \u2013 16:15)"
+      - file: ./sessions/Session_UPS-1/paper_R6167.md
+  - title: "Day Day 1 \xB7 Mon 20 Jul: Parallel 2 (14:45 \u2013 16:15)"
     file: ./sessions/slot_2.md
     children:
-    - title: 'CED-2: Urban Heat and Thermal Environment - Part 1 '
+    - title: 'CED-2: Urban Heat and Thermal Environment - Part 1'
       file: ./sessions/Session_CED-2/Session_CED-2.md
       children:
-      - file: ./sessions/Session_CED-2/paper_P0055.md
-      - file: ./sessions/Session_CED-2/paper_R5975.md
       - file: ./sessions/Session_CED-2/paper_R0241.md
-      - file: ./sessions/Session_CED-2/paper_R1822.md
+      - file: ./sessions/Session_CED-2/paper_R2356.md
+      - file: ./sessions/Session_CED-2/paper_R2990.md
       - file: ./sessions/Session_CED-2/paper_R6321.md
+      - file: ./sessions/Session_CED-2/paper_P0055.md
     - title: 'GFM-2: Emerging LLM-based Methods for Geospatial Analysis - Part 2'
       file: ./sessions/Session_GFM-2/Session_GFM-2.md
       children:
-      - file: ./sessions/Session_GFM-2/paper_R9107.md
+      - file: ./sessions/Session_GFM-2/paper_R0902.md
+      - file: ./sessions/Session_GFM-2/paper_R9883.md
       - file: ./sessions/Session_GFM-2/paper_R6733.md
       - file: ./sessions/Session_GFM-2/paper_R5814.md
-      - file: ./sessions/Session_GFM-2/paper_R9883.md
-      - file: ./sessions/Session_GFM-2/paper_R0902.md
+      - file: ./sessions/Session_GFM-2/paper_R9107.md
     - title: 'GSC-2: Student competition - Part 2'
       file: ./sessions/Session_GSC-2/Session_GSC-2.md
       children:
-      - file: ./sessions/Session_GSC-2/paper_S0008.md
-      - file: ./sessions/Session_GSC-2/paper_S0017.md
-      - file: ./sessions/Session_GSC-2/paper_S0014.md
+      - file: ./sessions/Session_GSC-2/paper_S0004.md
+      - file: ./sessions/Session_GSC-2/paper_S0015.md
       - file: ./sessions/Session_GSC-2/paper_S0009.md
+      - file: ./sessions/Session_GSC-2/paper_S0005.md
       - file: ./sessions/Session_GSC-2/paper_S0007.md
     - title: 'HEI-2: Urban Green Space and Human Well-Being'
       file: ./sessions/Session_HEI-2/Session_HEI-2.md
       children:
-      - file: ./sessions/Session_HEI-2/paper_R5021.md
+      - file: ./sessions/Session_HEI-2/paper_R1307.md
+      - file: ./sessions/Session_HEI-2/paper_P2774.md
       - file: ./sessions/Session_HEI-2/paper_R8633.md
       - file: ./sessions/Session_HEI-2/paper_R0016.md
-      - file: ./sessions/Session_HEI-2/paper_R2824.md
-      - file: ./sessions/Session_HEI-2/paper_R1307.md
+      - file: ./sessions/Session_HEI-2/paper_R2276.md
     - title: 'LEA-2: GeoAI-Facilitated Energy Geographies'
       file: ./sessions/Session_LEA-2/Session_LEA-2.md
       children:
-      - file: ./sessions/Session_LEA-2/paper_R9116.md
-      - file: ./sessions/Session_LEA-2/paper_R3743.md
-      - file: ./sessions/Session_LEA-2/paper_R1823.md
       - file: ./sessions/Session_LEA-2/paper_R7520.md
+      - file: ./sessions/Session_LEA-2/paper_R3743.md
       - file: ./sessions/Session_LEA-2/paper_R9788.md
-    - title: 'REE-2: InSAR and Geological Hazard Monitoring '
+      - file: ./sessions/Session_LEA-2/paper_R9116.md
+      - file: ./sessions/Session_LEA-2/paper_R1823.md
+    - title: 'REE-2: InSAR and Geological Hazard Monitoring'
       file: ./sessions/Session_REE-2/Session_REE-2.md
       children:
-      - file: ./sessions/Session_REE-2/paper_R7085.md
       - file: ./sessions/Session_REE-2/paper_R0051.md
+      - file: ./sessions/Session_REE-2/paper_R7085.md
       - file: ./sessions/Session_REE-2/paper_P3605.md
-      - file: ./sessions/Session_REE-2/paper_P7824_R3982.md
       - file: ./sessions/Session_REE-2/paper_R3342.md
-    - title: 'TMU-2: Transport Emissions and Low-Carbon Urban Mobility Systems '
+      - file: ./sessions/Session_REE-2/paper_P7824.md
+    - title: 'TMU-2: Urban Mobility, Transport Emissions, and Low-Carbon Systems'
       file: ./sessions/Session_TMU-2/Session_TMU-2.md
       children:
-      - file: ./sessions/Session_TMU-2/paper_R0330.md
-      - file: ./sessions/Session_TMU-2/paper_R5199.md
-      - file: ./sessions/Session_TMU-2/paper_R1696.md
-      - file: ./sessions/Session_TMU-2/paper_R2070.md
       - file: ./sessions/Session_TMU-2/paper_R6343.md
-    - title: 'UPS-2: Population Mapping, Migration Dynamics, and Spatial Demography '
+      - file: ./sessions/Session_TMU-2/paper_R2070.md
+      - file: ./sessions/Session_TMU-2/paper_P3434.md
+      - file: ./sessions/Session_TMU-2/paper_R1696.md
+      - file: ./sessions/Session_TMU-2/paper_R5199.md
+    - title: 'UPS-2: Population, Migration, and Rural Settlement Dynamics'
       file: ./sessions/Session_UPS-2/Session_UPS-2.md
       children:
+      - file: ./sessions/Session_UPS-2/paper_R2367.md
       - file: ./sessions/Session_UPS-2/paper_R8930.md
-      - file: ./sessions/Session_UPS-2/paper_P0714_R5102_S0016.md
-      - file: ./sessions/Session_UPS-2/paper_R6055.md
-      - file: ./sessions/Session_UPS-2/paper_R2367_S0012.md
+      - file: ./sessions/Session_UPS-2/paper_R0670.md
+      - file: ./sessions/Session_UPS-2/paper_P0714.md
       - file: ./sessions/Session_UPS-2/paper_R9446.md
-  - title: "Day 1: Parallel 3 (16:30 \u2013 17:45)"
+  - title: "Day Day 1 \xB7 Mon 20 Jul: Parallel 3 (16:30 \u2013 18:00)"
     file: ./sessions/slot_3.md
     children:
-    - title: 'CED-3: Urban Heat and Thermal Environment - Part 2 '
+    - title: 'CED-3: Urban Heat and Thermal Environment - Part 2'
       file: ./sessions/Session_CED-3/Session_CED-3.md
       children:
       - file: ./sessions/Session_CED-3/paper_R7384.md
-      - file: ./sessions/Session_CED-3/paper_R2356.md
-      - file: ./sessions/Session_CED-3/paper_R1526.md
       - file: ./sessions/Session_CED-3/paper_P1953.md
-      - file: ./sessions/Session_CED-3/paper_R2990.md
+      - file: ./sessions/Session_CED-3/paper_R5975.md
+      - file: ./sessions/Session_CED-3/paper_R1526.md
+      - file: ./sessions/Session_CED-3/paper_R1822.md
     - title: 'GFM-3: Large Language Models and Agentic GIS'
       file: ./sessions/Session_GFM-3/Session_GFM-3.md
       children:
-      - file: ./sessions/Session_GFM-3/paper_R2555.md
-      - file: ./sessions/Session_GFM-3/paper_R5179.md
       - file: ./sessions/Session_GFM-3/paper_P5968.md
+      - file: ./sessions/Session_GFM-3/paper_R2555.md
       - file: ./sessions/Session_GFM-3/paper_R9755.md
+      - file: ./sessions/Session_GFM-3/paper_R0707.md
       - file: ./sessions/Session_GFM-3/paper_R8669.md
     - title: 'GSC-3: Emerging Applications in Geospatial Technology'
       file: ./sessions/Session_GSC-3/Session_GSC-3.md
       children:
       - file: ./sessions/Session_GSC-3/paper_R9996.md
-      - file: ./sessions/Session_GSC-3/paper_R7778.md
       - file: ./sessions/Session_GSC-3/paper_R5537.md
+      - file: ./sessions/Session_GSC-3/paper_R2164.md
+      - file: ./sessions/Session_GSC-3/paper_R7778.md
       - file: ./sessions/Session_GSC-3/paper_P0453.md
-    - title: 'HEI-3: Climate Extremes, Heat Exposure, and Public Health '
+    - title: 'HEI-3: Environmental Exposure, Ecosystem Services, and Public Health'
       file: ./sessions/Session_HEI-3/Session_HEI-3.md
       children:
+      - file: ./sessions/Session_HEI-3/paper_R7580.md
+      - file: ./sessions/Session_HEI-3/paper_R1161.md
       - file: ./sessions/Session_HEI-3/paper_R6086.md
+      - file: ./sessions/Session_HEI-3/paper_R2824.md
+      - file: ./sessions/Session_HEI-3/paper_R5021.md
       - file: ./sessions/Session_HEI-3/paper_R5658.md
-      - file: ./sessions/Session_HEI-3/paper_R2276.md
-      - file: ./sessions/Session_HEI-3/paper_P2774.md
-      - file: ./sessions/Session_HEI-3/paper_R5720.md
     - title: 'LEA-3: Urban Land Change and Expansion Dynamics'
       file: ./sessions/Session_LEA-3/Session_LEA-3.md
       children:
+      - file: ./sessions/Session_LEA-3/paper_R7566.md
       - file: ./sessions/Session_LEA-3/paper_R9227.md
       - file: ./sessions/Session_LEA-3/paper_R5517.md
-      - file: ./sessions/Session_LEA-3/paper_R3251.md
-      - file: ./sessions/Session_LEA-3/paper_R7566.md
       - file: ./sessions/Session_LEA-3/paper_R1985.md
-    - title: 'REE-3: Hyperspectral Remote Sensing and Spectral Analysis '
+      - file: ./sessions/Session_LEA-3/paper_R3251.md
+    - title: 'REE-3: Hyperspectral Remote Sensing and Spectral Analysis'
       file: ./sessions/Session_REE-3/Session_REE-3.md
       children:
+      - file: ./sessions/Session_REE-3/paper_P7562.md
+      - file: ./sessions/Session_REE-3/paper_P2969.md
+      - file: ./sessions/Session_REE-3/paper_R0206.md
       - file: ./sessions/Session_REE-3/paper_P0511.md
       - file: ./sessions/Session_REE-3/paper_R4330.md
-      - file: ./sessions/Session_REE-3/paper_R0206.md
-      - file: ./sessions/Session_REE-3/paper_P2969.md
-      - file: ./sessions/Session_REE-3/paper_P7562.md
-    - title: 'TMU-3: Urban Mobility, Travel Demand, and Spatiotemporal Transit Analytics '
+    - title: 'TMU-3: Urban Mobility, Travel Demand, and Spatiotemporal Transit Analytics'
       file: ./sessions/Session_TMU-3/Session_TMU-3.md
       children:
-      - file: ./sessions/Session_TMU-3/paper_R0286.md
-      - file: ./sessions/Session_TMU-3/paper_P0856_R7453.md
-      - file: ./sessions/Session_TMU-3/paper_R4622.md
-      - file: ./sessions/Session_TMU-3/paper_R5546.md
+      - file: ./sessions/Session_TMU-3/paper_P0856.md
       - file: ./sessions/Session_TMU-3/paper_R2654.md
-    - title: 'UPS-3: Street View Analytics and Urban Perception Modeling '
+      - file: ./sessions/Session_TMU-3/paper_R0286.md
+      - file: ./sessions/Session_TMU-3/paper_R5546.md
+      - file: ./sessions/Session_TMU-3/paper_R4622.md
+    - title: 'UPS-3: Street View Analytics and Urban Perception Modeling'
       file: ./sessions/Session_UPS-3/Session_UPS-3.md
       children:
+      - file: ./sessions/Session_UPS-3/paper_R6329.md
       - file: ./sessions/Session_UPS-3/paper_R9796.md
-      - file: ./sessions/Session_UPS-3/paper_R7127.md
       - file: ./sessions/Session_UPS-3/paper_R2058.md
-      - file: ./sessions/Session_UPS-3/paper_R9978.md
       - file: ./sessions/Session_UPS-3/paper_R5130.md
-  - title: "Day 2: Parallel 4 (13:00 \u2013 14:30)"
+      - file: ./sessions/Session_UPS-3/paper_R7127.md
+  - title: "Day Day 2 \xB7 Tue 21 Jul: Parallel 4 (13:00 \u2013 14:30)"
     file: ./sessions/slot_4.md
     children:
-    - title: 'CED-4: Hydrometeorological Forecasting and Precipitation Modeling '
+    - title: 'CED-4: Hydrometeorological Forecasting and Precipitation Modeling'
       file: ./sessions/Session_CED-4/Session_CED-4.md
       children:
-      - file: ./sessions/Session_CED-4/paper_R7935.md
       - file: ./sessions/Session_CED-4/paper_R9629.md
-      - file: ./sessions/Session_CED-4/paper_R1870.md
       - file: ./sessions/Session_CED-4/paper_R9266.md
       - file: ./sessions/Session_CED-4/paper_R9908.md
+      - file: ./sessions/Session_CED-4/paper_R1870.md
+      - file: ./sessions/Session_CED-4/paper_R7935.md
     - title: 'GFM-4: Citizen-Generated Geospatial Data: Concepts, Theories, and Challenges'
       file: ./sessions/Session_GFM-4/Session_GFM-4.md
       children:
       - file: ./sessions/Session_GFM-4/paper_R4676.md
       - file: ./sessions/Session_GFM-4/paper_R2014.md
       - file: ./sessions/Session_GFM-4/paper_R6406.md
-      - file: ./sessions/Session_GFM-4/paper_R1773.md
       - file: ./sessions/Session_GFM-4/paper_R2594.md
+      - file: ./sessions/Session_GFM-4/paper_R1773.md
     - title: 'GSC-4: Geographical Principles in Spatial Analysis and Modeling'
       file: ./sessions/Session_GSC-4/Session_GSC-4.md
       children:
-      - file: ./sessions/Session_GSC-4/paper_R2236.md
-      - file: ./sessions/Session_GSC-4/paper_R7914.md
       - file: ./sessions/Session_GSC-4/paper_R5077.md
-      - file: ./sessions/Session_GSC-4/paper_R1455.md
+      - file: ./sessions/Session_GSC-4/paper_R7914.md
       - file: ./sessions/Session_GSC-4/paper_R0100.md
-    - title: 'HEI-4: Spatial Epidemiology and Disease Modeling '
+      - file: ./sessions/Session_GSC-4/paper_R1455.md
+      - file: ./sessions/Session_GSC-4/paper_R2236.md
+    - title: 'HEI-4: Spatial Epidemiology, Emergency Response, and Built Environment
+        Cognition'
       file: ./sessions/Session_HEI-4/Session_HEI-4.md
       children:
       - file: ./sessions/Session_HEI-4/paper_R5211.md
+      - file: ./sessions/Session_HEI-4/paper_R4153.md
       - file: ./sessions/Session_HEI-4/paper_R3595.md
       - file: ./sessions/Session_HEI-4/paper_P7200.md
-      - file: ./sessions/Session_HEI-4/paper_R3304.md
-      - file: ./sessions/Session_HEI-4/paper_R4153.md
-    - title: 'LEA-4: Ecosystem Monitoring and Land Surface Dynamics '
+      - file: ./sessions/Session_HEI-4/paper_R8370.md
+    - title: 'LEA-4: Urban Building Extraction and Remote Sensing'
       file: ./sessions/Session_LEA-4/Session_LEA-4.md
       children:
-      - file: ./sessions/Session_LEA-4/paper_R5402.md
-      - file: ./sessions/Session_LEA-4/paper_R7876.md
-      - file: ./sessions/Session_LEA-4/paper_R1123.md
-      - file: ./sessions/Session_LEA-4/paper_R7673.md
-      - file: ./sessions/Session_LEA-4/paper_P9169_R7963.md
+      - file: ./sessions/Session_LEA-4/paper_R4861.md
+      - file: ./sessions/Session_LEA-4/paper_R4840.md
+      - file: ./sessions/Session_LEA-4/paper_P9277.md
+      - file: ./sessions/Session_LEA-4/paper_R2473.md
+      - file: ./sessions/Session_LEA-4/paper_P0266.md
     - title: 'REE-4: Water Quality and Inland Water Monitoring'
       file: ./sessions/Session_REE-4/Session_REE-4.md
       children:
-      - file: ./sessions/Session_REE-4/paper_R5884.md
+      - file: ./sessions/Session_REE-4/paper_P1378.md
       - file: ./sessions/Session_REE-4/paper_R8356.md
       - file: ./sessions/Session_REE-4/paper_R4472.md
+      - file: ./sessions/Session_REE-4/paper_R5884.md
       - file: ./sessions/Session_REE-4/paper_R8651.md
-      - file: ./sessions/Session_REE-4/paper_P1378.md
     - title: 'TMU-4: Urban Infrastructure Monitoring, Safety, and Resilience'
       file: ./sessions/Session_TMU-4/Session_TMU-4.md
       children:
-      - file: ./sessions/Session_TMU-4/paper_R4738.md
-      - file: ./sessions/Session_TMU-4/paper_R3456.md
-      - file: ./sessions/Session_TMU-4/paper_R7829.md
-      - file: ./sessions/Session_TMU-4/paper_P9396_R9492.md
       - file: ./sessions/Session_TMU-4/paper_R7664.md
-    - title: 'UPS-4: Urban Planning, Renewal, and Socioeconomic Transformation '
+      - file: ./sessions/Session_TMU-4/paper_R4738.md
+      - file: ./sessions/Session_TMU-4/paper_P9396.md
+      - file: ./sessions/Session_TMU-4/paper_R7829.md
+      - file: ./sessions/Session_TMU-4/paper_R6188.md
+    - title: 'UPS-4: Urban Planning, Renewal, and Socioeconomic Transformation'
       file: ./sessions/Session_UPS-4/Session_UPS-4.md
       children:
       - file: ./sessions/Session_UPS-4/paper_P5092.md
-      - file: ./sessions/Session_UPS-4/paper_R0728.md
-      - file: ./sessions/Session_UPS-4/paper_R3684.md
       - file: ./sessions/Session_UPS-4/paper_R7792.md
       - file: ./sessions/Session_UPS-4/paper_R7218.md
-  - title: "Day 2: Parallel 5 (14:45 \u2013 16:15)"
+      - file: ./sessions/Session_UPS-4/paper_R0728.md
+      - file: ./sessions/Session_UPS-4/paper_R3684.md
+  - title: "Day Day 2 \xB7 Tue 21 Jul: Parallel 5 (14:45 \u2013 16:15)"
     file: ./sessions/slot_5.md
     children:
-    - title: 'CED-5: Flood Risk, Detection, and Urban Resilience '
+    - title: 'CED-5: Flood Risk, Detection, and Urban Resilience'
       file: ./sessions/Session_CED-5/Session_CED-5.md
       children:
-      - file: ./sessions/Session_CED-5/paper_P7870.md
+      - file: ./sessions/Session_CED-5/paper_P2296.md
       - file: ./sessions/Session_CED-5/paper_P4298.md
+      - file: ./sessions/Session_CED-5/paper_P7870.md
       - file: ./sessions/Session_CED-5/paper_R6815.md
       - file: ./sessions/Session_CED-5/paper_R8472.md
-      - file: ./sessions/Session_CED-5/paper_P2296.md
     - title: 'GFM-5: Cyberinfrastructure and GeoAI for Intelligent Spatial Decision
         Support'
       file: ./sessions/Session_GFM-5/Session_GFM-5.md
       children:
-      - file: ./sessions/Session_GFM-5/paper_R7353.md
       - file: ./sessions/Session_GFM-5/paper_R7715.md
       - file: ./sessions/Session_GFM-5/paper_R4882.md
-      - file: ./sessions/Session_GFM-5/paper_R2730.md
       - file: ./sessions/Session_GFM-5/paper_R0808.md
+      - file: ./sessions/Session_GFM-5/paper_R7353.md
+      - file: ./sessions/Session_GFM-5/paper_R2730.md
     - title: 'GSC-5: Advanced Geospatial Data and Methods for Transforming Healthy Cities
         Delivery - Part 1'
       file: ./sessions/Session_GSC-5/Session_GSC-5.md
       children:
-      - file: ./sessions/Session_GSC-5/paper_R1468.md
       - file: ./sessions/Session_GSC-5/paper_R0996.md
       - file: ./sessions/Session_GSC-5/paper_R2602.md
+      - file: ./sessions/Session_GSC-5/paper_R1468.md
       - file: ./sessions/Session_GSC-5/paper_R6275.md
       - file: ./sessions/Session_GSC-5/paper_R4009.md
-    - title: 'HEI-5: Facility Location and Service Accessibility '
+    - title: 'HEI-5: Facility Location and Service Accessibility'
       file: ./sessions/Session_HEI-5/Session_HEI-5.md
       children:
-      - file: ./sessions/Session_HEI-5/paper_P3619.md
-      - file: ./sessions/Session_HEI-5/paper_P3736.md
       - file: ./sessions/Session_HEI-5/paper_R1737.md
-      - file: ./sessions/Session_HEI-5/paper_P0149.md
       - file: ./sessions/Session_HEI-5/paper_P7308.md
-    - title: 'LEA-5: Urban Building Extraction and Remote Sensing '
+      - file: ./sessions/Session_HEI-5/paper_P3619.md
+      - file: ./sessions/Session_HEI-5/paper_P0149.md
+      - file: ./sessions/Session_HEI-5/paper_P3736.md
+    - title: 'LEA-5: Rural Development, Cultural Landscapes, and Land Sustainability'
       file: ./sessions/Session_LEA-5/Session_LEA-5.md
       children:
-      - file: ./sessions/Session_LEA-5/paper_R2473.md
-      - file: ./sessions/Session_LEA-5/paper_R4861.md
-      - file: ./sessions/Session_LEA-5/paper_P0266.md
-      - file: ./sessions/Session_LEA-5/paper_R4840.md
-      - file: ./sessions/Session_LEA-5/paper_P9277.md
-    - title: 'REE-5: Marine and Aquatic Geospatial Monitoring '
+      - file: ./sessions/Session_LEA-5/paper_R4577.md
+      - file: ./sessions/Session_LEA-5/paper_R0473.md
+      - file: ./sessions/Session_LEA-5/paper_R7954.md
+      - file: ./sessions/Session_LEA-5/paper_P3550.md
+      - file: ./sessions/Session_LEA-5/paper_R7673.md
+    - title: 'REE-5: Marine and Aquatic Geospatial Monitoring'
       file: ./sessions/Session_REE-5/Session_REE-5.md
       children:
-      - file: ./sessions/Session_REE-5/paper_R3596.md
+      - file: ./sessions/Session_REE-5/paper_H9001.md
       - file: ./sessions/Session_REE-5/paper_R7046.md
-      - file: ./sessions/Session_REE-5/paper_R7012.md
-      - file: ./sessions/Session_REE-5/paper_R8558.md
       - file: ./sessions/Session_REE-5/paper_R7483.md
-    - title: 'TMU-5: Electric Vehicle Charging Systems and Smart Urban Energy Infrastructure '
+      - file: ./sessions/Session_REE-5/paper_R7012.md
+      - file: ./sessions/Session_REE-5/paper_R3596.md
+    - title: 'TMU-5: Electric Vehicle Charging Systems and Smart Urban Energy Infrastructure'
       file: ./sessions/Session_TMU-5/Session_TMU-5.md
       children:
+      - file: ./sessions/Session_TMU-5/paper_P2181.md
       - file: ./sessions/Session_TMU-5/paper_R9322.md
       - file: ./sessions/Session_TMU-5/paper_R2687.md
       - file: ./sessions/Session_TMU-5/paper_P0350.md
       - file: ./sessions/Session_TMU-5/paper_R5314.md
-      - file: ./sessions/Session_TMU-5/paper_P9222.md
-    - title: 'UPS-5: Urban Environmental Sensing, Livability, and Quality of Life '
+    - title: 'UPS-5: Urban Environmental Sensing, Livability, and Quality of Life'
       file: ./sessions/Session_UPS-5/Session_UPS-5.md
       children:
-      - file: ./sessions/Session_UPS-5/paper_R8235.md
+      - file: ./sessions/Session_UPS-5/paper_R5152.md
       - file: ./sessions/Session_UPS-5/paper_R4091.md
       - file: ./sessions/Session_UPS-5/paper_R6854.md
-      - file: ./sessions/Session_UPS-5/paper_R6329.md
-      - file: ./sessions/Session_UPS-5/paper_R5152.md
-  - title: "Day 2: Parallel 6 (16:30 \u2013 17:45)"
+      - file: ./sessions/Session_UPS-5/paper_R8235.md
+      - file: ./sessions/Session_UPS-5/paper_R9978.md
+  - title: "Day Day 2 \xB7 Tue 21 Jul: Parallel 6 (16:30 \u2013 18:00)"
     file: ./sessions/slot_6.md
     children:
-    - title: 'CED-6: Flood Emergency Response and Evacuation Modeling '
+    - title: 'CED-6: Flood Emergency Response and Evacuation Modeling'
       file: ./sessions/Session_CED-6/Session_CED-6.md
       children:
-      - file: ./sessions/Session_CED-6/paper_R2272.md
-      - file: ./sessions/Session_CED-6/paper_R4046.md
       - file: ./sessions/Session_CED-6/paper_R8501.md
       - file: ./sessions/Session_CED-6/paper_R0361.md
+      - file: ./sessions/Session_CED-6/paper_R2272.md
+      - file: ./sessions/Session_CED-6/paper_R4046.md
       - file: ./sessions/Session_CED-6/paper_R3846.md
-    - title: 'GFM-6: Knowledge Graphs and Spatial Semantics '
+    - title: 'GFM-6: Knowledge Graphs and Spatial Semantics'
       file: ./sessions/Session_GFM-6/Session_GFM-6.md
       children:
-      - file: ./sessions/Session_GFM-6/paper_P7666.md
-      - file: ./sessions/Session_GFM-6/paper_R0147.md
       - file: ./sessions/Session_GFM-6/paper_R0642.md
       - file: ./sessions/Session_GFM-6/paper_P1495.md
+      - file: ./sessions/Session_GFM-6/paper_R0147.md
       - file: ./sessions/Session_GFM-6/paper_R0392.md
+      - file: ./sessions/Session_GFM-6/paper_P7666.md
     - title: 'GSC-6: Advanced Geospatial Data and Methods for Transforming Healthy Cities
         Delivery - Part 2'
       file: ./sessions/Session_GSC-6/Session_GSC-6.md
       children:
-      - file: ./sessions/Session_GSC-6/paper_R9713.md
-      - file: ./sessions/Session_GSC-6/paper_R4170.md
-      - file: ./sessions/Session_GSC-6/paper_R2528.md
       - file: ./sessions/Session_GSC-6/paper_R7137.md
       - file: ./sessions/Session_GSC-6/paper_R4989.md
-    - title: 'HEI-6: Spatial Inequality, Equity, and Food Access '
+      - file: ./sessions/Session_GSC-6/paper_R4170.md
+      - file: ./sessions/Session_GSC-6/paper_R9713.md
+      - file: ./sessions/Session_GSC-6/paper_R2528.md
+    - title: 'HEI-6: Spatial Inequality, Equity, and Food Access'
       file: ./sessions/Session_HEI-6/Session_HEI-6.md
       children:
-      - file: ./sessions/Session_HEI-6/paper_P2471.md
+      - file: ./sessions/Session_HEI-6/paper_R6771.md
+      - file: ./sessions/Session_HEI-6/paper_R3755.md
       - file: ./sessions/Session_HEI-6/paper_R7458.md
       - file: ./sessions/Session_HEI-6/paper_R6116.md
-      - file: ./sessions/Session_HEI-6/paper_R3755.md
-      - file: ./sessions/Session_HEI-6/paper_R6771.md
-    - title: 'LEA-6: Rural Development, Land Sustainability, and Food Systems '
+      - file: ./sessions/Session_HEI-6/paper_P2471.md
+    - title: 'LEA-6: Ecosystem Monitoring and Land Surface Dynamics'
       file: ./sessions/Session_LEA-6/Session_LEA-6.md
       children:
-      - file: ./sessions/Session_LEA-6/paper_R0473.md
-      - file: ./sessions/Session_LEA-6/paper_R4577.md
-      - file: ./sessions/Session_LEA-6/paper_R0192.md
-      - file: ./sessions/Session_LEA-6/paper_P3550.md
-    - title: 'REE-6: Vegetation and Forest Monitoring with UAV and LiDAR '
+      - file: ./sessions/Session_LEA-6/paper_P9169.md
+      - file: ./sessions/Session_LEA-6/paper_R1123.md
+      - file: ./sessions/Session_LEA-6/paper_R7876.md
+      - file: ./sessions/Session_LEA-6/paper_R5402.md
+      - file: ./sessions/Session_LEA-6/paper_R8378.md
+    - title: 'REE-6: Vegetation and Forest Monitoring with UAV and LiDAR'
       file: ./sessions/Session_REE-6/Session_REE-6.md
       children:
-      - file: ./sessions/Session_REE-6/paper_R0336.md
       - file: ./sessions/Session_REE-6/paper_P3030.md
+      - file: ./sessions/Session_REE-6/paper_R0336.md
+      - file: ./sessions/Session_REE-6/paper_R2389.md
       - file: ./sessions/Session_REE-6/paper_R4070.md
       - file: ./sessions/Session_REE-6/paper_P0644.md
-      - file: ./sessions/Session_REE-6/paper_R2389.md
-    - title: 'TMU-6: Active Mobility Systems, Micro-Mobility, and Travel Behavior '
+    - title: 'TMU-6: Active Mobility Systems, Micro-Mobility, and Travel Behavior'
       file: ./sessions/Session_TMU-6/Session_TMU-6.md
       children:
-      - file: ./sessions/Session_TMU-6/paper_R9816.md
-      - file: ./sessions/Session_TMU-6/paper_S0011.md
       - file: ./sessions/Session_TMU-6/paper_R0988.md
       - file: ./sessions/Session_TMU-6/paper_R7722.md
       - file: ./sessions/Session_TMU-6/paper_R4327.md
-    - title: 'UPS-6: Urban Spatial Structure and Morphological Analysis'
+      - file: ./sessions/Session_TMU-6/paper_S0011.md
+      - file: ./sessions/Session_TMU-6/paper_R9816.md
+    - title: 'UPS-6: Urban Spatial Structure, Positioning, and Spatial Development'
       file: ./sessions/Session_UPS-6/Session_UPS-6.md
       children:
-      - file: ./sessions/Session_UPS-6/paper_R5420.md
       - file: ./sessions/Session_UPS-6/paper_P5986.md
-      - file: ./sessions/Session_UPS-6/paper_R9756.md
-      - file: ./sessions/Session_UPS-6/paper_R0634.md
+      - file: ./sessions/Session_UPS-6/paper_P8999.md
+      - file: ./sessions/Session_UPS-6/paper_R1702.md
       - file: ./sessions/Session_UPS-6/paper_P3225.md
-  - title: "Day 3: Parallel 7 (09:00 \u2013 10:30)"
+      - file: ./sessions/Session_UPS-6/paper_P3050.md
+  - title: "Day Day 3 \xB7 Wed 22 Jul: Parallel 7 (09:00 \u2013 10:30)"
     file: ./sessions/slot_7.md
     children:
-    - title: 'CED-7: Wildfire Detection, Simulation, and Disaster Monitoring'
+    - title: 'CED-7: Multi-Hazard Detection, Simulation, and Disaster Monitoring'
       file: ./sessions/Session_CED-7/Session_CED-7.md
       children:
+      - file: ./sessions/Session_CED-7/paper_R5604.md
       - file: ./sessions/Session_CED-7/paper_R2481.md
       - file: ./sessions/Session_CED-7/paper_R6631.md
-      - file: ./sessions/Session_CED-7/paper_R9775_S0010.md
+      - file: ./sessions/Session_CED-7/paper_R9775.md
       - file: ./sessions/Session_CED-7/paper_P7359.md
-    - title: 'GFM-7: GeoAI, Foundation Models, and Spatial Learning '
+    - title: 'GFM-7: GeoAI, Foundation Models, and Spatial Learning'
       file: ./sessions/Session_GFM-7/Session_GFM-7.md
       children:
-      - file: ./sessions/Session_GFM-7/paper_R6014.md
-      - file: ./sessions/Session_GFM-7/paper_R5657.md
+      - file: ./sessions/Session_GFM-7/paper_R9142.md
       - file: ./sessions/Session_GFM-7/paper_R9259.md
-      - file: ./sessions/Session_GFM-7/paper_R4084.md
       - file: ./sessions/Session_GFM-7/paper_R7050.md
+      - file: ./sessions/Session_GFM-7/paper_R4084.md
+      - file: ./sessions/Session_GFM-7/paper_R6014.md
     - title: 'GSC-7: Spatial Statistics, Geostatistics, and GIScience Theory'
       file: ./sessions/Session_GSC-7/Session_GSC-7.md
       children:
-      - file: ./sessions/Session_GSC-7/paper_R4089.md
       - file: ./sessions/Session_GSC-7/paper_R6123.md
-      - file: ./sessions/Session_GSC-7/paper_R3522.md
       - file: ./sessions/Session_GSC-7/paper_R3482.md
       - file: ./sessions/Session_GSC-7/paper_R3508.md
-    - title: 'HEI-7: Spatial Cognition and Navigation '
-      file: ./sessions/Session_HEI-7/Session_HEI-7.md
+      - file: ./sessions/Session_GSC-7/paper_R4089.md
+    - title: 'HHJ-1: Geospatial Analysis of Air Pollution and Watershed Dynamics'
+      file: ./sessions/Session_HHJ-1/Session_HHJ-1.md
       children:
-      - file: ./sessions/Session_HEI-7/paper_R8370.md
-      - file: ./sessions/Session_HEI-7/paper_R9142.md
-      - file: ./sessions/Session_HEI-7/paper_P8999.md
-      - file: ./sessions/Session_HEI-7/paper_S0001.md
-    - title: 'LEA-7: Crop Mapping and Precision Agriculture '
+      - file: ./sessions/Session_HHJ-1/paper_H0101.md
+      - file: ./sessions/Session_HHJ-1/paper_H0102.md
+      - file: ./sessions/Session_HHJ-1/paper_H0103.md
+      - file: ./sessions/Session_HHJ-1/paper_H0104.md
+      - file: ./sessions/Session_HHJ-1/paper_H0105.md
+    - title: 'LEA-7: Crop Mapping and Precision Agriculture'
       file: ./sessions/Session_LEA-7/Session_LEA-7.md
       children:
-      - file: ./sessions/Session_LEA-7/paper_P9734_R9585.md
-      - file: ./sessions/Session_LEA-7/paper_R2690.md
       - file: ./sessions/Session_LEA-7/paper_R2341.md
-      - file: ./sessions/Session_LEA-7/paper_R6222.md
+      - file: ./sessions/Session_LEA-7/paper_R9585.md
       - file: ./sessions/Session_LEA-7/paper_P7810.md
-    - title: 'REE-7: Land Cover Mapping and Satellite Time-Series Analysis '
+      - file: ./sessions/Session_LEA-7/paper_R2690.md
+      - file: ./sessions/Session_LEA-7/paper_R6222.md
+    - title: 'REE-7: Land Cover Mapping and Satellite Time-Series Analysis'
       file: ./sessions/Session_REE-7/Session_REE-7.md
       children:
-      - file: ./sessions/Session_REE-7/paper_R4816.md
-      - file: ./sessions/Session_REE-7/paper_R2198.md
-      - file: ./sessions/Session_REE-7/paper_S0002.md
       - file: ./sessions/Session_REE-7/paper_R5112.md
+      - file: ./sessions/Session_REE-7/paper_R2198.md
       - file: ./sessions/Session_REE-7/paper_R4421.md
-    - title: 'TMU-7: Tourism, Place-Based Behavior, and Spatial Interaction Analysis '
+      - file: ./sessions/Session_REE-7/paper_R4816.md
+      - file: ./sessions/Session_REE-7/paper_R0546.md
+    - title: 'TMU-7: Tourism, Place-Based Behavior, and Spatial Interaction Analysis'
       file: ./sessions/Session_TMU-7/Session_TMU-7.md
       children:
-      - file: ./sessions/Session_TMU-7/paper_R5744.md
-      - file: ./sessions/Session_TMU-7/paper_P7149.md
-      - file: ./sessions/Session_TMU-7/paper_R5054.md
-      - file: ./sessions/Session_TMU-7/paper_R5159.md
       - file: ./sessions/Session_TMU-7/paper_R0474.md
-    - title: 'UPS-7: Urban Socioeconomic Inequality, Resilience, and Spatial Justice '
+      - file: ./sessions/Session_TMU-7/paper_R5054.md
+      - file: ./sessions/Session_TMU-7/paper_P7149.md
+      - file: ./sessions/Session_TMU-7/paper_R5159.md
+      - file: ./sessions/Session_TMU-7/paper_R5744.md
+    - title: 'UPS-7: Urban Spatial Dynamics: Fostering Equity, Resilience, and Liveability'
       file: ./sessions/Session_UPS-7/Session_UPS-7.md
       children:
       - file: ./sessions/Session_UPS-7/paper_R0221.md
       - file: ./sessions/Session_UPS-7/paper_R4589.md
-      - file: ./sessions/Session_UPS-7/paper_R1702.md
-      - file: ./sessions/Session_UPS-7/paper_P3050.md
-  - title: "Day 3: Parallel 8 (10:45 \u2013 12:00)"
+      - file: ./sessions/Session_UPS-7/paper_R9756.md
+      - file: ./sessions/Session_UPS-7/paper_R5420.md
+      - file: ./sessions/Session_UPS-7/paper_R8510.md
+  - title: "Day Day 3 \xB7 Wed 22 Jul: Parallel 8 (10:45 \u2013 12:00)"
     file: ./sessions/slot_8.md
     children:
-    - title: 'CED-8: Disaster Chain Modeling and Multi-Hazard Analysis '
+    - title: 'CED-8: Flood Disaster Modeling, Observation Planning, and Emergency Rescue'
       file: ./sessions/Session_CED-8/Session_CED-8.md
       children:
-      - file: ./sessions/Session_CED-8/paper_R2509.md
+      - file: ./sessions/Session_CED-8/paper_R6080.md
       - file: ./sessions/Session_CED-8/paper_R6424.md
       - file: ./sessions/Session_CED-8/paper_R4080.md
-      - file: ./sessions/Session_CED-8/paper_R6080.md
-      - file: ./sessions/Session_CED-8/paper_R2769.md
-    - title: 'GFM-8: Cartography, Geovisualization, and Geospatial Services '
+      - file: ./sessions/Session_CED-8/paper_R2509.md
+    - title: 'GFM-8: Cartography, Geovisualization, and Geospatial Services'
       file: ./sessions/Session_GFM-8/Session_GFM-8.md
       children:
-      - file: ./sessions/Session_GFM-8/paper_R9168.md
-      - file: ./sessions/Session_GFM-8/paper_R7756_S0006.md
+      - file: ./sessions/Session_GFM-8/paper_R3989.md
+      - file: ./sessions/Session_GFM-8/paper_R7756.md
       - file: ./sessions/Session_GFM-8/paper_R5689.md
       - file: ./sessions/Session_GFM-8/paper_R3911.md
-      - file: ./sessions/Session_GFM-8/paper_R3989.md
+      - file: ./sessions/Session_GFM-8/paper_R9168.md
     - title: 'GSC-8: Spatiotemporal Modeling and Graph Neural Networks'
       file: ./sessions/Session_GSC-8/Session_GSC-8.md
       children:
+      - file: ./sessions/Session_GSC-8/paper_R0617.md
+      - file: ./sessions/Session_GSC-8/paper_R0003.md
+      - file: ./sessions/Session_GSC-8/paper_R1935.md
       - file: ./sessions/Session_GSC-8/paper_R0412.md
       - file: ./sessions/Session_GSC-8/paper_R8403.md
-      - file: ./sessions/Session_GSC-8/paper_R0003.md
-      - file: ./sessions/Session_GSC-8/paper_R0617.md
-      - file: ./sessions/Session_GSC-8/paper_R1935.md
-    - title: 'HEI-8: Environmental Health and Pollution Exposure '
+    - title: 'HEI-8: Environmental Health and Pollution Exposure'
       file: ./sessions/Session_HEI-8/Session_HEI-8.md
       children:
-      - file: ./sessions/Session_HEI-8/paper_R5522.md
       - file: ./sessions/Session_HEI-8/paper_R0102.md
-      - file: ./sessions/Session_HEI-8/paper_R9593.md
-      - file: ./sessions/Session_HEI-8/paper_R1119.md
       - file: ./sessions/Session_HEI-8/paper_R5943.md
-    - title: 'REE-8: Cultural Heritage Monitoring and Historical GIS '
-      file: ./sessions/Session_REE-8/Session_REE-8.md
+      - file: ./sessions/Session_HEI-8/paper_R5522.md
+      - file: ./sessions/Session_HEI-8/paper_R0634.md
+      - file: ./sessions/Session_HEI-8/paper_R1119.md
+    - title: 'HHJ-2: Remote Sensing of Carbon Storage and Ecological Quality'
+      file: ./sessions/Session_HHJ-2/Session_HHJ-2.md
       children:
-      - file: ./sessions/Session_REE-8/paper_R7954.md
-      - file: ./sessions/Session_REE-8/paper_R0670.md
-      - file: ./sessions/Session_REE-8/paper_R5604.md
-      - file: ./sessions/Session_REE-8/paper_R6188.md
-      - file: ./sessions/Session_REE-8/paper_R0546.md
-    - title: 'TMU-8: Intelligent Transportation Systems and Autonomous Driving '
+      - file: ./sessions/Session_HHJ-2/paper_H0201.md
+      - file: ./sessions/Session_HHJ-2/paper_H0202.md
+      - file: ./sessions/Session_HHJ-2/paper_H0203.md
+      - file: ./sessions/Session_HHJ-2/paper_H0204.md
+      - file: ./sessions/Session_HHJ-2/paper_H0205.md
+    - title: 'TMU-8: Intelligent Transportation Systems and Autonomous Driving'
       file: ./sessions/Session_TMU-8/Session_TMU-8.md
       children:
-      - file: ./sessions/Session_TMU-8/paper_R9722.md
-      - file: ./sessions/Session_TMU-8/paper_R5944.md
-      - file: ./sessions/Session_TMU-8/paper_R0710.md
-      - file: ./sessions/Session_TMU-8/paper_P3273.md
       - file: ./sessions/Session_TMU-8/paper_R9569.md
-    - title: 'UPS-8: Urban Digital Twins and 3D City Modeling '
+      - file: ./sessions/Session_TMU-8/paper_R9722.md
+      - file: ./sessions/Session_TMU-8/paper_R0710.md
+      - file: ./sessions/Session_TMU-8/paper_R5944.md
+      - file: ./sessions/Session_TMU-8/paper_P3273.md
+    - title: 'UPS-8: Urban and Geospatial Digital Twins for Scenario Modeling'
       file: ./sessions/Session_UPS-8/Session_UPS-8.md
       children:
+      - file: ./sessions/Session_UPS-8/paper_P7800.md
       - file: ./sessions/Session_UPS-8/paper_R7576.md
       - file: ./sessions/Session_UPS-8/paper_R3376.md
-      - file: ./sessions/Session_UPS-8/paper_R6004.md
       - file: ./sessions/Session_UPS-8/paper_R5785.md
-      - file: ./sessions/Session_UPS-8/paper_P7800.md
+      - file: ./sessions/Session_UPS-8/paper_R8558.md
 
 
 site:

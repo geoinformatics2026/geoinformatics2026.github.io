@@ -10,7 +10,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R9796.pdf
+    output: 
 ---
 
 # By Looks or by Form: Disentangling Streetscape Appearance and Structure to Read Urban Wealth Gaps
@@ -39,16 +39,14 @@ Keywords: Street View Imagery,  Representation Learning,  Urban Environment,  So
 
 
 
-Semantic Tags: street view imagery; representation learning; urban socioeconomic inequality; disentanglement learning; streetscape geometry; appearance encoding; deep learning
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R9796  
-**Session:** [Street View Analytics and Urban Perception Modeling ](./Session_UPS-3/)  
-**Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
-**Date:** Day 1 — 20 July 2026 (Monday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv1-SR-A (Room-1/2)  
+**Session:** [Street View Analytics and Urban Perception Modeling](./Session_UPS-3/)  
+**Theme:** Urban Analytics, Planning \& Socioeconomics    
+**Date:** Day 1, 20 July (Monday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Seminar Room 1 & 2 (SR-A)  
 ```

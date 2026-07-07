@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R7458.pdf
+    output: 
 ---
 
 # Retail Beverage Price Inequality: Spatiotemporal Modeling of U.S. Soft Drink Prices (2008–2020)
@@ -30,16 +30,14 @@ Keywords: County–month beverage price index,  Spatiotemporal analysis,  Retail
 
 
 
-Semantic Tags: retail price inequality; spatiotemporal analysis; scanner data; spatial equilibrium; regional price disparity; United States; county-level analysis
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R7458  
-**Session:** [Spatial Inequality, Equity, and Food Access ](./Session_HEI-6/)  
-**Theme:** Health, Equity, and Human-Environment Interactions    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv1-SR-C (Room-5)  
+**Session:** [Spatial Inequality, Equity, and Food Access](./Session_HEI-6/)  
+**Theme:** Health, Equity \& Human-Env. Interactions    
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Seminar Room 5 (SR-C)  
 ```

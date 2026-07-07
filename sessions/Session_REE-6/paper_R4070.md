@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R4070.pdf
+    output: 
 ---
 
 # Upscaling NEON Individual-Tree Biomass to Grid-Level AGB Mapping: A Multi-Scale Assessment with Multisource Remote Sensing and ESF-SVC
@@ -33,16 +33,14 @@ Keywords: multisource remote sensing,  ESF-SVC,  spatial nonstationarity,  scale
 
 
 
-Semantic Tags: forest biomass; aboveground biomass; NEON; multi-source remote sensing; spatial nonstationarity; scale effect; carbon storage; allometric equations
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R4070  
-**Session:** [Vegetation and Forest Monitoring with UAV and LiDAR ](./Session_REE-6/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Session:** [Vegetation and Forest Monitoring with UAV and LiDAR](./Session_REE-6/)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

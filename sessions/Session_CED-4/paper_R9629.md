@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R9629.pdf
+    output: 
 ---
 
 # Deep learning-based spatiotemporal fusion of satellite observations and dynamic background fields for improved short-term precipitation forecasting
@@ -30,16 +30,14 @@ Keywords: Deep learning,  Precipitation,  Data fusion
 
 
 
-Semantic Tags: precipitation nowcasting; deep learning; spatiotemporal data fusion; satellite observations; background fields; hydrological forecasting; multi-source fusion; extreme precipitation
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R9629  
-**Session:** [Hydrometeorological Forecasting and Precipitation Modeling ](./Session_CED-4/)  
-**Theme:** Climate, Environmental Hazards, and Disaster Risk    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Hydrometeorological Forecasting and Precipitation Modeling](./Session_CED-4/)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** TP-Lv2-SR-E (Room-3/4)  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
 ```

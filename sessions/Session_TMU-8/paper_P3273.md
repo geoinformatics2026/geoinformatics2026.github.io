@@ -12,7 +12,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P3273.pdf
+    output: 
 ---
 
 # Low-Cost Urban Road Mapping via Dual-View Fusion of Panoramic Images
@@ -35,16 +35,14 @@ Keywords: Geo-spatial data processing, Intelligent transportation systems, Road 
 
 
 
-Semantic Tags: road mapping; panoramic imagery; autonomous navigation; dual-view fusion; urban road detection; intelligent transportation; low-cost sensing; high-definition map
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P3273  
-**Session:** [Intelligent Transportation Systems and Autonomous Driving ](./Session_TMU-8/)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Intelligent Transportation Systems and Autonomous Driving](./Session_TMU-8/)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SRC-Lv2-SR-D (Room-8)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 6 (SR-D)  
 ```

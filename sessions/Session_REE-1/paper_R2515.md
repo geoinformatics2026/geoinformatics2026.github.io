@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R2515.pdf
+    output: 
 ---
 
 # ECHF-YOLO: a remote sensing object detection network integrating efficient convolution and high-low frequency features
@@ -29,16 +29,14 @@ Keywords: Deep learning,  Object detection,  ECHF-YOLO
 
 
 
-Semantic Tags: remote sensing object detection; YOLO; dynamic convolution; high-low frequency feature fusion; deep learning; aerial imagery; feature representation; optical remote sensing
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R2515  
-**Session:** [Remote Sensing Object Detection and Image Enhancement ](./Session_REE-1/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Session:** [Remote Sensing Object Detection and Image Enhancement](./Session_REE-1/)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

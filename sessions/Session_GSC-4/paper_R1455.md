@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R1455.pdf
+    output: 
 ---
 
 # Toward a Responsibility-Centred Epistemology of GeoAI: Twin Expressions of AI Ethics and Geographic Information Science
@@ -29,16 +29,14 @@ Keywords: GeoAI Ethics,  Visual Analytics,  Explainable AI,  Knowledge Graph
 
 
 
-Semantic Tags: GeoAI ethics; explainable AI; visual analytics; knowledge graph; responsible AI; geographic information science; epistemic framework; spatial governance
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R1455  
 **Session:** [Geographical Principles in Spatial Analysis and Modeling](./Session_GSC-4/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv2-LT-52  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

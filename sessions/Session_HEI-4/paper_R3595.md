@@ -9,7 +9,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R3595.pdf
+    output: 
 ---
 
 # Extreme Weather Triggers Cascading Disruptions Across Ambulance Response Stages
@@ -32,16 +32,14 @@ Keywords: emergency medical services,  climate change,  ambulance response time,
 
 
 
-Semantic Tags: extreme weather; emergency medical services; ambulance response time; climate change; cascading disruption; urban health resilience; typhoon; heat; cold
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R3595  
-**Session:** [Spatial Epidemiology and Disease Modeling ](./Session_HEI-4/)  
-**Theme:** Health, Equity, and Human-Environment Interactions    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Spatial Epidemiology, Emergency Response, and Built Environment Cognition](./Session_HEI-4/)  
+**Theme:** Health, Equity \& Human-Env. Interactions    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-SR-C (Room-5)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 5 (SR-C)  
 ```

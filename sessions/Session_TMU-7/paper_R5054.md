@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R5054.pdf
+    output: 
 ---
 
 # Airbnb and Tourism Gentrification: Mapping Short-Term Rental Impacts on Residential Neighbourhoods in England
@@ -32,16 +32,14 @@ Keywords: Airbnb,  Tourism gentrification,  Neighbourhood Change,  Multiscale Ge
 
 
 
-Semantic Tags: Airbnb; short-term rental; tourism gentrification; neighborhood change; multiscale geographically weighted regression; XGBoost-SHAP; spatial evolution; England
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R5054  
-**Session:** [Tourism, Place-Based Behavior, and Spatial Interaction Analysis ](./Session_TMU-7/)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Tourism, Place-Based Behavior, and Spatial Interaction Analysis](./Session_TMU-7/)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SRC-Lv2-SR-D (Room-8)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 6 (SR-D)  
 ```

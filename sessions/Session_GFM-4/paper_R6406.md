@@ -1,5 +1,5 @@
 ---
-title: "Vague Geographic Entity Localization Method Based on  Crowdsourced Path Descriptions"
+title: "Vague Geographic Entity Localization Method Based on Crowdsourced Path Descriptions"
 authors:
 - "Xiang Liu"
 - "Xiawei Chen"
@@ -8,10 +8,10 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R6406.pdf
+    output: 
 ---
 
-# Vague Geographic Entity Localization Method Based on  Crowdsourced Path Descriptions
+# Vague Geographic Entity Localization Method Based on Crowdsourced Path Descriptions
 
 **Author Information**  
 Xiang Liu<sup>1</sup>, Xiawei Chen<sup>1</sup>, Yi Long<sup>1</sup>
@@ -31,16 +31,14 @@ Keywords: Procedural spatial knowledge,  Path description reconstruction,  Vague
 
 
 
-Semantic Tags: vague geographic entity; crowdsourced path description; fuzzy region modeling; large language model; spatial cognition; geolocation; social media text
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R6406  
 **Session:** [Citizen-Generated Geospatial Data: Concepts, Theories, and Challenges](./Session_GFM-4/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-LT-50  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

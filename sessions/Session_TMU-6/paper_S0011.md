@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_S0011.pdf
+    output: 
 ---
 
 # Inferring Travel Flows with Activity Purposes from the Lens of Integrated Land-use and Transport Modeling
@@ -21,22 +21,22 @@ Xingyu Zhuo<sup>1</sup>
 
 ## Abstract
 
-nan
+-
 
 
 
+Keywords: -
 
 
-Semantic Tags: travel flow; activity purpose inference; land use; transport modeling; origin-destination; urban mobility; integrated transport model; land use transport interaction
 
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** S0011  
-**Session:** [Active Mobility Systems, Micro-Mobility, and Travel Behavior ](./Session_TMU-6/)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv2-SR-D (Room-8)  
+**Session:** [Active Mobility Systems, Micro-Mobility, and Travel Behavior](./Session_TMU-6/)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure    
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Seminar Room 6 (SR-D)  
 ```

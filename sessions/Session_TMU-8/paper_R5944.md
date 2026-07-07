@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R5944.pdf
+    output: 
 ---
 
 # Incremental Crowd-Source Data Fusion and Map Update Method Based on Driving Data for Traffic Signs
@@ -30,16 +30,14 @@ Keywords: High-Definition Map,  Crowd-source Data Fusion,  Traffic Sign,  Map Up
 
 
 
-Semantic Tags: high-definition map; crowdsourced data fusion; traffic signs; incremental map update; intelligent transportation; autonomous driving; data quality; driving record data
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R5944  
-**Session:** [Intelligent Transportation Systems and Autonomous Driving ](./Session_TMU-8/)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Intelligent Transportation Systems and Autonomous Driving](./Session_TMU-8/)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SRC-Lv2-SR-D (Room-8)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 6 (SR-D)  
 ```

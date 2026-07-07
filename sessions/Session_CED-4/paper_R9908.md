@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R9908.pdf
+    output: 
 ---
 
 # GConvAttnLSTM: A Graph-Based Attention LSTM for Multi-Source Satellite Precipitation Fusion over the Yangtze River Basin
@@ -31,16 +31,14 @@ Keywords: GConvAttnLSTM,  Topography-aware channel attention,  Geo-topographic a
 
 
 
-Semantic Tags: satellite precipitation fusion; spatiotemporal deep learning; topography-aware; Yangtze River Basin; GConvAttnLSTM; precipitation estimation; flood forecasting
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R9908  
-**Session:** [Hydrometeorological Forecasting and Precipitation Modeling ](./Session_CED-4/)  
-**Theme:** Climate, Environmental Hazards, and Disaster Risk    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Hydrometeorological Forecasting and Precipitation Modeling](./Session_CED-4/)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** TP-Lv2-SR-E (Room-3/4)  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
 ```

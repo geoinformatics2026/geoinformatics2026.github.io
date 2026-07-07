@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R0988.pdf
+    output: 
 ---
 
 # Hierarchical Decision Mechanisms and Behavioral Heterogeneity in Urban Cycling Route Choice
@@ -29,16 +29,14 @@ Keywords: Inverse Reinforcement Learning,  Cycling Behavior,  Route Choice,  Beh
 
 
 
-Semantic Tags: cycling behavior; route choice; inverse reinforcement learning; behavioral heterogeneity; hierarchical decision; urban transport; sustainable mobility; explainable AI
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R0988  
-**Session:** [Active Mobility Systems, Micro-Mobility, and Travel Behavior ](./Session_TMU-6/)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv2-SR-D (Room-8)  
+**Session:** [Active Mobility Systems, Micro-Mobility, and Travel Behavior](./Session_TMU-6/)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure    
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Seminar Room 6 (SR-D)  
 ```

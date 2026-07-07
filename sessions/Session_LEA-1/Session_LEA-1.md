@@ -1,31 +1,31 @@
 ---
-title: "Carbon Emissions, Energy Transition, and Ecosystem Accounting "
+title: "Carbon Emissions, Energy Transition, and Ecosystem Accounting"
 exports:
   - format: pdf
     template: arxiv_nips
     output: _build/pdf/Session_LEA-1/Session_LEA-1.pdf
 ---
 
-# Session LEA-1: Carbon Emissions, Energy Transition, and Ecosystem Accounting 
+# Session LEA-1: Carbon Emissions, Energy Transition, and Ecosystem Accounting
 
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv2-LT-52  
-**Theme:** Land, Ecology, Agriculture, and Sustainable Development  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
+**Theme:** Land, Ecology, Agriculture \& Sustainable Dev.  
 
 ---
 
 This session contains **5 presentations**:
 
 
-- [**R7616** — Inter-provincial Flow of Virtual Agricultural Elements and Their Telecoupling Impacts on the Agricultural Environmental Stress in China](./paper_R7616/)  
-  *Hongrun Ju, Shengrui Zhang*
-
 - [**R4925** — Delineation of dual-carbon spatial management units in Hunan Province by coupling carbon budget zoning and major functional zones](./paper_R4925/)  
   *Huihui Feng, Shu Wang*
 
-- [**R8378** — Spatiotemporal Coupling of Land Use Carbon Emissions and Ecosystem Service Value in Typical Oasis Cities in Arid Regions: A Case Study of Urumqi, Xinjiang](./paper_R8378/)  
-  *Bumairiyemu Maimaiti*
+- [**R4522** — Generation of High-Resolution Gridded Emission Fluxes from Polygon-Based CAPSS Inventories Using SMOKE and GIS Allocation Data](./paper_R4522/)  
+  *Chang Kim, Yun Haeng Joe*
+
+- [**R7616** — Inter-provincial Flow of Virtual Agricultural Elements and Their Telecoupling Impacts on the Agricultural Environmental Stress in China](./paper_R7616/)  
+  *Hongrun Ju, Shengrui Zhang*
 
 - [**R2233** — Persistent Inequality in Coal-Related Emission Responsibilities During the Energy Transition](./paper_R2233/)  
   *Jiajie Shang*

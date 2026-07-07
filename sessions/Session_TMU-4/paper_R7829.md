@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R7829.pdf
+    output: 
 ---
 
 # Road-Level Urban Environmental Hazard Detection from Crowdsourced Reports Using Multimodal Geospatial Context
@@ -33,16 +33,14 @@ Keywords: urban environmental hazards,  crowdsourced reports,  multimodal fusion
 
 
 
-Semantic Tags: urban environmental hazards; crowdsourced reports; multimodal fusion; geospatial context; infrastructure monitoring; urban resilience; citizen-generated data
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R7829  
 **Session:** [Urban Infrastructure Monitoring, Safety, and Resilience](./Session_TMU-4/)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv2-SR-D (Room-8)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 6 (SR-D)  
 ```

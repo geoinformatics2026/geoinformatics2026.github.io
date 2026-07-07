@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R1891.pdf
+    output: 
 ---
 
 # From Modeled to Realized Access: Comparing Travel Times to Mental Health Care Using Mobility Data in the United States
@@ -31,16 +31,14 @@ Keywords: Mental Health Care,  modeled travel time,  realized travel time,  Adva
 
 
 
-Semantic Tags: healthcare accessibility; mental health care; travel time; mobile device mobility data; modeled vs realized access; spatial access; United States; access barrier
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R1891  
-**Session:** [Healthcare Accessibility and Spatial Equity ](./Session_HEI-1/)  
-**Theme:** Health, Equity, and Human-Environment Interactions    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Session:** [Healthcare Accessibility, Environmental Exposure, and Spatial Equity](./Session_HEI-1/)  
+**Theme:** Health, Equity \& Human-Env. Interactions    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-SR-C (Room-5)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 5 (SR-C)  
 ```

@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R5173.pdf
+    output: 
 ---
 
 # An Automatic Code Generation Framework for Geospatial Computing Platforms
@@ -30,16 +30,14 @@ Keywords: Geospatial computing,  Code generation,  Large language models,  Geosp
 
 
 
-Semantic Tags: geospatial code generation; large language model; geospatial computing; workflow automation; domain knowledge; geospatial knowledge graph; natural language interface; analytical code
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R5173  
 **Session:** [Emerging LLM-based Methods for Geospatial Analysis - Part 1](./Session_GFM-1/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-LT-50  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

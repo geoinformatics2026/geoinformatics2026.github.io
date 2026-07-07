@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R2528.pdf
+    output: 
 ---
 
 # Using mHealth to understand momentary mechanism of physical activity behaviors of US Pacific Islanders
@@ -29,16 +29,14 @@ Keywords: mobile health (mHealth),  physical activity,  neighborhood effects,  P
 
 
 
-Semantic Tags: physical activity; mobile health; neighborhood effects; Pacific Islanders; health disparities; ecological momentary assessment; United States
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R2528  
 **Session:** [Advanced Geospatial Data and Methods for Transforming Healthy Cities Delivery - Part 2](./Session_GSC-6/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv2-LT-52  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

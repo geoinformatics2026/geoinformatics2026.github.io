@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R9788.pdf
+    output: 
 ---
 
 # Offsetting reservoir emissions with floating solar photovoltaics
@@ -33,16 +33,14 @@ Keywords: net-zero,  greenhouse gas emissions,  emission credits,  climate goals
 
 
 
-Semantic Tags: reservoir greenhouse gas emissions; floating solar photovoltaics; net-zero; carbon offset; hydropower; emission modeling; climate goals
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R9788  
 **Session:** [GeoAI-Facilitated Energy Geographies](./Session_LEA-2/)  
-**Theme:** Land, Ecology, Agriculture, and Sustainable Development    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** Land, Ecology, Agriculture \& Sustainable Dev.    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv2-LT-52  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R7778.pdf
+    output: 
 ---
 
 # Path Loss Prediction Model of 5G Signal Based on Fusing Data and XGBoost—SHAP Method
@@ -30,16 +30,14 @@ Keywords: 5G signal path loss,  Multimodal data feature fusion,  XGBoost,  Machi
 
 
 
-Semantic Tags: 5G signal path loss prediction; multimodal data fusion; XGBoost; SHAP; machine learning; complex terrain; telecommunications; signal propagation
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R7778  
 **Session:** [Emerging Applications in Geospatial Technology](./Session_GSC-3/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 1 — 20 July 2026 (Monday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv2-SR-D (Room-8)  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 1, 20 July (Monday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Seminar Room 6 (SR-D)  
 ```

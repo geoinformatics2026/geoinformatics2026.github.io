@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R8633.pdf
+    output: 
 ---
 
 # How Do Landscape Patterns and Morphological Spatial Patterns Effect the Habitat Quality of Urban Park Green Spaces? — An Interactive Effects Analysis
@@ -30,16 +30,14 @@ Keywords: Urban park,  Habitat quality,  Landscape patterns,  Morphological spat
 
 
 
-Semantic Tags: urban park; habitat quality; landscape pattern; morphological spatial pattern; fragmentation; green space; Chengdu; China
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R8633  
 **Session:** [Urban Green Space and Human Well-Being](./Session_HEI-2/)  
-**Theme:** Health, Equity, and Human-Environment Interactions    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** Health, Equity \& Human-Env. Interactions    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-SR-C (Room-5)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 5 (SR-C)  
 ```

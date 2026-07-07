@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R2583.pdf
+    output: 
 ---
 
 # Exploring influential factors of fleet and parking management in shared autonomous vehicle systems: An agent-based simulation framework
@@ -30,16 +30,14 @@ Keywords: Shared autonomous vehicles,  Smart mobility,  Fleet management,  Parki
 
 
 
-Semantic Tags: shared autonomous vehicles; agent-based simulation; fleet management; parking demand; urban mobility; smart mobility; transport planning
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R2583  
 **Session:** [Geospatial Innovations for Sustainable Transportation and Urban Mobility](./Session_TMU-1/)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** TP-Lv2-SR-F (Room-5/6)  
+**Venue:** Town Plaza-02-Seminar Room 5 & 6 (SR-F)  
 ```

@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R5658.pdf
+    output: 
 ---
 
 # Spatiotemporal Patterns and Driving Factors of Compound Heatwave and Air Pollution Hazards in the US
@@ -30,16 +30,14 @@ Keywords: Compound events,  Environmental hazards,  Extreme heat,  Ozone,  Parti
 
 
 
-Semantic Tags: compound events; heatwave; air pollution; ozone; particulate matter; climate change; spatiotemporal patterns; public health; United States
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R5658  
-**Session:** [Climate Extremes, Heat Exposure, and Public Health ](./Session_HEI-3/)  
-**Theme:** Health, Equity, and Human-Environment Interactions    
-**Date:** Day 1 — 20 July 2026 (Monday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv1-SR-C (Room-5)  
+**Session:** [Environmental Exposure, Ecosystem Services, and Public Health](./Session_HEI-3/)  
+**Theme:** Health, Equity \& Human-Env. Interactions    
+**Date:** Day 1, 20 July (Monday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Seminar Room 5 (SR-C)  
 ```

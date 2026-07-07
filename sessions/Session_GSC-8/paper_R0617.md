@@ -9,7 +9,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R0617.pdf
+    output: 
 ---
 
 # Urban Spatial Universal Representation Integrating Multi-modal Data and Semi-supervised Graph Neural Networks
@@ -36,16 +36,14 @@ Keywords: Urban spatial representation,  Multi-modal data,  Semi-supervised lear
 
 
 
-Semantic Tags: urban spatial representation; multi-modal data fusion; semi-supervised graph neural network; urban monitoring; multi-task learning; heterogeneous feature encoding; urban physical examination
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R0617  
 **Session:** [Spatiotemporal Modeling and Graph Neural Networks](./Session_GSC-8/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** TP-Lv2-SR-F (Room-5/6)  
+**Venue:** Town Plaza-02-Seminar Room 5 & 6 (SR-F)  
 ```

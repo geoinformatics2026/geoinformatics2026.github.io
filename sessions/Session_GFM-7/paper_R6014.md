@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R6014.pdf
+    output: 
 ---
 
 # Reconciling Deep Learning with Spatiotemporal Heterogeneity: A Geographic Perspective
@@ -35,16 +35,14 @@ Keywords: Spatiotemporal heterogeneity,  Deep learning,  Geospatial artificial i
 
 
 
-Semantic Tags: spatiotemporal heterogeneity; deep learning; GeoAI; local heterogeneity; stratified heterogeneity; geospatial machine learning; literature review
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R6014  
-**Session:** [GeoAI, Foundation Models, and Spatial Learning ](./Session_GFM-7/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [GeoAI, Foundation Models, and Spatial Learning](./Session_GFM-7/)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SRC-Lv1-LT-50  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

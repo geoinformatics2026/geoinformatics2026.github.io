@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R0474.pdf
+    output: 
 ---
 
 # A time-geographic approach to studying tourist-resident interactions in a travel destination
@@ -35,16 +35,14 @@ Keywords: Human dynamics,  tourist-resident interactions,  time geography,  spat
 
 
 
-Semantic Tags: tourist-resident interaction; time geography; spatiotemporal behavior; activity-based analysis; human dynamics; travel destination; daily mobility
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R0474  
-**Session:** [Tourism, Place-Based Behavior, and Spatial Interaction Analysis ](./Session_TMU-7/)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Tourism, Place-Based Behavior, and Spatial Interaction Analysis](./Session_TMU-7/)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SRC-Lv2-SR-D (Room-8)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 6 (SR-D)  
 ```

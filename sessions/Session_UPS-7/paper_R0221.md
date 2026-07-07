@@ -1,5 +1,5 @@
 ---
-title: "Do better street configurations mean higher land prices?  Nonlinear and spatially heterogeneous effects revealed by GeoShapley"
+title: "Do better street configurations mean higher land prices? Nonlinear and spatially heterogeneous effects revealed by GeoShapley"
 authors:
 - "Quang Cuong Doan"
 - "Thi Cam Ngoc Bui"
@@ -7,10 +7,10 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R0221.pdf
+    output: 
 ---
 
-# Do better street configurations mean higher land prices?  Nonlinear and spatially heterogeneous effects revealed by GeoShapley
+# Do better street configurations mean higher land prices? Nonlinear and spatially heterogeneous effects revealed by GeoShapley
 
 **Author Information**  
 Quang Cuong Doan<sup>1</sup>, Thi Cam Ngoc Bui<sup>2</sup>
@@ -32,16 +32,14 @@ Keywords: Nonlinear relationship,  spatial heterogeneity,  land prices,  machine
 
 
 
-Semantic Tags: street network; land price; nonlinear relationship; spatial heterogeneity; machine learning; GeoShapley; geographically weighted regression; urban economics; Hanoi
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R0221  
-**Session:** [Urban Socioeconomic Inequality, Resilience, and Spatial Justice ](./Session_UPS-7/)  
-**Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Urban Spatial Dynamics: Fostering Equity, Resilience, and Liveability](./Session_UPS-7/)  
+**Theme:** Urban Analytics, Planning \& Socioeconomics    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SRC-Lv1-SR-A (Room-1/2)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 1 & 2 (SR-A)  
 ```

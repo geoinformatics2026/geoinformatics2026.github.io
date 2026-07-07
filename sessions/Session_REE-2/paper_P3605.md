@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P3605.pdf
+    output: 
 ---
 
 # MMCA-SAM: Multimodal Cross-Attention SAM for Landslide Segmentation with Topographic Guidance
@@ -33,16 +33,14 @@ Keywords: component, Semantic segmentation, landslide detection, multimodal fusi
 
 
 
-Semantic Tags: landslide segmentation; multimodal fusion; Segment Anything Model; cross-attention; digital elevation model; optical imagery; terrain-aware deep learning; geological disaster; remote sensing
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P3605  
-**Session:** [InSAR and Geological Hazard Monitoring ](./Session_REE-2/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Session:** [InSAR and Geological Hazard Monitoring](./Session_REE-2/)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

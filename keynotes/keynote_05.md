@@ -4,8 +4,8 @@
 :class: note
 **Speaker:** Professor May Yuan  
 **Affiliation:** Geospatial Information Sciences in the School of Economic, Political, and Policy Sciences at the University of Texas at Dallas, USA  
-**Day:** [to be confirmed]  
-**Time:** [to be confirmed]  
+**Day:** Day 2, 21 July (Tuesday)  
+**Time:** 0945 - 1045  
 **Venue:** Auditorium 2 @ Stephen Riady Centre, UTown
 ```
 

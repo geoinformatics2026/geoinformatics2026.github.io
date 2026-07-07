@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R5943.pdf
+    output: 
 ---
 
 # A wind-physics informed neural network with spatial-temporal-variable fusion for predicting multiple air pollutants
@@ -30,16 +30,14 @@ Keywords: Air quality prediction,  Wind field modeling,  Multi-source informatio
 
 
 
-Semantic Tags: air quality prediction; wind field modeling; physics-informed neural network; multi-source data fusion; spatiotemporal-variable fusion; pollutant forecasting; urban sustainability
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R5943  
-**Session:** [Environmental Health and Pollution Exposure ](./Session_HEI-8/)  
-**Theme:** Health, Equity, and Human-Environment Interactions    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Environmental Health and Pollution Exposure](./Session_HEI-8/)  
+**Theme:** Health, Equity \& Human-Env. Interactions    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SRC-Lv1-SR-C (Room-5)  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

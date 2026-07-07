@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R4330.pdf
+    output: 
 ---
 
 # A Practical Method for Estimating Leaf-Scale SIF Escape Fraction Based on Remote Sensing Observables
@@ -31,16 +31,14 @@ Keywords: Sun-induced chlorophyll fluorescence,  Spectral invariants theory,  Le
 
 
 
-Semantic Tags: sun-induced chlorophyll fluorescence; fluorescence escape fraction; spectral invariants; leaf-scale modeling; vegetation photosynthesis; radiative transfer; non-destructive monitoring; remote sensing
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R4330  
-**Session:** [Hyperspectral Remote Sensing and Spectral Analysis ](./Session_REE-3/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 1 — 20 July 2026 (Monday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Session:** [Hyperspectral Remote Sensing and Spectral Analysis](./Session_REE-3/)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 1, 20 July (Monday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

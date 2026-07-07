@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R0728.pdf
+    output: 
 ---
 
 # How can the urban landscape affect block-scale urban renewal potential? Insights from large language models and explainable machine learning
@@ -30,16 +30,14 @@ Keywords: urban renewal potential、,  urban landscape、,  Large Language Model
 
 
 
-Semantic Tags: urban renewal potential; urban landscape; large language model; explainable machine learning; nonlinear association; street view imagery; planning decision support
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R0728  
-**Session:** [Urban Planning, Renewal, and Socioeconomic Transformation ](./Session_UPS-4/)  
-**Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Urban Planning, Renewal, and Socioeconomic Transformation](./Session_UPS-4/)  
+**Theme:** Urban Analytics, Planning \& Socioeconomics    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-SR-A (Room-1/2)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 1 & 2 (SR-A)  
 ```

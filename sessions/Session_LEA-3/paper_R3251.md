@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R3251.pdf
+    output: 
 ---
 
 # Urbanization-Induced LULC Transformation and Ecosystem Service Value Dynamics in Dhaka City (1991-2050): An Integrated GIS-Machine Learning-GeoAI Framework
@@ -35,16 +35,14 @@ Keywords: Dhaka city,  Population growth,  Urbanization,  LULC,  Ecosystem Servi
 
 
 
-Semantic Tags: land use land cover; ecosystem service value; urbanization; Google Earth Engine; CA-ANN; random forest; GeoAI; machine learning; Dhaka; South Asia
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R3251  
 **Session:** [Urban Land Change and Expansion Dynamics](./Session_LEA-3/)  
-**Theme:** Land, Ecology, Agriculture, and Sustainable Development    
-**Date:** Day 1 — 20 July 2026 (Monday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv2-LT-52  
+**Theme:** Land, Ecology, Agriculture \& Sustainable Dev.    
+**Date:** Day 1, 20 July (Monday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

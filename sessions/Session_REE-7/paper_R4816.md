@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R4816.pdf
+    output: 
 ---
 
 # Efficient High-Resolution Remote Sensing Land-Cover Segmentation: Achieving Optimal Speed-Accuracy Balance With A Lightweight Hybrid Network Approach
@@ -29,16 +29,14 @@ Keywords: Mamba,  CNN,  semantic segmentation,  Transformer,  lightweight,  land
 
 
 
-Semantic Tags: land cover classification; semantic segmentation; lightweight hybrid network; Mamba; transformer; convolutional neural network; remote sensing; computational efficiency
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R4816  
-**Session:** [Land Cover Mapping and Satellite Time-Series Analysis ](./Session_REE-7/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Land Cover Mapping and Satellite Time-Series Analysis](./Session_REE-7/)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

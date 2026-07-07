@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R1985.pdf
+    output: 
 ---
 
 # The collaborative optimization of existing and additional construction land in urban areas considering land use efficiency
@@ -31,16 +31,14 @@ Keywords: urban expansion,  urban renewal,  land use efficiency,  urban agglomer
 
 
 
-Semantic Tags: urban expansion; land use efficiency; urban renewal; collaborative optimization; geographic big data; land use scenario; urban agglomeration
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R1985  
 **Session:** [Urban Land Change and Expansion Dynamics](./Session_LEA-3/)  
-**Theme:** Land, Ecology, Agriculture, and Sustainable Development    
-**Date:** Day 1 — 20 July 2026 (Monday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv2-LT-52  
+**Theme:** Land, Ecology, Agriculture \& Sustainable Dev.    
+**Date:** Day 1, 20 July (Monday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

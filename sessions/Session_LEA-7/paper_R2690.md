@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R2690.pdf
+    output: 
 ---
 
 # Multi-Scale Deep Learning Extraction of Farmland Shelterbelts Integrating Phenological Differences and Texture Features Using Sentinel-2 Imagery
@@ -29,16 +29,14 @@ Keywords: Farmland shelterbelt,  Sentinel-2,  phenology,  texture features,  mul
 
 
 
-Semantic Tags: farmland shelterbelt; Sentinel-2; phenology; texture features; multi-scale convolutional neural network; vegetation mapping; agricultural landscape; deep learning
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R2690  
-**Session:** [Crop Mapping and Precision Agriculture ](./Session_LEA-7/)  
-**Theme:** Land, Ecology, Agriculture, and Sustainable Development    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Crop Mapping and Precision Agriculture](./Session_LEA-7/)  
+**Theme:** Land, Ecology, Agriculture \& Sustainable Dev.    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SRC-Lv2-LT-52  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

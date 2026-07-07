@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R5522.pdf
+    output: 
 ---
 
 # Assessing Personal Exposure to Waste Burning Using Passive Sampling and Geospatial Mixed Methods
@@ -29,16 +29,14 @@ Keywords: Unregulated solid waste disposal,  Passive sampling,  Individual expos
 
 
 
-Semantic Tags: environmental health; waste burning; passive sampling; individual exposure assessment; mixed method; Indigenous communities; rural communities; United States
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R5522  
-**Session:** [Environmental Health and Pollution Exposure ](./Session_HEI-8/)  
-**Theme:** Health, Equity, and Human-Environment Interactions    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Environmental Health and Pollution Exposure](./Session_HEI-8/)  
+**Theme:** Health, Equity \& Human-Env. Interactions    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SRC-Lv1-SR-C (Room-5)  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

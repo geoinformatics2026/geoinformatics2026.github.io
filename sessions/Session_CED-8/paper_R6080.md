@@ -10,7 +10,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R6080.pdf
+    output: 
 ---
 
 # A Flood Disaster Chain Observation Planning Method Based on Space–Air–Ground Multi-Agent Negotiation
@@ -33,16 +33,14 @@ Keywords: Flood disaster chain,  Observation planning,  Space–air–ground col
 
 
 
-Semantic Tags: flood disaster chain; observation planning; space-air-ground collaboration; multi-agent negotiation; task allocation; disaster monitoring; multi-agent system; cascading events
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R6080  
-**Session:** [Disaster Chain Modeling and Multi-Hazard Analysis ](./Session_CED-8/)  
-**Theme:** Climate, Environmental Hazards, and Disaster Risk    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Flood Disaster Modeling, Observation Planning, and Emergency Rescue](./Session_CED-8/)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** TP-Lv2-SR-E (Room-3/4)  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
 ```

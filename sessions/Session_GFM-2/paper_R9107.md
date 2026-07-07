@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R9107.pdf
+    output: 
 ---
 
 # Exploring the potential of large language models (LLMs) in analyzing passengers' perceptions of transit service quality
@@ -29,16 +29,14 @@ Keywords: Transit Service quality,  Metro system,  Large Language Models,  Natur
 
 
 
-Semantic Tags: transit service quality; large language model; natural language processing; social media; metro system; urban mobility; passenger perception
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R9107  
 **Session:** [Emerging LLM-based Methods for Geospatial Analysis - Part 2](./Session_GFM-2/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-LT-50  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

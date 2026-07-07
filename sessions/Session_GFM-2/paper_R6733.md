@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R6733.pdf
+    output: 
 ---
 
 # Transferring group knowledge from LLMs: The case of urban perception
@@ -29,16 +29,14 @@ Keywords: Large language model,  safety perception,  street view image,  urban v
 
 
 
-Semantic Tags: urban perception; large language model; street view imagery; safety perception; group knowledge transfer; zero-shot adaptation; urban visual intelligence
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R6733  
 **Session:** [Emerging LLM-based Methods for Geospatial Analysis - Part 2](./Session_GFM-2/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-LT-50  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

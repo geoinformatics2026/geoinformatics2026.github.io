@@ -13,7 +13,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P7200.pdf
+    output: 
 ---
 
 # Evaluating Official Health Communication Strategies with an Empirically Parameterized Information–Epidemic Coupled Model
@@ -42,16 +42,14 @@ Keywords: info-epidemic coevolution, agent-based modeling, health communication,
 
 
 
-Semantic Tags: epidemic modeling; information diffusion; agent-based modeling; health communication; synthetic population; spatiotemporal dynamics; epidemic intervention
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P7200  
-**Session:** [Spatial Epidemiology and Disease Modeling ](./Session_HEI-4/)  
-**Theme:** Health, Equity, and Human-Environment Interactions    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Spatial Epidemiology, Emergency Response, and Built Environment Cognition](./Session_HEI-4/)  
+**Theme:** Health, Equity \& Human-Env. Interactions    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-SR-C (Room-5)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 5 (SR-C)  
 ```

@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R4472.pdf
+    output: 
 ---
 
 # Process Decomposition and Environmental Driving Mechanisms of Water Use Efficiency in the Poyang Lake Basin
@@ -30,16 +30,14 @@ Keywords: Poyang Lake Basin,  Water Use Efficiency,  WUE Chain,  Variance Decomp
 
 
 
-Semantic Tags: water use efficiency; watershed ecosystem; process decomposition; variance decomposition; structural equation model; Poyang Lake Basin; China
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R4472  
 **Session:** [Water Quality and Inland Water Monitoring](./Session_REE-4/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

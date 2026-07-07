@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P0350.pdf
+    output: 
 ---
 
 # Adaptive Battery Scheduling for Renewable-Powered Electric Vehicle Charging
@@ -29,16 +29,14 @@ Keywords: Electric vehicle charging, battery energy storage, renewable energy in
 
 
 
-Semantic Tags: electric vehicle charging; renewable energy integration; deep reinforcement learning; energy management; battery storage scheduling; smart grid; spatial optimization; sustainable transportation
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P0350  
-**Session:** [Electric Vehicle Charging Systems and Smart Urban Energy Infrastructure ](./Session_TMU-5/)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Electric Vehicle Charging Systems and Smart Urban Energy Infrastructure](./Session_TMU-5/)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv2-SR-D (Room-8)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 6 (SR-D)  
 ```

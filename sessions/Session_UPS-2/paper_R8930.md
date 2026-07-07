@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R8930.pdf
+    output: 
 ---
 
 # Emotional Geographies of Youth Migration: Spatiotemporal Sentiment Dynamics from Digital Traces in China
@@ -29,16 +29,14 @@ Keywords: youth migration,  emotional geography,  digital traces,  geotagged soc
 
 
 
-Semantic Tags: youth migration; emotional geography; geotagged social media; large language model; sentiment analysis; propensity score matching; spatiotemporal dynamics; China
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R8930  
-**Session:** [Population Mapping, Migration Dynamics, and Spatial Demography ](./Session_UPS-2/)  
-**Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Session:** [Population, Migration, and Rural Settlement Dynamics](./Session_UPS-2/)  
+**Theme:** Urban Analytics, Planning \& Socioeconomics    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-SR-A (Room-1/2)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 1 & 2 (SR-A)  
 ```

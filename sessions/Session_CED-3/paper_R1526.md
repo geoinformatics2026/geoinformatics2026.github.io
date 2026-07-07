@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R1526.pdf
+    output: 
 ---
 
 # Perceiving the Street from Where People Stand: Pedestrian-Centered Multi-View-Factor Mapping via Street View Imagery and Monocular 3D Reconstruction
@@ -33,16 +33,14 @@ Keywords: Pedestrian microclimate,  Sky View Factor,  Green View Index,  Street 
 
 
 
-Semantic Tags: urban microclimate; sky view factor; green view index; street view imagery; monocular 3D reconstruction; pedestrian thermal comfort; urban morphology; heat exposure
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R1526  
-**Session:** [Urban Heat and Thermal Environment - Part 2 ](./Session_CED-3/)  
-**Theme:** Climate, Environmental Hazards, and Disaster Risk    
-**Date:** Day 1 — 20 July 2026 (Monday)  
-**Time:** 16:30 – 17:45  
-**Venue:** TP-Lv2-SR-E (Room-3/4)  
+**Session:** [Urban Heat and Thermal Environment - Part 2](./Session_CED-3/)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk    
+**Date:** Day 1, 20 July (Monday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
 ```

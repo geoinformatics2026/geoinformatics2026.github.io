@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R7085.pdf
+    output: 
 ---
 
 # An Optimized Faster R-CNN-Based Approach for Automated Detection of Slow-Moving Landslides Using InSAR Surface Deformation Rates
@@ -31,16 +31,14 @@ Keywords: Jinsha River,  improved Faster R-CNN,  slow-moving landslides,  genera
 
 
 
-Semantic Tags: landslide detection; InSAR; slow-moving landslides; Faster R-CNN; deep learning; surface deformation; geological hazard; Jinsha River; China
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R7085  
-**Session:** [InSAR and Geological Hazard Monitoring ](./Session_REE-2/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Session:** [InSAR and Geological Hazard Monitoring](./Session_REE-2/)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

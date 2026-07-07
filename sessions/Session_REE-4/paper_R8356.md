@@ -9,7 +9,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R8356.pdf
+    output: 
 ---
 
 # Machine Learning Retrieval of Chromophoric Dissolved Organic Matter (CDOM) in Poyang Lake Using Sentinel-2 Reflectance Simulated from In-situ Hyperspectral Measurements
@@ -34,16 +34,14 @@ Keywords: CDOM,  Sentinel-2 MSI,  Machine learning,  XGBoost,  Inland water remo
 
 
 
-Semantic Tags: water quality; CDOM retrieval; Sentinel-2; machine learning; XGBoost; hyperspectral simulation; inland lake; Poyang Lake; China
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R8356  
 **Session:** [Water Quality and Inland Water Monitoring](./Session_REE-4/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

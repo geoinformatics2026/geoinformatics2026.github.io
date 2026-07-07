@@ -1,5 +1,5 @@
 ---
-title: "Sampling the City: Revisiting the Neighborhood Effect Averaging Problem (NEAP)  Through the Interplay Between Mobility and Socio-spatial Contexts"
+title: "Sampling the City: Revisiting the Neighborhood Effect Averaging Problem (NEAP) Through the Interplay Between Mobility and Socio-spatial Contexts"
 authors:
 - "Yuhan Cui"
 - "Mei-Po Kwan"
@@ -7,10 +7,10 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R6771.pdf
+    output: 
 ---
 
-# Sampling the City: Revisiting the Neighborhood Effect Averaging Problem (NEAP)  Through the Interplay Between Mobility and Socio-spatial Contexts
+# Sampling the City: Revisiting the Neighborhood Effect Averaging Problem (NEAP) Through the Interplay Between Mobility and Socio-spatial Contexts
 
 **Author Information**  
 Yuhan Cui<sup>1</sup>, Mei-Po Kwan<sup>1</sup>
@@ -30,16 +30,14 @@ Keywords: environmental inequality,  exposure measurement error,  neighborhood e
 
 
 
-Semantic Tags: neighborhood effect averaging problem; environmental exposure; mobility-based measurement; spatial sampling; markov process; social disparity; urban context
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R6771  
-**Session:** [Spatial Inequality, Equity, and Food Access ](./Session_HEI-6/)  
-**Theme:** Health, Equity, and Human-Environment Interactions    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv1-SR-C (Room-5)  
+**Session:** [Spatial Inequality, Equity, and Food Access](./Session_HEI-6/)  
+**Theme:** Health, Equity \& Human-Env. Interactions    
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Seminar Room 5 (SR-C)  
 ```

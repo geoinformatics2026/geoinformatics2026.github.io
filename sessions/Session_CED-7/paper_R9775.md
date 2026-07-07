@@ -1,0 +1,42 @@
+---
+title: "Physics Coupled Machine Learning Model for Wildfire Simulation"
+authors:
+- "Ying Nie"
+
+exports:
+  - format: pdf
+    template: arxiv_nips
+    output: 
+---
+
+# Physics Coupled Machine Learning Model for Wildfire Simulation
+
+**Author Information**  
+Ying Nie<sup>1</sup>
+
+
+<sup>1</sup> University of Wisconsin - Madison  
+
+
+
+## Abstract
+
+Over the past few decades, the expansion of the wildland–urban interface (WUI) has significantly increased human exposure to wildfire risk. Thus accurate and efficient simulation of wildfire spread has become increasingly critical. Traditional physics-based wildfire simulators offer strong interpretability and consistency with real-world  processes. However, they often suffer from high computational complexity, limited availability of precise input data, and poor generalization due to task-specific parameter calibration. In contrast, recent machine learning (ML) approaches for wildfire prediction adopt data-driven strategies that substantially improve predictive accuracy. Nevertheless, these models typically lack explicit physical reasoning and may produce physically inconsistent results. To address these limitations, various hybrid approaches have emerged that attempt to couple physical models with machine learning models. However, systematic discussion on how to integrate wildfire physical simulators with geospatial ML models remains limited. In this paper, we investigate two complementary methodologies for integrating Geospatial Foundation Models (GeoFM), with physics-based wildfire modeling. The first approach is a physics-informed ML, which incorporates physical constraints directly into the ML process to enhance physical consistency. The second approach is a ML-augmented physical model, where ML models are used to adapt components of the physical simulator. Together, these two directions provide a unified GeoAI framework for leveraging GeoFM in wildfire simulation, and offer new insights into physics coupled machine learning for wildfire spread simulation.
+
+
+
+Keywords: Wildfire simulation,  Physical-machine learning coupling model,  Geospatial foundation model
+
+
+
+
+```{admonition} Presentation Information
+:class: note
+
+**Submission ID:** R9775  
+**Session:** [Multi-Hazard Detection, Simulation, and Disaster Monitoring](./Session_CED-7/)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk    
+**Date:** Day 3, 22 July (Wednesday)  
+**Time:** 09:00 – 10:30  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
+```

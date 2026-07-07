@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R1615.pdf
+    output: 
 ---
 
 # Climate Modulates Fragmentation-Driven Resilience Loss in Urban–Rural Ecotones
@@ -35,16 +35,14 @@ Keywords: urban–rural ecotone,  urban agglomeration,  vegetation resilience,  
 
 
 
-Semantic Tags: urban-rural ecotone; landscape fragmentation; vegetation resilience; climate gradient; urbanization; ecological stability; urban agglomeration; China
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R1615  
 **Session:** [Geospatial Modeling for Sustainable Development](./Session_UPS-1/)  
-**Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** Urban Analytics, Planning \& Socioeconomics    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-SR-A (Room-1/2)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 1 & 2 (SR-A)  
 ```

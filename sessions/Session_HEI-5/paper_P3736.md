@@ -11,7 +11,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P3736.pdf
+    output: 
 ---
 
 # Optimization of AED Based on Deep Reinforement Learning—Case Study of Haidian District, Beijing
@@ -36,16 +36,14 @@ Keywords: OHCA, AED, Spatial optimization, Deep Reinforcement Learning
 
 
 
-Semantic Tags: automated external defibrillator placement; spatial optimization; deep reinforcement learning; out-of-hospital cardiac arrest; emergency services; road network; urban safety; Beijing
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P3736  
-**Session:** [Facility Location and Service Accessibility ](./Session_HEI-5/)  
-**Theme:** Health, Equity, and Human-Environment Interactions    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Facility Location and Service Accessibility](./Session_HEI-5/)  
+**Theme:** Health, Equity \& Human-Env. Interactions    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-SR-C (Room-5)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 5 (SR-C)  
 ```

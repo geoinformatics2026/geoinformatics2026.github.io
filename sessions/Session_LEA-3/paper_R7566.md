@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R7566.pdf
+    output: 
 ---
 
 # Asymmetric Effects Between Urban-Induced Cropland Loss and Cropland Displacement in Africa
@@ -31,16 +31,14 @@ Keywords: cropland displacement,  asymmetric effects,  large-scale land-use simu
 
 
 
-Semantic Tags: urban cropland loss; cropland displacement; large-scale land-use simulation; asymmetric effects; food security; Africa; urbanization
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R7566  
 **Session:** [Urban Land Change and Expansion Dynamics](./Session_LEA-3/)  
-**Theme:** Land, Ecology, Agriculture, and Sustainable Development    
-**Date:** Day 1 — 20 July 2026 (Monday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv2-LT-52  
+**Theme:** Land, Ecology, Agriculture \& Sustainable Dev.    
+**Date:** Day 1, 20 July (Monday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R3396.pdf
+    output: 
 ---
 
 # Geo-Informatics Driven by Large Language Models: Key Technologies and Benchmarks for GIS Spatial Analysis Code Generation
@@ -30,16 +30,14 @@ Keywords: Large Language Models,  GIS Spatial Analysis,  Geospatial Code Generat
 
 
 
-Semantic Tags: large language model; GIS spatial analysis; geospatial code generation; evaluation benchmark; knowledge base; multi-agent orchestration; Google Earth Engine; LLM4GIS
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R3396  
 **Session:** [Emerging LLM-based Methods for Geospatial Analysis - Part 1](./Session_GFM-1/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-LT-50  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

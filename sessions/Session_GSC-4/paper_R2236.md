@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R2236.pdf
+    output: 
 ---
 
 # AI-PriSM: Voxel-Ready Cellular Grids for Explainable, Policy-Oriented Population Migration Forecasting
@@ -30,16 +30,14 @@ Keywords: GeoAI,  population migration,  cellular geography,  grid/voxel framewo
 
 
 
-Semantic Tags: GeoAI; population migration forecasting; cellular geography; explainable AI; spatio-temporal graph attention; policy simulation; transportation accessibility; China
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R2236  
 **Session:** [Geographical Principles in Spatial Analysis and Modeling](./Session_GSC-4/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv2-LT-52  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R7977.pdf
+    output: 
 ---
 
 # Spatio-Temporal Evolution and Drivers of Energy Value Chain Networks: A Cross-Sectoral Comparative Perspective
@@ -30,16 +30,14 @@ Keywords: Energy value chains,  Domestic value added (DVA),  Multiregional input
 
 
 
-Semantic Tags: energy value chain; domestic value added; multi-regional input-output; exponential random graph model; network community detection; fossil fuels; global trade
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R7977  
-**Session:** [Carbon Emissions, Energy Transition, and Ecosystem Accounting ](./Session_LEA-1/)  
-**Theme:** Land, Ecology, Agriculture, and Sustainable Development    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Session:** [Carbon Emissions, Energy Transition, and Ecosystem Accounting](./Session_LEA-1/)  
+**Theme:** Land, Ecology, Agriculture \& Sustainable Dev.    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv2-LT-52  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

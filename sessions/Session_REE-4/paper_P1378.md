@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P1378.pdf
+    output: 
 ---
 
 # A Synergistic Approach for High-Precision Lake Turbidity Retrieval Using ICESat-2 and Sentinel-2 Data
@@ -31,16 +31,14 @@ Keywords: ICESat-2, Sentinel-2, Turbidity Retrieval, Random Forest, Water Qualit
 
 
 
-Semantic Tags: lake turbidity; water quality remote sensing; ICESat-2; Sentinel-2; LiDAR; random forest; spatiotemporal fusion; inland water monitoring; photon extraction; Lake Erie
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P1378  
 **Session:** [Water Quality and Inland Water Monitoring](./Session_REE-4/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

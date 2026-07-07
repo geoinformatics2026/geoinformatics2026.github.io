@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R1307.pdf
+    output: 
 ---
 
 # Greenspace Morphology and Momentary Mental Well-Being: A Mobility-Based Analysis of Urban Exposure
@@ -31,16 +31,14 @@ Keywords: Greenspace morphology,  Ecological momentary assessment (EMA),  Mobili
 
 
 
-Semantic Tags: urban greenspace; ecological momentary assessment; mobility-based exposure; mental well-being; landscape configuration; GPS tracking; green view index; urban psychology
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R1307  
 **Session:** [Urban Green Space and Human Well-Being](./Session_HEI-2/)  
-**Theme:** Health, Equity, and Human-Environment Interactions    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** Health, Equity \& Human-Env. Interactions    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-SR-C (Room-5)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 5 (SR-C)  
 ```

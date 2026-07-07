@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R3596.pdf
+    output: 
 ---
 
 # Spatiotemporal Evolution and Topographic Anchoring of Antarctic Deep-water Polynyas
@@ -32,16 +32,14 @@ Keywords: Antarctic Deep-water polynyas,  Topographic anchoring,  Silent Period,
 
 
 
-Semantic Tags: Antarctic polynya; deep ocean ventilation; topographic anchoring; thermohaline circulation; multi-source remote sensing; ocean monitoring; cryosphere
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R3596  
-**Session:** [Marine and Aquatic Geospatial Monitoring ](./Session_REE-5/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Marine and Aquatic Geospatial Monitoring](./Session_REE-5/)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

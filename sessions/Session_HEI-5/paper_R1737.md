@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R1737.pdf
+    output: 
 ---
 
 # 15-minute city for all? A critical analysis based on the optimization lens.
@@ -29,16 +29,14 @@ Keywords: 15-minute city,  equity,  optimization,  urban-suburban context
 
 
 
-Semantic Tags: 15-minute city; spatial equity; service accessibility; optimization; urban planning; suburban context; temporal accessibility; policy evaluation
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R1737  
-**Session:** [Facility Location and Service Accessibility ](./Session_HEI-5/)  
-**Theme:** Health, Equity, and Human-Environment Interactions    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Facility Location and Service Accessibility](./Session_HEI-5/)  
+**Theme:** Health, Equity \& Human-Env. Interactions    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-SR-C (Room-5)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 5 (SR-C)  
 ```

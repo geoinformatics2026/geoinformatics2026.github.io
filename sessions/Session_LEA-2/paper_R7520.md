@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R7520.pdf
+    output: 
 ---
 
 # Optimizing Global Solar and Wind Integration through Trans-continental Grid Interconnection: A Spatiotemporal Modeling Approach
@@ -31,16 +31,14 @@ Keywords: Renewables,  Global interconnection,  Carbon mitigation
 
 
 
-Semantic Tags: renewable energy; solar-wind integration; trans-continental grid; spatiotemporal modeling; geospatial optimization; carbon neutrality; land suitability analysis
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R7520  
 **Session:** [GeoAI-Facilitated Energy Geographies](./Session_LEA-2/)  
-**Theme:** Land, Ecology, Agriculture, and Sustainable Development    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** Land, Ecology, Agriculture \& Sustainable Dev.    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv2-LT-52  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

@@ -10,7 +10,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R2602.pdf
+    output: 
 ---
 
 # Second-dimension outliers for spatial prediction
@@ -39,16 +39,14 @@ Keywords: Spatial outliers,  spatial prediction,  second-dimension spatial assoc
 
 
 
-Semantic Tags: spatial prediction; spatial outliers; second-dimension spatial association; agricultural forecasting; variogram; geographic statistics; geographic environment; spatial heterogeneity
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R2602  
 **Session:** [Advanced Geospatial Data and Methods for Transforming Healthy Cities Delivery - Part 1](./Session_GSC-5/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv2-LT-52  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

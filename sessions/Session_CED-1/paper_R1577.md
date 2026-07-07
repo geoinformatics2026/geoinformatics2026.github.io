@@ -9,7 +9,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R1577.pdf
+    output: 
 ---
 
 # Cross-Regional Building Damage Mapping with Prototype-Based Spatial Representation Learning
@@ -36,16 +36,14 @@ Keywords: Building Damage Mapping,  Vision Foundation Models,  Spatial Represent
 
 
 
-Semantic Tags: building damage mapping; vision foundation model; spatial representation learning; cross-domain transfer; disaster assessment; remote sensing; prototype-based learning
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R1577  
-**Session:** [GeoAI and Data Science for Disaster Resilience](./Session_CED-1/)  
-**Theme:** Climate, Environmental Hazards, and Disaster Risk    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Session:** [GeoAI and Data Science for Disaster Resilience](./Session_CED-1/)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** TP-Lv2-SR-E (Room-3/4)  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
 ```

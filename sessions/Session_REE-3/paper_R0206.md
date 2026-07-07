@@ -9,7 +9,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R0206.pdf
+    output: 
 ---
 
 # Refined Reconstruction of Geophysical Fields: Integrating Elevation-Informed Diffusion Processes with Enhanced Feature Spaces
@@ -32,16 +32,14 @@ Keywords: Geophysical Fields Reconstruction,  Conditional Variational Autoencode
 
 
 
-Semantic Tags: geophysical field reconstruction; diffusion model; conditional variational autoencoder; terrain-atmosphere interaction; elevation-informed deep learning; atmospheric downscaling; super-resolution
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R0206  
-**Session:** [Hyperspectral Remote Sensing and Spectral Analysis ](./Session_REE-3/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 1 — 20 July 2026 (Monday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Session:** [Hyperspectral Remote Sensing and Spectral Analysis](./Session_REE-3/)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 1, 20 July (Monday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

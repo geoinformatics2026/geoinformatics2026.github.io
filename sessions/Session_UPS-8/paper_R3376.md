@@ -10,7 +10,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R3376.pdf
+    output: 
 ---
 
 # An Indicator-driven Architecture for Decarbonisation-Oriented Urban Digital Twins
@@ -35,16 +35,14 @@ Keywords: Urban Digital Twins,  Climate Action,  Decarbonisation,  Decision Supp
 
 
 
-Semantic Tags: urban digital twin; decarbonization; climate action; semantic interoperability; decision support; urban monitoring; indicator-driven architecture
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R3376  
-**Session:** [Urban Digital Twins and 3D City Modeling ](./Session_UPS-8/)  
-**Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Urban and Geospatial Digital Twins for Scenario Modeling](./Session_UPS-8/)  
+**Theme:** Urban Analytics, Planning \& Socioeconomics    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SRC-Lv1-SR-A (Room-1/2)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 1 & 2 (SR-A)  
 ```

@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P3030.pdf
+    output: 
 ---
 
 # Estimation of forest LAI at the plot scale by using LESS simulation for sample augmentation
@@ -30,16 +30,14 @@ Keywords: Leaf area index, LESS, CatBoost, UAV LiDAR, UAV multi-spectral imagery
 
 
 
-Semantic Tags: leaf area index; forest monitoring; UAV LiDAR; UAV multispectral imagery; radiative transfer model; LESS simulation; sample augmentation; CatBoost; machine learning; vegetation biophysics
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P3030  
-**Session:** [Vegetation and Forest Monitoring with UAV and LiDAR ](./Session_REE-6/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Session:** [Vegetation and Forest Monitoring with UAV and LiDAR](./Session_REE-6/)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

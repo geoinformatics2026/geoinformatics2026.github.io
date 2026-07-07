@@ -4,8 +4,8 @@
 :class: note
 **Speaker:** Professor Mei-Po Kwan  
 **Affiliation:** Geography and Resource Management, Head of Chung Chi College, and Director of the Institute of Space and Earth Information Science at the Chinese University of Hong Kong, China  
-**Day:** [to be confirmed]  
-**Time:** [to be confirmed]  
+**Day:** Day 1, 20 July (Monday)  
+**Time:** 1045 - 1145  
 **Venue:** Auditorium 2 @ Stephen Riady Centre, UTown
 ```
 

@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R7792.pdf
+    output: 
 ---
 
 # Assessment of Urban Vibrancy Resilience Using Mobility Big Data and Spatially Varying Modeling
@@ -32,16 +32,14 @@ Keywords: Urban vibrancy resilience,  Mobility big data,  Geospatial analytics, 
 
 
 
-Semantic Tags: urban vibrancy resilience; mobility big data; geospatial analytics; spatial heterogeneity; socioeconomic deprivation; New York City; resilience trajectory; for-hire vehicle
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R7792  
-**Session:** [Urban Planning, Renewal, and Socioeconomic Transformation ](./Session_UPS-4/)  
-**Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Urban Planning, Renewal, and Socioeconomic Transformation](./Session_UPS-4/)  
+**Theme:** Urban Analytics, Planning \& Socioeconomics    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-SR-A (Room-1/2)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 1 & 2 (SR-A)  
 ```

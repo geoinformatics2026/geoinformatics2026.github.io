@@ -1,31 +1,34 @@
 ---
-title: "Rural Development, Land Sustainability, and Food Systems "
+title: "Ecosystem Monitoring and Land Surface Dynamics"
 exports:
   - format: pdf
     template: arxiv_nips
     output: _build/pdf/Session_LEA-6/Session_LEA-6.pdf
 ---
 
-# Session LEA-6: Rural Development, Land Sustainability, and Food Systems 
+# Session LEA-6: Ecosystem Monitoring and Land Surface Dynamics
 
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** TP-Lv2-SR-F (Room-5/6)  
-**Theme:** Land, Ecology, Agriculture, and Sustainable Development  
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Town Plaza-02-Seminar Room 5 & 6 (SR-F)  
+**Theme:** Land, Ecology, Agriculture \& Sustainable Dev.  
 
 ---
 
-This session contains **4 presentations**:
+This session contains **5 presentations**:
 
 
-- [**R0473** — How does the livelihood vulnerability of rural households facing multiple risks affect their livelihood resilience?](./paper_R0473/)  
-  *Yue Sun*
+- [**P9169** — Integrating DISPATCH and In-Situ Constraints into a 1D-ResUNet for SMAP Soil Moisture Downscaling](./paper_P9169/)  
+  *Hailong Zhang, Mei Yang, Yan Jin*
 
-- [**R4577** — Decline or prosperity ? Decoding the spatio-temporal evolution and types of China's rural areal system vitality](./paper_R4577/)  
-  *Dabao Zhou, Dan Gao, Chaoyang Fang*
+- [**R1123** — FGCBAM-RAFT: Optical Flow Estimation with Flow-Guided Attention for Natural Rivers](./paper_R1123/)  
+  *Xue Yang, Xiaolan Chen*
 
-- [**R0192** — Reconfiguring China’s interprovincial rice distribution to support low-carbon goals under climate change](./paper_R0192/)  
-  *Jintao Yang*
+- [**R7876** — Divergent ecosystem responses to climate boundary fluctuations in dryland–humid transition zones](./paper_R7876/)  
+  *Jie Jiang*
 
-- [**P3550** — Environmental and Social Management of Rural Road Maintenance Projects in Yemen ---A Case Study of Al karishah-Al-Turbah Road in Taiz Governorate](./paper_P3550/)  
-  *Ahmed Sana Abdulrkeeb Mohammed, Qiuyi Zhang*
+- [**R5402** — Extreme Hydrothermal Fluctuations Regulate the Carbon Storage Over Two Decades in Ecological Engineering Zones of China](./paper_R5402/)  
+  *Yang Li, Yaochen Qin*
+
+- [**R8378** — Spatiotemporal Coupling of Land Use Carbon Emissions and Ecosystem Service Value in Typical Oasis Cities in Arid Regions: A Case Study of Urumqi, Xinjiang](./paper_R8378/)  
+  *Bumairiyemu Maimaiti*

@@ -11,7 +11,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P7666.pdf
+    output: 
 ---
 
 # A Knowledge-Guided Urban Regeneration Decision Framework: Integrating Spatial Knowledge Graphs and Large Language Models
@@ -36,16 +36,14 @@ Keywords: urban renewal, knowledge graph, large language models, GraphRAG
 
 
 
-Semantic Tags: urban regeneration; knowledge graph; large language model; graph RAG; spatial knowledge; planning decision support; GeoAI
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P7666  
-**Session:** [Knowledge Graphs and Spatial Semantics ](./Session_GFM-6/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv1-LT-50  
+**Session:** [Knowledge Graphs and Spatial Semantics](./Session_GFM-6/)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

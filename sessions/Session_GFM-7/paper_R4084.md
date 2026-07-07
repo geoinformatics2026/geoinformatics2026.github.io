@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R4084.pdf
+    output: 
 ---
 
 # Mixed Geographically Weighted XGBoost (M-GWXGB) Model: A New Spatially Explicit Machine Learning Model
@@ -33,16 +33,14 @@ Keywords: nonlinear relationship,  spatial varying relationship,  spatially expl
 
 
 
-Semantic Tags: spatially explicit machine learning; geographically weighted XGBoost; spatial nonstationarity; nonlinear relationship; spatial heterogeneity; mixed model; geographically weighted regression; SHAP
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R4084  
-**Session:** [GeoAI, Foundation Models, and Spatial Learning ](./Session_GFM-7/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [GeoAI, Foundation Models, and Spatial Learning](./Session_GFM-7/)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SRC-Lv1-LT-50  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

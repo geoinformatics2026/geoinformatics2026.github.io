@@ -8,18 +8,21 @@ exports:
 
 # Session HEI-2: Urban Green Space and Human Well-Being
 
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-SR-C (Room-5)  
-**Theme:** Health, Equity, and Human-Environment Interactions  
+**Venue:** Stephen Riady Centre-01-Seminar Room 5 (SR-C)  
+**Theme:** Health, Equity \& Human-Env. Interactions  
 
 ---
 
 This session contains **5 presentations**:
 
 
-- [**R5021** — Multi-scale trade-offs/synergies of ecosystem service supply-demand risk in Wuhan Metropolitan Area based on service flow](./paper_R5021/)  
-  *Yuling Peng, Haona Peng, Jingyu Tian*
+- [**R1307** — Greenspace Morphology and Momentary Mental Well-Being: A Mobility-Based Analysis of Urban Exposure](./paper_R1307/)  
+  *Lingwei Zheng, Mei-Po Kwan, Yang Liu*
+
+- [**P2774** — Dynamic Environments Impacts on Mental Health in England](./paper_P2774/)  
+  *Yijing Li, Hector Menendez Benito, Wei Fang*
 
 - [**R8633** — How Do Landscape Patterns and Morphological Spatial Patterns Effect the Habitat Quality of Urban Park Green Spaces? — An Interactive Effects Analysis](./paper_R8633/)  
   *Li Zeng, Han Yang*
@@ -27,8 +30,5 @@ This session contains **5 presentations**:
 - [**R0016** — Social media big data reveals how mobility reshapes human environmental exposure inequality](./paper_R0016/)  
   *Yan Zhang, Meipo Kwan*
 
-- [**R2824** — Integrating ecological momentary assessment (EMA) and GPS to measure mobility-based greenery and short-term happiness](./paper_R2824/)  
-  *Jiangyu Song*
-
-- [**R1307** — Greenspace Morphology and Momentary Mental Well-Being: A Mobility-Based Analysis of Urban Exposure](./paper_R1307/)  
-  *Lingwei Zheng, Mei-Po Kwan, Yang Liu*
+- [**R2276** — Compound temperature-humidity extremes drive up acute mental health outcomes: A 12-year case-crossover metropolitan study](./paper_R2276/)  
+  *Xin Liu, Yongsheng Wang, Bin Zhu*

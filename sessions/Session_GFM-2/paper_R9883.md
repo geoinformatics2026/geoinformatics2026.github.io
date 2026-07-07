@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R9883.pdf
+    output: 
 ---
 
 # Global vegetation carbon loss driven by drought
@@ -30,16 +30,14 @@ Keywords: drought,  net ecosystem exchange,  vegetation carbon sink loss,  globa
 
 
 
-Semantic Tags: drought; vegetation carbon sink; net ecosystem exchange; global carbon budget; drought index; remote sensing; climate change
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R9883  
 **Session:** [Emerging LLM-based Methods for Geospatial Analysis - Part 2](./Session_GFM-2/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-LT-50  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

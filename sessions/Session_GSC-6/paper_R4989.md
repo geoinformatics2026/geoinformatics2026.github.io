@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R4989.pdf
+    output: 
 ---
 
 # Mobility, Segregation, and Inequalities: How experienced income segregation relates to travel behaviour and health inequalities
@@ -29,16 +29,14 @@ Keywords: Income Segregation,  Travel Behaviour,  Health Inequalities,  Human mo
 
 
 
-Semantic Tags: income segregation; travel behavior; health inequality; human mobility; neighborhood effects; social disparity; urban equity
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R4989  
 **Session:** [Advanced Geospatial Data and Methods for Transforming Healthy Cities Delivery - Part 2](./Session_GSC-6/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv2-LT-52  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

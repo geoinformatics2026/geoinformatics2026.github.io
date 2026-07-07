@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R6116.pdf
+    output: 
 ---
 
 # Assessing the Impact of Emergency Food Service Disruptions on Accessibility: A Geospatial Analysis of Food Banks During a Crisis
@@ -29,16 +29,14 @@ Keywords: Food insecurity,  Food banks,  Accessibility,  Crisis response,  Geosp
 
 
 
-Semantic Tags: food insecurity; food bank accessibility; crisis response; spatial accessibility; transportation barriers; geospatial analysis; pandemic; suburban disparity
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R6116  
-**Session:** [Spatial Inequality, Equity, and Food Access ](./Session_HEI-6/)  
-**Theme:** Health, Equity, and Human-Environment Interactions    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv1-SR-C (Room-5)  
+**Session:** [Spatial Inequality, Equity, and Food Access](./Session_HEI-6/)  
+**Theme:** Health, Equity \& Human-Env. Interactions    
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Seminar Room 5 (SR-C)  
 ```

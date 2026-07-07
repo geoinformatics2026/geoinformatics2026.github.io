@@ -10,7 +10,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R4253.pdf
+    output: 
 ---
 
 # GLCNet: Global-Local Correlation Network for Alpha Earth Foundation-Guided Remote Sensing Image Super-Resolution
@@ -35,16 +35,14 @@ Keywords: Remote Sensing Image Super-Resolution,  Global-Local Correlation,  Alp
 
 
 
-Semantic Tags: remote sensing super-resolution; global-local correlation; foundation model; multimodal feature fusion; deep learning; earth observation; spatial resolution enhancement; high-resolution imagery
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R4253  
-**Session:** [Remote Sensing Object Detection and Image Enhancement ](./Session_REE-1/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Session:** [Remote Sensing Object Detection and Image Enhancement](./Session_REE-1/)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

@@ -9,7 +9,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P0189.pdf
+    output: 
 ---
 
 # A Diffusion Transformer Framework with Geographical Information Enhancement for Trajectory Generation
@@ -32,16 +32,14 @@ Keywords: human mobility, trajectory generation, geographical information, diffu
 
 
 
-Semantic Tags: human mobility; trajectory generation; spatiotemporal modeling; diffusion transformer; generative model; convolutional autoencoder; privacy-preserving data; urban planning; traffic management; data sparsity; deep learning
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P0189  
 **Session:** [Geospatial Innovations for Sustainable Transportation and Urban Mobility](./Session_TMU-1/)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** TP-Lv2-SR-F (Room-5/6)  
+**Venue:** Town Plaza-02-Seminar Room 5 & 6 (SR-F)  
 ```

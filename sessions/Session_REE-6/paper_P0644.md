@@ -12,7 +12,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P0644.pdf
+    output: 
 ---
 
 # Fine-Scale Estimation of Chlorophyll and Carotenoid Content in Norway Spruce Using UAV Hyperspectral Remote Sensing Data and a PROSAIL–Random Forest Hybrid Approach
@@ -37,16 +37,14 @@ Keywords: Norway spruce, biochemical traits, radiative transfer model, machine l
 
 
 
-Semantic Tags: vegetation biochemistry; chlorophyll estimation; carotenoid content; UAV remote sensing; hyperspectral imagery; radiative transfer model; PROSAIL; random forest; forest health monitoring; Norway spruce
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P0644  
-**Session:** [Vegetation and Forest Monitoring with UAV and LiDAR ](./Session_REE-6/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Session:** [Vegetation and Forest Monitoring with UAV and LiDAR](./Session_REE-6/)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

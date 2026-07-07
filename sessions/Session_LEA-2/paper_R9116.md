@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R9116.pdf
+    output: 
 ---
 
 # SSDFNet: State Space-Driven Multi-Level Feature Interaction and Frequency-Domain Enhancement for Optical-SAR Building Extraction
@@ -33,16 +33,14 @@ Keywords: Synthetic aperture radar (SAR),  Optical images,  Building extraction,
 
 
 
-Semantic Tags: building extraction; SAR remote sensing; optical imagery; multimodal fusion; state space model; VMamba; deep learning; remote sensing
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R9116  
 **Session:** [GeoAI-Facilitated Energy Geographies](./Session_LEA-2/)  
-**Theme:** Land, Ecology, Agriculture, and Sustainable Development    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** Land, Ecology, Agriculture \& Sustainable Dev.    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv2-LT-52  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

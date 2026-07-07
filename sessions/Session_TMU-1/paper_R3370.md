@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R3370.pdf
+    output: 
 ---
 
 # A comparative analysis of the spatial determinants of e-bike and e-scooter sharing trips
@@ -32,16 +32,14 @@ Keywords: Shared micromobility,  E-scooter,  E-bike,  Bikesharing,  Shared mobil
 
 
 
-Semantic Tags: shared micromobility; e-scooter; e-bike; spatial determinants; gradient boosting; urban mobility; bike-sharing; Portland
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R3370  
 **Session:** [Geospatial Innovations for Sustainable Transportation and Urban Mobility](./Session_TMU-1/)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** TP-Lv2-SR-F (Room-5/6)  
+**Venue:** Town Plaza-02-Seminar Room 5 & 6 (SR-F)  
 ```

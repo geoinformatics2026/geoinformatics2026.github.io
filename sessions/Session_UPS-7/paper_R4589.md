@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R4589.pdf
+    output: 
 ---
 
 # Opportunities and Biases of Digital Trace Data for Urban Development in the Global South
@@ -30,16 +30,14 @@ Keywords: Global South,  Digital Trace Data,  Urban Inequality
 
 
 
-Semantic Tags: digital trace data; urban inequality; street view imagery; computer vision; informal settlements; sanitation mapping; Global South; Nairobi
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R4589  
-**Session:** [Urban Socioeconomic Inequality, Resilience, and Spatial Justice ](./Session_UPS-7/)  
-**Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Urban Spatial Dynamics: Fostering Equity, Resilience, and Liveability](./Session_UPS-7/)  
+**Theme:** Urban Analytics, Planning \& Socioeconomics    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SRC-Lv1-SR-A (Room-1/2)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 1 & 2 (SR-A)  
 ```

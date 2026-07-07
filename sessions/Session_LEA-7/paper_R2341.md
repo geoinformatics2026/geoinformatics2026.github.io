@@ -9,7 +9,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R2341.pdf
+    output: 
 ---
 
 # A Soybean Mapping Framework via Multi-Index-Derived Pseudo-Label Enhancement and Contrastive Embedding Neural Network
@@ -32,16 +32,14 @@ Keywords: Crop mapping,  Pseudo-label,  Crop index,  Soft probability update mec
 
 
 
-Semantic Tags: crop mapping; soybean; pseudo-label enhancement; contrastive learning; crop index; multi-index approach; food security; remote sensing
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R2341  
-**Session:** [Crop Mapping and Precision Agriculture ](./Session_LEA-7/)  
-**Theme:** Land, Ecology, Agriculture, and Sustainable Development    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Crop Mapping and Precision Agriculture](./Session_LEA-7/)  
+**Theme:** Land, Ecology, Agriculture \& Sustainable Dev.    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SRC-Lv2-LT-52  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

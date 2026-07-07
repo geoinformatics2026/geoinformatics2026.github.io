@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R9446.pdf
+    output: 
 ---
 
 # Identification, influencing factors, and governance strategies of rural shrinkage in highly urbanized areas— A case study of Suzhou City
@@ -30,16 +30,14 @@ Keywords: highly urbanized regions,  population downscaling,  rural shrinkage,  
 
 
 
-Semantic Tags: rural shrinkage; population downscaling; highly urbanized regions; driving mechanisms; stacking ensemble learning; governance; Suzhou; China
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R9446  
-**Session:** [Population Mapping, Migration Dynamics, and Spatial Demography ](./Session_UPS-2/)  
-**Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Session:** [Population, Migration, and Rural Settlement Dynamics](./Session_UPS-2/)  
+**Theme:** Urban Analytics, Planning \& Socioeconomics    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-SR-A (Room-1/2)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 1 & 2 (SR-A)  
 ```

@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R9713.pdf
+    output: 
 ---
 
 # The Impact of Ground-level Ozone Pollution on Subjective Well-being at different levels-An Empirical Study in China.
@@ -29,16 +29,14 @@ Keywords: subjective well-being levels,  ground-level ozone,  partial proportion
 
 
 
-Semantic Tags: ground-level ozone; subjective well-being; environmental health; partial proportional odds model; air pollution; China; proportional odds; sociodemographic factors
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R9713  
 **Session:** [Advanced Geospatial Data and Methods for Transforming Healthy Cities Delivery - Part 2](./Session_GSC-6/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv2-LT-52  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

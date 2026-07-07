@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P7359.pdf
+    output: 
 ---
 
 # STC-Fire: A Topographic-Adaptive Method for Forest Fire Monitoring Using Himawari-8 Data
@@ -30,16 +30,14 @@ Keywords: Forest fire, Geostationary satellite, Spatio-temporal context, Topogra
 
 
 
-Semantic Tags: forest fire detection; geostationary satellite; spatiotemporal context; topographic adaptation; fire monitoring; early warning system; Himawari-8; Southwest China
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P7359  
-**Session:** [Wildfire Detection, Simulation, and Disaster Monitoring](./Session_CED-7/)  
-**Theme:** Climate, Environmental Hazards, and Disaster Risk    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Multi-Hazard Detection, Simulation, and Disaster Monitoring](./Session_CED-7/)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** TP-Lv2-SR-E (Room-3/4)  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
 ```

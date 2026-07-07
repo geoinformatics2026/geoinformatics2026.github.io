@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R2730.pdf
+    output: 
 ---
 
 # An Event Logic Graph for Dynamic Risk Chain Evolution in Historic Urban Areas
@@ -31,16 +31,14 @@ Keywords: Historic Urban Areas,  Event Logic Graph,  Dynamic Risk Evolution
 
 
 
-Semantic Tags: historic urban area; event logic graph; dynamic risk evolution; knowledge representation; disaster chain; risk early warning; urban resilience
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R2730  
 **Session:** [Cyberinfrastructure and GeoAI for Intelligent Spatial Decision Support](./Session_GFM-5/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-LT-50  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

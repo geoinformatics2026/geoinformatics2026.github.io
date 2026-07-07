@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R4738.pdf
+    output: 
 ---
 
 # Efficient detection method for road cracks driven by data and knowledge in complex dynamic environments
@@ -32,16 +32,14 @@ Keywords: crack detection,  complex dynamic environment,  fast key frame selecti
 
 
 
-Semantic Tags: road crack detection; semantic segmentation; complex dynamic environment; key frame extraction; crack width measurement; infrastructure monitoring; deep learning
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R4738  
 **Session:** [Urban Infrastructure Monitoring, Safety, and Resilience](./Session_TMU-4/)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv2-SR-D (Room-8)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 6 (SR-D)  
 ```

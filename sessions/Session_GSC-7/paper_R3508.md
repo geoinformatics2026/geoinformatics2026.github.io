@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R3508.pdf
+    output: 
 ---
 
 # Quantifying geographic domain shift to decouple the geographic transferability of human mobility flow generations
@@ -31,16 +31,14 @@ Keywords: Geographic transferability,  covariate shift,  human mobility flow gen
 
 
 
-Semantic Tags: geographic transferability; human mobility flow generation; transfer learning; covariate shift; domain adaptation; spatial generalization; mobility modeling; data-scarce regions
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R3508  
 **Session:** [Spatial Statistics, Geostatistics, and GIScience Theory](./Session_GSC-7/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** TP-Lv2-SR-F (Room-5/6)  
+**Venue:** Town Plaza-02-Seminar Room 5 & 6 (SR-F)  
 ```

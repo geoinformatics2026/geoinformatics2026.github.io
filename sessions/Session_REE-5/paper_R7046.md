@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R7046.pdf
+    output: 
 ---
 
 # Improving remote estimation of phytoplankton primary production with the aid of Geostationary satellite observations
@@ -29,16 +29,14 @@ Keywords: Primary production,  Photosynthetically available radiation,  Cloud va
 
 
 
-Semantic Tags: phytoplankton primary production; ocean color remote sensing; geostationary satellite; photosynthetically available radiation; cloud variation; gap-filling; ocean monitoring
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R7046  
-**Session:** [Marine and Aquatic Geospatial Monitoring ](./Session_REE-5/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Marine and Aquatic Geospatial Monitoring](./Session_REE-5/)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

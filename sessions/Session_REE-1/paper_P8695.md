@@ -9,7 +9,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P8695.pdf
+    output: 
 ---
 
 # Blind Geo-Localization of Optical Images Based on Multi-Stage Intelligent Matching
@@ -32,16 +32,14 @@ Keywords: Optical Image, Geo-Localization, DINOv2, Topic FM
 
 
 
-Semantic Tags: image geo-localization; multi-stage matching; DINOv2; feature extraction; disaster resilience; control-point-free registration; optical remote sensing
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P8695  
-**Session:** [Remote Sensing Object Detection and Image Enhancement ](./Session_REE-1/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Session:** [Remote Sensing Object Detection and Image Enhancement](./Session_REE-1/)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

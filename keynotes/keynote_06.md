@@ -4,9 +4,9 @@
 :class: note
 **Speaker:** Dr. Tao Chuang  
 **Affiliation:** Wayz.ai  
-**Day:** [to be confirmed]  
-**Time:** [to be confirmed]  
-**Venue:** Auditorium 2 @ Stephen Riady Centre, UTown
+**Day:** Day 1, 20 July (Monday)  
+**Time:** Night  
+**Venue:** NUSS Kent Ridge Guild House  
 ```
 
 ## Speaker Introduction

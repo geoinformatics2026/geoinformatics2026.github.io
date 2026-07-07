@@ -9,7 +9,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R2389.pdf
+    output: 
 ---
 
 # Non-destructive extraction of vertical leaf base and inclination angles distribution in field maize
@@ -34,16 +34,14 @@ Keywords: Vertical leaf angle distribution,  Field maize,  Light Detection and R
 
 
 
-Semantic Tags: crop phenotyping; leaf angle distribution; field maize; LiDAR; 3D canopy structure; plant biophysics; light interception; high-throughput sensing
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R2389  
-**Session:** [Vegetation and Forest Monitoring with UAV and LiDAR ](./Session_REE-6/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Session:** [Vegetation and Forest Monitoring with UAV and LiDAR](./Session_REE-6/)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

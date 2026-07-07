@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R8403.pdf
+    output: 
 ---
 
 # A Structure-Guided Diffusion Framework for Spatiotemporal Inference under Incomplete Observations
@@ -31,16 +31,14 @@ Keywords: Spatiotemporal inference,  Diffusion model,  Spatiotemporal heterogene
 
 
 
-Semantic Tags: spatiotemporal inference; diffusion model; missing data; tensor decomposition; spatiotemporal heterogeneity; uncertainty quantification; incomplete observation; structure-guided inference
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R8403  
 **Session:** [Spatiotemporal Modeling and Graph Neural Networks](./Session_GSC-8/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** TP-Lv2-SR-F (Room-5/6)  
+**Venue:** Town Plaza-02-Seminar Room 5 & 6 (SR-F)  
 ```

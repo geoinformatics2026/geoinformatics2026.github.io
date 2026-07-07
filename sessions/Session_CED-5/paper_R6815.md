@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R6815.pdf
+    output: 
 ---
 
 # From equality to equity: Dual socioeconomic inequalities in mobility-based exposure and exposure avoidance opportunities to urban flooding and their interaction effects
@@ -33,16 +33,14 @@ Keywords: Flood exposure,  Exposure avoidance opportunities,  NEAP,  Dual inequa
 
 
 
-Semantic Tags: flood exposure; exposure avoidance; environmental equity; dual inequalities; human mobility; urban pluvial flooding; resilience planning; NEAP
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R6815  
-**Session:** [Flood Risk, Detection, and Urban Resilience ](./Session_CED-5/)  
-**Theme:** Climate, Environmental Hazards, and Disaster Risk    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Flood Risk, Detection, and Urban Resilience](./Session_CED-5/)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** TP-Lv2-SR-E (Room-3/4)  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
 ```

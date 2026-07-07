@@ -9,7 +9,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R0100.pdf
+    output: 
 ---
 
 # Paying for 3D: When Richer Spatial Representation Yields Little Gain
@@ -34,16 +34,14 @@ Keywords: Spatial representation,  Representation complexity,  Metric distortion
 
 
 
-Semantic Tags: spatial representation; 3D city models; metric distortion; GIScience theory; representational complexity; spatial analysis; 2D-to-3D transition
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R0100  
 **Session:** [Geographical Principles in Spatial Analysis and Modeling](./Session_GSC-4/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv2-LT-52  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

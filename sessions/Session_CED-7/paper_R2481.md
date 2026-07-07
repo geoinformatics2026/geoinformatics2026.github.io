@@ -10,7 +10,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R2481.pdf
+    output: 
 ---
 
 # A Combined Method of Driving Factor Analysis and Machine Learning for Early Warning of Moroccan Locust Outbreaks Using Remotely Sensed Data
@@ -37,16 +37,14 @@ Keywords: Moroccan locust,  Disaster monitoring,  Remote Sensing,  Machine learn
 
 
 
-Semantic Tags: locust outbreak monitoring; remote sensing; machine learning; disaster monitoring; habitat mapping; Central Asia; Tajikistan; invasion risk
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R2481  
-**Session:** [Wildfire Detection, Simulation, and Disaster Monitoring](./Session_CED-7/)  
-**Theme:** Climate, Environmental Hazards, and Disaster Risk    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Multi-Hazard Detection, Simulation, and Disaster Monitoring](./Session_CED-7/)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** TP-Lv2-SR-E (Room-3/4)  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
 ```

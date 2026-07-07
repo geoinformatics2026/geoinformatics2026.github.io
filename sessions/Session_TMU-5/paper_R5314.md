@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R5314.pdf
+    output: 
 ---
 
 # Spatial Assessment of Distributed Photovoltaic Layout Suitability on Urban Roads in Singapore: An 'Air-Ground Coordination' Energy Sharing Perspective
@@ -33,16 +33,14 @@ Keywords: Singapore,  Air-ground coordination,  Photovoltaic energy utilization,
 
 
 
-Semantic Tags: photovoltaic site selection; electric vehicle charging; drone replenishment; GIS multi-criteria evaluation; air-ground coordination; high-density city; Singapore
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R5314  
-**Session:** [Electric Vehicle Charging Systems and Smart Urban Energy Infrastructure ](./Session_TMU-5/)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Electric Vehicle Charging Systems and Smart Urban Energy Infrastructure](./Session_TMU-5/)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv2-SR-D (Room-8)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 6 (SR-D)  
 ```

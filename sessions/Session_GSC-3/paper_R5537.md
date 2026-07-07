@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R5537.pdf
+    output: 
 ---
 
 # A Spatiotemporal Data Field-Driven UAV Path Planning Framework for Urban High-Density Crowd Hotspot Monitoring
@@ -31,16 +31,14 @@ Keywords: Urban Hotspot Monitoring,  Path Planning,  Monitoring Demand Assessmen
 
 
 
-Semantic Tags: UAV path planning; crowd hotspot monitoring; urban governance; social media data; spatiotemporal event detection; ST-DBSCAN; demand-driven planning
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R5537  
 **Session:** [Emerging Applications in Geospatial Technology](./Session_GSC-3/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 1 — 20 July 2026 (Monday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv2-SR-D (Room-8)  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 1, 20 July (Monday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Seminar Room 6 (SR-D)  
 ```

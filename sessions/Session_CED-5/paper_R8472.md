@@ -9,7 +9,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R8472.pdf
+    output: 
 ---
 
 # Modeling and Predicting the Effects of Pluvial Flooding on the Metro Network in the Guangdong-Hong Kong-Macao Greater Bay Area
@@ -32,16 +32,14 @@ Keywords: risk assessment,  metro network resilience,  pluvial flooding,  FloodM
 
 
 
-Semantic Tags: urban pluvial flooding; metro network resilience; hydraulic modeling; GBA; climate change; flood risk; Guangdong-Hong Kong-Macao Greater Bay Area; RCP8.5 scenario
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R8472  
-**Session:** [Flood Risk, Detection, and Urban Resilience ](./Session_CED-5/)  
-**Theme:** Climate, Environmental Hazards, and Disaster Risk    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Flood Risk, Detection, and Urban Resilience](./Session_CED-5/)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** TP-Lv2-SR-E (Room-3/4)  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
 ```

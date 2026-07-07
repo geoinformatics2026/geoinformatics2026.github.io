@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R4327.pdf
+    output: 
 ---
 
 # Exploring inter-user differences in bike-sharing origin-destination flows across rainfall intensities
@@ -33,16 +33,14 @@ Keywords: Bike-sharing mobility,  Network structure,  Climate variability
 
 
 
-Semantic Tags: bike-sharing; origin-destination flow; rainfall; network structure; spatial analysis; user behavior; climate variability; Chicago
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R4327  
-**Session:** [Active Mobility Systems, Micro-Mobility, and Travel Behavior ](./Session_TMU-6/)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv2-SR-D (Room-8)  
+**Session:** [Active Mobility Systems, Micro-Mobility, and Travel Behavior](./Session_TMU-6/)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure    
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Seminar Room 6 (SR-D)  
 ```

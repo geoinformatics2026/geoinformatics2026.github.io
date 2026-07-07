@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R2687.pdf
+    output: 
 ---
 
 # Travel-Demand-Driven Mapping of EV Charging Demand and Supply Adequacy: A London Case Study
@@ -33,16 +33,14 @@ Keywords: EV Charging,  GPS Trajectories,  Home Detection,  Charging Demand Mapp
 
 
 
-Semantic Tags: electric vehicle charging; GPS trajectory; home detection; charging demand mapping; queueing model; spatial accessibility; London
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R2687  
-**Session:** [Electric Vehicle Charging Systems and Smart Urban Energy Infrastructure ](./Session_TMU-5/)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Electric Vehicle Charging Systems and Smart Urban Energy Infrastructure](./Session_TMU-5/)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv2-SR-D (Room-8)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 6 (SR-D)  
 ```

@@ -10,7 +10,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P0453.pdf
+    output: 
 ---
 
 # Research on the Reform of Surveying and Mapping Professional Talent Cultivation Model Based on 'Master Craftsmen - Curriculum - Evaluation'
@@ -37,16 +37,14 @@ Keywords: Surveying and mapping, Master craftsmen, Cultivation model, Curriculum
 
 
 
-Semantic Tags: surveying and mapping education; geoinformatics curriculum; talent cultivation; college-enterprise collaboration; digital transformation; professional competency; geospatial workforce
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P0453  
 **Session:** [Emerging Applications in Geospatial Technology](./Session_GSC-3/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 1 — 20 July 2026 (Monday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv2-SR-D (Room-8)  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 1, 20 July (Monday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Seminar Room 6 (SR-D)  
 ```

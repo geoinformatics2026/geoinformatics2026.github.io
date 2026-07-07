@@ -13,7 +13,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R2555.pdf
+    output: 
 ---
 
 # Geospatial Code Diagnosis and Repair Model for Assisting GEE Code Generation Agents
@@ -38,16 +38,14 @@ Keywords: Google Earth Engine,  Automated Code Repair,  Large Language Models,  
 
 
 
-Semantic Tags: Google Earth Engine; automated code repair; large language model; geospatial code generation; error diagnosis; GEE API; runtime error correction; geospatial platform
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R2555  
 **Session:** [Large Language Models and Agentic GIS](./Session_GFM-3/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 1 — 20 July 2026 (Monday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv1-LT-50  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 1, 20 July (Monday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

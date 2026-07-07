@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P7149.pdf
+    output: 
 ---
 
 # Assessing Spatial Justice in Public Coasts: A GIS-Based Analysis of Tourist-Resident Contestation Using LBSN Data
@@ -32,16 +32,14 @@ Keywords: Spatial contestation, Rights of access, Public space, Costal tourism d
 
 
 
-Semantic Tags: spatial justice; coastal tourism; location-based social network; GIS; spatial cluster analysis; tourist-resident conflict; user-generated content; sentiment analysis; Dalian
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P7149  
-**Session:** [Tourism, Place-Based Behavior, and Spatial Interaction Analysis ](./Session_TMU-7/)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Tourism, Place-Based Behavior, and Spatial Interaction Analysis](./Session_TMU-7/)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SRC-Lv2-SR-D (Room-8)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 6 (SR-D)  
 ```

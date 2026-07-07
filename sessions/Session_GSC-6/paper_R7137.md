@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R7137.pdf
+    output: 
 ---
 
 # Quantifying Healthcare Accessibility Disruptions Using Mobile Phone Location Data During Disasters: A Case Study of Hurricane Beryl
@@ -29,16 +29,14 @@ Keywords: healthcare facilities,  visitation disruption,  disaster,  human mobil
 
 
 
-Semantic Tags: healthcare accessibility; disaster disruption; human mobility; mobile phone location data; Hurricane Beryl; social vulnerability; healthcare facilities
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R7137  
 **Session:** [Advanced Geospatial Data and Methods for Transforming Healthy Cities Delivery - Part 2](./Session_GSC-6/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv2-LT-52  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

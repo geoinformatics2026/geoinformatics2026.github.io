@@ -8,24 +8,24 @@ exports:
 
 # Session GSC-5: Advanced Geospatial Data and Methods for Transforming Healthy Cities Delivery - Part 1
 
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv2-LT-52  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods  
 
 ---
 
 This session contains **5 presentations**:
 
 
-- [**R1468** — Generalized spatial error for validation](./paper_R1468/)  
-  *Haiyang Liu, Yongze Song, Pengcheng Zhang*
-
 - [**R0996** — On the spatial distance between training and validation data in model evaluation](./paper_R0996/)  
   *Weitao Hou, Yongze Song*
 
 - [**R2602** — Second-dimension outliers for spatial prediction](./paper_R2602/)  
   *Kai Ren, Yongze Song, Min Chen, Rui Qu, Qiang Yu*
+
+- [**R1468** — Generalized spatial error for validation](./paper_R1468/)  
+  *Haiyang Liu, Yongze Song, Pengcheng Zhang*
 
 - [**R6275** — Shapley-based local indicator for spatial validation](./paper_R6275/)  
   *Pengcheng Zhang, Wen Yi, Yongze Song, Haiyang Liu*

@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R0412.pdf
+    output: 
 ---
 
 # Three-Dimensional Geological Modeling based on Dual-Task Stratigraphy-Aware Attention Networks
@@ -31,16 +31,14 @@ Keywords: three-dimensional geological modelling,  graph neighborhood aggregatio
 
 
 
-Semantic Tags: 3D geological modeling; graph neural network; stratigraphic sequence; dual-task learning; attention mechanism; implicit modeling; Kriging; subsurface modeling
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R0412  
 **Session:** [Spatiotemporal Modeling and Graph Neural Networks](./Session_GSC-8/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** TP-Lv2-SR-F (Room-5/6)  
+**Venue:** Town Plaza-02-Seminar Room 5 & 6 (SR-F)  
 ```

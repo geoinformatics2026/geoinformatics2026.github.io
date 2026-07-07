@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R7914.pdf
+    output: 
 ---
 
 # Interpretable Generative Diffusion Model for Metro Passenger Flow Prediction and Spatio-Temporal Attribution Analysis: A Case Study of the Taipei Metro, Taiwan
@@ -33,16 +33,14 @@ Keywords: Metro Passenger Flow Prediction,  Explainable AI (XAI),  Uncertainty Q
 
 
 
-Semantic Tags: metro passenger flow prediction; explainable AI; uncertainty quantification; spatio-temporal graph neural network; generative diffusion model; GeoAI; Taipei
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R7914  
 **Session:** [Geographical Principles in Spatial Analysis and Modeling](./Session_GSC-4/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv2-LT-52  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

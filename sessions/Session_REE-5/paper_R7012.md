@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R7012.pdf
+    output: 
 ---
 
 # Decoupling Traffic-Induced and Geometry-Induced Collision Risks in Maritime Chokepoints: A Joint Spatial Point Process Approach
@@ -29,16 +29,14 @@ Keywords: Maritime Traffic,  Log-Gaussian Cox Process,  Spatial Statistics,  Col
 
 
 
-Semantic Tags: maritime traffic; collision risk; spatial point process; log-Gaussian Cox process; Singapore Strait; autonomous surface ships; INLA-SPDE; spatial statistics
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R7012  
-**Session:** [Marine and Aquatic Geospatial Monitoring ](./Session_REE-5/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Marine and Aquatic Geospatial Monitoring](./Session_REE-5/)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

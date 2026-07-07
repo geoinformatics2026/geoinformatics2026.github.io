@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R3684.pdf
+    output: 
 ---
 
 # Resilience Dynamics of the Service Industry under Prolonged COVID-19 Disruptions in Shanghai, China: A POI-based Analysis
@@ -33,16 +33,14 @@ Keywords: Business resilience,  Service industry system,  Spatial heterogeneity,
 
 
 
-Semantic Tags: business resilience; service industry; COVID-19 recovery; point of interest analysis; spatial heterogeneity; urban dynamics; Shanghai
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R3684  
-**Session:** [Urban Planning, Renewal, and Socioeconomic Transformation ](./Session_UPS-4/)  
-**Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Urban Planning, Renewal, and Socioeconomic Transformation](./Session_UPS-4/)  
+**Theme:** Urban Analytics, Planning \& Socioeconomics    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-SR-A (Room-1/2)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 1 & 2 (SR-A)  
 ```

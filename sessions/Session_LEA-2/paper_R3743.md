@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R3743.pdf
+    output: 
 ---
 
 # Global scalability of rooftop photovoltaic charging for electric vehicles
@@ -32,16 +32,14 @@ Keywords: Rooftop PV potential,  EV charging demand,  Solar EV charging,  Deep l
 
 
 
-Semantic Tags: rooftop photovoltaic; electric vehicle charging; solar energy; deep learning; global urban analysis; renewable energy; energy transition; spatial scalability
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R3743  
 **Session:** [GeoAI-Facilitated Energy Geographies](./Session_LEA-2/)  
-**Theme:** Land, Ecology, Agriculture, and Sustainable Development    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** Land, Ecology, Agriculture \& Sustainable Dev.    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv2-LT-52  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

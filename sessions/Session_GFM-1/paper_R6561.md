@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R6561.pdf
+    output: 
 ---
 
 # Geospatial modeling workflow knolwledge empowered geospatial code generation
@@ -30,16 +30,14 @@ Keywords: geospatial code generation,  workflow knowledge,  geospatial modeling,
 
 
 
-Semantic Tags: geospatial code generation; workflow knowledge; graph RAG; large language model; geospatial modeling; knowledge network; GeoMK-Net; functional module dependency
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R6561  
 **Session:** [Emerging LLM-based Methods for Geospatial Analysis - Part 1](./Session_GFM-1/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-LT-50  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

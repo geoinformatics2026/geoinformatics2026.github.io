@@ -11,7 +11,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P5986.pdf
+    output: 
 ---
 
 # Identifying and Analyzing the Evolution of Urban Functional Areas in Guangzhou by Integrating Nighttime Light and POI Data
@@ -34,16 +34,14 @@ Keywords: Nighttime Light, POI, Urban Spatial Structure, Functional Zones, Guang
 
 
 
-Semantic Tags: urban functional zone; nighttime light remote sensing; point of interest analysis; spatial structure; polycentric urban form; coupling analysis; urban spatial evolution; Guangzhou
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P5986  
-**Session:** [Urban Spatial Structure and Morphological Analysis](./Session_UPS-6/)  
-**Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv1-SR-A (Room-1/2)  
+**Session:** [Urban Spatial Structure, Positioning, and Spatial Development](./Session_UPS-6/)  
+**Theme:** Urban Analytics, Planning \& Socioeconomics    
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Seminar Room 1 & 2 (SR-A)  
 ```

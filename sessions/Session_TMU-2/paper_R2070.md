@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R2070.pdf
+    output: 
 ---
 
 # Estimation of Methane in Urban Suburbs Based on Causal Temporal Deep Learning Network
@@ -30,16 +30,14 @@ Keywords: Methane estimation,  Temporal causal deep learning,  Methane urban-rur
 
 
 
-Semantic Tags: methane estimation; greenhouse gas; temporal causal deep learning; urban-rural disparity; emission monitoring; spatiotemporal analysis; remote sensing; CH4 concentration
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R2070  
-**Session:** [Transport Emissions and Low-Carbon Urban Mobility Systems ](./Session_TMU-2/)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Session:** [Urban Mobility, Transport Emissions, and Low-Carbon Systems](./Session_TMU-2/)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** TP-Lv2-SR-F (Room-5/6)  
+**Venue:** Town Plaza-02-Seminar Room 5 & 6 (SR-F)  
 ```

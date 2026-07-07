@@ -10,7 +10,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R8917.pdf
+    output: 
 ---
 
 # CartoDirector: A geospatial storyteller that converts text into dynamic cartographic transformations using LLMs
@@ -35,16 +35,14 @@ Keywords: Cartographic transformation,  Geovisualization,  Visual storytelling, 
 
 
 
-Semantic Tags: cartographic transformation; geovisualization; visual storytelling; large language model; automated mapping; dynamic cartography; natural language to map; autonomous mapping
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R8917  
 **Session:** [Emerging LLM-based Methods for Geospatial Analysis - Part 1](./Session_GFM-1/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-LT-50  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R6222.pdf
+    output: 
 ---
 
 # Self-Supervised Spatio-Temporal Transformer Foundation Model for UAV-Based Yield Prediction in Crop Breeding
@@ -33,16 +33,14 @@ Keywords: UAV remote sensing,  Crop yield prediction,  Spatio-temporal Transform
 
 
 
-Semantic Tags: crop yield prediction; UAV remote sensing; spatio-temporal transformer; self-supervised learning; multimodal large language model; crop breeding; hyperspectral imagery
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R6222  
-**Session:** [Crop Mapping and Precision Agriculture ](./Session_LEA-7/)  
-**Theme:** Land, Ecology, Agriculture, and Sustainable Development    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Crop Mapping and Precision Agriculture](./Session_LEA-7/)  
+**Theme:** Land, Ecology, Agriculture \& Sustainable Dev.    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SRC-Lv2-LT-52  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

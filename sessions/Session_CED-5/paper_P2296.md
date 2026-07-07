@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P2296.pdf
+    output: 
 ---
 
 # Based on a Cloud‑Guided Dual‑Stream MambaVision Framework for Flood Detection: A Case Study of the Miyun Reservoir Area
@@ -33,16 +33,14 @@ Keywords: flood detection, multimodal fusion, MambaVision, cloud-guided adaptati
 
 
 
-Semantic Tags: flood detection; SAR remote sensing; optical-SAR fusion; multimodal deep learning; MambaVision; cloud-contaminated imagery; disaster monitoring; reservoir; Beijing
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P2296  
-**Session:** [Flood Risk, Detection, and Urban Resilience ](./Session_CED-5/)  
-**Theme:** Climate, Environmental Hazards, and Disaster Risk    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Flood Risk, Detection, and Urban Resilience](./Session_CED-5/)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** TP-Lv2-SR-E (Room-3/4)  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
 ```

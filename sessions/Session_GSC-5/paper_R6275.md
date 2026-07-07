@@ -9,7 +9,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R6275.pdf
+    output: 
 ---
 
 # Shapley-based local indicator for spatial validation
@@ -36,16 +36,14 @@ Keywords: Geospatial analysis,  spatial prediction,  model validation,  local de
 
 
 
-Semantic Tags: model validation; spatial prediction; shapley values; local determinants; geospatial analysis; residual decomposition; spatial buffer
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R6275  
 **Session:** [Advanced Geospatial Data and Methods for Transforming Healthy Cities Delivery - Part 1](./Session_GSC-5/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv2-LT-52  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

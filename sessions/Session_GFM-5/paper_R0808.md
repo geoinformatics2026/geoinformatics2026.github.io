@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R0808.pdf
+    output: 
 ---
 
 # Toward quantum geospatial science: What if geospatial attributes and coordinates are quantum entangled?
@@ -29,16 +29,14 @@ Keywords: quantum geospatial science,  coordinate–attribute entanglement,  Hil
 
 
 
-Semantic Tags: quantum geospatial science; coordinate-attribute entanglement; Hilbert space; quantum GeoAI; spatial modeling; geographic information theory; superposition; spatial representation; GIScience theory
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R0808  
 **Session:** [Cyberinfrastructure and GeoAI for Intelligent Spatial Decision Support](./Session_GFM-5/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-LT-50  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

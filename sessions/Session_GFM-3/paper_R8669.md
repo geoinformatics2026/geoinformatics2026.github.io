@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R8669.pdf
+    output: 
 ---
 
 # Integrating GIS and Generative AI for Urban Planning: A Multi-Agent, RAG-Driven Approach for Health-Centric Neighborhood Design
@@ -32,16 +32,14 @@ Keywords: Generative AI,  GeoAI,  Healthy Cities,  Urban Planning,  Knowledgebas
 
 
 
-Semantic Tags: GIS; generative AI; urban planning; health-centric neighborhood design; retrieval-augmented generation; multi-agent system; knowledge base
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R8669  
 **Session:** [Large Language Models and Agentic GIS](./Session_GFM-3/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 1 — 20 July 2026 (Monday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv1-LT-50  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 1, 20 July (Monday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

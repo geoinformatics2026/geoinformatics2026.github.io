@@ -10,7 +10,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R0392.pdf
+    output: 
 ---
 
 # Multimodal Spatial Co-occurrence Knowledge Representation for Virtual Trajectory Classification
@@ -35,16 +35,14 @@ Keywords: Virtual trajectories,  Vector tile taxonomy,  Spatial co-occurrence kn
 
 
 
-Semantic Tags: virtual trajectory; spatial co-occurrence; knowledge graph embedding; map service platform; user profiling; multimodal spatial data; POI classification
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R0392  
-**Session:** [Knowledge Graphs and Spatial Semantics ](./Session_GFM-6/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv1-LT-50  
+**Session:** [Knowledge Graphs and Spatial Semantics](./Session_GFM-6/)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

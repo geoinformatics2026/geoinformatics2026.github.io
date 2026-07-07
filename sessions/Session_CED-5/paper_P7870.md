@@ -10,7 +10,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P7870.pdf
+    output: 
 ---
 
 # Cross-Domain Knowledge Reuse from Remote Sensing Foundation Models for Flood-Damaged Building Extraction in Data-Constrained and Class-Imbalanced Scenarios
@@ -37,16 +37,14 @@ Keywords: Flood-Damaged Building Extraction, Cross-Domain Knowledge Reuse, Remot
 
 
 
-Semantic Tags: flood damage assessment; building extraction; deep learning; cross-domain transfer; foundation model; class imbalance; disaster response; remote sensing
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P7870  
-**Session:** [Flood Risk, Detection, and Urban Resilience ](./Session_CED-5/)  
-**Theme:** Climate, Environmental Hazards, and Disaster Risk    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Flood Risk, Detection, and Urban Resilience](./Session_CED-5/)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** TP-Lv2-SR-E (Room-3/4)  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
 ```

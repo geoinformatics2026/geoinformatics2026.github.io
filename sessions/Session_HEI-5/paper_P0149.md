@@ -11,7 +11,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P0149.pdf
+    output: 
 ---
 
 # Geospatial Optimization of Local Specialty Catering Facilities Under Hybrid Tourist–Resident Demand: A Case Study of Guilin
@@ -38,16 +38,14 @@ Keywords: Spatial accessibility, Facility location optimization, Tourism-oriente
 
 
 
-Semantic Tags: urban service accessibility; facility location optimization; maximal covering location problem; spatial optimization; deep reinforcement learning; genetic algorithm; point of interest analysis; tourism-resident demand modeling; gravity-based accessibility; urban catering; tourism geography; Guilin
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P0149  
-**Session:** [Facility Location and Service Accessibility ](./Session_HEI-5/)  
-**Theme:** Health, Equity, and Human-Environment Interactions    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Facility Location and Service Accessibility](./Session_HEI-5/)  
+**Theme:** Health, Equity \& Human-Env. Interactions    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-SR-C (Room-5)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 5 (SR-C)  
 ```

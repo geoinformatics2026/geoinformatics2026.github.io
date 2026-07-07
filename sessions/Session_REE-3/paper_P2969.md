@@ -11,7 +11,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P2969.pdf
+    output: 
 ---
 
 # A Spectral Knowledge Graph Construction Framework for Remote Sensing Semantic Modeling
@@ -40,16 +40,14 @@ Keywords: spectral knowledge graph, ontology modeling, geospatial semantics, sem
 
 
 
-Semantic Tags: spectral knowledge graph; ontology modeling; geospatial semantics; knowledge graph construction; semantic interoperability; remote sensing materials; hierarchical schema; spectral information integration
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P2969  
-**Session:** [Hyperspectral Remote Sensing and Spectral Analysis ](./Session_REE-3/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 1 — 20 July 2026 (Monday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Session:** [Hyperspectral Remote Sensing and Spectral Analysis](./Session_REE-3/)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 1, 20 July (Monday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

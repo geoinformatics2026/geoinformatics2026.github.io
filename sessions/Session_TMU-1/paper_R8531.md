@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R8531.pdf
+    output: 
 ---
 
 # Are All Safe Streetscapes Alike? Convergence and Divergence in Perceived Street Safety Using Vision Foundation Models
@@ -30,16 +30,14 @@ Keywords: Street safety,  Streetscape perception,  Vision foundation models,  We
 
 
 
-Semantic Tags: street safety; streetscape perception; vision foundation model; weakly supervised object detection; street view imagery; urban livability; urban safety
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R8531  
 **Session:** [Geospatial Innovations for Sustainable Transportation and Urban Mobility](./Session_TMU-1/)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** TP-Lv2-SR-F (Room-5/6)  
+**Venue:** Town Plaza-02-Seminar Room 5 & 6 (SR-F)  
 ```

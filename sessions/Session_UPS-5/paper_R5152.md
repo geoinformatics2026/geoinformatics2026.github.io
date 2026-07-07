@@ -9,7 +9,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R5152.pdf
+    output: 
 ---
 
 # Automated and Context-Adaptive Assessment of Community Livability via Generative AI and Multimodal Geospatial Data
@@ -32,16 +32,14 @@ Keywords: Community Livability,  Generative AI,  Urban Perception
 
 
 
-Semantic Tags: community livability assessment; generative AI; multimodal geospatial data; urban perception; sustainable development; neighborhood quality; Lefebvre theory; context-adaptive assessment
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R5152  
-**Session:** [Urban Environmental Sensing, Livability, and Quality of Life ](./Session_UPS-5/)  
-**Theme:** Urban Analytics, Planning, and Socioeconomic Dynamics    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Session:** [Urban Environmental Sensing, Livability, and Quality of Life](./Session_UPS-5/)  
+**Theme:** Urban Analytics, Planning \& Socioeconomics    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** SRC-Lv1-SR-A (Room-1/2)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 1 & 2 (SR-A)  
 ```

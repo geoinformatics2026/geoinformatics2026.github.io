@@ -9,7 +9,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R5199.pdf
+    output: 
 ---
 
 # Freight Network Embedding and Urban Transport CO₂ Exposure: Multi-stage Evidence from China
@@ -32,16 +32,14 @@ Keywords: Urban transport CO₂ exposure,  Intercity freight networks,  Transit 
 
 
 
-Semantic Tags: transport carbon emissions; freight network; urban CO2 exposure; intercity road freight; network embedding; counterfactual simulation; China
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R5199  
-**Session:** [Transport Emissions and Low-Carbon Urban Mobility Systems ](./Session_TMU-2/)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Session:** [Urban Mobility, Transport Emissions, and Low-Carbon Systems](./Session_TMU-2/)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** TP-Lv2-SR-F (Room-5/6)  
+**Venue:** Town Plaza-02-Seminar Room 5 & 6 (SR-F)  
 ```

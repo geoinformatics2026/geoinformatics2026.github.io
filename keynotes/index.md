@@ -5,32 +5,10 @@
 
 - **Speaker:** Professor Li Deren  
 - **Affiliation:** Wuhan University, China  
-- **Day:** [to be confirmed]  
-- **Time:** [to be confirmed]  
+- **Day:** Day 1, 20 July (Monday)
+- **Time:** 0945 - 1045  
 - **Venue:** Auditorium 2 @ Stephen Riady Centre, UTown
 - Link: [Speaker Introduction](keynote-01)
-
----
-
-## Keynote Speech: Big Earth Data Drives the Progress of Sustainable Development Goals
-
-- **Speaker:** Professor Guo Huadong  
-- **Affiliation:** Chinese Academy of Sciences, China  
-- **Day:** [to be confirmed]  
-- **Time:** [to be confirmed]  
-- **Venue:** Auditorium 2 @ Stephen Riady Centre, UTown
-- Link: [Speaker Introduction](keynote-02)
-
----
-
-## Keynote Speech: What determines the behavior of people? Evidence from voting that location can be VERY important
-
-- **Speaker:** Professor A. Stewart Fotheringham  
-- **Affiliation:** Department of Geography at Florida State University, USA  
-- **Day:** [to be confirmed]  
-- **Time:** [to be confirmed]  
-- **Venue:** Auditorium 2 @ Stephen Riady Centre, UTown
-- Link: [Speaker Introduction](keynote-03)
 
 ---
 
@@ -38,10 +16,21 @@
 
 - **Speaker:** Professor Mei-Po Kwan  
 - **Affiliation:** Geography and Resource Management, Head of Chung Chi College, and Director of the Institute of Space and Earth Information Science at the Chinese University of Hong Kong, China  
-- **Day:** [to be confirmed]  
-- **Time:** [to be confirmed]  
+- **Day:** Day 1, 20 July (Monday)  
+- **Time:** 1045 - 1145  
 - **Venue:** Auditorium 2 @ Stephen Riady Centre, UTown
 - Link: [Speaker Introduction](keynote-04)
+
+---
+
+## Keynote Speech: What determines the behavior of people? Evidence from voting that location can be VERY important
+
+- **Speaker:** Professor A. Stewart Fotheringham  
+- **Affiliation:** Department of Geography at Florida State University, USA  
+- **Day:** Day 2, 21 July (Tuesday)  
+- **Time:** 0900 - 0945  
+- **Venue:** Auditorium 2 @ Stephen Riady Centre, UTown
+- Link: [Speaker Introduction](keynote-03)
 
 ---
 
@@ -49,10 +38,21 @@
 
 - **Speaker:** Professor May Yuan  
 - **Affiliation:** Geospatial Information Sciences in the School of Economic, Political, and Policy Sciences at the University of Texas at Dallas, USA  
-- **Day:** [to be confirmed]  
-- **Time:** [to be confirmed]  
+- **Day:** Day 2, 21 July (Tuesday)  
+- **Time:** 0945 - 1045  
 - **Venue:** Auditorium 2 @ Stephen Riady Centre, UTown
 - Link: [Speaker Introduction](keynote-05)
+
+---
+
+## Keynote Speech: Big Earth Data Drives the Progress of Sustainable Development Goals
+
+- **Speaker:** Professor Guo Huadong  
+- **Affiliation:** Chinese Academy of Sciences, China  
+- **Day:** Day 2, 21 July (Tuesday)  
+- **Time:** 1045 - 1145  
+- **Venue:** Auditorium 2 @ Stephen Riady Centre, UTown
+- Link: [Speaker Introduction](keynote-02)
 
 ---
 
@@ -60,7 +60,7 @@
 
 - **Speaker:** Dr. Tao Chuang  
 - **Affiliation:** Wayz.ai  
-- **Day:** [to be confirmed]  
-- **Time:** [to be confirmed]  
-- **Venue:** Auditorium 2 @ Stephen Riady Centre, UTown
+- **Day:** Day 1, 20 July (Monday)  
+- **Time:** Night  
+- **Venue:** NUSS Kent Ridge Guild House  
 - Link: [Speaker Introduction](keynote-06)

@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P0055.pdf
+    output: 
 ---
 
 # Deep Learning–Based Spatial Downscaling of Land Surface Temperature: A Comparative Study of U-Net, ResNet, and Hybrid Models
@@ -31,16 +31,14 @@ Keywords: land surface temperature, downscaling, convolutional neural networks
 
 
 
-Semantic Tags: land surface temperature; spatial downscaling; urban heat island; deep learning; convolutional neural network; U-Net; ResNet; hybrid neural architecture; multispectral remote sensing; topographic data integration; environmental monitoring; urban climate; heat risk assessment; Thailand
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P0055  
-**Session:** [Urban Heat and Thermal Environment - Part 1 ](./Session_CED-2/)  
-**Theme:** Climate, Environmental Hazards, and Disaster Risk    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Session:** [Urban Heat and Thermal Environment - Part 1](./Session_CED-2/)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** TP-Lv2-SR-E (Room-3/4)  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
 ```

@@ -9,7 +9,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R7664.pdf
+    output: 
 ---
 
 # A Geometry-Aware, Voxel-Based Framework for Facade-Resolved Urban Road-Traffic Noise Assessment
@@ -36,16 +36,14 @@ Keywords: 3D noise mapping,  Traffic noise,  Voxel modeling,  Facade exposure
 
 
 
-Semantic Tags: 3D noise mapping; urban traffic noise; voxel modeling; facade exposure; CityGML; building geometry; urban sound environment
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R7664  
 **Session:** [Urban Infrastructure Monitoring, Safety, and Resilience](./Session_TMU-4/)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure    
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv2-SR-D (Room-8)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 6 (SR-D)  
 ```

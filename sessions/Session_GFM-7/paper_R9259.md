@@ -12,7 +12,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R9259.pdf
+    output: 
 ---
 
 # Beyond AlphaEarth: Toward Human-Centered Geospatial Foundation Models via POI-Guided Contrastive Learning
@@ -37,16 +37,14 @@ Keywords: Geospatial Foundation Model,  Urban Representation Learning,  Contrast
 
 
 
-Semantic Tags: geospatial foundation model; urban representation learning; contrastive learning; point of interest analysis; language alignment; earth observation; AlphaEarth
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R9259  
-**Session:** [GeoAI, Foundation Models, and Spatial Learning ](./Session_GFM-7/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [GeoAI, Foundation Models, and Spatial Learning](./Session_GFM-7/)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SRC-Lv1-LT-50  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

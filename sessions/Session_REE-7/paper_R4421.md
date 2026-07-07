@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R4421.pdf
+    output: 
 ---
 
 # Heterogeneous Parallel Spatial-Temporal Savitzky-Golay (HP-STSG) Method: Reconstructing NDVI and EVI2 Time Series with High Performance
@@ -32,16 +32,14 @@ Keywords: time series data reconstruction,  vegetation index,  heterogeneous par
 
 
 
-Semantic Tags: vegetation index time series reconstruction; NDVI; EVI2; heterogeneous parallelism; cloud contamination; satellite data quality; temporal reconstruction
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R4421  
-**Session:** [Land Cover Mapping and Satellite Time-Series Analysis ](./Session_REE-7/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Land Cover Mapping and Satellite Time-Series Analysis](./Session_REE-7/)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

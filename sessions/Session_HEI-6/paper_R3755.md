@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R3755.pdf
+    output: 
 ---
 
 # Comparative Analysis of Spatial Accessibility to Offline and online food retailers under Distance Decay Effects
@@ -32,16 +32,14 @@ Keywords: behavioral geocomputation,  distance decay effects,  food accessibilit
 
 
 
-Semantic Tags: food accessibility; online food delivery; distance decay; behavioral geocomputation; spatial accessibility; urban food environment; Shenzhen; Wuhan
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R3755  
-**Session:** [Spatial Inequality, Equity, and Food Access ](./Session_HEI-6/)  
-**Theme:** Health, Equity, and Human-Environment Interactions    
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv1-SR-C (Room-5)  
+**Session:** [Spatial Inequality, Equity, and Food Access](./Session_HEI-6/)  
+**Theme:** Health, Equity \& Human-Env. Interactions    
+**Date:** Day 2, 21 July (Tuesday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Seminar Room 5 (SR-C)  
 ```

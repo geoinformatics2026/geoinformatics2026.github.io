@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R6631.pdf
+    output: 
 ---
 
 # Multi-Scale Spatio-Temporal Graph Convolutional Networks for Dynamic Sub-district-Level Urban Fire Risk Prediction
@@ -30,16 +30,14 @@ Keywords: Spatio-Temporal Graph Convolutional Network,  Sub-district-Level Fire 
 
 
 
-Semantic Tags: fire risk prediction; spatio-temporal graph convolutional network; GeoAI; urban safety resilience; explainable AI; rescue resource allocation; Wuhan
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R6631  
-**Session:** [Wildfire Detection, Simulation, and Disaster Monitoring](./Session_CED-7/)  
-**Theme:** Climate, Environmental Hazards, and Disaster Risk    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Multi-Hazard Detection, Simulation, and Disaster Monitoring](./Session_CED-7/)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** TP-Lv2-SR-E (Room-3/4)  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
 ```

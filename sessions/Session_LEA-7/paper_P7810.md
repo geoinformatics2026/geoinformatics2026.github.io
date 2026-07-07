@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P7810.pdf
+    output: 
 ---
 
 # Field Validation of Chlorophyll Fluorescence Imaging for Early Detection of Wheat Powdery Mildew: Identifying QYmax as a Key Physiological Indicator
@@ -31,16 +31,14 @@ Keywords: Chlorophyll Fluorescence Imaging, Powdery mildew of wheat, Disease Det
 
 
 
-Semantic Tags: crop disease detection; chlorophyll fluorescence imaging; wheat powdery mildew; physiological stress; field validation; early detection; precision agriculture
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P7810  
-**Session:** [Crop Mapping and Precision Agriculture ](./Session_LEA-7/)  
-**Theme:** Land, Ecology, Agriculture, and Sustainable Development    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Crop Mapping and Precision Agriculture](./Session_LEA-7/)  
+**Theme:** Land, Ecology, Agriculture \& Sustainable Dev.    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 09:00 – 10:30  
-**Venue:** SRC-Lv2-LT-52  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

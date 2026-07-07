@@ -6,7 +6,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R2233.pdf
+    output: 
 ---
 
 # Persistent Inequality in Coal-Related Emission Responsibilities During the Energy Transition
@@ -29,16 +29,14 @@ Keywords: multi-regional input–output (MRIO),  consumption-based accounting (C
 
 
 
-Semantic Tags: energy transition; coal emissions; multi-regional input-output; consumption-based accounting; environmental inequality; transboundary carbon; global trade; structural inequality
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R2233  
-**Session:** [Carbon Emissions, Energy Transition, and Ecosystem Accounting ](./Session_LEA-1/)  
-**Theme:** Land, Ecology, Agriculture, and Sustainable Development    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Session:** [Carbon Emissions, Energy Transition, and Ecosystem Accounting](./Session_LEA-1/)  
+**Theme:** Land, Ecology, Agriculture \& Sustainable Dev.    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv2-LT-52  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 51 (LT-51)  
 ```

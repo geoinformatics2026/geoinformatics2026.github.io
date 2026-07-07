@@ -4,8 +4,8 @@
 :class: note
 **Speaker:** Professor Li Deren  
 **Affiliation:** Wuhan University, China  
-**Day:** [to be confirmed]  
-**Time:** [to be confirmed]  
+**Day:** Day 1, 20 July (Monday)  
+**Time:** 0945 - 1045  
 **Venue:** Auditorium 2 @ Stephen Riady Centre, UTown
 ```
 

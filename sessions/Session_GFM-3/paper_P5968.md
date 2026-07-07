@@ -10,7 +10,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P5968.pdf
+    output: 
 ---
 
 # Bridging Civil Advocacy and Urban Planning: A Spatial-Semantic Framework for Automating Intersection Improvement Reports
@@ -33,16 +33,14 @@ Keywords: Urban Planning, Spatial-Semantic Analysis, Intersection Redesign
 
 
 
-Semantic Tags: urban planning support; intersection redesign; spatial-semantic analysis; retrieval-augmented generation; large language model; multimodal AI; automated report generation; civil advocacy
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P5968  
 **Session:** [Large Language Models and Agentic GIS](./Session_GFM-3/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 1 — 20 July 2026 (Monday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv1-LT-50  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 1, 20 July (Monday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```

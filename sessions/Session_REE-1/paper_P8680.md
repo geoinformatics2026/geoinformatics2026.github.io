@@ -10,7 +10,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P8680.pdf
+    output: 
 ---
 
 # Enhancing Low-Resolution Satellite Imagery for Accurate PV Panel Mapping Using JEGAN-HRNet
@@ -33,16 +33,14 @@ Keywords: spatio-temporal fusion, convolutional neural network, generative adver
 
 
 
-Semantic Tags: photovoltaic detection; satellite image super-resolution; generative adversarial network; semantic segmentation; low-resolution imagery; deep learning; remote sensing
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P8680  
-**Session:** [Remote Sensing Object Detection and Image Enhancement ](./Session_REE-1/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Session:** [Remote Sensing Object Detection and Image Enhancement](./Session_REE-1/)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 13:00 – 14:30  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

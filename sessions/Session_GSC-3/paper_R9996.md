@@ -11,7 +11,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R9996.pdf
+    output: 
 ---
 
 # A method for constructing a three-dimensional geological model based on the alignment of geological maps and text
@@ -40,16 +40,14 @@ Keywords: 3D geological modeling,  Geological map-text alignment,  Large Languag
 
 
 
-Semantic Tags: 3D geological modeling; geological map-text alignment; large language model; virtual boreholes; knowledge-driven framework; subsurface reconstruction; sparse data
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R9996  
 **Session:** [Emerging Applications in Geospatial Technology](./Session_GSC-3/)  
-**Theme:** GIScience Theory, Spatial Statistics, and Computational Methods    
-**Date:** Day 1 — 20 July 2026 (Monday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv2-SR-D (Room-8)  
+**Theme:** GIScience Theory, Spatial Statistics \& Methods    
+**Date:** Day 1, 20 July (Monday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Seminar Room 6 (SR-D)  
 ```

@@ -10,7 +10,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R9722.pdf
+    output: 
 ---
 
 # Adaptive Physics-Informed Learning for Traffic Data Imputation with Spatiotemporal Heterogeneity Modeling
@@ -33,16 +33,14 @@ Keywords: Traffic data imputation,  Spatiotemporal heterogeneity,  Physics-infor
 
 
 
-Semantic Tags: traffic data imputation; spatiotemporal heterogeneity; physics-informed deep learning; intelligent transportation; fundamental diagram; speed-flow coupling; bidirectional coupling; station-level variation
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R9722  
-**Session:** [Intelligent Transportation Systems and Autonomous Driving ](./Session_TMU-8/)  
-**Theme:** Transportation, Mobility, and Urban Infrastructure    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Intelligent Transportation Systems and Autonomous Driving](./Session_TMU-8/)  
+**Theme:** Transportation, Mobility \& Urban Infrastructure    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SRC-Lv2-SR-D (Room-8)  
+**Venue:** Stephen Riady Centre-01-Seminar Room 6 (SR-D)  
 ```

@@ -1,34 +1,34 @@
 ---
-title: "Urban Building Extraction and Remote Sensing "
+title: "Rural Development, Cultural Landscapes, and Land Sustainability"
 exports:
   - format: pdf
     template: arxiv_nips
     output: _build/pdf/Session_LEA-5/Session_LEA-5.pdf
 ---
 
-# Session LEA-5: Urban Building Extraction and Remote Sensing 
+# Session LEA-5: Rural Development, Cultural Landscapes, and Land Sustainability
 
-**Date:** Day 2 — 21 July 2026 (Tuesday)  
+**Date:** Day 2, 21 July (Tuesday)  
 **Time:** 14:45 – 16:15  
-**Venue:** TP-Lv2-SR-F (Room-5/6)  
-**Theme:** Land, Ecology, Agriculture, and Sustainable Development  
+**Venue:** Town Plaza-02-Seminar Room 5 & 6 (SR-F)  
+**Theme:** Land, Ecology, Agriculture \& Sustainable Dev.  
 
 ---
 
 This session contains **5 presentations**:
 
 
-- [**R2473** — Pretraining, Adaptation, and Refinement: Mapping Nationwide Urban Villages in China Using Multimodal Geospatial Data](./paper_R2473/)  
-  *Lubin Bai, Shihong Du, Xiuyuan Zhang*
+- [**R4577** — Decline or prosperity ? Decoding the spatio-temporal evolution and types of China's rural areal system vitality](./paper_R4577/)  
+  *Dabao Zhou, Dan Gao, Chaoyang Fang*
 
-- [**R4861** — A lightweight Prior-Guided Dual-branch Network for building extraction from optical imagery](./paper_R4861/)  
-  *Yuqi Chen, Yilan Liao, Hongyan Ren, An Zhang*
+- [**R0473** — How does the livelihood vulnerability of rural households facing multiple risks affect their livelihood resilience?](./paper_R0473/)  
+  *Yue Sun*
 
-- [**P0266** — Research on Intelligent Building Extraction Models Based on High-Resolution Remote Sensing Imagery](./paper_P0266/)  
-  *Shi He, Shiye Zhang, Xiujuan Liang, Yi Wang, Haitao Jing*
+- [**R7954** — Poetic Space and Rural Identity: A Study of Poems on Ancient Towns and Villages in Jiangxi Based on Natural Language Processing](./paper_R7954/)  
+  *Weiqiang Ye, Hui Lin*
 
-- [**R4840** — Advancing Urban Sprawl Quantification Through an Attention-Weighted Deep Neural Framework and Multidimensional Spatial Indicator Integration](./paper_R4840/)  
-  *Farasath Hasan, Xintao Liu*
+- [**P3550** — Environmental and Social Management of Rural Road Maintenance Projects in Yemen ---A Case Study of Al karishah-Al-Turbah Road in Taiz Governorate](./paper_P3550/)  
+  *Ahmed Sana Abdulrkeeb Mohammed, Qiuyi Zhang*
 
-- [**P9277** — Global Settlement Classification from True-Color Satellite Imagery](./paper_P9277/)  
-  *Vincent Zhang*
+- [**R7673** — Remote-Sensing Indicators of Dryland Stress in Punjab, Pakistan: Trends in Vegetation Greenness, Productivity, Moisture Constraint and Degradation Severity](./paper_R7673/)  
+  *Junjun Wu*

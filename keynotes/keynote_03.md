@@ -4,8 +4,8 @@
 :class: note
 **Speaker:** Professor A. Stewart Fotheringham  
 **Affiliation:** Department of Geography at Florida State University, USA  
-**Day:** [to be confirmed]  
-**Time:** [to be confirmed]  
+**Day:** Day 2, 21 July (Tuesday)  
+**Time:** 0900 - 0945  
 **Venue:** Auditorium 2 @ Stephen Riady Centre, UTown
 ```
 

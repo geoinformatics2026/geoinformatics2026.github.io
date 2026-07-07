@@ -10,7 +10,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_P0511.pdf
+    output: 
 ---
 
 # Adaptive Multi-Scale Spatial Context via Spectral Conditioning for Library-Guided Hyperspectral Unmixing
@@ -37,16 +37,14 @@ Keywords: Hyperspectral unmixing, spectral library, deep learning, multi-scale f
 
 
 
-Semantic Tags: hyperspectral unmixing; spectral library; deep learning; multi-scale fusion; abundance estimation; spectral variability; spatial context modeling; remote sensing image analysis
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** P0511  
-**Session:** [Hyperspectral Remote Sensing and Spectral Analysis ](./Session_REE-3/)  
-**Theme:** Remote Sensing, Earth Observation, and Environmental Monitoring    
-**Date:** Day 1 — 20 July 2026 (Monday)  
-**Time:** 16:30 – 17:45  
-**Venue:** SRC-Lv1-SR-B (Room-3/4)  
+**Session:** [Hyperspectral Remote Sensing and Spectral Analysis](./Session_REE-3/)  
+**Theme:** Remote Sensing, Earth Obs. \& Env. Monitoring    
+**Date:** Day 1, 20 July (Monday)  
+**Time:** 16:30 – 18:00  
+**Venue:** Stephen Riady Centre-01-Seminar Room 3 & 4 (SR-B)  
 ```

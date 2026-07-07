@@ -8,7 +8,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R2509.pdf
+    output: 
 ---
 
 # Research on the Coordination Mechanism of the Human-Land System under Disaster Risk: A Case Study of Jilong Town in Southeastern Tibet
@@ -31,16 +31,14 @@ Keywords: Geological Disaster Risk,  Human-Land System Coordination Mechanism,  
 
 
 
-Semantic Tags: geological disaster risk; human-land system; agent-based modeling; social-ecological systems; community resilience; disaster governance; Tibet; China
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R2509  
-**Session:** [Disaster Chain Modeling and Multi-Hazard Analysis ](./Session_CED-8/)  
-**Theme:** Climate, Environmental Hazards, and Disaster Risk    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Flood Disaster Modeling, Observation Planning, and Emergency Rescue](./Session_CED-8/)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** TP-Lv2-SR-E (Room-3/4)  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
 ```

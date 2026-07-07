@@ -11,7 +11,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R0241.pdf
+    output: 
 ---
 
 # An integrated LiDAR–optical framework for explaining urban thermal variability across multiple sites
@@ -38,16 +38,14 @@ Keywords: Urban heat island,  3D vegetation structure,  Multi-source remote sens
 
 
 
-Semantic Tags: urban heat island; 3D vegetation structure; LiDAR; multi-source remote sensing; urban thermal variability; spatial heterogeneity; airborne remote sensing; Kunming
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R0241  
-**Session:** [Urban Heat and Thermal Environment - Part 1 ](./Session_CED-2/)  
-**Theme:** Climate, Environmental Hazards, and Disaster Risk    
-**Date:** Day 1 — 20 July 2026 (Monday)  
+**Session:** [Urban Heat and Thermal Environment - Part 1](./Session_CED-2/)  
+**Theme:** Climate, Env. Hazards \& Disaster Risk    
+**Date:** Day 1, 20 July (Monday)  
 **Time:** 14:45 – 16:15  
-**Venue:** TP-Lv2-SR-E (Room-3/4)  
+**Venue:** Town Plaza-02-Seminar Room 3 & 4 (SR-E)  
 ```

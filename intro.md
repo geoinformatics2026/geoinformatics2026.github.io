@@ -18,11 +18,11 @@ Welcome to the Geoinformatics 2026 conference proceedings. This book collects th
 | **Dates** | 19–22 July 2026 |
 | **Venue** | University Town, NUS, Singapore |
 | **Organiser** | CPGIS & GIS Unit, Department of Geography, NUS |
-| **Total submissions** | 298 |
-| **Sessions** | 7 keynote presentations · 7 parallel session slots |
+| **Total submissions** | 314 |
+| **Sessions** | 6 keynote presentations · 8 parallel session slots |
 
 ## How to navigate this book
 
 - **Part I — Programme at a Glance** gives an overview of all time slots and parallel sessions.
-- **Part II — Keynote Presentations** contains one page per keynote speaker.
-- **Parts III–IX — Parallel Sessions** are organised by day and slot. Each chapter is one thematic session; each page is one abstract or paper.
+- **Part II — Keynote Presentations** contains keynote speaker's information.
+- **Parts III — Parallel Sessions** are organised by day and slot. Each chapter is one thematic session; each page is one abstract or paper.

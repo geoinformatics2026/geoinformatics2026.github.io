@@ -7,7 +7,7 @@ authors:
 exports:
   - format: pdf
     template: arxiv_nips
-    output: pdf/paper_R3989.pdf
+    output: 
 ---
 
 # A View-Dependent Level-of-Detail Rendering Method for Continuous Geographic Features
@@ -30,16 +30,14 @@ Keywords: geospatial visualization,  computer graphics,  cartography,  level-of-
 
 
 
-Semantic Tags: geospatial visualization; level-of-detail rendering; cartography; geographic features; web GIS; computer graphics; spatial data visualization
-
 
 ```{admonition} Presentation Information
 :class: note
 
 **Submission ID:** R3989  
-**Session:** [Cartography, Geovisualization, and Geospatial Services ](./Session_GFM-8/)  
-**Theme:** GeoAI, Foundation Models, and Spatial Machine Learning    
-**Date:** Day 3 — 22 July 2026 (Wednesday)  
+**Session:** [Cartography, Geovisualization, and Geospatial Services](./Session_GFM-8/)  
+**Theme:** GeoAI, Foundation Models \& Spatial ML    
+**Date:** Day 3, 22 July (Wednesday)  
 **Time:** 10:45 – 12:00  
-**Venue:** SRC-Lv1-LT-50  
+**Venue:** Stephen Riady Centre-01-Lecture Theatre 50 (LT-50)  
 ```
