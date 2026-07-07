@@ -1,7 +1,7 @@
-# Keynotes
+# Keynotes Speech
 
 
-## Keynote Speech:  Spatio-Temporal Intelligence(STI) for SDGs
+## Spatio-Temporal Intelligence(STI) for SDGs
 
 - **Speaker:** Professor Li Deren  
 - **Affiliation:** Wuhan University, China  
@@ -12,7 +12,7 @@
 
 ---
 
-## Keynote Speech 
+## GeoAI for Sustainable Cities and Health Research
 
 - **Speaker:** Professor Mei-Po Kwan  
 - **Affiliation:** Geography and Resource Management, Head of Chung Chi College, and Director of the Institute of Space and Earth Information Science at the Chinese University of Hong Kong, China  
@@ -23,7 +23,7 @@
 
 ---
 
-## Keynote Speech: What determines the behavior of people? Evidence from voting that location can be VERY important
+## What determines the behavior of people? Evidence from voting that location can be VERY important
 
 - **Speaker:** Professor A. Stewart Fotheringham  
 - **Affiliation:** Department of Geography at Florida State University, USA  
@@ -34,7 +34,7 @@
 
 ---
 
-## Keynote Speech: Choros Incognita: The Causal Alchemy of People, Events, and Places in Building Social Sustainability and Resilience
+## Choros Incognita: The Causal Alchemy of People, Events, and Places in Building Social Sustainability and Resilience
 
 - **Speaker:** Professor May Yuan  
 - **Affiliation:** Geospatial Information Sciences in the School of Economic, Political, and Policy Sciences at the University of Texas at Dallas, USA  
@@ -45,7 +45,7 @@
 
 ---
 
-## Keynote Speech: Big Earth Data Drives the Progress of Sustainable Development Goals
+## Big Earth Data Drives the Progress of Sustainable Development Goals
 
 - **Speaker:** Professor Guo Huadong  
 - **Affiliation:** Chinese Academy of Sciences, China  
