@@ -35,4 +35,5 @@ jupyter-book build geoinformatics_2026/
 
 ## History
 - 2026/04/28 Initial commit
-
+- 2026/06/09 Add keynote speaker bios
+- 2026/07/07 Update programme 
