@@ -15,6 +15,11 @@ Professor Mei-Po Kwan is Head of Chung Chi College, Choh-Ming Li Professor of Ge
 
 Kwan has published over 610 journal articles, books, and book chapters. She has received research grants of over USD 68.8 million from sources including the U.S. National Institutes of Health, the U.S. National Science Foundation, and the National Natural Science Foundation of China. She has delivered over 420 keynote addresses and invited lectures in more than 20 countries. She served as an editor of Annals of the American Association of Geographers for 12 years. Kwan has made ground-breaking contributions to research on environmental health, human mobility, smart cities, and geographic information science (GIScience). She discovered the uncertain geographic context problem (UGCoP) and the neighborhood effect averaging problem (NEAP). She is a leading researcher in deploying real-time GPS tracking and mobile sensing to collect individual-level data in environmental health research and use them in building future and sustainable cities.
 
+## About the talk
+
+Human mobility is an essential element of people’s spatiotemporal experiences, and these complex experiences cannot be fully understood by just looking at where people live. With the advent of geospatial artificial intelligence (GeoAI), new geospatial technologies, and methods like GPS tracking and mobile sensing, a vast amount of complex spatiotemporal data can be collected and analyzed. However, human behaviors revealed by these data have not been fully understood. In this presentation, I discuss new methods developed for this purpose and draw upon recent conceptual and methodological developments to examine how a perspective that integrates the spatial and temporal dimensions and takes human mobility into account can help identify the relevant spatiotemporal context that influences people’s environmental exposure and health outcomes. Using examples from my recent projects, I discuss how the collection and analysis of high-resolution space-time data enabled by advanced mobile technologies and GeoAI can provide new insights into people’s environmental exposure and health behaviors, with significant implications for the development of sustainable cities.
+
+
 ---
 
 *For further information, contact the conference programme committee.*

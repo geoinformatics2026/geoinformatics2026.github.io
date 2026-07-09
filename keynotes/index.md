@@ -34,7 +34,7 @@
 
 ---
 
-## Choros Incognita: The Causal Alchemy of People, Events, and Places in Building Social Sustainability and Resilience
+## Chora Incognita: The Casual Alchemy of People, Events, and Places for Resilience Research
 
 - **Speaker:** Professor May Yuan  
 - **Affiliation:** Geospatial Information Sciences in the School of Economic, Political, and Policy Sciences at the University of Texas at Dallas, USA  
@@ -56,10 +56,10 @@
 
 ---
 
-## Keynote Speech
+## When Foundation Models Meet Physical Space: A Multimodal STFM and Its City-Scale Practice
 
 - **Speaker:** Dr. Tao Chuang  
-- **Affiliation:** Wayz.ai  
+- **Affiliation:** Founder and Chairman of Wayz.ai, Adjunct Professor & Board of Trustees of Wuhan University  
 - **Day:** Day 1, 20 July (Monday)  
 - **Time:** Night  
 - **Venue:** NUSS Kent Ridge Guild House  

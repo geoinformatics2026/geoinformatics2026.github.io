@@ -1,4 +1,4 @@
-# Choros Incognita: The Causal Alchemy of People, Events, and Places in Building Social Sustainability and Resilience by Prof. May Yuan
+# Chora Incognita: The Casual Alchemy of People, Events, and Places for Resilience Research by Prof. May Yuan
 
 ```{admonition} Details
 :class: note
