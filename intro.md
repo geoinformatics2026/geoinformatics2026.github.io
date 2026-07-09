@@ -6,6 +6,8 @@
 July 19-22, 2026
 ---
 
+<a href="CPGIS_2026_Programme_book.pdf" target="_blank">Programme book in PDF</a>
+
 Welcome to the Geoinformatics 2026 conference proceedings. This book collects the abstracts and full papers presented across keynote sessions and parallel thematic sessions spanning cutting-edge research in geographic information science, GeoAI, spatial data science, and related fields. 
 
 
@@ -19,7 +21,7 @@ Welcome to the Geoinformatics 2026 conference proceedings. This book collects th
 | **Venue** | University Town, NUS, Singapore |
 | **Organiser** | CPGIS & GIS Unit, Department of Geography, NUS |
 | **Total submissions** | 314 |
-| **Sessions** | 6 keynote presentations · 8 parallel session slots |
+| **Sessions** | 6 keynote speeches · 8 parallel session slots |
 
 ## How to navigate this book
 
