@@ -6,7 +6,7 @@
 July 19-22, 2026
 ---
 
-<a href="CPGIS_2026_Programme_book.pdf" target="_blank">Programme book in PDF</a>
+<a href="CPGIS_2026_Programme_book-compressed.pdf" target="_blank">Programme book in PDF</a>
 
 Welcome to the Geoinformatics 2026 conference proceedings. This book collects the abstracts and full papers presented across keynote sessions and parallel thematic sessions spanning cutting-edge research in geographic information science, GeoAI, spatial data science, and related fields. 
 
