@@ -4,7 +4,7 @@ authors:
 - "Kabita Joshi"
 - "Jun Tu"
 - "Lili Yu"
-- "Wei Yu"
+- "Wei Tu"
 
 exports:
   - format: pdf
@@ -15,7 +15,7 @@ exports:
 # Prenatal Exposure to PM₂.₅ and Ozone and Risk of Preterm Birth in Georgia (2015–2018): A Discrete-Time Survival Analysis Using FAQSD Data
 
 **Author Information**  
-Kabita Joshi<sup>1</sup>, Jun Tu<sup>2</sup>, Lili Yu<sup>1</sup>, Wei Yu<sup>1</sup>
+Kabita Joshi<sup>1</sup>, Jun Tu<sup>2</sup>, Lili Yu<sup>1</sup>, Wei Tu<sup>1</sup>
 
 
 <sup>1</sup> Georgia Southern Univesity  

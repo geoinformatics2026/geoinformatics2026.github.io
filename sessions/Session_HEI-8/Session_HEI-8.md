@@ -31,4 +31,4 @@ This session contains **5 presentations**:
   *Shanshan Chen, Yinjie Li, Chun Li*
 
 - [**R1119** — Prenatal Exposure to PM$_2$.$_5$ and Ozone and Risk of Preterm Birth in Georgia (2015–2018): A Discrete-Time Survival Analysis Using FAQSD Data](./paper_R1119/)  
-  *Kabita Joshi, Jun Tu, Lili Yu, Wei Yu*
+  *Kabita Joshi, Jun Tu, Lili Yu, Wei Tu*
