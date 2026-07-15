@@ -21,9 +21,6 @@ This session contains **5 presentations**:
 - [**R4925** — Delineation of dual-carbon spatial management units in Hunan Province by coupling carbon budget zoning and major functional zones](./paper_R4925/)  
   *Huihui Feng, Shu Wang*
 
-- [**R4522** — Generation of High-Resolution Gridded Emission Fluxes from Polygon-Based CAPSS Inventories Using SMOKE and GIS Allocation Data](./paper_R4522/)  
-  *Chang Kim, Yun Haeng Joe*
-
 - [**R7616** — Inter-provincial Flow of Virtual Agricultural Elements and Their Telecoupling Impacts on the Agricultural Environmental Stress in China](./paper_R7616/)  
   *Hongrun Ju, Shengrui Zhang*
 
@@ -32,3 +29,6 @@ This session contains **5 presentations**:
 
 - [**R7977** — Spatio-Temporal Evolution and Drivers of Energy Value Chain Networks: A Cross-Sectoral Comparative Perspective](./paper_R7977/)  
   *Siyuan Kang, Wei Luo*
+
+- [**R4522** — Generation of High-Resolution Gridded Emission Fluxes from Polygon-Based CAPSS Inventories Using SMOKE and GIS Allocation Data](./paper_R4522/)  
+  *Chang Kim, Yun Haeng Joe*
