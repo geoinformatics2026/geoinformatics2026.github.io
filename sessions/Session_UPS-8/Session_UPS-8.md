@@ -21,11 +21,11 @@ This session contains **5 presentations**:
 - [**P7800** — A Graph Database-Driven City Information Modeling (CIM) Framework for Urban Renewal Scenarios](./paper_P7800/)  
   *Ziyu Tong, Changxi Li*
 
-- [**R7576** — Towards Complexity-Aware Scenario Modelling in Urban Digital Twins: A Socio-Technical Framework](./paper_R7576/)  
-  *Candela Sol Pelliza, André Barriguinha, Miguel Castro Neto*
+- [**R7576** — Beyond the Technical Twins: A Socio-Technically Mature Urban Digital Twins](./paper_R7576/)  
+  *Candela Sol Pelliza, Ate Poorthuis, Miguel de Castro Neto, André Barriguinha*
 
 - [**R3376** — An Indicator-driven Architecture for Decarbonisation-Oriented Urban Digital Twins](./paper_R3376/)  
-  *Nuno F. Soares, Candela Sol Pelliza, André Barriguinha, Miguel Neto, Bruno Jardim*
+  *Miguel de Castro Neto, Candela Sol Pelliza, André Barriguinha, Bruno Jardim, Nuno F. Soares*
 
 - [**R5785** — Multi-scale urban emergency simulation based on digital twins](./paper_R5785/)  
   *Haojia Lin, Renzhong Guo, Biao He, Xi Kuai*

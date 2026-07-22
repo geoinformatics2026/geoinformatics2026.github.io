@@ -11,13 +11,15 @@ exports:
     output: 
 ---
 
-# Towards Complexity-Aware Scenario Modelling in Urban Digital Twins: A Socio-Technical Framework
+# Beyond the Technical Twins: A Socio-Technically Mature Urban Digital Twins
 
 **Author Information**  
-Candela Sol Pelliza<sup>1</sup>, André Barriguinha<sup>1</sup>, Miguel Castro Neto<sup>1</sup>
+Candela Sol Pelliza<sup>1</sup>, Ate Poorthuis<sup>2</sup>, Miguel de Castro Neto<sup>1</sup>, André Barriguinha<sup>1</sup>
 
 
 <sup>1</sup> NOVA Information Management School  
+
+<sup>2</sup> KU Leuven  
 
 
 

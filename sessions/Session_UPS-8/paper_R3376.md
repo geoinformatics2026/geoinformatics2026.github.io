@@ -16,13 +16,12 @@ exports:
 # An Indicator-driven Architecture for Decarbonisation-Oriented Urban Digital Twins
 
 **Author Information**  
-Nuno F. Soares<sup>1</sup>, Candela Sol Pelliza<sup>2</sup>, André Barriguinha<sup>2</sup>, Miguel Neto<sup>2</sup>, Bruno Jardim<sup>2</sup>
+Miguel de Castro Neto<sup>1</sup>, Candela Sol Pelliza<sup>1</sup>, André Barriguinha<sup>1</sup>, Bruno Jardim<sup>1</sup>, Nuno F. Soares<sup>2</sup>
 
 
-<sup>1</sup> CCG/ZGDV Institute & ALGORITMI Research Centre, University of Minho  
+<sup>1</sup> NOVA Information Management School  
 
-<sup>2</sup> NOVA Information Management School  
-
+<sup>2</sup> CCG/ZGDV Institute & ALGORITMI Research Centre, University of Minho  
 
 
 ## Abstract
